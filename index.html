@@ -4,25 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MENA AI Readiness Monitor | ICAIRE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
+        @font-face {
+            font-family: 'DIN';
+            src: local('DIN'), local('DIN-Regular');
+            font-weight: 400;
+        }
+        @font-face {
+            font-family: 'DIN';
+            src: local('DIN Bold'), local('DIN-Bold');
+            font-weight: 700;
+        }
+
         :root {
-            --primary: #0d6e8a;
-            --primary-dark: #085266;
-            --primary-light: #1a8fb4;
-            --accent: #00b4d8;
-            --accent-light: #90e0ef;
-            --bg-light: #f8fafc;
-            --bg-white: #ffffff;
-            --text-dark: #1e293b;
-            --text-muted: #64748b;
-            --border: #e2e8f0;
-            --success: #10b981;
-            --warning: #f59e0b;
-            --info: #6366f1;
-            --neutral: #94a3b8;
-            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            --primary-dark-green: #1A5C3A;
+            --deep-forest-green: #0D3D2A;
+            --darkest-green: #091F16;
+            --accent-mint: #4DC88E;
+            --lighter-mint: #5DD9A0;
+            --white: #FFFFFF;
+            --off-white: rgba(255,255,255,0.85);
+            --light-section-bg: #F5F7F5;
+            --card-bg: #FFFFFF;
+            --shadow: 0 4px 20px rgba(9, 31, 22, 0.08);
+            --shadow-lg: 0 10px 40px rgba(9, 31, 22, 0.12);
         }
 
         * {
@@ -32,195 +41,287 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: var(--bg-light);
-            color: var(--text-dark);
+            font-family: 'DIN', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--white);
+            color: var(--deep-forest-green);
             line-height: 1.6;
         }
 
+        .arabic {
+            font-family: 'Cairo', sans-serif;
+        }
+
         .container {
-            max-width: 1400px;
+            max-width: 1280px;
             margin: 0 auto;
             padding: 0 24px;
         }
 
-        /* Header / Hero */
-        header {
-            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
-            color: white;
-            padding: 60px 0;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
+        /* Navigation */
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            padding: 20px 0;
+            transition: background 0.3s ease;
         }
 
-        header::before {
+        nav.scrolled {
+            background: rgba(9, 31, 22, 0.95);
+            backdrop-filter: blur(10px);
+        }
+
+        nav .container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .nav-brand {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.1rem;
+            letter-spacing: 0.5px;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 32px;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--white);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 400;
+            opacity: 0.9;
+            transition: opacity 0.2s;
+            letter-spacing: 0.3px;
+        }
+
+        .nav-links a:hover {
+            opacity: 1;
+            color: var(--accent-mint);
+        }
+
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+        }
+
+        /* Hero Section */
+        .hero {
+            min-height: 100vh;
+            background: linear-gradient(180deg, var(--deep-forest-green) 0%, var(--darkest-green) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            position: relative;
+            padding: 120px 24px 80px;
+        }
+
+        .hero::before {
             content: '';
             position: absolute;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-            opacity: 0.5;
+            background: radial-gradient(ellipse at 50% 0%, rgba(77, 200, 142, 0.08) 0%, transparent 60%);
+            pointer-events: none;
         }
 
-        header .container {
+        .hero-content {
             position: relative;
             z-index: 1;
+            max-width: 900px;
         }
 
-        .logo {
-            display: inline-flex;
-            align-items: center;
-            gap: 12px;
-            margin-bottom: 24px;
-        }
-
-        .logo-icon {
-            width: 48px;
-            height: 48px;
-            background: var(--accent);
-            border-radius: 12px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 24px;
-        }
-
-        .logo-text {
-            font-size: 14px;
-            text-transform: uppercase;
+        .hero-badge {
+            display: inline-block;
+            color: var(--accent-mint);
+            font-size: 0.85rem;
             letter-spacing: 2px;
-            opacity: 0.9;
+            text-transform: uppercase;
+            margin-bottom: 24px;
+            font-weight: 600;
         }
 
-        h1 {
-            font-size: clamp(2rem, 5vw, 3.5rem);
+        .hero h1 {
+            font-size: clamp(2.5rem, 6vw, 4rem);
             font-weight: 700;
-            margin-bottom: 12px;
+            color: var(--white);
+            margin-bottom: 16px;
+            line-height: 1.1;
             letter-spacing: -1px;
         }
 
-        .subtitle {
-            font-size: 1.25rem;
-            opacity: 0.9;
-            margin-bottom: 32px;
+        .hero h1 .highlight {
+            color: var(--accent-mint);
         }
 
-        .ram-description {
-            max-width: 800px;
+        .hero-subtitle {
+            font-size: 1.25rem;
+            color: var(--white);
+            margin-bottom: 12px;
+            font-weight: 400;
+        }
+
+        .hero-tagline {
+            font-size: 1.1rem;
+            color: var(--off-white);
+            font-style: italic;
+            margin-bottom: 40px;
+        }
+
+        .hero-description {
+            max-width: 700px;
             margin: 0 auto;
-            padding: 24px;
-            background: rgba(255, 255, 255, 0.1);
+            padding: 28px 32px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(77, 200, 142, 0.2);
             border-radius: 12px;
-            backdrop-filter: blur(10px);
+            color: var(--off-white);
             font-size: 1rem;
-            line-height: 1.7;
+            line-height: 1.8;
         }
 
         .last-updated {
-            margin-top: 24px;
-            font-size: 0.875rem;
-            opacity: 0.7;
+            margin-top: 32px;
+            font-size: 0.85rem;
+            color: rgba(255,255,255,0.5);
         }
 
         /* Section Styling */
         section {
-            padding: 60px 0;
+            padding: 80px 0;
         }
 
-        section:nth-child(even) {
-            background: var(--bg-white);
+        section.alt-bg {
+            background: var(--light-section-bg);
         }
 
         .section-header {
             text-align: center;
-            margin-bottom: 48px;
+            margin-bottom: 56px;
         }
 
         .section-header h2 {
-            font-size: 2rem;
-            color: var(--primary);
-            margin-bottom: 12px;
+            font-size: 2.25rem;
+            color: var(--deep-forest-green);
+            font-weight: 700;
+            margin-bottom: 16px;
+            position: relative;
+            display: inline-block;
+        }
+
+        .section-header h2::after {
+            content: '';
+            position: absolute;
+            bottom: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 48px;
+            height: 3px;
+            background: var(--accent-mint);
+            border-radius: 2px;
         }
 
         .section-header p {
-            color: var(--text-muted);
+            color: #5a6d64;
             max-width: 600px;
-            margin: 0 auto;
+            margin: 24px auto 0;
+            font-size: 1.05rem;
         }
 
         /* Status Grid */
         .status-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 24px;
         }
 
         .status-category {
-            background: var(--bg-white);
-            border-radius: 16px;
+            background: var(--card-bg);
+            border-radius: 12px;
             padding: 24px;
             box-shadow: var(--shadow);
-            border-left: 4px solid var(--neutral);
+            border-left: 4px solid var(--accent-mint);
         }
-
-        .status-category.completed { border-left-color: var(--success); }
-        .status-category.in-process { border-left-color: var(--warning); }
-        .status-category.in-preparation { border-left-color: var(--info); }
-        .status-category.not-started { border-left-color: var(--neutral); }
 
         .status-header {
             display: flex;
             align-items: center;
             gap: 12px;
-            margin-bottom: 16px;
+            margin-bottom: 20px;
         }
 
-        .status-emoji {
-            font-size: 1.5rem;
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 36px;
+            height: 36px;
+            background: var(--deep-forest-green);
+            border-radius: 8px;
+            font-size: 1rem;
         }
 
         .status-label {
-            font-weight: 600;
-            font-size: 1.125rem;
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: var(--deep-forest-green);
         }
 
         .status-count {
-            background: var(--bg-light);
+            margin-left: auto;
+            background: var(--light-section-bg);
             padding: 4px 12px;
             border-radius: 20px;
-            font-size: 0.875rem;
-            color: var(--text-muted);
-            margin-left: auto;
+            font-size: 0.85rem;
+            color: var(--primary-dark-green);
+            font-weight: 600;
         }
 
         .country-chips {
             display: flex;
             flex-wrap: wrap;
-            gap: 8px;
+            gap: 10px;
         }
 
         .country-chip {
             display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            padding: 8px 14px;
-            background: var(--bg-light);
+            flex-direction: column;
+            padding: 10px 14px;
+            background: var(--light-section-bg);
             border-radius: 8px;
-            font-size: 0.875rem;
+            font-size: 0.9rem;
             transition: all 0.2s;
+            border: 1px solid transparent;
         }
 
         .country-chip:hover {
-            background: var(--accent-light);
+            border-color: var(--accent-mint);
             transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(77, 200, 142, 0.15);
+        }
+
+        .country-chip .name-en {
+            font-weight: 600;
+            color: var(--deep-forest-green);
         }
 
         .country-chip .name-ar {
-            font-size: 0.75rem;
-            color: var(--text-muted);
+            font-family: 'Cairo', sans-serif;
+            font-size: 0.8rem;
+            color: #5a6d64;
+            margin-top: 2px;
         }
 
         .country-chip a {
@@ -236,50 +337,56 @@
         }
 
         .country-card {
-            background: var(--bg-white);
-            border-radius: 20px;
+            background: var(--card-bg);
+            border-radius: 12px;
             overflow: hidden;
-            box-shadow: var(--shadow-lg);
-            transition: transform 0.3s;
+            box-shadow: var(--shadow);
+            border-left: 4px solid var(--accent-mint);
+            transition: transform 0.3s, box-shadow 0.3s;
         }
 
         .country-card:hover {
             transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
         }
 
         .card-header {
-            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
-            color: white;
-            padding: 24px;
+            background: linear-gradient(135deg, var(--deep-forest-green) 0%, var(--primary-dark-green) 100%);
+            color: var(--white);
+            padding: 28px;
             position: relative;
         }
 
         .card-header h3 {
             font-size: 1.5rem;
+            font-weight: 700;
             margin-bottom: 4px;
         }
 
         .card-header .name-ar {
+            font-family: 'Cairo', sans-serif;
             opacity: 0.8;
-            font-size: 1.125rem;
+            font-size: 1.1rem;
         }
 
         .card-rank {
             position: absolute;
-            top: 16px;
-            right: 16px;
-            background: rgba(255, 255, 255, 0.2);
-            padding: 6px 12px;
+            top: 20px;
+            right: 20px;
+            background: rgba(77, 200, 142, 0.2);
+            color: var(--lighter-mint);
+            padding: 6px 14px;
             border-radius: 20px;
             font-size: 0.75rem;
+            font-weight: 600;
         }
 
         .card-metrics {
             display: flex;
             justify-content: space-around;
             padding: 20px;
-            background: var(--bg-light);
-            border-bottom: 1px solid var(--border);
+            background: var(--light-section-bg);
+            border-bottom: 1px solid rgba(13, 61, 42, 0.1);
         }
 
         .metric {
@@ -289,26 +396,28 @@
         .metric-value {
             font-size: 1.25rem;
             font-weight: 700;
-            color: var(--primary);
+            color: var(--primary-dark-green);
         }
 
         .metric-label {
-            font-size: 0.75rem;
-            color: var(--text-muted);
+            font-size: 0.7rem;
+            color: #5a6d64;
             text-transform: uppercase;
             letter-spacing: 0.5px;
+            margin-top: 4px;
         }
 
         .card-content {
-            padding: 24px;
+            padding: 24px 28px;
         }
 
         .card-content h4 {
-            font-size: 0.875rem;
+            font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: 1px;
-            color: var(--text-muted);
+            color: var(--primary-dark-green);
             margin-bottom: 16px;
+            font-weight: 700;
         }
 
         .findings-list {
@@ -317,46 +426,50 @@
 
         .findings-list li {
             position: relative;
-            padding-left: 24px;
-            margin-bottom: 12px;
+            padding-left: 20px;
+            margin-bottom: 10px;
             font-size: 0.9rem;
-            color: var(--text-dark);
+            color: #3a4a44;
+            line-height: 1.5;
         }
 
         .findings-list li::before {
-            content: '→';
+            content: '';
             position: absolute;
             left: 0;
-            color: var(--accent);
-            font-weight: bold;
+            top: 8px;
+            width: 6px;
+            height: 6px;
+            background: var(--accent-mint);
+            border-radius: 50%;
         }
 
         .card-footer {
-            padding: 16px 24px;
-            border-top: 1px solid var(--border);
-            background: var(--bg-light);
+            padding: 16px 28px;
+            border-top: 1px solid rgba(13, 61, 42, 0.1);
+            background: var(--light-section-bg);
         }
 
         .card-footer a {
             display: inline-flex;
             align-items: center;
             gap: 8px;
-            color: var(--primary);
+            color: var(--primary-dark-green);
             text-decoration: none;
-            font-weight: 500;
+            font-weight: 600;
             font-size: 0.9rem;
             transition: color 0.2s;
         }
 
         .card-footer a:hover {
-            color: var(--accent);
+            color: var(--accent-mint);
         }
 
         /* Comparison Table */
         .table-container {
             overflow-x: auto;
-            background: var(--bg-white);
-            border-radius: 16px;
+            background: var(--card-bg);
+            border-radius: 12px;
             box-shadow: var(--shadow);
         }
 
@@ -369,77 +482,108 @@
         th, td {
             padding: 16px;
             text-align: left;
-            border-bottom: 1px solid var(--border);
+            border-bottom: 1px solid rgba(13, 61, 42, 0.08);
         }
 
         th {
-            background: var(--primary);
-            color: white;
+            background: var(--deep-forest-green);
+            color: var(--white);
             font-weight: 600;
-            font-size: 0.875rem;
+            font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: 0.5px;
             white-space: nowrap;
         }
 
         th:first-child {
-            border-radius: 16px 0 0 0;
+            border-radius: 12px 0 0 0;
         }
 
         th:last-child {
-            border-radius: 0 16px 0 0;
+            border-radius: 0 12px 0 0;
+        }
+
+        tbody tr:nth-child(even) {
+            background: var(--light-section-bg);
         }
 
         tbody tr:hover {
-            background: var(--bg-light);
+            background: rgba(77, 200, 142, 0.08);
         }
 
         td {
             font-size: 0.9rem;
         }
 
-        .status-badge {
+        .table-badge {
             display: inline-flex;
             align-items: center;
-            gap: 6px;
+            gap: 4px;
             padding: 4px 10px;
             border-radius: 6px;
             font-size: 0.8rem;
             font-weight: 500;
         }
 
-        .status-badge.yes {
-            background: #dcfce7;
-            color: #166534;
+        .table-badge.yes {
+            background: rgba(77, 200, 142, 0.15);
+            color: var(--primary-dark-green);
         }
 
-        .status-badge.no {
-            background: #fef2f2;
+        .table-badge.no {
+            background: rgba(220, 53, 69, 0.1);
             color: #991b1b;
         }
 
-        .status-badge.partial {
-            background: #fef3c7;
+        .table-badge.partial {
+            background: rgba(245, 158, 11, 0.15);
             color: #92400e;
         }
 
         .level-indicator {
             display: flex;
-            gap: 4px;
+            gap: 3px;
         }
 
         .level-dot {
             width: 8px;
             height: 8px;
             border-radius: 50%;
-            background: var(--border);
+            background: rgba(13, 61, 42, 0.15);
         }
 
         .level-dot.filled {
-            background: var(--accent);
+            background: var(--accent-mint);
         }
 
-        /* Radar Chart Section */
+        .table-controls {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 10px 20px;
+            border: 2px solid rgba(13, 61, 42, 0.15);
+            background: var(--white);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: var(--deep-forest-green);
+            transition: all 0.2s;
+            font-family: inherit;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            border-color: var(--accent-mint);
+            background: rgba(77, 200, 142, 0.1);
+            color: var(--primary-dark-green);
+        }
+
+        /* Chart Section */
         .chart-section {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -454,42 +598,47 @@
         }
 
         .chart-container {
-            background: var(--bg-white);
-            border-radius: 16px;
+            background: var(--card-bg);
+            border-radius: 12px;
             padding: 32px;
             box-shadow: var(--shadow);
         }
 
-        .chart-legend {
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
+        .chart-info h4 {
+            font-size: 1.1rem;
+            margin-bottom: 24px;
+            color: var(--deep-forest-green);
+            font-weight: 700;
         }
 
         .legend-item {
             display: flex;
             align-items: center;
             gap: 12px;
+            margin-bottom: 12px;
         }
 
         .legend-color {
-            width: 20px;
-            height: 20px;
-            border-radius: 6px;
+            width: 18px;
+            height: 18px;
+            border-radius: 4px;
         }
 
         .legend-item span {
             font-weight: 500;
+            color: var(--deep-forest-green);
         }
 
         .dimension-list {
             margin-top: 32px;
+            padding-top: 24px;
+            border-top: 1px solid rgba(13, 61, 42, 0.1);
         }
 
         .dimension-list h4 {
             font-size: 1rem;
             margin-bottom: 16px;
-            color: var(--primary);
+            color: var(--primary-dark-green);
         }
 
         .dimension-list ul {
@@ -497,45 +646,60 @@
         }
 
         .dimension-list li {
-            padding: 8px 0;
-            border-bottom: 1px solid var(--border);
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(13, 61, 42, 0.08);
             font-size: 0.9rem;
+            color: #3a4a44;
         }
 
-        /* Gap Analysis / Opportunity Section */
-        .opportunity-section {
-            background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
-            color: white;
+        .dimension-list li strong {
+            color: var(--deep-forest-green);
         }
 
-        .opportunity-section .section-header h2 {
-            color: white;
+        /* Gap Analysis Section */
+        .gap-section {
+            background: var(--deep-forest-green);
+            color: var(--white);
         }
 
-        .opportunity-section .section-header p {
-            color: rgba(255, 255, 255, 0.8);
+        .gap-section .section-header h2 {
+            color: var(--white);
+        }
+
+        .gap-section .section-header h2::after {
+            background: var(--accent-mint);
+        }
+
+        .gap-section .section-header p {
+            color: var(--off-white);
         }
 
         .opportunity-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 32px;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 28px;
         }
 
         .opportunity-card {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 16px;
-            padding: 32px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 28px;
+            border: 1px solid rgba(77, 200, 142, 0.2);
         }
 
         .opportunity-card h3 {
-            font-size: 1.25rem;
+            font-size: 1.15rem;
             margin-bottom: 16px;
+            color: var(--white);
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
+        }
+
+        .opportunity-card p {
+            color: var(--off-white);
+            margin-bottom: 16px;
+            line-height: 1.7;
         }
 
         .opportunity-card ul {
@@ -546,51 +710,72 @@
             padding: 8px 0;
             padding-left: 24px;
             position: relative;
-            opacity: 0.9;
+            color: var(--off-white);
         }
 
         .opportunity-card li::before {
-            content: '✓';
+            content: '';
             position: absolute;
             left: 0;
-            color: var(--accent-light);
+            top: 14px;
+            width: 8px;
+            height: 8px;
+            background: var(--accent-mint);
+            border-radius: 50%;
+        }
+
+        .opportunity-card a {
+            color: var(--accent-mint);
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 12px;
+            font-weight: 500;
+        }
+
+        .opportunity-card a:hover {
+            color: var(--lighter-mint);
         }
 
         .cta-box {
-            background: var(--bg-white);
-            color: var(--text-dark);
-            border-radius: 16px;
-            padding: 32px;
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 40px;
             text-align: center;
             margin-top: 48px;
+            border: 2px solid var(--accent-mint);
         }
 
         .cta-box h3 {
             font-size: 1.5rem;
-            margin-bottom: 16px;
-            color: var(--primary);
+            margin-bottom: 12px;
+            color: var(--deep-forest-green);
         }
 
         .cta-box p {
             margin-bottom: 24px;
-            color: var(--text-muted);
+            color: #5a6d64;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         .cta-button {
             display: inline-flex;
             align-items: center;
             gap: 8px;
-            background: var(--primary);
-            color: white;
-            padding: 14px 28px;
-            border-radius: 10px;
+            background: var(--primary-dark-green);
+            color: var(--white);
+            padding: 14px 32px;
+            border-radius: 8px;
             text-decoration: none;
             font-weight: 600;
             transition: all 0.3s;
         }
 
         .cta-button:hover {
-            background: var(--primary-dark);
+            background: var(--deep-forest-green);
             transform: translateY(-2px);
             box-shadow: var(--shadow-lg);
         }
@@ -598,16 +783,17 @@
         /* Sources Section */
         .sources-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 20px;
         }
 
         .source-card {
-            background: var(--bg-white);
+            background: var(--card-bg);
             border-radius: 12px;
             padding: 20px;
             box-shadow: var(--shadow);
             transition: all 0.2s;
+            border-left: 3px solid var(--accent-mint);
         }
 
         .source-card:hover {
@@ -618,15 +804,15 @@
         .source-card a {
             display: flex;
             align-items: center;
-            gap: 12px;
-            color: var(--text-dark);
+            gap: 14px;
+            color: var(--deep-forest-green);
             text-decoration: none;
         }
 
         .source-icon {
-            width: 40px;
-            height: 40px;
-            background: var(--accent-light);
+            width: 44px;
+            height: 44px;
+            background: var(--light-section-bg);
             border-radius: 10px;
             display: flex;
             align-items: center;
@@ -638,78 +824,67 @@
         .source-info h4 {
             font-size: 0.95rem;
             margin-bottom: 4px;
+            font-weight: 600;
         }
 
         .source-info span {
             font-size: 0.8rem;
-            color: var(--text-muted);
+            color: #5a6d64;
             word-break: break-all;
         }
 
         /* Footer */
         footer {
-            background: var(--text-dark);
-            color: white;
-            padding: 40px 0;
+            background: var(--darkest-green);
+            color: var(--white);
+            padding: 60px 0 40px;
+        }
+
+        .footer-content {
             text-align: center;
         }
 
-        footer p {
-            opacity: 0.7;
-            font-size: 0.9rem;
+        .footer-logo {
+            font-size: 1.5rem;
+            font-weight: 700;
             margin-bottom: 8px;
         }
 
-        footer a {
-            color: var(--accent-light);
+        .footer-tagline {
+            font-family: 'Cairo', sans-serif;
+            color: var(--off-white);
+            font-size: 1rem;
+            margin-bottom: 24px;
         }
 
-        /* Responsive */
-        @media (max-width: 768px) {
-            .country-cards {
-                grid-template-columns: 1fr;
-            }
-
-            .status-grid {
-                grid-template-columns: 1fr;
-            }
-
-            section {
-                padding: 40px 0;
-            }
-
-            header {
-                padding: 40px 0;
-            }
-
-            .ram-description {
-                padding: 16px;
-                font-size: 0.9rem;
-            }
-        }
-
-        /* Loading State */
-        .loading {
+        .footer-links {
             display: flex;
-            align-items: center;
             justify-content: center;
-            min-height: 200px;
-            color: var(--text-muted);
+            gap: 32px;
+            margin-bottom: 32px;
+            flex-wrap: wrap;
         }
 
-        .loading::after {
-            content: '';
-            width: 32px;
-            height: 32px;
-            border: 3px solid var(--border);
-            border-top-color: var(--accent);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin-left: 12px;
+        .footer-links a {
+            color: var(--off-white);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
         }
 
-        @keyframes spin {
-            to { transform: rotate(360deg); }
+        .footer-links a:hover {
+            color: var(--accent-mint);
+        }
+
+        .footer-attribution {
+            padding-top: 24px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            font-size: 0.85rem;
+            color: rgba(255,255,255,0.6);
+        }
+
+        .footer-attribution a {
+            color: var(--accent-mint);
         }
 
         /* Scroll to top */
@@ -719,10 +894,10 @@
             right: 24px;
             width: 48px;
             height: 48px;
-            background: var(--primary);
-            color: white;
+            background: var(--primary-dark-green);
+            color: var(--white);
             border: none;
-            border-radius: 50%;
+            border-radius: 12px;
             cursor: pointer;
             box-shadow: var(--shadow-lg);
             opacity: 0;
@@ -737,126 +912,99 @@
         }
 
         .scroll-top:hover {
-            background: var(--primary-dark);
+            background: var(--deep-forest-green);
             transform: translateY(-2px);
         }
 
-        /* Navigation */
-        nav {
-            position: sticky;
-            top: 0;
-            background: var(--bg-white);
-            box-shadow: var(--shadow);
-            z-index: 100;
-        }
-
-        nav .container {
+        /* Loading State */
+        .loading {
             display: flex;
             align-items: center;
-            justify-content: space-between;
-            padding: 12px 24px;
+            justify-content: center;
+            min-height: 200px;
+            color: #5a6d64;
         }
 
-        .nav-brand {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-weight: 700;
-            color: var(--primary);
-            text-decoration: none;
+        .loading::after {
+            content: '';
+            width: 32px;
+            height: 32px;
+            border: 3px solid rgba(13, 61, 42, 0.1);
+            border-top-color: var(--accent-mint);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 12px;
         }
 
-        .nav-brand span {
-            font-size: 1.25rem;
+        @keyframes spin {
+            to { transform: rotate(360deg); }
         }
 
-        .nav-links {
-            display: flex;
-            gap: 24px;
-            list-style: none;
-        }
-
-        .nav-links a {
-            color: var(--text-muted);
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 500;
-            transition: color 0.2s;
-        }
-
-        .nav-links a:hover {
-            color: var(--primary);
-        }
-
+        /* Responsive */
         @media (max-width: 768px) {
-            .nav-links {
-                display: none;
+            .country-cards {
+                grid-template-columns: 1fr;
             }
-        }
 
-        /* Filter/Sort Controls */
-        .table-controls {
-            display: flex;
-            gap: 16px;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-        }
+            .status-grid {
+                grid-template-columns: 1fr;
+            }
 
-        .filter-btn {
-            padding: 8px 16px;
-            border: 2px solid var(--border);
-            background: var(--bg-white);
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 0.875rem;
-            transition: all 0.2s;
-        }
+            section {
+                padding: 60px 0;
+            }
 
-        .filter-btn:hover,
-        .filter-btn.active {
-            border-color: var(--primary);
-            color: var(--primary);
-            background: rgba(13, 110, 138, 0.05);
+            .hero {
+                padding: 100px 20px 60px;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero-description {
+                padding: 20px;
+            }
+
+            .opportunity-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
 <body>
-    <nav>
+    <nav id="navbar">
         <div class="container">
-            <a href="#" class="nav-brand">
-                <span>🤖</span> MENA AI Monitor
-            </a>
+            <a href="#" class="nav-brand">ICAIRE</a>
             <ul class="nav-links">
-                <li><a href="#status">Status Tracker</a></li>
-                <li><a href="#countries">Country Analysis</a></li>
+                <li><a href="#status">Status</a></li>
+                <li><a href="#countries">Countries</a></li>
                 <li><a href="#comparison">Comparison</a></li>
-                <li><a href="#radar">RAM Dimensions</a></li>
-                <li><a href="#opportunity">ICAIRE Role</a></li>
+                <li><a href="#radar">Dimensions</a></li>
+                <li><a href="#opportunity">Gap Analysis</a></li>
                 <li><a href="#sources">Sources</a></li>
             </ul>
         </div>
     </nav>
 
-    <header>
-        <div class="container">
-            <div class="logo">
-                <div class="logo-icon">🌍</div>
-                <div class="logo-text">ICAIRE | UNESCO Category 2 Center</div>
-            </div>
-            <h1 id="main-title">MENA AI Readiness Monitor</h1>
-            <p class="subtitle" id="main-subtitle">UNESCO RAM Comparative Analysis — Curated by ICAIRE</p>
-            <div class="ram-description" id="ram-description">
+    <section class="hero">
+        <div class="hero-content">
+            <span class="hero-badge">Curated by ICAIRE</span>
+            <h1 id="main-title">MENA <span class="highlight">AI Readiness</span> Monitor</h1>
+            <p class="hero-subtitle" id="main-subtitle">UNESCO RAM Comparative Analysis</p>
+            <p class="hero-tagline">Empowering nations to advance ethical AI</p>
+            <div class="hero-description" id="ram-description">
                 Loading...
             </div>
             <p class="last-updated">Last Updated: <span id="last-updated">-</span></p>
         </div>
-    </header>
+    </section>
 
     <!-- Status Tracker Section -->
     <section id="status">
         <div class="container">
             <div class="section-header">
-                <h2>🗺️ Arab League RAM Status Tracker</h2>
+                <h2>Arab League RAM Status Tracker</h2>
                 <p>Track the AI Readiness Assessment progress across all 22 Arab League member states</p>
             </div>
             <div class="status-grid" id="status-grid">
@@ -866,10 +1014,10 @@
     </section>
 
     <!-- Country Cards Section -->
-    <section id="countries">
+    <section id="countries" class="alt-bg">
         <div class="container">
             <div class="section-header">
-                <h2>📊 Completed RAM Assessments</h2>
+                <h2>Completed RAM Assessments</h2>
                 <p>In-depth analysis of countries that have completed UNESCO's AI Readiness Assessment</p>
             </div>
             <div class="country-cards" id="country-cards">
@@ -882,7 +1030,7 @@
     <section id="comparison">
         <div class="container">
             <div class="section-header">
-                <h2>📋 Comparative Analysis</h2>
+                <h2>Comparative Analysis</h2>
                 <p>Side-by-side comparison of key AI readiness indicators</p>
             </div>
             <div class="table-controls">
@@ -916,28 +1064,28 @@
     </section>
 
     <!-- Radar Chart Section -->
-    <section id="radar">
+    <section id="radar" class="alt-bg">
         <div class="container">
             <div class="section-header">
-                <h2>🎯 RAM Dimensions Analysis</h2>
+                <h2>RAM Dimensions Analysis</h2>
                 <p>Comparative visualization across UNESCO's five assessment dimensions</p>
             </div>
             <div class="chart-section">
                 <div class="chart-container">
                     <canvas id="radarChart"></canvas>
                 </div>
-                <div class="chart-legend" id="chart-info">
-                    <h4 style="margin-bottom: 24px; color: var(--primary);">Country Profiles</h4>
+                <div class="chart-info">
+                    <h4>Country Profiles</h4>
                     <div class="legend-item">
-                        <div class="legend-color" style="background: rgba(16, 185, 129, 0.7);"></div>
+                        <div class="legend-color" style="background: rgba(26, 92, 58, 0.8);"></div>
                         <span>Saudi Arabia</span>
                     </div>
                     <div class="legend-item">
-                        <div class="legend-color" style="background: rgba(99, 102, 241, 0.7);"></div>
+                        <div class="legend-color" style="background: rgba(77, 200, 142, 0.8);"></div>
                         <span>Egypt</span>
                     </div>
                     <div class="legend-item">
-                        <div class="legend-color" style="background: rgba(245, 158, 11, 0.7);"></div>
+                        <div class="legend-color" style="background: rgba(13, 61, 42, 0.8);"></div>
                         <span>Morocco</span>
                     </div>
                     <div class="dimension-list">
@@ -956,33 +1104,34 @@
     </section>
 
     <!-- Gap Analysis / ICAIRE Opportunity Section -->
-    <section id="opportunity" class="opportunity-section">
+    <section id="opportunity" class="gap-section">
         <div class="container">
             <div class="section-header">
-                <h2>🎯 Gap Analysis & ICAIRE Opportunity</h2>
+                <h2>Gap Analysis & ICAIRE Opportunity</h2>
                 <p>Where ICAIRE can add value as the regional knowledge partner for AI readiness</p>
             </div>
             <div class="opportunity-grid">
                 <div class="opportunity-card">
-                    <h3>📍 Countries Not Yet Started</h3>
-                    <p style="margin-bottom: 16px; opacity: 0.9;" id="not-started-count">14 Arab League countries have not yet begun their RAM assessment</p>
+                    <h3>Countries Not Yet Started</h3>
+                    <p id="not-started-count">14 Arab League countries have not yet begun their RAM assessment</p>
                     <ul id="not-started-list">
                         <!-- Populated by JS -->
                     </ul>
                 </div>
                 <div class="opportunity-card">
-                    <h3>💡 ICAIRE Value Proposition</h3>
+                    <h3>ICAIRE Value Proposition</h3>
                     <ul id="value-proposition">
                         <!-- Populated by JS -->
                     </ul>
                 </div>
                 <div class="opportunity-card">
-                    <h3>🇮🇳 India Model Reference</h3>
-                    <p id="india-model" style="opacity: 0.9; line-height: 1.8;">
+                    <h3>India Model Reference</h3>
+                    <p id="india-model">
                         <!-- Populated by JS -->
                     </p>
-                    <a href="https://www.unesco.org/ethics-ai/en/india" target="_blank" style="color: var(--accent-light); margin-top: 16px; display: inline-block;">
-                        View India's RAM Profile →
+                    <a href="https://www.unesco.org/ethics-ai/en/india" target="_blank">
+                        View India's RAM Profile
+                        <span>&rarr;</span>
                     </a>
                 </div>
             </div>
@@ -991,17 +1140,17 @@
                 <p>As a UNESCO Category 2 Center based in Riyadh, ICAIRE combines global methodology expertise with deep regional understanding.</p>
                 <a href="https://www.unesco.org/ethics-ai/en" class="cta-button" target="_blank">
                     Learn More About RAM
-                    <span>→</span>
+                    <span>&rarr;</span>
                 </a>
             </div>
         </div>
     </section>
 
     <!-- Sources Section -->
-    <section id="sources">
+    <section id="sources" class="alt-bg">
         <div class="container">
             <div class="section-header">
-                <h2>📚 Data Sources & References</h2>
+                <h2>Data Sources & References</h2>
                 <p>Official UNESCO resources and country-specific RAM profiles</p>
             </div>
             <div class="sources-grid" id="sources-grid">
@@ -1012,13 +1161,22 @@
 
     <footer>
         <div class="container">
-            <p><strong>ICAIRE</strong> — International Center for AI Research and Ethics</p>
-            <p>A UNESCO Category 2 Center in Riyadh, Saudi Arabia</p>
-            <p style="margin-top: 16px;">Data sourced from <a href="https://www.unesco.org/ethics-ai/en" target="_blank">UNESCO Global AI Ethics Observatory</a></p>
+            <div class="footer-content">
+                <div class="footer-logo">ICAIRE</div>
+                <p class="footer-tagline arabic">المركز الدولي لأبحاث وأخلاقيات الذكاء الاصطناعي</p>
+                <p style="color: var(--off-white); margin-bottom: 24px;">International Center for AI Research and Ethics<br>A UNESCO Category 2 Center in Riyadh, Saudi Arabia</p>
+                <div class="footer-links">
+                    <a href="https://www.unesco.org/ethics-ai/en" target="_blank">UNESCO AI Ethics Observatory</a>
+                    <a href="https://www.unesco.org/ethics-ai/en/global-hub" target="_blank">Global RAM Hub</a>
+                </div>
+                <div class="footer-attribution">
+                    <p>Data sourced from <a href="https://www.unesco.org/ethics-ai/en" target="_blank">UNESCO Global AI Ethics Observatory</a></p>
+                </div>
+            </div>
         </div>
     </footer>
 
-    <button class="scroll-top" id="scrollTop" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">↑</button>
+    <button class="scroll-top" id="scrollTop" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">&uarr;</button>
 
     <script>
         // Global data variable
@@ -1043,9 +1201,10 @@
         function renderDashboard() {
             if (!dashboardData) return;
 
-            // Update header
-            document.getElementById('main-title').textContent = dashboardData.meta.title;
-            document.getElementById('main-subtitle').textContent = dashboardData.meta.subtitle;
+            // Update header - parse title for highlighting
+            const titleEl = document.getElementById('main-title');
+            titleEl.innerHTML = 'MENA <span class="highlight">AI Readiness</span> Monitor';
+
             document.getElementById('ram-description').textContent = dashboardData.ramDescription;
             document.getElementById('last-updated').textContent = dashboardData.meta.lastUpdated;
 
@@ -1088,15 +1247,14 @@
                 return `
                     <div class="status-category ${config.class}">
                         <div class="status-header">
-                            <span class="status-emoji">${config.emoji}</span>
+                            <span class="status-badge">${config.emoji}</span>
                             <span class="status-label">${config.label}</span>
                             <span class="status-count">${countries.length}</span>
                         </div>
                         <div class="country-chips">
                             ${countries.map(c => `
                                 <div class="country-chip">
-                                    ${c.ramUrl ? `<a href="${c.ramUrl}" target="_blank">${c.name}</a>` : c.name}
-                                    <span class="name-ar">${c.nameAr}</span>
+                                    ${c.ramUrl ? `<a href="${c.ramUrl}" target="_blank"><span class="name-en">${c.name}</span><span class="name-ar arabic">${c.nameAr}</span></a>` : `<span class="name-en">${c.name}</span><span class="name-ar arabic">${c.nameAr}</span>`}
                                 </div>
                             `).join('')}
                         </div>
@@ -1114,7 +1272,7 @@
                 <div class="country-card">
                     <div class="card-header">
                         <h3>${country.name}</h3>
-                        <span class="name-ar">${country.nameAr}</span>
+                        <span class="name-ar arabic">${country.nameAr}</span>
                         ${country.highlights?.rank ? `<span class="card-rank">${country.highlights.rank}</span>` : ''}
                     </div>
                     ${country.highlights?.keyMetrics ? `
@@ -1136,7 +1294,7 @@
                     <div class="card-footer">
                         <a href="${country.ramUrl}" target="_blank">
                             View Full RAM Profile
-                            <span>→</span>
+                            <span>&rarr;</span>
                         </a>
                     </div>
                 </div>
@@ -1154,7 +1312,7 @@
 
                 return `
                     <tr>
-                        <td><strong>${country.name}</strong><br><small style="color: var(--text-muted);">${country.nameAr}</small></td>
+                        <td><strong>${country.name}</strong><br><small class="arabic" style="color: #5a6d64;">${country.nameAr}</small></td>
                         <td>${renderBadge(c.aiStrategy?.value, c.aiStrategyYear ? `(${c.aiStrategyYear})` : '')}</td>
                         <td>${renderBadge(c.dedicatedAIAuthority?.value, c.dedicatedAIAuthority?.note)}</td>
                         <td>${renderBadge(c.dataProtectionLaw?.value)}</td>
@@ -1172,22 +1330,22 @@
         // Helper: render badge
         function renderBadge(value, note = '') {
             if (value === true) {
-                return `<span class="status-badge yes">✓ Yes ${note ? `<br><small>${note}</small>` : ''}</span>`;
+                return `<span class="table-badge yes">Yes ${note ? `<br><small>${note}</small>` : ''}</span>`;
             } else if (value === false) {
-                return `<span class="status-badge no">✗ No ${note ? `<br><small>${note}</small>` : ''}</span>`;
+                return `<span class="table-badge no">No ${note ? `<br><small>${note}</small>` : ''}</span>`;
             }
-            return `<span class="status-badge partial">${value || 'N/A'}</span>`;
+            return `<span class="table-badge partial">${value || 'N/A'}</span>`;
         }
 
         // Helper: render level indicator
         function renderLevel(level) {
-            const levels = { 'Very High': 5, 'High': 4, 'Strong': 4, 'Growing': 3, 'Moderate': 3, 'Developing': 2, 'Low': 1 };
+            const levels = { 'Very High': 5, 'High': 4, 'Strong': 4, 'Growing': 3, 'Moderate': 3, 'Developing': 2, 'Improving': 2, 'Low': 1 };
             const filled = levels[level] || 0;
             return `
                 <div class="level-indicator" title="${level}">
                     ${[1,2,3,4,5].map(i => `<span class="level-dot ${i <= filled ? 'filled' : ''}"></span>`).join('')}
                 </div>
-                <small style="color: var(--text-muted); display: block; margin-top: 4px;">${level}</small>
+                <small style="color: #5a6d64; display: block; margin-top: 4px;">${level}</small>
             `;
         }
 
@@ -1198,9 +1356,9 @@
             const ctx = document.getElementById('radarChart').getContext('2d');
 
             const colors = [
-                { bg: 'rgba(16, 185, 129, 0.2)', border: 'rgba(16, 185, 129, 1)' },
-                { bg: 'rgba(99, 102, 241, 0.2)', border: 'rgba(99, 102, 241, 1)' },
-                { bg: 'rgba(245, 158, 11, 0.2)', border: 'rgba(245, 158, 11, 1)' }
+                { bg: 'rgba(26, 92, 58, 0.2)', border: 'rgba(26, 92, 58, 1)' },
+                { bg: 'rgba(77, 200, 142, 0.2)', border: 'rgba(77, 200, 142, 1)' },
+                { bg: 'rgba(13, 61, 42, 0.2)', border: 'rgba(13, 61, 42, 1)' }
             ];
 
             new Chart(ctx, {
@@ -1240,14 +1398,18 @@
                             max: 5,
                             ticks: {
                                 stepSize: 1,
-                                backdropColor: 'transparent'
+                                backdropColor: 'transparent',
+                                color: '#5a6d64'
                             },
                             pointLabels: {
-                                font: { size: 12, weight: '500' },
-                                color: '#1e293b'
+                                font: { size: 11, weight: '500' },
+                                color: '#0D3D2A'
                             },
                             grid: {
-                                color: 'rgba(0,0,0,0.1)'
+                                color: 'rgba(13, 61, 42, 0.1)'
+                            },
+                            angleLines: {
+                                color: 'rgba(13, 61, 42, 0.1)'
                             }
                         }
                     },
@@ -1256,7 +1418,8 @@
                             position: 'bottom',
                             labels: {
                                 usePointStyle: true,
-                                padding: 20
+                                padding: 20,
+                                color: '#0D3D2A'
                             }
                         }
                     }
@@ -1272,7 +1435,7 @@
                 `${notStarted.length} Arab League countries have not yet begun their RAM assessment`;
 
             document.getElementById('not-started-list').innerHTML = notStarted
-                .map(c => `<li>${c.name} (${c.nameAr})</li>`).join('');
+                .map(c => `<li>${c.name} <span class="arabic">(${c.nameAr})</span></li>`).join('');
 
             document.getElementById('value-proposition').innerHTML = dashboardData.icaireOpportunity.valueProposition
                 .map(v => `<li>${v}</li>`).join('');
@@ -1298,9 +1461,17 @@
             `).join('');
         }
 
-        // Scroll to top button visibility
+        // Nav scroll effect
         window.addEventListener('scroll', () => {
+            const nav = document.getElementById('navbar');
             const btn = document.getElementById('scrollTop');
+
+            if (window.scrollY > 100) {
+                nav.classList.add('scrolled');
+            } else {
+                nav.classList.remove('scrolled');
+            }
+
             if (window.scrollY > 500) {
                 btn.classList.add('visible');
             } else {
