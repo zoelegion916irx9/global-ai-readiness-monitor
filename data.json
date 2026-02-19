@@ -1,0 +1,435 @@
+{
+  "meta": {
+    "title": "MENA AI Readiness Monitor",
+    "subtitle": "UNESCO RAM Comparative Analysis — Curated by ICAIRE",
+    "lastUpdated": "2026-02-19",
+    "version": "1.0.0"
+  },
+  "ramDescription": "The AI Readiness Assessment Methodology (RAM) is UNESCO's comprehensive framework for evaluating a country's preparedness to develop and deploy AI technologies ethically and effectively. RAM examines five key dimensions: Legal & Regulatory, Social & Cultural, Economic, Scientific & Educational, and Technological & Infrastructural.",
+  "statuses": {
+    "completed": {
+      "label": "Completed",
+      "emoji": "✅",
+      "color": "#10b981"
+    },
+    "inProcess": {
+      "label": "In Process",
+      "emoji": "🔄",
+      "color": "#f59e0b"
+    },
+    "inPreparation": {
+      "label": "In Preparation",
+      "emoji": "📋",
+      "color": "#6366f1"
+    },
+    "notStarted": {
+      "label": "Not Started",
+      "emoji": "❌",
+      "color": "#94a3b8"
+    }
+  },
+  "countries": [
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "nameAr": "المملكة العربية السعودية",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/saudiarabia",
+      "dimensions": {
+        "legalRegulatory": 4,
+        "socialCultural": 3,
+        "economic": 4,
+        "scientificEducational": 4,
+        "technologicalInfrastructural": 5
+      },
+      "comparison": {
+        "aiStrategy": { "value": true, "note": "Vision 2030 AI Integration" },
+        "aiStrategyYear": 2020,
+        "dedicatedAIAuthority": { "value": true, "note": "SDAIA" },
+        "dataProtectionLaw": { "value": true, "note": "Personal Data Protection Law 2021" },
+        "cybersecurityFramework": { "value": true, "note": "NCA Framework" },
+        "aiResearchOutput": "High",
+        "infrastructureReadiness": "Very High",
+        "aiEducationTraining": "High",
+        "startupEcosystem": "Growing",
+        "genderInclusion": "Improving",
+        "environmentalConsiderations": "Developing"
+      },
+      "keyFindings": [
+        "Unique SDAIA (Data & AI Authority) leading strategy, policymaking, regulation",
+        "Governance framework still under development — opportunity to shape it",
+        "Need for AI-specific regulatory sandboxes",
+        "Critical talent gap — need to attract/retain internationally competitive talent",
+        "Educational reform underway but need to integrate ethics + human-centric design",
+        "Women empowerment in STEM essential",
+        "AI ecosystem maturity pivotal for global competitiveness",
+        "Sustainability must be cornerstone of AI infrastructure",
+        "Cross-pollination needed between private/public, international/local",
+        "Need cohesive, tightly-knit ecosystem"
+      ],
+      "highlights": {
+        "rank": null,
+        "keyMetrics": [
+          { "label": "AI Authority", "value": "SDAIA" },
+          { "label": "Focus", "value": "Vision 2030" },
+          { "label": "Infrastructure", "value": "World-class" }
+        ]
+      }
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt",
+      "nameAr": "مصر",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/egypt",
+      "dimensions": {
+        "legalRegulatory": 4,
+        "socialCultural": 4,
+        "economic": 4,
+        "scientificEducational": 5,
+        "technologicalInfrastructural": 4
+      },
+      "comparison": {
+        "aiStrategy": { "value": true, "note": "National AI Strategy 2021, 2nd ed. 2025" },
+        "aiStrategyYear": 2021,
+        "dedicatedAIAuthority": { "value": true, "note": "NCAI (est. 2019)" },
+        "dataProtectionLaw": { "value": true, "note": "Data Protection Law 2020" },
+        "cybersecurityFramework": { "value": true, "note": "Cybercrimes Law 2018" },
+        "aiResearchOutput": "Very High",
+        "infrastructureReadiness": "High",
+        "aiEducationTraining": "Very High",
+        "startupEcosystem": "Strong",
+        "genderInclusion": "Moderate",
+        "environmentalConsiderations": "Developing"
+      },
+      "keyFindings": [
+        "Ranked 1st in Africa, 7th in MENA (Oxford Insights Government AI Readiness 2024)",
+        "National Council for AI (NCAI) established 2019",
+        "AI Strategy: 1st edition 2021, 2nd edition (2025-2030) launched Jan 2025",
+        "Charter for Responsible AI adopted 2023",
+        "Legal: Cybercrimes Law (2018) + Data Protection Law (2020)",
+        "Leads Arab region in AI research publications per capita (0.28 per 1,000 people)",
+        "Top in citations per capita (0.45 per 1,000)",
+        "92 AI institutes (27 public, 20 private, 20 national, 10 international, 15 high institutes)",
+        "500,000+ people trained annually in digital skills",
+        "#2 in MENA Startup Ecosystem for Knowledge (Startup Genome)",
+        "Startup funding surged $190M (2020) → $517M (2022)",
+        "9 innovation hubs",
+        "6,000+ km fiber optic network; 16x broadband speed increase (2017-2025)",
+        "1,458 villages connected to high-speed internet"
+      ],
+      "highlights": {
+        "rank": "1st in Africa, 7th in MENA",
+        "keyMetrics": [
+          { "label": "AI Institutes", "value": "92" },
+          { "label": "Annual Training", "value": "500K+" },
+          { "label": "Funding Growth", "value": "172%" }
+        ]
+      }
+    },
+    {
+      "id": "morocco",
+      "name": "Morocco",
+      "nameAr": "المغرب",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/morocco",
+      "dimensions": {
+        "legalRegulatory": 3,
+        "socialCultural": 4,
+        "economic": 3,
+        "scientificEducational": 4,
+        "technologicalInfrastructural": 3
+      },
+      "comparison": {
+        "aiStrategy": { "value": false, "note": "Digital strategy only" },
+        "aiStrategyYear": null,
+        "dedicatedAIAuthority": { "value": false, "note": "No dedicated authority" },
+        "dataProtectionLaw": { "value": true, "note": "Needs AI adaptation" },
+        "cybersecurityFramework": { "value": true, "note": "ITU Index: 50th globally" },
+        "aiResearchOutput": "Moderate",
+        "infrastructureReadiness": "Moderate",
+        "aiEducationTraining": "High",
+        "startupEcosystem": "Developing",
+        "genderInclusion": "Strong",
+        "environmentalConsiderations": "Developing"
+      },
+      "keyFindings": [
+        "Favorable ecosystem for holistic, responsible AI vision",
+        "Assets in research, training, regulation, data governance, e-inclusion",
+        "Most significant gaps: technological infrastructure",
+        "Internet penetration improved; Inclusive Internet Index ranked 52nd (2022)",
+        "Negligible gender gap in internet access",
+        "One of highest rates globally for female engineering graduates (2018)",
+        "27% STEM graduates (2022)",
+        "Educational institutions dedicated exclusively to AI training",
+        "R&D investment relatively low at 0.75% of GDP",
+        "NO national AI strategy (only digital strategy)",
+        "Legal frameworks need adaptation for AI (personal data, cyberspace)",
+        "Need liability regime + public procurement regulations for responsible AI",
+        "Lack of linguistic diversification in digital services",
+        "AI investments increased 2020-2023 but moderate vs neighbors",
+        "Key sectors: health/biotech, media/marketing, IT infrastructure",
+        "ITU Cybersecurity Index: 50th globally",
+        "Open Data Index: 35th out of 195",
+        "E-Government Index improved from 0.5729 (2020) to 0.5915 (2022), ranked 101st"
+      ],
+      "highlights": {
+        "rank": "52nd Inclusive Internet Index",
+        "keyMetrics": [
+          { "label": "STEM Grads", "value": "27%" },
+          { "label": "Open Data Rank", "value": "35th" },
+          { "label": "Cybersec Rank", "value": "50th" }
+        ]
+      }
+    },
+    {
+      "id": "bahrain",
+      "name": "Bahrain",
+      "nameAr": "البحرين",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "oman",
+      "name": "Oman",
+      "nameAr": "عُمان",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "palestine",
+      "name": "Palestine",
+      "nameAr": "فلسطين",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "tunisia",
+      "name": "Tunisia",
+      "nameAr": "تونس",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "djibouti",
+      "name": "Djibouti",
+      "nameAr": "جيبوتي",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "nameAr": "الإمارات",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "nameAr": "قطر",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "kuwait",
+      "name": "Kuwait",
+      "nameAr": "الكويت",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan",
+      "nameAr": "الأردن",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "iraq",
+      "name": "Iraq",
+      "nameAr": "العراق",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "libya",
+      "name": "Libya",
+      "nameAr": "ليبيا",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "lebanon",
+      "name": "Lebanon",
+      "nameAr": "لبنان",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "syria",
+      "name": "Syria",
+      "nameAr": "سوريا",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "yemen",
+      "name": "Yemen",
+      "nameAr": "اليمن",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "sudan",
+      "name": "Sudan",
+      "nameAr": "السودان",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "somalia",
+      "name": "Somalia",
+      "nameAr": "الصومال",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "algeria",
+      "name": "Algeria",
+      "nameAr": "الجزائر",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "mauritania",
+      "name": "Mauritania",
+      "nameAr": "موريتانيا",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    },
+    {
+      "id": "comoros",
+      "name": "Comoros",
+      "nameAr": "جزر القمر",
+      "status": "notStarted",
+      "ramUrl": null,
+      "dimensions": null,
+      "comparison": null,
+      "keyFindings": null,
+      "highlights": null
+    }
+  ],
+  "icaireOpportunity": {
+    "title": "ICAIRE's Regional Role",
+    "description": "As a UNESCO Category 2 Center based in Riyadh, ICAIRE is uniquely positioned to support AI readiness assessments across the MENA region.",
+    "valueProposition": [
+      "Technical expertise in RAM methodology implementation",
+      "Regional knowledge and cultural understanding",
+      "Partnership network across Arab League nations",
+      "Capacity building and knowledge transfer"
+    ],
+    "indiaModel": {
+      "description": "India's RAM was conducted in partnership with Ikigai Law, demonstrating the value of local expertise combined with UNESCO methodology.",
+      "url": "https://www.unesco.org/ethics-ai/en/india"
+    }
+  },
+  "sources": [
+    {
+      "name": "UNESCO Global AI Ethics Observatory",
+      "url": "https://www.unesco.org/ethics-ai/en"
+    },
+    {
+      "name": "UNESCO Global Hub (All RAM Countries)",
+      "url": "https://www.unesco.org/ethics-ai/en/global-hub"
+    },
+    {
+      "name": "Saudi Arabia RAM Profile",
+      "url": "https://www.unesco.org/ethics-ai/en/saudiarabia"
+    },
+    {
+      "name": "Egypt RAM Profile",
+      "url": "https://www.unesco.org/ethics-ai/en/egypt"
+    },
+    {
+      "name": "Morocco RAM Profile",
+      "url": "https://www.unesco.org/ethics-ai/en/morocco"
+    },
+    {
+      "name": "India RAM Profile (Reference)",
+      "url": "https://www.unesco.org/ethics-ai/en/india"
+    }
+  ]
+}
