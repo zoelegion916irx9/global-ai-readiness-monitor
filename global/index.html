@@ -14,8 +14,15 @@
 </head>
 <body>
 
+<!-- Beta Banner -->
+<div id="beta-banner" style="position:fixed;top:0;left:0;right:0;z-index:10000;background:linear-gradient(90deg,#0D3D2A,#1A5C3A);color:white;text-align:center;padding:6px 16px;font-size:0.78rem;font-family:'DIN','Cairo',sans-serif;letter-spacing:0.5px">
+    🚧 <strong>BETA</strong> — This dashboard is under active development. Data may be incomplete or estimated. 
+    <a href="mailto:info@icaire.org" style="color:#4DC88E;text-decoration:underline">Send feedback</a>
+    <button onclick="this.parentElement.style.display='none'" style="background:none;border:none;color:rgba(255,255,255,0.6);cursor:pointer;margin-left:12px;font-size:1rem">✕</button>
+</div>
+
 <!-- Nav -->
-<nav id="navbar">
+<nav id="navbar" style="top:32px">
     <div class="container">
         <a href="#" class="nav-brand"><img src="https://icaire.org/image/UnescoICAIREColor.png" alt="ICAIRE" style="height:36px;vertical-align:middle;margin-right:8px">ICAIRE</a>
         <ul class="nav-links">
@@ -142,17 +149,45 @@
 <footer>
     <div class="container">
         <div class="footer-content">
-            <div class="footer-logo">ICAIRE</div>
+            <div class="footer-logo"><img src="https://icaire.org/image/UnescoICAIREColor.png" alt="ICAIRE" style="height:40px;margin-bottom:12px;filter:brightness(2)"></div>
             <p class="footer-tagline arabic">المركز الدولي لأبحاث وأخلاقيات الذكاء الاصطناعي</p>
             <p style="color:var(--off-white);margin-bottom:20px;font-size:0.9rem">International Center for AI Research and Ethics<br>A UNESCO Category 2 Center · Riyadh, Saudi Arabia</p>
+
             <div class="footer-links">
+                <a href="https://icaire.org" target="_blank">ICAIRE</a>
                 <a href="https://www.unesco.org/ethics-ai/en" target="_blank">UNESCO AI Ethics</a>
                 <a href="https://www.unesco.org/ethics-ai/en/global-hub" target="_blank">Global RAM Hub</a>
                 <a href="https://oecd.ai" target="_blank">OECD AI</a>
                 <a href="https://aiindex.stanford.edu" target="_blank">Stanford HAI</a>
+                <a href="https://github.com/icaire/global-ai-readiness" target="_blank">GitHub / Open Data</a>
             </div>
+
+            <div style="max-width:700px;margin:24px auto;padding:20px;border:1px solid rgba(77,200,142,0.2);border-radius:8px;background:rgba(255,255,255,0.03)">
+                <p style="color:var(--accent);font-weight:600;font-size:0.85rem;margin-bottom:8px">📧 Feedback & Contributions</p>
+                <p style="color:var(--off-white);font-size:0.82rem;line-height:1.6;margin:0">
+                    We welcome feedback, corrections, and data contributions from researchers, policymakers, and organizations worldwide.
+                    Contact us at <a href="mailto:info@icaire.org" style="color:var(--accent)">info@icaire.org</a> · 
+                    Contribute on <a href="https://github.com/icaire/global-ai-readiness" style="color:var(--accent)" target="_blank">GitHub</a>
+                </p>
+            </div>
+
+            <div style="max-width:700px;margin:16px auto;padding:16px;background:rgba(255,255,255,0.02);border-radius:6px">
+                <p style="color:rgba(255,255,255,0.5);font-size:0.72rem;line-height:1.7;margin:0">
+                    <strong>Disclaimer:</strong> This dashboard aggregates publicly available data from multiple independent sources for informational and research purposes only. 
+                    Data is presented as published by each respective organization and may not reflect the most recent updates. 
+                    ICAIRE does not claim ownership of third-party data and provides attribution to all original sources. 
+                    The aggregation, analysis, and presentation are the responsibility of ICAIRE and do not necessarily represent the views 
+                    of UNESCO, the United Nations, or any other data source organization. Country scores and rankings should be interpreted 
+                    in the context of each index's methodology. This tool is provided "as is" without warranty of any kind.
+                    For official data, please refer to the original source publications linked in the Data Sources section.
+                    <br><br>
+                    <strong>License:</strong> Dashboard and analysis by ICAIRE are released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color:rgba(255,255,255,0.5)" target="_blank">CC BY-NC-SA 4.0</a>. 
+                    Underlying index data remains subject to the terms of each respective publisher.
+                </p>
+            </div>
+
             <div class="footer-attr">
-                <p>Data aggregated from official sources. Curated by <a href="#">ICAIRE</a>. © 2026</p>
+                <p>Curated by <a href="https://icaire.org" target="_blank">ICAIRE</a> · A UNESCO Category 2 Center · © 2026</p>
             </div>
         </div>
     </div>
