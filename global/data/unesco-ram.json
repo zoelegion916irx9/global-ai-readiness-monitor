@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "source": "UNESCO AI Readiness Assessment Methodology (RAM)",
+    "url": "https://www.unesco.org/ethics-ai/en/global-hub",
+    "lastUpdated": "2026-02-19",
+    "dimensions": ["Legal & Regulatory","Social & Cultural","Economic","Scientific & Educational","Technological & Infrastructural"]
+  },
+  "countries": [
+    {
+      "iso": "SA",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/saudiarabia",
+      "dimensions": {"legalRegulatory":4,"socialCultural":3,"economic":4,"scientificEducational":4,"technologicalInfrastructural":5},
+      "keyFindings": ["SDAIA leading AI strategy & regulation","Vision 2030 AI Integration","Critical talent gap needs addressing","Educational reform integrating ethics underway"]
+    },
+    {
+      "iso": "EG",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/egypt",
+      "dimensions": {"legalRegulatory":4,"socialCultural":4,"economic":4,"scientificEducational":5,"technologicalInfrastructural":4},
+      "keyFindings": ["Ranked 1st in Africa for AI readiness","92 AI institutes","500K+ trained annually","Charter for Responsible AI adopted 2023"]
+    },
+    {
+      "iso": "MA",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/morocco",
+      "dimensions": {"legalRegulatory":3,"socialCultural":4,"economic":3,"scientificEducational":4,"technologicalInfrastructural":3},
+      "keyFindings": ["No dedicated AI strategy yet","Strong female STEM participation","R&D investment at 0.75% GDP","Cybersecurity ranked 50th globally"]
+    },
+    {
+      "iso": "IN",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/india",
+      "dimensions": {"legalRegulatory":4,"socialCultural":3,"economic":4,"scientificEducational":4,"technologicalInfrastructural":3},
+      "keyFindings": ["Comprehensive national AI strategy","Strong IT sector foundation","Digital divide challenges remain","Growing startup ecosystem"]
+    },
+    {
+      "iso": "UY",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/uruguay",
+      "dimensions": {"legalRegulatory":4,"socialCultural":4,"economic":3,"scientificEducational":4,"technologicalInfrastructural":4},
+      "keyFindings": ["Strong data protection framework","National AI Strategy since 2019","High digital literacy rates","Limited AI research output"]
+    },
+    {
+      "iso": "LT",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/lithuania",
+      "dimensions": {"legalRegulatory":4,"socialCultural":4,"economic":3,"scientificEducational":4,"technologicalInfrastructural":4},
+      "keyFindings": ["EU AI Act alignment","National AI Strategy adopted","Growing tech sector","Strong digital infrastructure"]
+    },
+    {
+      "iso": "MU",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/mauritius",
+      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":3,"scientificEducational":3,"technologicalInfrastructural":3},
+      "keyFindings": ["National AI Strategy 2023","Small island developing state leader","Data protection law in place","Limited AI research capacity"]
+    },
+    {
+      "iso": "SN",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/senegal",
+      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":2,"scientificEducational":3,"technologicalInfrastructural":2},
+      "keyFindings": ["Digital Senegal 2025 strategy","Growing tech hub ecosystem","Infrastructure gaps remain","GPAI member state"]
+    },
+    {
+      "iso": "CL",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/chile",
+      "dimensions": {"legalRegulatory":4,"socialCultural":3,"economic":3,"scientificEducational":4,"technologicalInfrastructural":4},
+      "keyFindings": ["National AI Policy since 2021","Strong regulatory framework","Growing AI research output","OECD member with advanced digital policies"]
+    },
+    {
+      "iso": "TT",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/trinidadandtobago",
+      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":2,"scientificEducational":3,"technologicalInfrastructural":3},
+      "keyFindings": ["National ICT Plan includes AI","Caribbean SIDS leader","Data protection legislation","Limited local AI ecosystem"]
+    },
+    {
+      "iso": "SG",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/singapore",
+      "dimensions": {"legalRegulatory":5,"socialCultural":4,"economic":5,"scientificEducational":5,"technologicalInfrastructural":5},
+      "keyFindings": ["Global AI governance leader","National AI Strategy 2.0","World-class infrastructure","Model AI Governance Framework"]
+    },
+    {
+      "iso": "KR",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/southkorea",
+      "dimensions": {"legalRegulatory":5,"socialCultural":4,"economic":5,"scientificEducational":5,"technologicalInfrastructural":5},
+      "keyFindings": ["AI Ethics Charter adopted","Major AI R&D investment","Leading in AI patents","Strong semiconductor industry"]
+    },
+    {
+      "iso": "GB",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/unitedkingdom",
+      "dimensions": {"legalRegulatory":5,"socialCultural":4,"economic":5,"scientificEducational":5,"technologicalInfrastructural":5},
+      "keyFindings": ["Pro-innovation AI regulation approach","AI Safety Institute established","World-leading AI research","Strong venture capital ecosystem"]
+    },
+    {
+      "iso": "DE",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/germany",
+      "dimensions": {"legalRegulatory":5,"socialCultural":4,"economic":4,"scientificEducational":5,"technologicalInfrastructural":4},
+      "keyFindings": ["AI Strategy updated 2020","Strong ethics framework","Industry 4.0 integration","EU AI Act implementation leader"]
+    },
+    {
+      "iso": "BR",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/brazil",
+      "dimensions": {"legalRegulatory":4,"socialCultural":3,"economic":3,"scientificEducational":4,"technologicalInfrastructural":3},
+      "keyFindings": ["AI regulation bill advancing","LGPD data protection law","Growing AI research community","Digital divide challenges"]
+    },
+    {
+      "iso": "ZA",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/southafrica",
+      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":3,"scientificEducational":3,"technologicalInfrastructural":3},
+      "keyFindings": ["Presidential Commission on 4IR","POPIA data protection act","Growing AI startup scene","Infrastructure inequalities"]
+    },
+    {
+      "iso": "ID",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/indonesia",
+      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":3,"scientificEducational":3,"technologicalInfrastructural":3},
+      "keyFindings": ["National AI Strategy 2020-2045","Digital transformation roadmap","Large talent pool","Infrastructure development ongoing"]
+    },
+    {
+      "iso": "BH",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "OM",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "PS",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "KZ",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "RW",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "KE",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CO",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "PE",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "TH",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "PH",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "GH",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "NG",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "BD",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "TN",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "DJ",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "ET",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "TZ",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CR",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "EC",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "JM",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "NP",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "MN",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "VN",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "PK",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "FJ",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CM",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "UG",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    }
+  ]
+}

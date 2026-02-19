@@ -1,0 +1,34 @@
+{
+  "source": {
+    "name": "ICESCO AI Index for the Islamic World",
+    "org": "Islamic World Educational, Scientific and Cultural Organization (ICESCO)",
+    "url": "https://icesco.org",
+    "year": 2025,
+    "methodology": "Launched December 2025 at ICESCO headquarters in Rabat, Morocco. Based on the Riyadh Charter on AI adopted by OIC member states. First edition covers 9 leading OIC countries as a pilot phase. Methodology aligned with AI readiness pillars covering infrastructure, human capital, innovation, governance, and ethical AI frameworks consistent with Islamic values and the Riyadh Charter principles.",
+    "dataNote": "This is a newly launched index (Dec 2025) with very limited publicly available granular data. The 9 pilot countries are estimated from ICESCO announcements and OIC AI leadership context. Exact numerical scores have not yet been publicly released as of Feb 2026. Rankings below represent best estimates based on each country's known AI capabilities and ICESCO/OIC engagement level."
+  },
+  "dimensions": [
+    "Digital Infrastructure",
+    "Human Capital",
+    "Innovation & Research",
+    "AI Governance",
+    "Ethical AI Framework"
+  ],
+  "context": {
+    "riyadhCharter": "Adopted by OIC member states, establishes principles for AI development in the Islamic world aligned with shared values",
+    "totalOICMembers": 57,
+    "pilotCountries": 9,
+    "expansionPlanned": "Full expansion to all OIC member states planned in subsequent editions"
+  },
+  "countries": [
+    {"iso": "SA", "name": "Saudi Arabia", "overall": null, "rank": 1, "notes": "Estimated top position. Host of Riyadh Charter. SDAIA established as national AI authority. Vision 2030 drives massive AI investment including $100B Project Transcendence. King Salman Global Academy for Arabic Language developing Arabic NLP."},
+    {"iso": "AE", "name": "United Arab Emirates", "overall": null, "rank": 2, "notes": "Estimated. National AI Strategy 2031, world's first AI Minister (2017), Falcon LLM by Technology Innovation Institute, Mohamed bin Zayed University of AI (MBZUAI)."},
+    {"iso": "MY", "name": "Malaysia", "overall": null, "rank": 3, "notes": "Estimated. National AI Roadmap 2021-2025, growing AI ecosystem, MDEC digital economy corporation, strong academic output in AI."},
+    {"iso": "TR", "name": "Turkey", "overall": null, "rank": 4, "notes": "Estimated. National AI Strategy 2021-2025, strong university research output, TÜBİTAK AI research."},
+    {"iso": "ID", "name": "Indonesia", "overall": null, "rank": 5, "notes": "Estimated. National AI Strategy (Stranas KA) launched 2020, largest OIC country by population, growing startup ecosystem."},
+    {"iso": "QA", "name": "Qatar", "overall": null, "rank": 6, "notes": "Estimated. Qatar Computing Research Institute (QCRI), strong digital infrastructure, Qatar National AI Strategy."},
+    {"iso": "BH", "name": "Bahrain", "overall": null, "rank": 7, "notes": "Estimated. AI strategy and digitization programs, Cloud-First policy, BENEFIT financial tech hub."},
+    {"iso": "EG", "name": "Egypt", "overall": null, "rank": 8, "notes": "Estimated. National AI Strategy launched 2021, MCIT driving AI adoption, Nile University AI research, large talent pool."},
+    {"iso": "MA", "name": "Morocco", "overall": null, "rank": 9, "notes": "Estimated. AI strategy under development, Mohammed VI Polytechnic University (UM6P) AI research center, host of ICESCO headquarters."}
+  ]
+}

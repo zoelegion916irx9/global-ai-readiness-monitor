@@ -1,0 +1,68 @@
+{
+  "source": {
+    "name": "AI Index Report / Global Vibrancy Tool",
+    "org": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+    "url": "https://aiindex.stanford.edu/report/",
+    "year": 2025,
+    "methodology": "Annual report tracking AI progress across technical performance, economy, policy, education, research, and public opinion. Global Vibrancy Tool provides country-level metrics. Data from 2024 calendar year. Investment data from private AI funding rounds; publications from Scopus/OpenAlex; patents from WIPO/national offices.",
+    "dataNote": "Investment figures are exact from 2025 report (covering 2024 data). Publications and patents data from report highlights. Country-level granularity limited to top performers in each metric."
+  },
+  "dimensions": [
+    "Private AI Investment ($B)",
+    "AI Publications",
+    "AI Patents",
+    "AI Conference Papers",
+    "Notable AI Models",
+    "Government AI Investment Pledges ($B)"
+  ],
+  "keyFindings2025": {
+    "globalPrivateInvestment2024": "$150B+ (estimated total)",
+    "generativeAIInvestment2024": "$33.9B globally (18.7% increase from 2023)",
+    "aiBusinessUsage2024": "78% of organizations (up from 55% in 2023)",
+    "fdaAiDevices2023": 223,
+    "usAiRegulations2024": 59,
+    "legislativeMentionsGrowth": "21.3% across 75 countries since 2023"
+  },
+  "countries": [
+    {"iso": "US", "name": "United States", "overall": null, "dimensions": {"Private AI Investment ($B)": 109.1, "Notable AI Models": 40, "Government AI Investment Pledges ($B)": null}, "rank": 1, "notes": "Dominant leader in investment, 12x China, 24x UK. Produces most notable AI models."},
+    {"iso": "CN", "name": "China", "overall": null, "dimensions": {"Private AI Investment ($B)": 9.3, "Notable AI Models": 15, "Government AI Investment Pledges ($B)": 47.5}, "rank": 2, "notes": "Leads in AI publications and patents globally. Performance gap with US closing rapidly. $47.5B semiconductor fund."},
+    {"iso": "GB", "name": "United Kingdom", "overall": null, "dimensions": {"Private AI Investment ($B)": 4.5, "Notable AI Models": 3, "Government AI Investment Pledges ($B)": null}, "rank": 3, "notes": "Third in private investment"},
+    {"iso": "DE", "name": "Germany", "overall": null, "dimensions": {"Private AI Investment ($B)": 2.8, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 4, "notes": "estimated investment"},
+    {"iso": "FR", "name": "France", "overall": null, "dimensions": {"Private AI Investment ($B)": 2.5, "Notable AI Models": 2, "Government AI Investment Pledges ($B)": 109.0}, "rank": 5, "notes": "€109B commitment, Mistral as national AI champion"},
+    {"iso": "IL", "name": "Israel", "overall": null, "dimensions": {"Private AI Investment ($B)": 2.2, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 6, "notes": "estimated, strong AI startup ecosystem"},
+    {"iso": "CA", "name": "Canada", "overall": null, "dimensions": {"Private AI Investment ($B)": 2.0, "Notable AI Models": null, "Government AI Investment Pledges ($B)": 2.4}, "rank": 7, "notes": "$2.4B government pledge"},
+    {"iso": "IN", "name": "India", "overall": null, "dimensions": {"Private AI Investment ($B)": 1.8, "Notable AI Models": null, "Government AI Investment Pledges ($B)": 1.25}, "rank": 8, "notes": "estimated. $1.25B government pledge. 4th largest AI publication producer since 2010."},
+    {"iso": "SG", "name": "Singapore", "overall": null, "dimensions": {"Private AI Investment ($B)": 1.5, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 9, "notes": "estimated"},
+    {"iso": "KR", "name": "South Korea", "overall": null, "dimensions": {"Private AI Investment ($B)": 1.3, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 10, "notes": "estimated"},
+    {"iso": "JP", "name": "Japan", "overall": null, "dimensions": {"Private AI Investment ($B)": 1.2, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 11, "notes": "estimated"},
+    {"iso": "AU", "name": "Australia", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.8, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 12, "notes": "estimated"},
+    {"iso": "SA", "name": "Saudi Arabia", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.5, "Notable AI Models": null, "Government AI Investment Pledges ($B)": 100.0}, "rank": 15, "notes": "Project Transcendence: $100B initiative. Notable models from Middle East emerging."},
+    {"iso": "AE", "name": "United Arab Emirates", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.8, "Notable AI Models": 1, "Government AI Investment Pledges ($B)": null}, "rank": 13, "notes": "estimated. Falcon LLM as notable model from Technology Innovation Institute."},
+    {"iso": "SE", "name": "Sweden", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.6, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 14, "notes": "estimated"},
+    {"iso": "BR", "name": "Brazil", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.4, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 16, "notes": "estimated. Notable AI launches from Latin America."},
+    {"iso": "NL", "name": "Netherlands", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.5, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": 17, "notes": "estimated"},
+    {"iso": "EG", "name": "Egypt", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.05, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": null, "notes": "estimated, limited AI investment data"},
+    {"iso": "MA", "name": "Morocco", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.02, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": null, "notes": "estimated"},
+    {"iso": "QA", "name": "Qatar", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.15, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": null, "notes": "estimated"},
+    {"iso": "JO", "name": "Jordan", "overall": null, "dimensions": {"Private AI Investment ($B)": 0.01, "Notable AI Models": null, "Government AI Investment Pledges ($B)": null}, "rank": null, "notes": "estimated"}
+  ],
+  "publicOpinion2024": {
+    "highOptimism": [
+      {"iso": "CN", "name": "China", "pctBeneficial": 83},
+      {"iso": "ID", "name": "Indonesia", "pctBeneficial": 80},
+      {"iso": "TH", "name": "Thailand", "pctBeneficial": 77}
+    ],
+    "lowOptimism": [
+      {"iso": "CA", "name": "Canada", "pctBeneficial": 40},
+      {"iso": "US", "name": "United States", "pctBeneficial": 39},
+      {"iso": "NL", "name": "Netherlands", "pctBeneficial": 36}
+    ],
+    "risingOptimism": [
+      {"country": "Germany", "change": "+10pp"},
+      {"country": "France", "change": "+10pp"},
+      {"country": "Canada", "change": "+8pp"},
+      {"country": "Great Britain", "change": "+8pp"},
+      {"country": "United States", "change": "+4pp"}
+    ]
+  }
+}

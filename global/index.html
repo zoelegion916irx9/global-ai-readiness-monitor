@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global AI Readiness Monitor | ICAIRE</title>
+    <meta name="description" content="ICAIRE's comprehensive dashboard aggregating all major AI readiness indices worldwide. Compare countries across UNESCO RAM, Oxford Insights, IMF AIPI, and more.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- Nav -->
+<nav id="navbar">
+    <div class="container">
+        <a href="#" class="nav-brand">ICAIRE</a>
+        <ul class="nav-links">
+            <li><a href="#map">Map</a></li>
+            <li><a href="#charts">Analysis</a></li>
+            <li><a href="#gap">Gap Analysis</a></li>
+            <li><a href="#sources">Sources</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+    <div class="hero-content">
+        <span class="hero-badge">Curated by ICAIRE</span>
+        <h1>Global <span class="hl">AI Readiness</span> Monitor</h1>
+        <p class="hero-sub">Aggregating the world's major AI readiness indices in one place</p>
+        <p class="hero-tagline">Empowering nations to advance ethical, inclusive AI</p>
+        <div class="hero-stats">
+            <div class="hero-stat"><span class="num" id="stat-countries">—</span><span class="lbl">Countries</span></div>
+            <div class="hero-stat"><span class="num" id="stat-completed">—</span><span class="lbl">RAM Completed</span></div>
+            <div class="hero-stat"><span class="num" id="stat-inprocess">—</span><span class="lbl">In Progress</span></div>
+            <div class="hero-stat"><span class="num" id="stat-indices">—</span><span class="lbl">Indices</span></div>
+        </div>
+        <p class="last-updated">Last Updated: <span id="last-updated">—</span></p>
+    </div>
+</section>
+
+<!-- Filters + Map -->
+<section id="map">
+    <div class="container">
+        <div class="section-header">
+            <h2>Interactive World Map</h2>
+            <p>Explore AI readiness across all countries. Click any marker for details.</p>
+        </div>
+        <div id="filter-bars"></div>
+        <div id="index-selector" style="margin-bottom:20px"></div>
+        <div style="display:flex;gap:16px;justify-content:center;margin-bottom:16px;flex-wrap:wrap;">
+            <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#10b981"></span> Completed</span>
+            <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#f59e0b"></span> In Process</span>
+            <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#6366f1"></span> In Preparation</span>
+            <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#94a3b8"></span> Not Assessed</span>
+        </div>
+        <div id="map-container"></div>
+    </div>
+</section>
+
+<!-- Charts -->
+<section id="charts" class="alt">
+    <div class="container">
+        <div class="section-header">
+            <h2>Comparative Analysis</h2>
+            <p>Select countries to compare across UNESCO RAM dimensions</p>
+        </div>
+
+        <!-- Radar Chart -->
+        <div class="chart-card chart-card-full" style="margin-bottom:28px">
+            <h3>RAM Dimensions — Radar Comparison</h3>
+            <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:16px">Click countries below to toggle them on/off the radar chart.</p>
+            <div class="country-selector" id="radar-selector"></div>
+            <div style="max-width:600px;margin:0 auto"><canvas id="radarChart"></canvas></div>
+        </div>
+
+        <div class="charts-grid">
+            <!-- Bar Chart -->
+            <div class="chart-card">
+                <h3>Country Rankings by Dimension</h3>
+                <div style="margin-bottom:12px">
+                    <label style="font-size:0.82rem;color:var(--text-muted);margin-right:8px">Dimension:</label>
+                    <select id="bar-dimension" style="padding:6px 12px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.85rem;background:var(--white)"></select>
+                </div>
+                <canvas id="barChart"></canvas>
+            </div>
+
+            <!-- Scatter Plot -->
+            <div class="chart-card">
+                <h3>Dimension Correlation</h3>
+                <div style="display:flex;gap:12px;margin-bottom:12px;flex-wrap:wrap">
+                    <div>
+                        <label style="font-size:0.82rem;color:var(--text-muted)">X Axis:</label>
+                        <select id="scatter-x" style="padding:6px 10px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.82rem;background:var(--white)"></select>
+                    </div>
+                    <div>
+                        <label style="font-size:0.82rem;color:var(--text-muted)">Y Axis:</label>
+                        <select id="scatter-y" style="padding:6px 10px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.82rem;background:var(--white)"></select>
+                    </div>
+                </div>
+                <canvas id="scatterChart"></canvas>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Gap Analysis -->
+<section id="gap" class="dark">
+    <div class="container">
+        <div class="section-header">
+            <h2>Gap Analysis</h2>
+            <p>Which indices cover which countries? Where are the blind spots?</p>
+        </div>
+        <div class="gap-grid" id="gap-grid"></div>
+        <div class="gap-matrix" id="gap-matrix" style="margin-top:32px"></div>
+    </div>
+</section>
+
+<!-- Sources -->
+<section id="sources" class="alt">
+    <div class="container">
+        <div class="section-header">
+            <h2>Data Sources & References</h2>
+            <p>All major AI readiness indices aggregated by ICAIRE</p>
+        </div>
+        <div class="sources-grid" id="sources-grid"></div>
+
+        <div class="methodology-box">
+            <h3>📐 ICAIRE Methodology Note</h3>
+            <p>The ICAIRE Global AI Readiness Monitor aggregates data from nine major international indices and assessments. Each index uses its own methodology, scale, and coverage. ICAIRE does not alter source data but provides a unified view for cross-comparison. Where indices overlap, differences in ranking may reflect methodological variation rather than substantive disagreement. UNESCO RAM dimension scores (1-5) reflect qualitative expert assessments across five pillars. For detailed methodology, consult each source directly.</p>
+            <p style="margin-top:12px">This dashboard is maintained by the <strong>International Center for AI Research and Ethics (ICAIRE)</strong>, a UNESCO Category 2 Center based in Riyadh, Saudi Arabia. Our mission is to advance ethical, inclusive AI development worldwide through research, capacity building, and policy support.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-logo">ICAIRE</div>
+            <p class="footer-tagline arabic">المركز الدولي لأبحاث وأخلاقيات الذكاء الاصطناعي</p>
+            <p style="color:var(--off-white);margin-bottom:20px;font-size:0.9rem">International Center for AI Research and Ethics<br>A UNESCO Category 2 Center · Riyadh, Saudi Arabia</p>
+            <div class="footer-links">
+                <a href="https://www.unesco.org/ethics-ai/en" target="_blank">UNESCO AI Ethics</a>
+                <a href="https://www.unesco.org/ethics-ai/en/global-hub" target="_blank">Global RAM Hub</a>
+                <a href="https://oecd.ai" target="_blank">OECD AI</a>
+                <a href="https://aiindex.stanford.edu" target="_blank">Stanford HAI</a>
+            </div>
+            <div class="footer-attr">
+                <p>Data aggregated from official sources. Curated by <a href="#">ICAIRE</a>. © 2026</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Country Modal -->
+<div class="country-modal-overlay" id="country-modal-overlay">
+    <div class="country-modal" id="country-modal">
+        <div class="country-modal-header">
+            <h3>Country Name</h3>
+            <p class="name-ar arabic" style="opacity:0.8;margin-top:4px"></p>
+            <button class="close-btn" id="close-modal">✕</button>
+        </div>
+        <div class="country-modal-body"></div>
+    </div>
+</div>
+
+<button class="scroll-top" id="scrollTop">↑</button>
+
+<!-- Scripts -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script src="js/filters.js"></script>
+<script src="js/map.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>

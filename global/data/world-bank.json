@@ -1,0 +1,57 @@
+{
+  "source": {
+    "name": "Digital Progress and Trends Report 2025: Strengthening AI Foundations",
+    "org": "World Bank",
+    "url": "https://www.worldbank.org/en/publication/dptr2025-ai-foundations",
+    "year": 2025,
+    "methodology": "Framework-based assessment using the 4Cs: Connectivity (energy and digital infrastructure, device access), Compute (AI chips, servers, data centers, cloud computing), Context (training data, algorithms, applications), and Competency (digital skills). Focus on low- and middle-income countries (LICs and MICs). Note: The 2025 report corrects the framework to Connectivity, Compute, Context, Competency (not Compatibility as in some early references).",
+    "dataNote": "The World Bank DPTR 2025 provides qualitative assessments and thematic analysis rather than numerical country scores. Data below represents qualitative tier classifications derived from the report's analysis. Tiers: High (advanced readiness), Medium (moderate gaps), Low (significant gaps), Very Low (critical gaps)."
+  },
+  "dimensions": [
+    "Connectivity",
+    "Compute",
+    "Context",
+    "Competency"
+  ],
+  "keyFindings": {
+    "globalContext": "AI adoption requires foundational digital infrastructure that many LICs and MICs lack",
+    "connectivityGap": "Africa has lowest internet penetration; electricity access remains a barrier in many countries",
+    "computeConcentration": "AI compute capacity heavily concentrated in US, China, and a few advanced economies",
+    "skillsChallenge": "Two-thirds of countries now offer or plan K-12 CS education (2x from 2019), but access gaps persist in Africa"
+  },
+  "countries": [
+    {"iso": "US", "name": "United States", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "High", "Context": "High", "Competency": "High"}, "rank": null, "notes": "Global leader in compute and AI infrastructure"},
+    {"iso": "CN", "name": "China", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "High", "Context": "High", "Competency": "High"}, "rank": null, "notes": "Massive compute buildout, $47.5B semiconductor fund"},
+    {"iso": "SG", "name": "Singapore", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "High", "Context": "High", "Competency": "High"}, "rank": null},
+    {"iso": "GB", "name": "United Kingdom", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "High", "Context": "High", "Competency": "High"}, "rank": null},
+    {"iso": "DE", "name": "Germany", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "High", "Context": "High", "Competency": "High"}, "rank": null},
+    {"iso": "AE", "name": "United Arab Emirates", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "Medium", "Context": "Medium", "Competency": "Medium"}, "rank": null, "notes": "Investing in data centers and compute capacity"},
+    {"iso": "SA", "name": "Saudi Arabia", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "Medium", "Context": "Medium", "Competency": "Medium"}, "rank": null, "notes": "Major investments in data centers and cloud infrastructure. $100B Project Transcendence."},
+    {"iso": "QA", "name": "Qatar", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "Medium", "Context": "Medium", "Competency": "Medium"}, "rank": null},
+    {"iso": "BH", "name": "Bahrain", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "Low", "Context": "Medium", "Competency": "Medium"}, "rank": null},
+    {"iso": "KW", "name": "Kuwait", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "Low", "Context": "Low", "Competency": "Medium"}, "rank": null},
+    {"iso": "OM", "name": "Oman", "overall": null, "dimensions": {"Connectivity": "High", "Compute": "Low", "Context": "Low", "Competency": "Medium"}, "rank": null},
+    {"iso": "JO", "name": "Jordan", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Low", "Context": "Low", "Competency": "Medium"}, "rank": null},
+    {"iso": "MA", "name": "Morocco", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Low", "Context": "Low", "Competency": "Medium"}, "rank": null},
+    {"iso": "TN", "name": "Tunisia", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Low", "Context": "Low", "Competency": "Medium"}, "rank": null},
+    {"iso": "EG", "name": "Egypt", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Low", "Context": "Low", "Competency": "Low"}, "rank": null},
+    {"iso": "LB", "name": "Lebanon", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Very Low", "Context": "Low", "Competency": "Medium"}, "rank": null},
+    {"iso": "DZ", "name": "Algeria", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Very Low", "Context": "Low", "Competency": "Low"}, "rank": null},
+    {"iso": "IN", "name": "India", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Medium", "Context": "Medium", "Competency": "Medium"}, "rank": null, "notes": "Massive scale, growing AI ecosystem"},
+    {"iso": "BR", "name": "Brazil", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Medium", "Context": "Medium", "Competency": "Medium"}, "rank": null},
+    {"iso": "ZA", "name": "South Africa", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Low", "Context": "Medium", "Competency": "Medium"}, "rank": null},
+    {"iso": "KE", "name": "Kenya", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Very Low", "Context": "Low", "Competency": "Low"}, "rank": null, "notes": "Improving digital services"},
+    {"iso": "RW", "name": "Rwanda", "overall": null, "dimensions": {"Connectivity": "Low", "Compute": "Very Low", "Context": "Low", "Competency": "Low"}, "rank": null, "notes": "Ambitious digital agenda despite infrastructure gaps"},
+    {"iso": "NG", "name": "Nigeria", "overall": null, "dimensions": {"Connectivity": "Low", "Compute": "Very Low", "Context": "Low", "Competency": "Low"}, "rank": null},
+    {"iso": "GH", "name": "Ghana", "overall": null, "dimensions": {"Connectivity": "Medium", "Compute": "Very Low", "Context": "Low", "Competency": "Low"}, "rank": null},
+    {"iso": "SN", "name": "Senegal", "overall": null, "dimensions": {"Connectivity": "Low", "Compute": "Very Low", "Context": "Very Low", "Competency": "Low"}, "rank": null},
+    {"iso": "IQ", "name": "Iraq", "overall": null, "dimensions": {"Connectivity": "Low", "Compute": "Very Low", "Context": "Very Low", "Competency": "Very Low"}, "rank": null},
+    {"iso": "SY", "name": "Syria", "overall": null, "dimensions": {"Connectivity": "Very Low", "Compute": "Very Low", "Context": "Very Low", "Competency": "Very Low"}, "rank": null},
+    {"iso": "LY", "name": "Libya", "overall": null, "dimensions": {"Connectivity": "Low", "Compute": "Very Low", "Context": "Very Low", "Competency": "Very Low"}, "rank": null},
+    {"iso": "YE", "name": "Yemen", "overall": null, "dimensions": {"Connectivity": "Very Low", "Compute": "Very Low", "Context": "Very Low", "Competency": "Very Low"}, "rank": null},
+    {"iso": "SD", "name": "Sudan", "overall": null, "dimensions": {"Connectivity": "Very Low", "Compute": "Very Low", "Context": "Very Low", "Competency": "Very Low"}, "rank": null},
+    {"iso": "ET", "name": "Ethiopia", "overall": null, "dimensions": {"Connectivity": "Low", "Compute": "Very Low", "Context": "Very Low", "Competency": "Very Low"}, "rank": null, "notes": "Electricity access remains a barrier"},
+    {"iso": "PK", "name": "Pakistan", "overall": null, "dimensions": {"Connectivity": "Low", "Compute": "Very Low", "Context": "Low", "Competency": "Low"}, "rank": null},
+    {"iso": "BD", "name": "Bangladesh", "overall": null, "dimensions": {"Connectivity": "Low", "Compute": "Very Low", "Context": "Low", "Competency": "Low"}, "rank": null}
+  ]
+}

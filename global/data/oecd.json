@@ -1,0 +1,45 @@
+{
+  "source": {
+    "name": "OECD AI Policy Observatory / OECD.AI Index",
+    "org": "Organisation for Economic Co-operation and Development (OECD)",
+    "url": "https://oecd.ai",
+    "year": 2024,
+    "methodology": "Database of 1000+ national AI policy initiatives from 70+ countries. Composite measurement of national AI ecosystems tracking implementation of OECD AI Principles. Focus: trustworthy AI, policy tracking, compute metrics, research, skills, governance.",
+    "dataNote": "OECD does not publish a single ranked score. Data represents policy counts and qualitative assessments from OECD.AI dashboards."
+  },
+  "dimensions": ["AI Policy Initiatives", "AI Strategy Status", "AI Regulation Framework", "Compute Availability", "AI Research Output", "AI Skills & Education"],
+  "globalTrends": {
+    "totalPoliciesTracked": "1000+",
+    "countriesWithAIStrategy": "70+",
+    "newStrategies2024": ["Ethiopia", "Ghana", "Nigeria", "Sri Lanka", "Uzbekistan"],
+    "firstLegallyBindingTreaty": "Council of Europe Framework Convention on AI (2024)",
+    "legislativeMentionsGrowth": "9x increase since 2016, 21.3% growth in 2024 across 75 countries"
+  },
+  "countries": [
+    {"iso": "US", "name": "United States", "dimensions": {"AI Policy Initiatives": 85, "AI Strategy Status": "Active (multiple)", "AI Regulation Framework": "Sectoral, 59 new regs 2024", "Compute Availability": "Very High", "AI Research Output": "Very High", "AI Skills & Education": "High"}},
+    {"iso": "GB", "name": "United Kingdom", "dimensions": {"AI Policy Initiatives": 65, "AI Strategy Status": "Active (updated 2024)", "AI Regulation Framework": "Pro-innovation, sector-led", "Compute Availability": "High", "AI Research Output": "Very High", "AI Skills & Education": "High"}},
+    {"iso": "FR", "name": "France", "dimensions": {"AI Policy Initiatives": 55, "AI Strategy Status": "Active (Phase 2)", "AI Regulation Framework": "EU AI Act + national", "Compute Availability": "High", "AI Research Output": "High", "AI Skills & Education": "High"}},
+    {"iso": "CA", "name": "Canada", "dimensions": {"AI Policy Initiatives": 50, "AI Strategy Status": "Active (renewed)", "AI Regulation Framework": "AIDA proposed", "Compute Availability": "High", "AI Research Output": "High", "AI Skills & Education": "High"}},
+    {"iso": "DE", "name": "Germany", "dimensions": {"AI Policy Initiatives": 50, "AI Strategy Status": "Active (updated)", "AI Regulation Framework": "EU AI Act + national", "Compute Availability": "High", "AI Research Output": "High", "AI Skills & Education": "High"}},
+    {"iso": "JP", "name": "Japan", "dimensions": {"AI Policy Initiatives": 40, "AI Strategy Status": "Active", "AI Regulation Framework": "Principles-based", "Compute Availability": "High", "AI Research Output": "High", "AI Skills & Education": "High"}},
+    {"iso": "KR", "name": "South Korea", "dimensions": {"AI Policy Initiatives": 38, "AI Strategy Status": "Active", "AI Regulation Framework": "AI Basic Act enacted", "Compute Availability": "High", "AI Research Output": "High", "AI Skills & Education": "High"}},
+    {"iso": "SG", "name": "Singapore", "dimensions": {"AI Policy Initiatives": 30, "AI Strategy Status": "Active (NAIS 2.0)", "AI Regulation Framework": "AI Governance Framework", "Compute Availability": "High", "AI Research Output": "High", "AI Skills & Education": "Very High"}},
+    {"iso": "AU", "name": "Australia", "dimensions": {"AI Policy Initiatives": 25, "AI Strategy Status": "Active", "AI Regulation Framework": "Ethics Framework", "Compute Availability": "Medium", "AI Research Output": "High", "AI Skills & Education": "High"}},
+    {"iso": "NL", "name": "Netherlands", "dimensions": {"AI Policy Initiatives": 22, "AI Strategy Status": "Active", "AI Regulation Framework": "EU AI Act", "Compute Availability": "High", "AI Research Output": "High", "AI Skills & Education": "High"}},
+    {"iso": "AE", "name": "United Arab Emirates", "dimensions": {"AI Policy Initiatives": 20, "AI Strategy Status": "Active (National AI Strategy 2031)", "AI Regulation Framework": "Developing", "Compute Availability": "Medium", "AI Research Output": "Medium", "AI Skills & Education": "Medium"}, "notes": "First country with AI Minister (2017)"},
+    {"iso": "EE", "name": "Estonia", "dimensions": {"AI Policy Initiatives": 18, "AI Strategy Status": "Active (Kratt strategy)", "AI Regulation Framework": "EU AI Act + national", "Compute Availability": "Medium", "AI Research Output": "Medium", "AI Skills & Education": "High"}},
+    {"iso": "IN", "name": "India", "dimensions": {"AI Policy Initiatives": 18, "AI Strategy Status": "Active (IndiaAI Mission)", "AI Regulation Framework": "Developing", "Compute Availability": "Medium", "AI Research Output": "High", "AI Skills & Education": "Medium"}},
+    {"iso": "SA", "name": "Saudi Arabia", "dimensions": {"AI Policy Initiatives": 15, "AI Strategy Status": "Active (SDAIA, National Strategy)", "AI Regulation Framework": "Developing", "Compute Availability": "Medium (growing)", "AI Research Output": "Medium", "AI Skills & Education": "Medium"}, "notes": "SDAIA as national AI authority. Major investment commitments."},
+    {"iso": "IL", "name": "Israel", "dimensions": {"AI Policy Initiatives": 15, "AI Strategy Status": "Active", "AI Regulation Framework": "Light-touch", "Compute Availability": "High", "AI Research Output": "Very High", "AI Skills & Education": "High"}},
+    {"iso": "BR", "name": "Brazil", "dimensions": {"AI Policy Initiatives": 12, "AI Strategy Status": "Active", "AI Regulation Framework": "AI Bill under review", "Compute Availability": "Medium", "AI Research Output": "Medium", "AI Skills & Education": "Medium"}},
+    {"iso": "TR", "name": "Turkey", "dimensions": {"AI Policy Initiatives": 10, "AI Strategy Status": "Active (2021-2025)", "AI Regulation Framework": "Developing", "Compute Availability": "Low", "AI Research Output": "Medium", "AI Skills & Education": "Medium"}},
+    {"iso": "CN", "name": "China", "dimensions": {"AI Policy Initiatives": 45, "AI Strategy Status": "Active (multiple)", "AI Regulation Framework": "Comprehensive (GenAI, deepfake, algo regs)", "Compute Availability": "Very High", "AI Research Output": "Very High", "AI Skills & Education": "High"}, "notes": "Not OECD member but tracked. Leads in publications and patents."},
+    {"iso": "EG", "name": "Egypt", "dimensions": {"AI Policy Initiatives": 5, "AI Strategy Status": "Active (2021)", "AI Regulation Framework": "Early stage", "Compute Availability": "Low", "AI Research Output": "Low", "AI Skills & Education": "Low"}},
+    {"iso": "NG", "name": "Nigeria", "dimensions": {"AI Policy Initiatives": 5, "AI Strategy Status": "Active (new 2024)", "AI Regulation Framework": "Early stage", "Compute Availability": "Very Low", "AI Research Output": "Low", "AI Skills & Education": "Low"}},
+    {"iso": "KE", "name": "Kenya", "dimensions": {"AI Policy Initiatives": 4, "AI Strategy Status": "Developing", "AI Regulation Framework": "Early stage", "Compute Availability": "Very Low", "AI Research Output": "Low", "AI Skills & Education": "Low"}},
+    {"iso": "MA", "name": "Morocco", "dimensions": {"AI Policy Initiatives": 3, "AI Strategy Status": "Under development", "AI Regulation Framework": "Early stage", "Compute Availability": "Very Low", "AI Research Output": "Low", "AI Skills & Education": "Low"}},
+    {"iso": "GH", "name": "Ghana", "dimensions": {"AI Policy Initiatives": 3, "AI Strategy Status": "Active (new 2024)", "AI Regulation Framework": "Early stage", "Compute Availability": "Very Low", "AI Research Output": "Low", "AI Skills & Education": "Low"}},
+    {"iso": "RW", "name": "Rwanda", "dimensions": {"AI Policy Initiatives": 3, "AI Strategy Status": "Developing", "AI Regulation Framework": "Early stage", "Compute Availability": "Very Low", "AI Research Output": "Very Low", "AI Skills & Education": "Low"}},
+    {"iso": "ET", "name": "Ethiopia", "dimensions": {"AI Policy Initiatives": 2, "AI Strategy Status": "Active (new 2024)", "AI Regulation Framework": "None", "Compute Availability": "Very Low", "AI Research Output": "Very Low", "AI Skills & Education": "Very Low"}}
+  ]
+}
