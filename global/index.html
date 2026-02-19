@@ -4,32 +4,185 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Global AI Readiness Monitor | ICAIRE</title>
-    <meta name="description" content="ICAIRE's comprehensive dashboard aggregating all major AI readiness indices worldwide. Compare countries across UNESCO RAM, Oxford Insights, IMF AIPI, and more.">
+    <meta name="description" content="ICAIRE's comprehensive dashboard aggregating all major AI readiness indices worldwide.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DIN&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        :root {
+            --primary: #1A5C3A;
+            --primary-dark: #0D3D2A;
+            --darkest: #091F16;
+            --accent: #4DC88E;
+            --accent-light: #5DD9A0;
+            --white: #FFFFFF;
+            --off-white: rgba(255,255,255,0.85);
+            --bg-light: #F5F7F5;
+            --card-bg: #FFFFFF;
+            --text-dark: #0D3D2A;
+            --text-muted: #5a6d64;
+            --border: rgba(13,61,42,0.1);
+            --shadow: 0 4px 12px rgba(0,0,0,0.06);
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:'DIN','Helvetica Neue',sans-serif; color:var(--text-dark); background:var(--white); }
+        .arabic { font-family:'Cairo','DIN',sans-serif; }
+        .container { max-width:1200px; margin:0 auto; padding:0 24px; }
+
+        /* Beta banner */
+        #beta-banner {
+            position:fixed; top:0; left:0; right:0; z-index:10000;
+            background:linear-gradient(90deg,var(--primary-dark),var(--primary));
+            color:white; text-align:center; padding:6px 16px; font-size:0.78rem; letter-spacing:0.5px;
+        }
+        #beta-banner a { color:var(--accent); text-decoration:underline; }
+        #beta-banner button { background:none; border:none; color:rgba(255,255,255,0.6); cursor:pointer; margin-left:12px; font-size:1rem; }
+
+        /* Nav */
+        nav { position:fixed; top:32px; left:0; right:0; z-index:9999; padding:12px 0; transition:background 0.3s; }
+        nav.scrolled { background:rgba(9,31,22,0.95); backdrop-filter:blur(8px); }
+        nav .container { display:flex; justify-content:space-between; align-items:center; }
+        .nav-brand { color:white; text-decoration:none; font-weight:700; font-size:1.1rem; display:flex; align-items:center; gap:8px; }
+        .nav-brand img { height:36px; }
+        .nav-links { list-style:none; display:flex; gap:24px; }
+        .nav-links a { color:rgba(255,255,255,0.85); text-decoration:none; font-size:0.9rem; transition:color 0.2s; }
+        .nav-links a:hover { color:var(--accent); }
+
+        /* Hero - compact */
+        .hero {
+            padding:100px 24px 32px; text-align:center;
+            background:linear-gradient(180deg,var(--primary-dark) 0%,var(--darkest) 100%);
+            position:relative;
+        }
+        .hero::before { content:''; position:absolute; inset:0; background:radial-gradient(ellipse at 50% 0%,rgba(77,200,142,0.08) 0%,transparent 60%); pointer-events:none; }
+        .hero-content { position:relative; z-index:1; max-width:900px; margin:0 auto; }
+        .hero-badge { display:inline-block; color:var(--accent); font-size:0.78rem; letter-spacing:2px; text-transform:uppercase; margin-bottom:12px; font-weight:600; }
+        .hero h1 { font-size:clamp(1.8rem,4vw,2.8rem); font-weight:700; color:white; margin-bottom:8px; line-height:1.15; }
+        .hero h1 .hl { color:var(--accent); }
+        .hero-sub { font-size:1rem; color:var(--off-white); margin-bottom:6px; }
+        .hero-tagline { font-size:0.88rem; color:rgba(255,255,255,0.5); font-style:italic; margin-bottom:20px; }
+        .hero-stats { display:flex; gap:32px; justify-content:center; flex-wrap:wrap; margin-bottom:12px; }
+        .hero-stat .num { font-size:1.6rem; font-weight:700; color:var(--accent); display:block; }
+        .hero-stat .lbl { font-size:0.72rem; color:rgba(255,255,255,0.5); text-transform:uppercase; letter-spacing:1px; }
+        .last-updated { font-size:0.72rem; color:rgba(255,255,255,0.35); }
+
+        /* Tabs */
+        .tab-bar {
+            display:flex; justify-content:center; gap:0;
+            background:var(--primary-dark); padding:0; position:sticky; top:76px; z-index:100;
+        }
+        .tab-btn {
+            padding:14px 32px; background:none; border:none; border-bottom:3px solid transparent;
+            color:rgba(255,255,255,0.6); font-family:inherit; font-size:0.92rem; font-weight:600;
+            cursor:pointer; transition:all 0.3s; letter-spacing:0.3px;
+        }
+        .tab-btn:hover { color:rgba(255,255,255,0.85); background:rgba(255,255,255,0.05); }
+        .tab-btn.active { color:white; border-bottom-color:var(--accent); background:rgba(77,200,142,0.08); }
+        .tab-content { display:none; }
+        .tab-content.active { display:block; }
+
+        /* Map */
+        #map-container { height:500px; border-radius:12px; overflow:hidden; box-shadow:var(--shadow); margin-bottom:24px; }
+        .map-controls { display:flex; gap:12px; justify-content:space-between; align-items:center; flex-wrap:wrap; margin-bottom:16px; }
+        .map-legend { display:flex; gap:16px; flex-wrap:wrap; align-items:center; }
+        .map-legend-item { display:flex; align-items:center; gap:6px; font-size:0.8rem; color:var(--text-muted); }
+        .map-legend-color { width:14px; height:14px; border-radius:3px; }
+        .map-dropdown { padding:8px 14px; border:1.5px solid var(--border); border-radius:8px; font-family:inherit; font-size:0.85rem; background:white; color:var(--text-dark); }
+
+        /* Info panel (right side of map) */
+        .map-layout { display:grid; grid-template-columns:1fr 340px; gap:20px; }
+        @media(max-width:960px) { .map-layout { grid-template-columns:1fr; } }
+        .info-panel { background:var(--card-bg); border-radius:12px; padding:20px; box-shadow:var(--shadow); max-height:540px; overflow-y:auto; }
+        .info-panel h3 { font-size:1.1rem; margin-bottom:4px; color:var(--text-dark); }
+        .info-panel .country-ar { font-size:0.9rem; color:var(--text-muted); margin-bottom:12px; }
+        .info-panel .score-row { display:flex; justify-content:space-between; align-items:center; padding:8px 0; border-bottom:1px solid var(--border); font-size:0.85rem; }
+        .info-panel .score-bar { height:6px; background:rgba(13,61,42,0.08); border-radius:3px; flex:1; margin:0 12px; }
+        .info-panel .score-fill { height:100%; border-radius:3px; background:var(--accent); }
+        .info-panel .badge { display:inline-block; padding:3px 10px; border-radius:12px; font-size:0.75rem; font-weight:600; }
+        .badge-completed { background:rgba(16,185,129,0.1); color:#059669; }
+        .badge-inprocess { background:rgba(245,158,11,0.1); color:#d97706; }
+        .badge-inprep { background:rgba(99,102,241,0.1); color:#4f46e5; }
+        .badge-none { background:rgba(148,163,184,0.1); color:#64748b; }
+        .info-placeholder { text-align:center; padding:40px 20px; color:var(--text-muted); }
+        .info-placeholder .icon { font-size:2rem; margin-bottom:8px; }
+
+        /* Section styling */
+        .section-pad { padding:40px 0; }
+        .section-pad.alt { background:var(--bg-light); }
+        .section-header { text-align:center; margin-bottom:28px; }
+        .section-header h2 { font-size:1.5rem; color:var(--text-dark); margin-bottom:6px; }
+        .section-header h2::after { content:''; display:block; width:40px; height:3px; background:var(--accent); margin:8px auto 0; border-radius:2px; }
+        .section-header p { color:var(--text-muted); font-size:0.9rem; }
+
+        /* Selected countries bar */
+        .selected-bar { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:20px; align-items:center; }
+        .selected-chip { display:flex; align-items:center; gap:6px; padding:6px 12px; background:var(--primary); color:white; border-radius:20px; font-size:0.82rem; }
+        .selected-chip button { background:none; border:none; color:rgba(255,255,255,0.6); cursor:pointer; font-size:0.9rem; }
+        .selected-chip button:hover { color:white; }
+
+        /* Charts */
+        .charts-grid { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+        @media(max-width:800px) { .charts-grid { grid-template-columns:1fr; } }
+        .chart-card { background:var(--card-bg); border-radius:12px; padding:24px; box-shadow:var(--shadow); }
+        .chart-card h3 { font-size:1rem; color:var(--text-dark); margin-bottom:12px; }
+        .chart-card-full { grid-column:1/-1; }
+
+        /* Gap matrix */
+        .coverage-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:12px; margin-bottom:24px; }
+        .coverage-card { background:var(--card-bg); border-radius:10px; padding:16px; text-align:center; box-shadow:var(--shadow); border-left:4px solid var(--accent); }
+        .coverage-card .cov-num { font-size:1.6rem; font-weight:700; color:var(--primary); }
+        .coverage-card .cov-label { font-size:0.78rem; color:var(--text-muted); margin-top:4px; }
+
+        /* Sources */
+        .sources-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:16px; margin-bottom:24px; }
+        .source-card { background:var(--card-bg); border-radius:10px; padding:16px; box-shadow:var(--shadow); border-top:3px solid var(--accent); }
+        .source-card h4 { font-size:0.92rem; color:var(--text-dark); margin-bottom:4px; }
+        .source-card p { font-size:0.8rem; color:var(--text-muted); line-height:1.5; }
+        .source-card a { color:var(--primary); font-size:0.8rem; }
+
+        /* Footer */
+        footer { background:var(--darkest); color:white; padding:48px 24px; text-align:center; }
+        .footer-links { display:flex; gap:20px; justify-content:center; flex-wrap:wrap; margin:16px 0; }
+        .footer-links a { color:rgba(255,255,255,0.6); text-decoration:none; font-size:0.82rem; }
+        .footer-links a:hover { color:var(--accent); }
+
+        /* Beta watermark */
+        body::after {
+            content:'BETA'; position:fixed; bottom:20px; right:-30px; transform:rotate(-45deg);
+            background:rgba(77,200,142,0.12); color:rgba(77,200,142,0.35); font-size:1.1rem; font-weight:700;
+            letter-spacing:4px; padding:4px 40px; z-index:9999; pointer-events:none;
+        }
+
+        /* Leaflet overrides */
+        .leaflet-container { background:#f0f4f0; }
+        .country-tooltip { font-family:'DIN',sans-serif; font-size:0.85rem; }
+        .country-tooltip .tt-name { font-weight:700; font-size:0.95rem; }
+        .country-tooltip .tt-ar { font-family:'Cairo',sans-serif; color:#666; }
+        .country-tooltip .tt-score { color:var(--primary); font-weight:600; }
+    </style>
 </head>
 <body>
 
 <!-- Beta Banner -->
-<div id="beta-banner" style="position:fixed;top:0;left:0;right:0;z-index:10000;background:linear-gradient(90deg,#0D3D2A,#1A5C3A);color:white;text-align:center;padding:6px 16px;font-size:0.78rem;font-family:'DIN','Cairo',sans-serif;letter-spacing:0.5px">
-    🚧 <strong>BETA</strong> — This dashboard is under active development. Data may be incomplete or estimated. 
-    <a href="mailto:info@icaire.org" style="color:#4DC88E;text-decoration:underline">Send feedback</a>
-    <button onclick="this.parentElement.style.display='none'" style="background:none;border:none;color:rgba(255,255,255,0.6);cursor:pointer;margin-left:12px;font-size:1rem">✕</button>
+<div id="beta-banner">
+    🚧 <strong>BETA</strong> — Under active development. Data may be incomplete or estimated.
+    <a href="mailto:info@icaire.org">Send feedback</a>
+    <button onclick="this.parentElement.style.display='none'">✕</button>
 </div>
 
 <!-- Nav -->
-<nav id="navbar" style="top:32px">
+<nav id="navbar">
     <div class="container">
-        <a href="#" class="nav-brand"><img src="https://icaire.org/image/UnescoICAIREColor.png" alt="ICAIRE" style="height:36px;vertical-align:middle;margin-right:8px">ICAIRE</a>
+        <a href="#" class="nav-brand">
+            <img src="https://icaire.org/image/UnescoICAIREColor.png" alt="ICAIRE">
+            ICAIRE
+        </a>
         <ul class="nav-links">
-            <li><a href="#map">Map</a></li>
-            <li><a href="#charts">Analysis</a></li>
-            <li><a href="#gap">Gap Analysis</a></li>
-            <li><a href="#sources">Sources</a></li>
+            <li><a href="#" onclick="switchTab('ram')">UNESCO RAM</a></li>
+            <li><a href="#" onclick="switchTab('indices')">AI Indices</a></li>
+            <li><a href="#sources-section">Sources</a></li>
         </ul>
     </div>
 </nav>
@@ -37,115 +190,155 @@
 <!-- Hero -->
 <section class="hero">
     <div class="hero-content">
-        <span class="hero-badge">Curated by ICAIRE</span>
+        <span class="hero-badge">Curated by ICAIRE · A UNESCO Category 2 Center</span>
         <h1>Global <span class="hl">AI Readiness</span> Monitor</h1>
-        <p class="hero-sub">Aggregating the world's major AI readiness indices in one place</p>
+        <p class="hero-sub">The world's AI readiness landscape — assessments, indices, and insights in one place</p>
         <p class="hero-tagline">Empowering nations to advance ethical, inclusive AI</p>
         <div class="hero-stats">
             <div class="hero-stat"><span class="num" id="stat-countries">—</span><span class="lbl">Countries</span></div>
-            <div class="hero-stat"><span class="num" id="stat-completed">—</span><span class="lbl">RAM Completed</span></div>
-            <div class="hero-stat"><span class="num" id="stat-inprocess">—</span><span class="lbl">In Progress</span></div>
-            <div class="hero-stat"><span class="num" id="stat-indices">—</span><span class="lbl">Indices</span></div>
+            <div class="hero-stat"><span class="num" id="stat-ram">—</span><span class="lbl">RAM Assessed</span></div>
+            <div class="hero-stat"><span class="num" id="stat-indices">9</span><span class="lbl">Indices</span></div>
+            <div class="hero-stat"><span class="num" id="stat-dimensions">—</span><span class="lbl">Dimensions</span></div>
         </div>
         <p class="last-updated">Last Updated: <span id="last-updated">—</span></p>
     </div>
 </section>
 
-<!-- Filters + Map -->
-<section id="map">
-    <div class="container">
-        <div class="section-header">
-            <h2>Interactive World Map</h2>
-            <p>Explore AI readiness across all countries. Click any marker for details.</p>
-        </div>
-        <div id="filter-bar"></div>
-        <div id="index-selector-bar" style="margin-bottom:20px"></div>
-        <div style="display:flex;gap:16px;justify-content:center;margin-bottom:16px;flex-wrap:wrap;">
-            <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#10b981"></span> Completed</span>
-            <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#f59e0b"></span> In Process</span>
-            <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#6366f1"></span> In Preparation</span>
-            <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#94a3b8"></span> Not Assessed</span>
-        </div>
-        <div id="map-container"></div>
-    </div>
-</section>
+<!-- Tab Bar -->
+<div class="tab-bar">
+    <button class="tab-btn active" onclick="switchTab('ram')" id="tab-btn-ram">🏛️ UNESCO RAM Assessment</button>
+    <button class="tab-btn" onclick="switchTab('indices')" id="tab-btn-indices">📊 AI Readiness Indices</button>
+</div>
 
-<!-- Charts -->
-<section id="charts" class="alt">
-    <div class="container">
-        <div class="section-header">
-            <h2>Comparative Analysis</h2>
-            <p>Select countries to compare across UNESCO RAM dimensions</p>
-        </div>
-
-        <!-- Radar Chart -->
-        <div class="chart-card chart-card-full" style="margin-bottom:28px">
-            <h3>RAM Dimensions — Radar Comparison</h3>
-            <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:16px">Click countries below to toggle them on/off the radar chart.</p>
-            <div style="margin-bottom:16px;position:relative">
-                <input type="text" id="country-search" placeholder="Search countries to compare..." style="width:100%;padding:10px 16px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.9rem;background:var(--white)">
-                <div id="search-results" style="position:absolute;top:100%;left:0;right:0;background:white;border:1px solid rgba(13,61,42,0.15);border-radius:0 0 8px 8px;max-height:200px;overflow-y:auto;display:none;z-index:100"></div>
+<!-- TAB 1: UNESCO RAM -->
+<div class="tab-content active" id="tab-ram">
+    <div class="section-pad">
+        <div class="container">
+            <div class="section-header">
+                <h2>UNESCO Readiness Assessment Methodology</h2>
+                <p>Evaluating countries' preparedness to implement UNESCO's Recommendation on the Ethics of AI. Click a country to explore.</p>
             </div>
-            <div id="selected-countries" style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px"></div>
-            <p id="radar-empty" style="text-align:center;color:var(--text-muted);font-size:0.85rem">Search and select countries above to compare them</p>
-            <div style="max-width:600px;margin:0 auto"><canvas id="radar-chart"></canvas></div>
-        </div>
 
-        <div class="charts-grid">
-            <!-- Bar Chart -->
-            <div class="chart-card">
-                <h3>Country Rankings by Dimension</h3>
-                <div style="margin-bottom:12px">
-                    <label style="font-size:0.82rem;color:var(--text-muted);margin-right:8px">Dimension:</label>
-                    <select id="bar-dimension-select" style="padding:6px 12px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.85rem;background:var(--white)"></select>
+            <div class="map-controls">
+                <div class="map-legend" id="ram-legend">
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#10b981"></div> Completed</div>
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#f59e0b"></div> In Process</div>
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#6366f1"></div> In Preparation</div>
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#e2e8f0"></div> Not Assessed</div>
                 </div>
-                <canvas id="bar-chart"></canvas>
             </div>
 
-            <!-- Scatter Plot -->
-            <div class="chart-card">
-                <h3>Dimension Correlation</h3>
-                <div style="display:flex;gap:12px;margin-bottom:12px;flex-wrap:wrap">
-                    <div>
-                        <label style="font-size:0.82rem;color:var(--text-muted)">X Axis:</label>
-                        <select id="scatter-x-select" style="padding:6px 10px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.82rem;background:var(--white)"></select>
-                    </div>
-                    <div>
-                        <label style="font-size:0.82rem;color:var(--text-muted)">Y Axis:</label>
-                        <select id="scatter-y-select" style="padding:6px 10px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.82rem;background:var(--white)"></select>
+            <div class="map-layout">
+                <div id="map-container"></div>
+                <div class="info-panel" id="info-panel">
+                    <div class="info-placeholder">
+                        <div class="icon">🗺️</div>
+                        <p>Click a country on the map to view its UNESCO RAM assessment details</p>
                     </div>
                 </div>
-                <canvas id="scatter-chart"></canvas>
+            </div>
+
+            <!-- Selected countries for comparison -->
+            <div style="margin-top:24px">
+                <h3 style="font-size:0.95rem;color:var(--text-muted);margin-bottom:8px">Selected for comparison (click countries on map):</h3>
+                <div class="selected-bar" id="selected-countries"></div>
+            </div>
+
+            <!-- RAM Dimension Charts -->
+            <div class="charts-grid" style="margin-top:24px" id="ram-charts">
+                <div class="chart-card chart-card-full">
+                    <h3>RAM Dimensions — Radar Comparison</h3>
+                    <p style="font-size:0.82rem;color:var(--text-muted);margin-bottom:12px">Select countries on the map to compare their RAM dimension scores</p>
+                    <div style="max-width:550px;margin:0 auto"><canvas id="radar-chart"></canvas></div>
+                </div>
             </div>
         </div>
     </div>
-</section>
+</div>
 
-<!-- Gap Analysis -->
-<section id="gap" class="dark">
-    <div class="container">
-        <div class="section-header">
-            <h2>Gap Analysis</h2>
-            <p>Which indices cover which countries? Where are the blind spots?</p>
+<!-- TAB 2: AI Indices -->
+<div class="tab-content" id="tab-indices">
+    <div class="section-pad">
+        <div class="container">
+            <div class="section-header">
+                <h2>Global AI Readiness Indices</h2>
+                <p>Quantitative scores and rankings from the world's leading AI indices. Select an index to color the map.</p>
+            </div>
+
+            <div class="map-controls">
+                <div>
+                    <label style="font-size:0.82rem;color:var(--text-muted);margin-right:8px">Color map by:</label>
+                    <select class="map-dropdown" id="index-selector" onchange="updateIndicesMap()">
+                        <option value="oxford">Oxford Insights Gov AI Readiness</option>
+                        <option value="imf-aipi">IMF AI Preparedness (AIPI)</option>
+                        <option value="tortoise">Tortoise Global AI Index</option>
+                        <option value="girai">GIRAI Responsible AI</option>
+                        <option value="stanford-hai">Stanford HAI Vibrancy</option>
+                    </select>
+                </div>
+                <div class="map-legend" id="indices-legend">
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#0D3D2A"></div> High</div>
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#1A5C3A"></div> Medium-High</div>
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#4DC88E"></div> Medium</div>
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#a7f3d0"></div> Low</div>
+                    <div class="map-legend-item"><div class="map-legend-color" style="background:#e2e8f0"></div> No Data</div>
+                </div>
+            </div>
+
+            <div class="map-layout">
+                <div id="indices-map-container" style="height:500px;border-radius:12px;overflow:hidden;box-shadow:var(--shadow)"></div>
+                <div class="info-panel" id="indices-info-panel">
+                    <div class="info-placeholder">
+                        <div class="icon">📊</div>
+                        <p>Click a country to view its scores across all indices</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Index comparison charts -->
+            <div class="charts-grid" style="margin-top:24px">
+                <div class="chart-card">
+                    <h3>Top 20 Countries</h3>
+                    <p style="font-size:0.82rem;color:var(--text-muted);margin-bottom:12px">By selected index</p>
+                    <canvas id="bar-chart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Index Correlation</h3>
+                    <p style="font-size:0.82rem;color:var(--text-muted);margin-bottom:12px">How do different indices compare?</p>
+                    <div style="display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap">
+                        <select class="map-dropdown" id="scatter-x" style="font-size:0.8rem;padding:6px 10px"></select>
+                        <span style="color:var(--text-muted);font-size:0.8rem;padding-top:6px">vs</span>
+                        <select class="map-dropdown" id="scatter-y" style="font-size:0.8rem;padding:6px 10px"></select>
+                    </div>
+                    <canvas id="scatter-chart"></canvas>
+                </div>
+            </div>
+
+            <!-- Coverage cards -->
+            <div style="margin-top:32px">
+                <h3 style="font-size:1.1rem;color:var(--text-dark);margin-bottom:16px;text-align:center">Index Coverage</h3>
+                <div class="coverage-grid" id="coverage-grid"></div>
+            </div>
         </div>
-        <div class="gap-grid" id="gap-cards"></div>
-        <div class="gap-matrix" id="gap-matrix" style="margin-top:32px"></div>
     </div>
-</section>
+</div>
 
 <!-- Sources -->
-<section id="sources" class="alt">
+<section id="sources-section" class="section-pad alt">
     <div class="container">
         <div class="section-header">
-            <h2>Data Sources & References</h2>
-            <p>All major AI readiness indices aggregated by ICAIRE</p>
+            <h2>Data Sources & Methodology</h2>
+            <p>All data aggregated from official, publicly available sources</p>
         </div>
         <div class="sources-grid" id="sources-grid"></div>
-
-        <div class="methodology-box">
-            <h3>📐 ICAIRE Methodology Note</h3>
-            <p>The ICAIRE Global AI Readiness Monitor aggregates data from nine major international indices and assessments. Each index uses its own methodology, scale, and coverage. ICAIRE does not alter source data but provides a unified view for cross-comparison. Where indices overlap, differences in ranking may reflect methodological variation rather than substantive disagreement. UNESCO RAM dimension scores (1-5) reflect qualitative expert assessments across five pillars. For detailed methodology, consult each source directly.</p>
-            <p style="margin-top:12px">This dashboard is maintained by the <strong>International Center for AI Research and Ethics (ICAIRE)</strong>, a UNESCO Category 2 Center based in Riyadh, Saudi Arabia. Our mission is to advance ethical, inclusive AI development worldwide through research, capacity building, and policy support.</p>
+        <div style="max-width:700px;margin:20px auto;padding:20px;background:white;border-radius:10px;box-shadow:var(--shadow)">
+            <h3 style="font-size:0.95rem;color:var(--text-dark);margin-bottom:8px">📐 Methodology Note</h3>
+            <p style="font-size:0.82rem;color:var(--text-muted);line-height:1.7">
+                ICAIRE aggregates data from independent sources without alteration. Each index uses its own methodology, scale, and coverage.
+                Where indices overlap, differences may reflect methodology rather than substance.
+                UNESCO RAM dimension scores (1-5) are qualitative expert assessments. Quantitative index scores are normalized for visual comparison.
+                For detailed methodology, consult each source directly.
+            </p>
         </div>
     </div>
 </section>
@@ -153,72 +346,508 @@
 <!-- Footer -->
 <footer>
     <div class="container">
-        <div class="footer-content">
-            <div class="footer-logo"><img src="https://icaire.org/image/UnescoICAIREColor.png" alt="ICAIRE" style="height:40px;margin-bottom:12px;filter:brightness(2)"></div>
-            <p class="footer-tagline arabic">المركز الدولي لأبحاث وأخلاقيات الذكاء الاصطناعي</p>
-            <p style="color:var(--off-white);margin-bottom:20px;font-size:0.9rem">International Center for AI Research and Ethics<br>A UNESCO Category 2 Center · Riyadh, Saudi Arabia</p>
-
-            <div class="footer-links">
-                <a href="https://icaire.org" target="_blank">ICAIRE</a>
-                <a href="https://www.unesco.org/ethics-ai/en" target="_blank">UNESCO AI Ethics</a>
-                <a href="https://www.unesco.org/ethics-ai/en/global-hub" target="_blank">Global RAM Hub</a>
-                <a href="https://oecd.ai" target="_blank">OECD AI</a>
-                <a href="https://aiindex.stanford.edu" target="_blank">Stanford HAI</a>
-                <a href="https://github.com/icaire/global-ai-readiness" target="_blank">GitHub / Open Data</a>
-            </div>
-
-            <div style="max-width:700px;margin:24px auto;padding:20px;border:1px solid rgba(77,200,142,0.2);border-radius:8px;background:rgba(255,255,255,0.03)">
-                <p style="color:var(--accent);font-weight:600;font-size:0.85rem;margin-bottom:8px">📧 Feedback & Contributions</p>
-                <p style="color:var(--off-white);font-size:0.82rem;line-height:1.6;margin:0">
-                    We welcome feedback, corrections, and data contributions from researchers, policymakers, and organizations worldwide.
-                    Contact us at <a href="mailto:info@icaire.org" style="color:var(--accent)">info@icaire.org</a> · 
-                    Contribute on <a href="https://github.com/icaire/global-ai-readiness" style="color:var(--accent)" target="_blank">GitHub</a>
-                </p>
-            </div>
-
-            <div style="max-width:700px;margin:16px auto;padding:16px;background:rgba(255,255,255,0.02);border-radius:6px">
-                <p style="color:rgba(255,255,255,0.5);font-size:0.72rem;line-height:1.7;margin:0">
-                    <strong>Disclaimer:</strong> This dashboard aggregates publicly available data from multiple independent sources for informational and research purposes only. 
-                    Data is presented as published by each respective organization and may not reflect the most recent updates. 
-                    ICAIRE does not claim ownership of third-party data and provides attribution to all original sources. 
-                    The aggregation, analysis, and presentation are the responsibility of ICAIRE and do not necessarily represent the views 
-                    of UNESCO, the United Nations, or any other data source organization. Country scores and rankings should be interpreted 
-                    in the context of each index's methodology. This tool is provided "as is" without warranty of any kind.
-                    For official data, please refer to the original source publications linked in the Data Sources section.
-                    <br><br>
-                    <strong>License:</strong> Dashboard and analysis by ICAIRE are released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color:rgba(255,255,255,0.5)" target="_blank">CC BY-NC-SA 4.0</a>. 
-                    Underlying index data remains subject to the terms of each respective publisher.
-                </p>
-            </div>
-
-            <div class="footer-attr">
-                <p>Curated by <a href="https://icaire.org" target="_blank">ICAIRE</a> · A UNESCO Category 2 Center · © 2026</p>
-            </div>
+        <img src="https://icaire.org/image/UnescoICAIREColor.png" alt="ICAIRE" style="height:40px;margin-bottom:12px;filter:brightness(2)">
+        <p class="arabic" style="color:var(--off-white);margin-bottom:4px">المركز الدولي لأبحاث وأخلاقيات الذكاء الاصطناعي</p>
+        <p style="color:var(--off-white);margin-bottom:16px;font-size:0.88rem">International Center for AI Research and Ethics · A UNESCO Category 2 Center · Riyadh</p>
+        <div class="footer-links">
+            <a href="https://icaire.org" target="_blank">ICAIRE</a>
+            <a href="https://www.unesco.org/ethics-ai/en" target="_blank">UNESCO AI Ethics</a>
+            <a href="https://www.unesco.org/ethics-ai/en/global-hub" target="_blank">RAM Global Hub</a>
+            <a href="https://github.com/icaire/global-ai-readiness" target="_blank">GitHub / Open Data</a>
+            <a href="mailto:info@icaire.org">info@icaire.org</a>
         </div>
+        <div style="max-width:650px;margin:20px auto;padding:14px;background:rgba(255,255,255,0.03);border-radius:6px">
+            <p style="color:rgba(255,255,255,0.4);font-size:0.7rem;line-height:1.7">
+                <strong>Disclaimer:</strong> Data aggregated from independent sources for research purposes. ICAIRE does not claim ownership of third-party data.
+                This tool does not represent the views of UNESCO or any data source organization. Provided "as is" without warranty.
+                <strong>License:</strong> Dashboard by ICAIRE under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color:rgba(255,255,255,0.4)" target="_blank">CC BY-NC-SA 4.0</a>.
+                Underlying data subject to each publisher's terms.
+            </p>
+        </div>
+        <p style="color:rgba(255,255,255,0.3);font-size:0.72rem;margin-top:12px">© 2026 ICAIRE</p>
     </div>
 </footer>
-
-<!-- Country Modal -->
-<div class="country-modal-overlay" id="country-modal" onclick="this.classList.remove('show')">
-    <div class="country-modal" onclick="event.stopPropagation()">
-        <div class="country-modal-header">
-            <h3 id="modal-country-name">Country Name</h3>
-            <p id="modal-country-name-ar" class="name-ar arabic" style="opacity:0.8;margin-top:4px"></p>
-            <button class="close-btn" id="modal-close">✕</button>
-        </div>
-        <div class="country-modal-body" id="modal-body"></div>
-    </div>
-</div>
-
-<button class="scroll-top" id="scroll-top">↑</button>
 
 <!-- Scripts -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
-<script src="js/filters.js"></script>
-<script src="js/map.js"></script>
-<script src="js/charts.js"></script>
-<script src="js/app.js"></script>
+<script>
+// ═══════════════════════════════════════════
+// ICAIRE Global AI Readiness Monitor — App
+// ═══════════════════════════════════════════
+
+let countries = [], geojsonData = null, dataSources = {};
+let ramMap = null, indicesMap = null;
+let ramGeoLayer = null, indicesGeoLayer = null;
+let selectedCountries = []; // for radar comparison
+let radarChart = null, barChart = null, scatterChart = null;
+
+const RAM_COLORS = { completed:'#10b981', inProcess:'#f59e0b', inPreparation:'#6366f1', none:'#e2e8f0' };
+const SCORE_COLORS = ['#e2e8f0','#a7f3d0','#4DC88E','#1A5C3A','#0D3D2A'];
+const CHART_PALETTE = [
+    {bg:'rgba(26,92,58,0.2)', border:'#1A5C3A'},
+    {bg:'rgba(77,200,142,0.2)', border:'#4DC88E'},
+    {bg:'rgba(13,61,42,0.2)', border:'#0D3D2A'},
+    {bg:'rgba(0,180,216,0.2)', border:'#00b4d8'},
+    {bg:'rgba(99,102,241,0.2)', border:'#6366f1'},
+    {bg:'rgba(245,158,11,0.2)', border:'#f59e0b'},
+    {bg:'rgba(239,68,68,0.2)', border:'#ef4444'},
+    {bg:'rgba(168,85,247,0.2)', border:'#a855f7'},
+];
+
+const INDEX_META = {
+    'oxford': {name:'Oxford Insights', field:'score', max:100},
+    'imf-aipi': {name:'IMF AIPI', field:'overall', max:1},
+    'tortoise': {name:'Tortoise Global AI', field:'score', max:100},
+    'girai': {name:'GIRAI', field:'score', max:100},
+    'stanford-hai': {name:'Stanford HAI', field:'score', max:100},
+};
+
+// ── DATA LOADING ──
+async function loadData() {
+    const files = {
+        countries: 'data/countries.json',
+        geojson: 'data/world-boundaries.json',
+        'unesco-ram': 'data/unesco-ram.json',
+        'imf-aipi': 'data/imf-aipi.json',
+        'oxford': 'data/oxford-insights.json',
+        'tortoise': 'data/tortoise.json',
+        'girai': 'data/girai.json',
+        'stanford-hai': 'data/stanford-hai.json',
+        'world-bank': 'data/world-bank.json',
+        'icesco': 'data/icesco.json',
+        'oecd': 'data/oecd.json',
+        'indices-meta': 'data/indices-meta.json',
+    };
+    const entries = Object.entries(files);
+    const results = await Promise.all(entries.map(([,url]) => fetch(url).then(r => r.json()).catch(() => null)));
+    entries.forEach(([key], i) => { dataSources[key] = results[i]; });
+    countries = dataSources.countries || [];
+    geojsonData = dataSources.geojson;
+}
+
+// ── TABS ──
+function switchTab(tab) {
+    document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+    document.getElementById('tab-' + tab).classList.add('active');
+    document.getElementById('tab-btn-' + tab).classList.add('active');
+    if (tab === 'ram' && ramMap) ramMap.invalidateSize();
+    if (tab === 'indices' && indicesMap) indicesMap.invalidateSize();
+}
+
+// ── CHOROPLETH HELPERS ──
+function getRAMStatus(iso) {
+    const ram = dataSources['unesco-ram'];
+    if (!ram) return null;
+    const entry = ram.countries?.find(c => c.iso === iso);
+    return entry ? entry.status : null;
+}
+
+function getRAMCountry(iso) {
+    return dataSources['unesco-ram']?.countries?.find(c => c.iso === iso);
+}
+
+function getIndexScore(iso, indexKey) {
+    const src = dataSources[indexKey];
+    if (!src) return null;
+    const arr = src.countries || src.data || [];
+    const entry = arr.find(c => c.iso === iso);
+    if (!entry) return null;
+    const meta = INDEX_META[indexKey];
+    return entry[meta?.field] ?? entry.overall ?? entry.score ?? entry.composite ?? null;
+}
+
+function scoreToColor(score, max) {
+    if (score == null) return '#e2e8f0';
+    const pct = score / max;
+    if (pct >= 0.8) return SCORE_COLORS[4];
+    if (pct >= 0.6) return SCORE_COLORS[3];
+    if (pct >= 0.4) return SCORE_COLORS[2];
+    if (pct >= 0.2) return SCORE_COLORS[1];
+    return SCORE_COLORS[0];
+}
+
+function getCountryByISO(iso) {
+    return countries.find(c => c.iso === iso);
+}
+
+// ── RAM MAP (Choropleth) ──
+function initRAMMap() {
+    ramMap = L.map('map-container', { center:[20,15], zoom:2, minZoom:2, maxZoom:6, scrollWheelZoom:true, worldCopyJump:true });
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+        attribution:'© <a href="https://carto.com/">CARTO</a>', subdomains:'abcd'
+    }).addTo(ramMap);
+
+    if (!geojsonData) return;
+
+    ramGeoLayer = L.geoJSON(geojsonData, {
+        style: feature => {
+            const iso = feature.properties.iso;
+            const status = getRAMStatus(iso);
+            return {
+                fillColor: RAM_COLORS[status] || RAM_COLORS.none,
+                weight: 1, color: '#fff', fillOpacity: 0.75,
+            };
+        },
+        onEachFeature: (feature, layer) => {
+            const iso = feature.properties.iso;
+            const name = feature.properties.name;
+            const nameAr = feature.properties.nameAr || '';
+            const status = getRAMStatus(iso);
+            const statusLabel = status === 'completed' ? 'Completed' : status === 'inProcess' ? 'In Process' : status === 'inPreparation' ? 'In Preparation' : 'Not Assessed';
+
+            layer.bindTooltip(`<div class="country-tooltip"><div class="tt-name">${name}</div><div class="tt-ar">${nameAr}</div><div>RAM: <span class="tt-score">${statusLabel}</span></div></div>`, {sticky:true});
+
+            layer.on('click', () => onRAMCountryClick(iso, name, nameAr, layer));
+            layer.on('mouseover', () => { if (!selectedCountries.includes(iso)) layer.setStyle({weight:2, color:'#1A5C3A'}); });
+            layer.on('mouseout', () => { if (!selectedCountries.includes(iso)) layer.setStyle({weight:1, color:'#fff'}); });
+        }
+    }).addTo(ramMap);
+}
+
+function onRAMCountryClick(iso, name, nameAr, layer) {
+    // Update info panel
+    const panel = document.getElementById('info-panel');
+    const ramEntry = getRAMCountry(iso);
+    const country = getCountryByISO(iso);
+
+    let html = `<h3>${name}</h3><p class="country-ar arabic">${nameAr}</p>`;
+
+    if (country?.region) html += `<div style="margin-bottom:12px"><span class="badge badge-none">${country.region}</span></div>`;
+
+    if (ramEntry) {
+        const statusCls = ramEntry.status === 'completed' ? 'badge-completed' : ramEntry.status === 'inProcess' ? 'badge-inprocess' : 'badge-inprep';
+        const statusLabel = ramEntry.status === 'completed' ? '✅ Completed' : ramEntry.status === 'inProcess' ? '🔄 In Process' : '📋 In Preparation';
+        html += `<div style="margin-bottom:16px"><span class="badge ${statusCls}">${statusLabel}</span></div>`;
+
+        if (ramEntry.dimensions) {
+            const dims = ['legalRegulatory','socialCultural','economic','scientificEducational','technologicalInfrastructural'];
+            const labels = ['Legal & Regulatory','Social & Cultural','Economic','Scientific & Educational','Technological & Infrastructure'];
+            dims.forEach((d, i) => {
+                const val = ramEntry.dimensions[d];
+                if (val != null) {
+                    const pct = (val/5)*100;
+                    html += `<div class="score-row"><span style="min-width:120px">${labels[i]}</span><div class="score-bar"><div class="score-fill" style="width:${pct}%"></div></div><span style="font-weight:600">${val}/5</span></div>`;
+                }
+            });
+        }
+
+        if (ramEntry.keyFindings?.length) {
+            html += `<h4 style="margin-top:16px;font-size:0.88rem;color:var(--text-dark)">Key Findings</h4><ul style="margin-top:8px;padding-left:16px;">`;
+            ramEntry.keyFindings.slice(0,5).forEach(f => { html += `<li style="font-size:0.8rem;color:var(--text-muted);margin-bottom:4px;line-height:1.4">${f}</li>`; });
+            html += `</ul>`;
+        }
+
+        if (ramEntry.ramUrl) html += `<a href="${ramEntry.ramUrl}" target="_blank" style="display:inline-block;margin-top:12px;color:var(--primary);font-size:0.82rem">View UNESCO Profile →</a>`;
+    } else {
+        html += `<p style="color:var(--text-muted);font-size:0.85rem;margin-top:12px">No UNESCO RAM assessment has been conducted for this country yet.</p>`;
+    }
+
+    panel.innerHTML = html;
+
+    // Toggle selection for radar
+    toggleCountrySelection(iso);
+}
+
+function toggleCountrySelection(iso) {
+    const idx = selectedCountries.indexOf(iso);
+    if (idx >= 0) {
+        selectedCountries.splice(idx, 1);
+    } else {
+        if (selectedCountries.length >= 8) selectedCountries.shift();
+        selectedCountries.push(iso);
+    }
+    updateSelectedBar();
+    updateRadarChart();
+    updateMapHighlights();
+}
+
+function updateMapHighlights() {
+    if (!ramGeoLayer) return;
+    ramGeoLayer.eachLayer(layer => {
+        const iso = layer.feature.properties.iso;
+        if (selectedCountries.includes(iso)) {
+            layer.setStyle({weight:3, color:'#1A5C3A'});
+            layer.bringToFront();
+        } else {
+            layer.setStyle({weight:1, color:'#fff'});
+        }
+    });
+}
+
+function updateSelectedBar() {
+    const bar = document.getElementById('selected-countries');
+    bar.innerHTML = selectedCountries.map((iso, i) => {
+        const c = getCountryByISO(iso) || {name: iso};
+        const color = CHART_PALETTE[i % CHART_PALETTE.length].border;
+        return `<div class="selected-chip" style="background:${color}"><span>${c.name}</span><button onclick="removeSelection('${iso}')">✕</button></div>`;
+    }).join('');
+}
+
+function removeSelection(iso) {
+    selectedCountries = selectedCountries.filter(c => c !== iso);
+    updateSelectedBar();
+    updateRadarChart();
+    updateMapHighlights();
+}
+
+// ── RADAR CHART ──
+function updateRadarChart() {
+    const ctx = document.getElementById('radar-chart');
+    if (radarChart) radarChart.destroy();
+    if (selectedCountries.length === 0) return;
+
+    const dims = ['legalRegulatory','socialCultural','economic','scientificEducational','technologicalInfrastructural'];
+    const labels = ['Legal & Regulatory','Social & Cultural','Economic','Scientific & Educational','Tech & Infrastructure'];
+
+    const datasets = selectedCountries.map((iso, i) => {
+        const ram = getRAMCountry(iso);
+        const c = getCountryByISO(iso);
+        const palette = CHART_PALETTE[i % CHART_PALETTE.length];
+        return {
+            label: c?.name || iso,
+            data: dims.map(d => ram?.dimensions?.[d] ?? 0),
+            backgroundColor: palette.bg,
+            borderColor: palette.border,
+            borderWidth: 2,
+            pointBackgroundColor: palette.border,
+            pointBorderColor: '#fff',
+        };
+    });
+
+    radarChart = new Chart(ctx, {
+        type: 'radar',
+        data: { labels, datasets },
+        options: {
+            responsive: true, maintainAspectRatio: true,
+            animation: {duration:400},
+            scales: { r: { min:0, max:5, ticks:{stepSize:1, backdropColor:'transparent', color:'#5a6d64'}, pointLabels:{font:{size:11,weight:'500'}, color:'#0D3D2A'}, grid:{color:'rgba(13,61,42,0.1)'}, angleLines:{color:'rgba(13,61,42,0.1)'} } },
+            plugins: { legend: { position:'bottom', labels:{usePointStyle:true, padding:16, color:'#0D3D2A', font:{size:11}} } }
+        }
+    });
+}
+
+// ── INDICES MAP (Choropleth) ──
+function initIndicesMap() {
+    indicesMap = L.map('indices-map-container', { center:[20,15], zoom:2, minZoom:2, maxZoom:6, scrollWheelZoom:true, worldCopyJump:true });
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+        attribution:'© <a href="https://carto.com/">CARTO</a>', subdomains:'abcd'
+    }).addTo(indicesMap);
+    updateIndicesMap();
+}
+
+function updateIndicesMap() {
+    const indexKey = document.getElementById('index-selector').value;
+    const meta = INDEX_META[indexKey];
+    if (!meta || !geojsonData) return;
+
+    if (indicesGeoLayer) indicesMap.removeLayer(indicesGeoLayer);
+
+    indicesGeoLayer = L.geoJSON(geojsonData, {
+        style: feature => {
+            const iso = feature.properties.iso;
+            const score = getIndexScore(iso, indexKey);
+            return {
+                fillColor: scoreToColor(score, meta.max),
+                weight: 1, color: '#fff', fillOpacity: 0.8,
+            };
+        },
+        onEachFeature: (feature, layer) => {
+            const iso = feature.properties.iso;
+            const name = feature.properties.name;
+            const nameAr = feature.properties.nameAr || '';
+            const score = getIndexScore(iso, indexKey);
+            const scoreStr = score != null ? (meta.max === 1 ? (score*100).toFixed(0) + '%' : score.toFixed(1)) : 'No data';
+
+            layer.bindTooltip(`<div class="country-tooltip"><div class="tt-name">${name}</div><div class="tt-ar">${nameAr}</div><div>${meta.name}: <span class="tt-score">${scoreStr}</span></div></div>`, {sticky:true});
+
+            layer.on('click', () => onIndicesCountryClick(iso, name, nameAr));
+            layer.on('mouseover', () => layer.setStyle({weight:2, color:'#1A5C3A'}));
+            layer.on('mouseout', () => layer.setStyle({weight:1, color:'#fff'}));
+        }
+    }).addTo(indicesMap);
+
+    updateBarChart(indexKey);
+}
+
+function onIndicesCountryClick(iso, name, nameAr) {
+    const panel = document.getElementById('indices-info-panel');
+    const country = getCountryByISO(iso);
+    let html = `<h3>${name}</h3><p class="country-ar arabic">${nameAr}</p>`;
+    if (country?.region) html += `<div style="margin-bottom:12px"><span class="badge badge-none">${country.region}</span></div>`;
+
+    html += `<h4 style="font-size:0.88rem;color:var(--text-dark);margin-bottom:12px">Index Scores</h4>`;
+
+    Object.entries(INDEX_META).forEach(([key, meta]) => {
+        const score = getIndexScore(iso, key);
+        if (score != null) {
+            const pct = (score / meta.max) * 100;
+            const display = meta.max === 1 ? (score*100).toFixed(0)+'%' : score.toFixed(1);
+            html += `<div class="score-row"><span style="min-width:130px;font-size:0.82rem">${meta.name}</span><div class="score-bar"><div class="score-fill" style="width:${Math.min(pct,100)}%"></div></div><span style="font-weight:600;font-size:0.82rem">${display}</span></div>`;
+        } else {
+            html += `<div class="score-row" style="opacity:0.4"><span style="min-width:130px;font-size:0.82rem">${meta.name}</span><span style="font-size:0.82rem;color:var(--text-muted)">—</span></div>`;
+        }
+    });
+
+    panel.innerHTML = html;
+}
+
+// ── BAR CHART ──
+function updateBarChart(indexKey) {
+    const ctx = document.getElementById('bar-chart');
+    if (barChart) barChart.destroy();
+
+    const meta = INDEX_META[indexKey];
+    if (!meta) return;
+    const src = dataSources[indexKey];
+    if (!src) return;
+
+    const arr = (src.countries || src.data || [])
+        .filter(c => c[meta.field] != null)
+        .sort((a,b) => (b[meta.field]||0) - (a[meta.field]||0))
+        .slice(0, 20);
+
+    barChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: arr.map(c => c.name || c.iso),
+            datasets: [{
+                data: arr.map(c => meta.max === 1 ? (c[meta.field]*100) : c[meta.field]),
+                backgroundColor: arr.map((_, i) => i < 3 ? '#1A5C3A' : i < 10 ? '#4DC88E' : '#a7f3d0'),
+                borderRadius: 4,
+            }]
+        },
+        options: {
+            indexAxis: 'y', responsive: true,
+            plugins: { legend:{display:false} },
+            scales: { x:{grid:{color:'rgba(13,61,42,0.06)'}}, y:{ticks:{font:{size:11}}} }
+        }
+    });
+}
+
+// ── SCATTER CHART ──
+function initScatterSelects() {
+    const indices = Object.entries(INDEX_META);
+    ['scatter-x','scatter-y'].forEach((id, idx) => {
+        const sel = document.getElementById(id);
+        indices.forEach(([key, meta], i) => {
+            const opt = document.createElement('option');
+            opt.value = key; opt.textContent = meta.name;
+            if (idx === 0 && i === 0) opt.selected = true;
+            if (idx === 1 && i === 1) opt.selected = true;
+            sel.appendChild(opt);
+        });
+        sel.onchange = updateScatterChart;
+    });
+    updateScatterChart();
+}
+
+function updateScatterChart() {
+    const ctx = document.getElementById('scatter-chart');
+    if (scatterChart) scatterChart.destroy();
+
+    const xKey = document.getElementById('scatter-x').value;
+    const yKey = document.getElementById('scatter-y').value;
+    const xMeta = INDEX_META[xKey], yMeta = INDEX_META[yKey];
+    if (!xMeta || !yMeta) return;
+
+    const points = [];
+    countries.forEach(c => {
+        const xScore = getIndexScore(c.iso, xKey);
+        const yScore = getIndexScore(c.iso, yKey);
+        if (xScore != null && yScore != null) {
+            points.push({
+                x: xMeta.max === 1 ? xScore*100 : xScore,
+                y: yMeta.max === 1 ? yScore*100 : yScore,
+                label: c.name,
+            });
+        }
+    });
+
+    scatterChart = new Chart(ctx, {
+        type: 'scatter',
+        data: { datasets: [{ data: points, backgroundColor: 'rgba(26,92,58,0.5)', borderColor: '#1A5C3A', pointRadius: 5, pointHoverRadius: 8 }] },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {display:false},
+                tooltip: { callbacks: { label: ctx => ctx.raw.label + ` (${ctx.raw.x.toFixed(1)}, ${ctx.raw.y.toFixed(1)})` } }
+            },
+            scales: {
+                x: { title:{display:true, text:xMeta.name, font:{size:11}}, grid:{color:'rgba(13,61,42,0.06)'} },
+                y: { title:{display:true, text:yMeta.name, font:{size:11}}, grid:{color:'rgba(13,61,42,0.06)'} }
+            }
+        }
+    });
+}
+
+// ── COVERAGE GRID ──
+function renderCoverage() {
+    const grid = document.getElementById('coverage-grid');
+    const sources = [
+        {key:'unesco-ram', name:'UNESCO RAM', color:'#10b981'},
+        {key:'oxford', name:'Oxford Insights', color:'#1A5C3A'},
+        {key:'imf-aipi', name:'IMF AIPI', color:'#0D3D2A'},
+        {key:'tortoise', name:'Tortoise', color:'#4DC88E'},
+        {key:'girai', name:'GIRAI', color:'#6366f1'},
+        {key:'stanford-hai', name:'Stanford HAI', color:'#f59e0b'},
+        {key:'world-bank', name:'World Bank', color:'#00b4d8'},
+        {key:'icesco', name:'ICESCO', color:'#a855f7'},
+    ];
+    grid.innerHTML = sources.map(s => {
+        const src = dataSources[s.key];
+        const count = (src?.countries || src?.data || []).length;
+        return `<div class="coverage-card" style="border-left-color:${s.color}"><div class="cov-num">${count}</div><div class="cov-label">${s.name}</div></div>`;
+    }).join('');
+}
+
+// ── SOURCES ──
+function renderSources() {
+    const grid = document.getElementById('sources-grid');
+    const sources = [
+        {name:'UNESCO RAM', org:'UNESCO', url:'https://www.unesco.org/ethics-ai/en/global-hub', desc:'Readiness Assessment Methodology — qualitative 5-dimension assessment across 70+ countries'},
+        {name:'Oxford Insights', org:'Oxford Insights', url:'https://oxfordinsights.com/ai-readiness/', desc:'Government AI Readiness Index — 188 countries, 40 indicators across 3 pillars'},
+        {name:'IMF AIPI', org:'International Monetary Fund', url:'https://www.imf.org/external/datamapper/datasets/AIPI', desc:'AI Preparedness Index — 174 economies, 4 dimensions'},
+        {name:'Tortoise Global AI', org:'Tortoise Media', url:'https://www.tortoisemedia.com/data/global-ai', desc:'Global AI Index — 83 countries, 122 indicators, 7 pillars'},
+        {name:'GIRAI', org:'Global Center on AI Governance', url:'https://www.global-index.ai/', desc:'Global Index on Responsible AI — 138 countries, human rights-based benchmarks'},
+        {name:'Stanford HAI', org:'Stanford University', url:'https://aiindex.stanford.edu/', desc:'AI Index Report & Global AI Vibrancy Tool — investment, research, policy data'},
+        {name:'World Bank', org:'World Bank Group', url:'https://www.worldbank.org/en/publication/dptr2025-ai-foundations', desc:'Digital Progress & Trends 2025 — 4Cs framework for AI foundations'},
+        {name:'ICESCO AI Index', org:'ICESCO', url:'https://icesco.org', desc:'AI Index for the Islamic World — 9 OIC countries, based on Riyadh Charter'},
+        {name:'OECD AI Observatory', org:'OECD', url:'https://oecd.ai', desc:'AI Policy Observatory — policy tracking, incidents monitor, compute metrics'},
+    ];
+    grid.innerHTML = sources.map(s =>
+        `<div class="source-card"><h4>${s.name}</h4><p style="font-size:0.75rem;color:var(--accent);margin-bottom:4px">${s.org}</p><p>${s.desc}</p><a href="${s.url}" target="_blank">Visit source →</a></div>`
+    ).join('');
+}
+
+// ── HERO STATS ──
+function updateHeroStats() {
+    document.getElementById('stat-countries').textContent = countries.length;
+    const ram = dataSources['unesco-ram'];
+    const ramTotal = (ram?.countries || []).length;
+    document.getElementById('stat-ram').textContent = ramTotal;
+    document.getElementById('stat-dimensions').textContent = '45+';
+    document.getElementById('last-updated').textContent = '2026-02-19';
+}
+
+// ── NAV SCROLL ──
+window.addEventListener('scroll', () => {
+    document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 50);
+});
+
+// ── INIT ──
+async function main() {
+    await loadData();
+    updateHeroStats();
+    initRAMMap();
+    initIndicesMap();
+    initScatterSelects();
+    renderCoverage();
+    renderSources();
+}
+main();
+</script>
 
 </body>
 </html>

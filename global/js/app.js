@@ -1,348 +1,593 @@
-// app.js — Main application logic for ICAIRE Global AI Readiness Monitor
+// app.js — ICAIRE Global AI Readiness Monitor
 
 const App = (() => {
-    // ── STATE ──
+    // State
     let countries = [];
     let indicesMeta = [];
     let dataSources = {};
-    let selectedForRadar = []; // [{iso, name, ...}]
+    let activeTab = 'ram';
+    let ramSelected = new Set();    // ISO codes selected on RAM map
+    let indicesSelected = new Set(); // ISO codes selected on Indices map
+    let activeIndex = 'oxford';     // Currently displayed index
+    let ramMap = null;
+    let indicesMap = null;
+    let ramRadarChart = null;
+    let ramBarChart = null;
+    let indicesBarChart = null;
+    let indicesScatterChart = null;
 
     const DATA_FILES = {
-        'countries':     'data/countries.json',
-        'indices-meta':  'data/indices-meta.json',
-        'unesco-ram':    'data/unesco-ram.json',
-        'imf-aipi':      'data/imf-aipi.json',
-        'oxford':        'data/oxford-insights.json',
-        'tortoise':      'data/tortoise.json',
-        'girai':         'data/girai.json',
-        'stanford-hai':  'data/stanford-hai.json',
-        'world-bank':    'data/world-bank.json',
-        'icesco':        'data/icesco.json',
-        'oecd':          'data/oecd.json',
+        'countries': 'data/countries.json',
+        'indices-meta': 'data/indices-meta.json',
+        'unesco-ram': 'data/unesco-ram.json',
+        'imf-aipi': 'data/imf-aipi.json',
+        'oxford': 'data/oxford-insights.json',
+        'tortoise': 'data/tortoise.json',
+        'girai': 'data/girai.json',
+        'stanford-hai': 'data/stanford-hai.json',
+        'world-bank': 'data/world-bank.json',
+        'icesco': 'data/icesco.json',
+        'oecd': 'data/oecd.json',
     };
 
-    // ── LOAD DATA ──
+    const RAM_DIMS = ['legalRegulatory', 'socialCultural', 'economic', 'scientificEducational', 'technologicalInfrastructural'];
+    const RAM_DIM_LABELS = ['Legal & Regulatory', 'Social & Cultural', 'Economic', 'Scientific & Educational', 'Tech & Infrastructure'];
+    const CHART_COLORS = [
+        '#1A5C3A', '#4DC88E', '#0D3D2A', '#00B4D8', '#6366F1',
+        '#F59E0B', '#EF4444', '#A855F7', '#EC4899', '#14B8A6'
+    ];
+
+    // ─── LOAD ───
     async function loadAll() {
         const entries = Object.entries(DATA_FILES);
-        const results = await Promise.all(entries.map(([, url]) => fetch(url).then(r => r.json())));
+        const results = await Promise.all(entries.map(([, url]) => fetch(url).then(r => r.json()).catch(() => null)));
         entries.forEach(([key], i) => { dataSources[key] = results[i]; });
-        countries = dataSources['countries'];
-        indicesMeta = dataSources['indices-meta'];
+        countries = dataSources['countries'] || [];
+        indicesMeta = dataSources['indices-meta'] || [];
     }
 
-    // ── INIT ──
+    // ─── INIT ───
     async function init() {
         await loadAll();
+        await MapView.loadBoundaries();
 
         // Hero stats
+        const ram = dataSources['unesco-ram'];
+        const ramCountries = ram?.countries || [];
         document.getElementById('stat-countries').textContent = countries.length;
-        const ramData = dataSources['unesco-ram'];
-        const ramCountries = ramData?.countries || [];
         document.getElementById('stat-completed').textContent = ramCountries.filter(c => c.status === 'completed').length;
         document.getElementById('stat-inprocess').textContent = ramCountries.filter(c => c.status === 'inProcess' || c.status === 'inPreparation').length;
-        document.getElementById('stat-indices').textContent = (indicesMeta?.length || Object.keys(DATA_FILES).length - 2);
-        document.getElementById('last-updated').textContent = new Date().toISOString().split('T')[0];
+        document.getElementById('stat-indices').textContent = indicesMeta.length || 9;
 
-        // Index selector
-        Filters.renderIndexSelector(document.getElementById('index-selector-bar'), indicesMeta);
-
-        // Filter bars
-        Filters.renderFilterBars(document.getElementById('filter-bar'));
-
-        // Map
-        MapView.init('map-container');
-        renderMap();
-
-        // Wire filter changes
-        Filters.onChange(() => {
-            renderMap();
-            renderBarChart();
-            renderScatterChart();
-            Filters.renderFilterBars(document.getElementById('filter-bar'));
-            Filters.renderIndexSelector(document.getElementById('index-selector-bar'), indicesMeta);
+        // Tab switching
+        document.querySelectorAll('.nav-tab:not(.disabled)').forEach(tab => {
+            tab.addEventListener('click', () => switchTab(tab.dataset.tab));
         });
 
-        // Populate dimension selects
-        populateDimensionSelects();
+        // Init RAM tab
+        initRAMTab();
 
-        // Bar chart default
-        renderBarChart();
+        // Populate RAM dim select
+        const ramDimSel = document.getElementById('ram-dim-select');
+        RAM_DIMS.forEach((d, i) => {
+            const opt = document.createElement('option');
+            opt.value = d; opt.textContent = RAM_DIM_LABELS[i];
+            ramDimSel.appendChild(opt);
+        });
+        ramDimSel.addEventListener('change', renderRAMBar);
 
-        // Scatter chart default
-        renderScatterChart();
+        // RAM stats
+        renderRAMStats();
 
-        // Country search
-        setupSearch();
-
-        // Sources grid
+        // Sources
         renderSources();
-
-        // Gap analysis
-        renderGapAnalysis();
-
-        // Modal close
-        document.getElementById('modal-close').onclick = closeModal;
-        document.getElementById('country-modal').onclick = e => { if (e.target === e.currentTarget) closeModal(); };
-
-        // Scroll nav + scroll-top
-        setupScroll();
     }
 
-    // ── MAP ──
-    function getFilteredCountries() {
-        return Filters.filterCountries(countries);
-    }
+    function switchTab(tab) {
+        activeTab = tab;
+        document.querySelectorAll('.nav-tab').forEach(t => t.classList.toggle('active', t.dataset.tab === tab));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.toggle('active', c.id === `tab-${tab}`));
 
-    function renderMap() {
-        const filtered = getFilteredCountries();
-        MapView.render(filtered, dataSources['unesco-ram'], openCountryModal);
-    }
-
-    // ── COUNTRY MODAL ──
-    function openCountryModal(country) {
-        const modal = document.getElementById('country-modal');
-        document.getElementById('modal-country-name').textContent = country.name;
-        document.getElementById('modal-country-name-ar').textContent = country.nameAr || '';
-
-        const body = document.getElementById('modal-body');
-        let html = '';
-
-        // Region & memberships
-        html += `<div class="modal-section"><h4>Region & Memberships</h4>
-            <div class="modal-badges"><span class="modal-badge">${country.region}</span>`;
-        if (country.memberships) {
-            Object.keys(country.memberships).forEach(m => {
-                if (country.memberships[m]) html += `<span class="modal-badge">${m.toUpperCase()}</span>`;
-            });
+        // Lazy init indices tab
+        if (tab === 'indices' && !indicesMap) {
+            initIndicesTab();
         }
-        html += `</div></div>`;
 
-        // UNESCO RAM
-        const ram = dataSources['unesco-ram']?.countries?.find(c => c.iso === country.iso);
-        if (ram) {
-            const statusCls = `status-${ram.status}`;
-            const statusLabel = ram.status === 'completed' ? 'Completed' : ram.status === 'inProcess' ? 'In Process' : 'In Preparation';
-            html += `<div class="modal-section"><h4>UNESCO RAM Assessment</h4>
-                <div class="modal-badges"><span class="modal-badge ${statusCls}">${statusLabel}</span></div>`;
-            if (ram.dimensions) {
-                html += `<div style="margin-top:12px;">`;
-                Charts.DIMENSION_KEYS.forEach((k, i) => {
-                    const val = ram.dimensions[k];
+        // Leaflet needs invalidateSize after tab show
+        setTimeout(() => {
+            if (tab === 'ram') document.getElementById('ram-map')?._leaflet_id && null;
+            if (tab === 'indices') document.getElementById('indices-map')?._leaflet_id && null;
+        }, 100);
+    }
+
+    // ─── RAM TAB ───
+    function initRAMTab() {
+        MapView.init('ram-map');
+
+        const ram = dataSources['unesco-ram'];
+        const ramCountryMap = {};
+        (ram?.countries || []).forEach(c => { ramCountryMap[c.iso] = c; });
+
+        MapView.render(
+            // Color function
+            (iso) => {
+                const rc = ramCountryMap[iso];
+                return rc ? MapView.ramStatusColor(rc.status) : MapView.STATUS_COLORS.none;
+            },
+            // Tooltip function
+            (iso, name, nameAr) => {
+                const rc = ramCountryMap[iso];
+                const status = rc ? rc.status.replace('inProcess', 'In Process').replace('inPreparation', 'In Preparation').replace('completed', 'Completed') : 'Not Assessed';
+                const color = rc ? MapView.ramStatusColor(rc.status) : '#999';
+                return `<strong>${name}</strong><br><span style="font-family:Cairo">${nameAr}</span><br><span style="color:${color}">● ${status}</span>`;
+            },
+            // Click handler
+            (iso, name, nameAr) => {
+                if (ramSelected.has(iso)) {
+                    ramSelected.delete(iso);
+                } else {
+                    if (ramSelected.size >= 8) return; // Max 8
+                    ramSelected.add(iso);
+                }
+                MapView.setSelected(ramSelected);
+                renderRAMSelectedBar();
+                renderRAMRadar();
+                renderRAMBar();
+                renderRAMCountryCards();
+            }
+        );
+    }
+
+    function renderRAMSelectedBar() {
+        const bar = document.getElementById('ram-selected-bar');
+        if (ramSelected.size === 0) {
+            bar.innerHTML = '<p class="empty-msg">Click countries on the map to select them for comparison</p>';
+            return;
+        }
+        const ram = dataSources['unesco-ram'];
+        bar.innerHTML = Array.from(ramSelected).map(iso => {
+            const c = countries.find(x => x.iso === iso);
+            const name = c?.name || iso;
+            return `<span class="selected-country-chip" onclick="App.deselectRAM('${iso}')">${name} <span class="remove">✕</span></span>`;
+        }).join('');
+    }
+
+    function renderRAMRadar() {
+        const el = document.getElementById('ram-radar');
+        const empty = document.getElementById('ram-radar-empty');
+        if (ramSelected.size === 0) {
+            empty.style.display = 'block';
+            if (ramRadarChart) { ramRadarChart.destroy(); ramRadarChart = null; }
+            return;
+        }
+        empty.style.display = 'none';
+
+        const ram = dataSources['unesco-ram'];
+        const datasets = [];
+        let i = 0;
+        ramSelected.forEach(iso => {
+            const rc = ram?.countries?.find(c => c.iso === iso);
+            if (!rc?.dimensions) return;
+            const c = countries.find(x => x.iso === iso);
+            const color = CHART_COLORS[i % CHART_COLORS.length];
+            datasets.push({
+                label: c?.name || iso,
+                data: RAM_DIMS.map(d => rc.dimensions[d] || 0),
+                backgroundColor: color + '22',
+                borderColor: color,
+                borderWidth: 2,
+                pointBackgroundColor: color,
+                pointBorderColor: '#fff',
+            });
+            i++;
+        });
+
+        if (ramRadarChart) ramRadarChart.destroy();
+        ramRadarChart = new Chart(el, {
+            type: 'radar',
+            data: { labels: RAM_DIM_LABELS, datasets },
+            options: {
+                responsive: true, maintainAspectRatio: true,
+                animation: { duration: 300 },
+                scales: { r: { min: 0, max: 5, ticks: { stepSize: 1, backdropColor: 'transparent', color: '#5a6d64' }, pointLabels: { font: { size: 11 }, color: '#0D3D2A' }, grid: { color: 'rgba(13,61,42,0.1)' } } },
+                plugins: { legend: { position: 'bottom', labels: { usePointStyle: true, padding: 16, color: '#0D3D2A', font: { size: 11 } } } }
+            }
+        });
+    }
+
+    function renderRAMBar() {
+        const el = document.getElementById('ram-bar');
+        const dim = document.getElementById('ram-dim-select')?.value || RAM_DIMS[0];
+        const ram = dataSources['unesco-ram'];
+        const completed = (ram?.countries || []).filter(c => c.status === 'completed' && c.dimensions);
+        const dimIdx = RAM_DIMS.indexOf(dim);
+
+        const sorted = completed.map(c => ({
+            name: countries.find(x => x.iso === c.iso)?.name || c.iso,
+            iso: c.iso,
+            value: c.dimensions[dim] || 0
+        })).sort((a, b) => b.value - a.value);
+
+        if (ramBarChart) ramBarChart.destroy();
+        ramBarChart = new Chart(el, {
+            type: 'bar',
+            data: {
+                labels: sorted.map(s => s.name),
+                datasets: [{
+                    data: sorted.map(s => s.value),
+                    backgroundColor: sorted.map(s => ramSelected.has(s.iso) ? '#1A5C3A' : '#4DC88E'),
+                    borderRadius: 4,
+                }]
+            },
+            options: {
+                responsive: true, indexAxis: 'y',
+                animation: { duration: 300 },
+                scales: { x: { min: 0, max: 5, ticks: { stepSize: 1 } } },
+                plugins: { legend: { display: false } }
+            }
+        });
+    }
+
+    function renderRAMCountryCards() {
+        const container = document.getElementById('ram-country-cards');
+        if (ramSelected.size === 0) {
+            container.innerHTML = '<p class="empty-msg">Select countries on the map to see their assessment details</p>';
+            return;
+        }
+        const ram = dataSources['unesco-ram'];
+        let html = '';
+        ramSelected.forEach(iso => {
+            const rc = ram?.countries?.find(c => c.iso === iso);
+            const c = countries.find(x => x.iso === iso);
+            if (!rc || !c) return;
+
+            const statusColors = { completed: '#10b981', inProcess: '#f59e0b', inPreparation: '#6366f1' };
+            const statusLabel = rc.status.replace('inProcess', 'In Process').replace('inPreparation', 'In Preparation').replace('completed', 'Completed');
+            const statusColor = statusColors[rc.status] || '#999';
+
+            html += `<div class="country-card">
+                <h3>${c.name}</h3>
+                <p class="name-ar">${c.nameAr || ''}</p>
+                <span class="status-badge" style="background:${statusColor}22;color:${statusColor}">${statusLabel}</span>`;
+
+            if (rc.dimensions) {
+                RAM_DIMS.forEach((d, i) => {
+                    const val = rc.dimensions[d];
                     if (val != null) {
                         const pct = (val / 5) * 100;
-                        html += `<div style="margin-bottom:8px;"><div style="display:flex;justify-content:space-between;font-size:0.82rem;margin-bottom:3px;"><span>${Charts.DIMENSION_LABELS[i]}</span><span>${val}/5</span></div>
-                        <div style="background:rgba(13,61,42,0.08);border-radius:4px;height:8px;"><div style="background:var(--accent);height:100%;border-radius:4px;width:${pct}%"></div></div></div>`;
+                        html += `<div class="dim-bar"><div class="dim-bar-label"><span>${RAM_DIM_LABELS[i]}</span><span>${val}/5</span></div><div class="dim-bar-track"><div class="dim-bar-fill" style="width:${pct}%"></div></div></div>`;
                     }
                 });
-                html += `</div>`;
             }
-            if (ram.keyFindings?.length) {
-                html += `<ul class="findings-list" style="margin-top:12px;">`;
-                ram.keyFindings.forEach(f => { html += `<li>${f}</li>`; });
+
+            if (rc.keyFindings?.length) {
+                html += `<ul class="findings-list">`;
+                rc.keyFindings.slice(0, 5).forEach(f => { html += `<li>${f}</li>`; });
                 html += `</ul>`;
             }
-            html += `</div>`;
-        }
 
-        // Other indices presence
-        const otherIndices = [];
-        indicesMeta.forEach(idx => {
-            if (idx.id === 'unesco-ram') return;
-            const src = dataSources[idx.id];
-            if (!src) return;
-            const arr = src.countries || src.data || [];
-            const found = arr.find(c => c.iso === country.iso);
-            if (found) {
-                let score = found.score ?? found.overall ?? found.composite ?? null;
-                otherIndices.push({ name: idx.name, color: idx.color, score });
+            if (rc.ramUrl) {
+                html += `<p style="margin-top:12px"><a href="${rc.ramUrl}" target="_blank" style="font-size:0.82rem">View full UNESCO RAM profile →</a></p>`;
             }
+            html += `</div>`;
         });
-        if (otherIndices.length) {
-            html += `<div class="modal-section"><h4>Other Index Coverage</h4><div class="modal-badges">`;
-            otherIndices.forEach(oi => {
-                const scoreStr = oi.score != null ? ` (${oi.score})` : '';
-                html += `<span class="modal-badge" style="border-left:3px solid ${oi.color}">${oi.name}${scoreStr}</span>`;
-            });
-            html += `</div></div>`;
-        }
-
-        body.innerHTML = html;
-        modal.classList.add('show');
+        container.innerHTML = html;
     }
 
-    function closeModal() {
-        document.getElementById('country-modal').classList.remove('show');
+    function renderRAMStats() {
+        const ram = dataSources['unesco-ram'];
+        const rc = ram?.countries || [];
+        const completed = rc.filter(c => c.status === 'completed').length;
+        const inProcess = rc.filter(c => c.status === 'inProcess').length;
+        const inPrep = rc.filter(c => c.status === 'inPreparation').length;
+        const total = rc.length;
+
+        const grid = document.getElementById('ram-stats-grid');
+        grid.innerHTML = `
+            <div class="stat-card"><div class="stat-num" style="color:#10b981">${completed}</div><div class="stat-label">Completed</div></div>
+            <div class="stat-card"><div class="stat-num" style="color:#f59e0b">${inProcess}</div><div class="stat-label">In Process</div></div>
+            <div class="stat-card"><div class="stat-num" style="color:#6366f1">${inPrep}</div><div class="stat-label">In Preparation</div></div>
+            <div class="stat-card"><div class="stat-num" style="color:var(--primary)">${total}</div><div class="stat-label">Total Countries</div></div>
+            <div class="stat-card"><div class="stat-num" style="color:var(--text-muted)">${countries.length - total}</div><div class="stat-label">Not Yet Assessed</div></div>
+        `;
     }
 
-    // ── DIMENSION SELECTS ──
-    function populateDimensionSelects() {
-        const barSel = document.getElementById('bar-dimension-select');
+    // ─── INDICES TAB ───
+    function initIndicesTab() {
+        // Create second map instance
+        const mapEl = document.getElementById('indices-map');
+        indicesMap = L.map(mapEl, {
+            center: [25, 20], zoom: 2, minZoom: 2, maxZoom: 7,
+            worldCopyJump: true, scrollWheelZoom: true,
+        });
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+            attribution: '© CARTO', subdomains: 'abcd', maxZoom: 19
+        }).addTo(indicesMap);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
+            subdomains: 'abcd', maxZoom: 19, pane: 'overlayPane'
+        }).addTo(indicesMap);
+
+        // Index selector buttons
+        renderIndexSelector();
+
+        // Scatter selects
         const scatterX = document.getElementById('scatter-x-select');
         const scatterY = document.getElementById('scatter-y-select');
-
-        Charts.DIMENSION_KEYS.forEach((k, i) => {
-            const lbl = Charts.DIMENSION_LABELS[i];
-            [barSel, scatterX, scatterY].forEach(sel => {
+        indicesMeta.forEach(idx => {
+            [scatterX, scatterY].forEach(sel => {
                 const opt = document.createElement('option');
-                opt.value = k;
-                opt.textContent = lbl;
+                opt.value = idx.id; opt.textContent = idx.name;
                 sel.appendChild(opt);
             });
         });
-
-        // Defaults: scatter Y = second dimension
         if (scatterY.options.length > 1) scatterY.selectedIndex = 1;
+        scatterX.addEventListener('change', renderIndicesScatter);
+        scatterY.addEventListener('change', renderIndicesScatter);
 
-        barSel.onchange = renderBarChart;
-        scatterX.onchange = renderScatterChart;
-        scatterY.onchange = renderScatterChart;
+        // Render map with default index
+        renderIndicesMap();
+
+        // Coverage
+        renderCoverage();
     }
 
-    // ── BAR CHART ──
-    function renderBarChart() {
-        const dimKey = document.getElementById('bar-dimension-select').value || Charts.DIMENSION_KEYS[0];
-        const filtered = getFilteredCountries();
-        Charts.renderBar('bar-chart', filtered, dataSources['unesco-ram'], dimKey);
-    }
-
-    // ── SCATTER ──
-    function renderScatterChart() {
-        const dimX = document.getElementById('scatter-x-select').value || Charts.DIMENSION_KEYS[0];
-        const dimY = document.getElementById('scatter-y-select').value || Charts.DIMENSION_KEYS[1];
-        const filtered = getFilteredCountries();
-        Charts.renderScatter('scatter-chart', filtered, dataSources['unesco-ram'], dimX, dimY);
-    }
-
-    // ── RADAR SEARCH ──
-    function setupSearch() {
-        const input = document.getElementById('country-search');
-        const results = document.getElementById('search-results');
-
-        input.addEventListener('input', () => {
-            const q = input.value.trim().toLowerCase();
-            if (q.length < 1) { results.classList.remove('show'); return; }
-            // Filter countries with RAM data that aren't already selected
-            const ramCountries = dataSources['unesco-ram'].countries.map(r => r.iso);
-            const matches = countries.filter(c =>
-                ramCountries.includes(c.iso) &&
-                !selectedForRadar.find(s => s.iso === c.iso) &&
-                (c.name.toLowerCase().includes(q) || c.nameAr?.includes(q) || c.iso.toLowerCase().includes(q))
-            ).slice(0, 8);
-
-            if (matches.length === 0) { results.classList.remove('show'); return; }
-            results.innerHTML = matches.map(c =>
-                `<div class="search-result-item" data-iso="${c.iso}"><span>${c.name}</span><span class="region-tag">${c.region}</span></div>`
-            ).join('');
-            results.classList.add('show');
-
-            results.querySelectorAll('.search-result-item').forEach(el => {
-                el.onclick = () => {
-                    const iso = el.dataset.iso;
-                    const country = countries.find(c => c.iso === iso);
-                    if (country && selectedForRadar.length < 10) {
-                        selectedForRadar.push(country);
-                        input.value = '';
-                        results.classList.remove('show');
-                        renderRadarSection();
-                    }
-                };
-            });
-        });
-
-        // Close on outside click
-        document.addEventListener('click', e => {
-            if (!e.target.closest('.search-box')) results.classList.remove('show');
-        });
-    }
-
-    function renderRadarSection() {
-        const container = document.getElementById('selected-countries');
-        const emptyEl = document.getElementById('radar-empty');
-
-        container.innerHTML = selectedForRadar.map((c, i) => {
-            const color = Charts.COLORS[i % Charts.COLORS.length].border;
-            return `<span class="selected-tag" style="background:${color}" data-iso="${c.iso}">${c.name} <span class="remove">&times;</span></span>`;
+    function renderIndexSelector() {
+        const container = document.getElementById('index-selector-bar');
+        container.innerHTML = indicesMeta.map(idx => {
+            const cls = idx.id === activeIndex ? 'index-btn active' : 'index-btn';
+            return `<button class="${cls}" data-idx="${idx.id}" onclick="App.selectIndex('${idx.id}')">${idx.name}</button>`;
         }).join('');
+    }
 
-        container.querySelectorAll('.selected-tag .remove').forEach(btn => {
-            btn.onclick = () => {
-                const iso = btn.parentElement.dataset.iso;
-                selectedForRadar = selectedForRadar.filter(c => c.iso !== iso);
-                renderRadarSection();
+    function selectIndex(id) {
+        activeIndex = id;
+        renderIndexSelector();
+        renderIndicesMap();
+    }
+
+    function getIndexScore(indexId, iso) {
+        const src = dataSources[indexId];
+        if (!src) return null;
+        const arr = src.countries || src.data || [];
+        const found = arr.find(c => c.iso === iso);
+        if (!found) return null;
+        return found.score ?? found.overall ?? found.composite ?? null;
+    }
+
+    function renderIndicesMap() {
+        if (!indicesMap) return;
+
+        // Remove old geo layer
+        indicesMap.eachLayer(layer => {
+            if (layer instanceof L.GeoJSON) indicesMap.removeLayer(layer);
+        });
+
+        fetch('data/world-boundaries.json').then(r => r.json()).then(geo => {
+            L.geoJSON(geo, {
+                style: (feature) => {
+                    const iso = feature.properties.iso;
+                    const score = getIndexScore(activeIndex, iso);
+                    const isSelected = indicesSelected.has(iso);
+                    return {
+                        fillColor: MapView.scoreToGreen(score),
+                        weight: isSelected ? 3 : 0.8,
+                        color: isSelected ? '#4DC88E' : '#fff',
+                        fillOpacity: isSelected ? 0.9 : 0.7,
+                    };
+                },
+                onEachFeature: (feature, layer) => {
+                    const iso = feature.properties.iso;
+                    const name = feature.properties.name;
+                    const nameAr = feature.properties.nameAr;
+                    const score = getIndexScore(activeIndex, iso);
+                    const scoreStr = score != null ? `Score: ${(score * 100).toFixed(0)}` : 'No data';
+                    const idxMeta = indicesMeta.find(m => m.id === activeIndex);
+
+                    layer.bindTooltip(`<strong>${name}</strong><br><span style="font-family:Cairo">${nameAr}</span><br>${idxMeta?.name || ''}: ${scoreStr}`, { sticky: true });
+
+                    layer.on('click', () => {
+                        if (indicesSelected.has(iso)) {
+                            indicesSelected.delete(iso);
+                        } else {
+                            if (indicesSelected.size >= 10) return;
+                            indicesSelected.add(iso);
+                        }
+                        renderIndicesMap(); // Re-render for selection highlight
+                        renderIndicesSelectedBar();
+                        renderIndicesBar();
+                        renderIndicesScatter();
+                    });
+
+                    layer.on('mouseover', e => { e.target.setStyle({ weight: 2, color: '#1A5C3A', fillOpacity: 0.85 }); e.target.bringToFront(); });
+                    layer.on('mouseout', e => { if (!indicesSelected.has(iso)) layer.setStyle({ weight: 0.8, color: '#fff', fillOpacity: 0.7 }); });
+                }
+            }).addTo(indicesMap);
+        });
+    }
+
+    function renderIndicesSelectedBar() {
+        const bar = document.getElementById('indices-selected-bar');
+        if (indicesSelected.size === 0) {
+            bar.innerHTML = '<p class="empty-msg">Click countries on the map to select them for comparison</p>';
+            return;
+        }
+        bar.innerHTML = Array.from(indicesSelected).map(iso => {
+            const c = countries.find(x => x.iso === iso);
+            return `<span class="selected-country-chip" onclick="App.deselectIndex('${iso}')">${c?.name || iso} <span class="remove">✕</span></span>`;
+        }).join('');
+    }
+
+    function renderIndicesBar() {
+        const el = document.getElementById('indices-bar');
+        const empty = document.getElementById('indices-bar-empty');
+
+        if (indicesSelected.size === 0) {
+            if (empty) empty.style.display = 'block';
+            if (indicesBarChart) { indicesBarChart.destroy(); indicesBarChart = null; }
+            return;
+        }
+        if (empty) empty.style.display = 'none';
+
+        // For each selected country, show scores across all indices
+        const selectedArr = Array.from(indicesSelected);
+        const indexIds = indicesMeta.map(m => m.id);
+        const datasets = selectedArr.map((iso, i) => {
+            const c = countries.find(x => x.iso === iso);
+            return {
+                label: c?.name || iso,
+                data: indexIds.map(idx => {
+                    const score = getIndexScore(idx, iso);
+                    return score != null ? +(score * 100).toFixed(1) : null;
+                }),
+                backgroundColor: CHART_COLORS[i % CHART_COLORS.length] + 'CC',
+                borderRadius: 4,
             };
         });
 
-        if (selectedForRadar.length === 0) {
-            emptyEl.style.display = 'block';
-        } else {
-            emptyEl.style.display = 'none';
-            Charts.renderRadar('radar-chart', selectedForRadar, dataSources['unesco-ram']);
-        }
+        if (indicesBarChart) indicesBarChart.destroy();
+        indicesBarChart = new Chart(el, {
+            type: 'bar',
+            data: { labels: indexIds.map(id => { const m = indicesMeta.find(x => x.id === id); return m?.name || id; }), datasets },
+            options: {
+                responsive: true, animation: { duration: 300 },
+                scales: { y: { min: 0, max: 100, title: { display: true, text: 'Score (0-100)' } } },
+                plugins: { legend: { position: 'bottom', labels: { usePointStyle: true, font: { size: 11 } } } }
+            }
+        });
     }
 
-    // ── GAP ANALYSIS ──
-    function renderGapAnalysis() {
-        const cardsEl = document.getElementById('gap-cards');
-        const matrixEl = document.getElementById('gap-matrix');
-        const totalCountries = countries.length;
+    function renderIndicesScatter() {
+        const el = document.getElementById('indices-scatter');
+        const xIdx = document.getElementById('scatter-x-select')?.value;
+        const yIdx = document.getElementById('scatter-y-select')?.value;
+        if (!xIdx || !yIdx) return;
+
+        // Get all countries with both scores
+        const points = countries.map(c => {
+            const x = getIndexScore(xIdx, c.iso);
+            const y = getIndexScore(yIdx, c.iso);
+            if (x == null || y == null) return null;
+            return { x: +(x * 100).toFixed(1), y: +(y * 100).toFixed(1), name: c.name, iso: c.iso };
+        }).filter(Boolean);
+
+        const xMeta = indicesMeta.find(m => m.id === xIdx);
+        const yMeta = indicesMeta.find(m => m.id === yIdx);
+
+        if (indicesScatterChart) indicesScatterChart.destroy();
+        indicesScatterChart = new Chart(el, {
+            type: 'scatter',
+            data: {
+                datasets: [{
+                    data: points,
+                    backgroundColor: points.map(p => indicesSelected.has(p.iso) ? '#1A5C3A' : '#4DC88E88'),
+                    pointRadius: points.map(p => indicesSelected.has(p.iso) ? 7 : 4),
+                }]
+            },
+            options: {
+                responsive: true, animation: { duration: 300 },
+                scales: {
+                    x: { min: 0, max: 100, title: { display: true, text: xMeta?.name || xIdx } },
+                    y: { min: 0, max: 100, title: { display: true, text: yMeta?.name || yIdx } },
+                },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: { callbacks: { label: (ctx) => `${ctx.raw.name}: (${ctx.raw.x}, ${ctx.raw.y})` } }
+                }
+            }
+        });
+    }
+
+    function renderCoverage() {
+        const cards = document.getElementById('coverage-cards');
+        const matrix = document.getElementById('coverage-matrix');
 
         // Cards
-        cardsEl.innerHTML = indicesMeta.map(idx => {
-            const pct = Math.round((idx.coverage / totalCountries) * 100);
-            return `<div class="gap-card">
-                <h4>${idx.name}</h4>
-                <div class="coverage">${idx.coverage}</div>
-                <div class="desc">${pct}% of ${totalCountries} countries covered</div>
-            </div>`;
+        cards.innerHTML = indicesMeta.map(idx => {
+            const src = dataSources[idx.id];
+            const count = (src?.countries || src?.data || []).length;
+            return `<div class="coverage-card"><div class="cov-num" style="color:${idx.color || 'var(--primary)'}">${count}</div><div class="cov-label">${idx.name}</div></div>`;
         }).join('');
 
-        // Matrix: sample countries (those with RAM data) × indices
-        const ramISOs = dataSources['unesco-ram'].countries.map(c => c.iso);
-        const sampleCountries = countries.filter(c => ramISOs.includes(c.iso)).slice(0, 20);
-
-        let tableHTML = `<table><thead><tr><th>Country</th>`;
-        indicesMeta.forEach(idx => { tableHTML += `<th>${idx.name}</th>`; });
-        tableHTML += `</tr></thead><tbody>`;
-
-        sampleCountries.forEach(c => {
-            tableHTML += `<tr><td style="text-align:left;color:var(--white);font-weight:500;">${c.name}</td>`;
+        // Matrix (top 40 countries by coverage)
+        const countryCoverage = countries.map(c => {
+            let covered = 0;
             indicesMeta.forEach(idx => {
                 const src = dataSources[idx.id];
                 const arr = src?.countries || src?.data || [];
-                const found = arr.find(r => r.iso === c.iso);
-                tableHTML += `<td><span class="dot ${found ? 'yes' : 'no'}"></span></td>`;
+                if (arr.find(x => x.iso === c.iso)) covered++;
             });
-            tableHTML += `</tr>`;
-        });
+            return { ...c, covered };
+        }).filter(c => c.covered > 0).sort((a, b) => b.covered - a.covered).slice(0, 50);
 
-        tableHTML += `</tbody></table>`;
-        matrixEl.innerHTML = tableHTML;
+        let tableHtml = `<table><thead><tr><th>Country</th>`;
+        indicesMeta.forEach(idx => { tableHtml += `<th style="font-size:0.7rem">${idx.name?.split(' ')[0] || idx.id}</th>`; });
+        tableHtml += `</tr></thead><tbody>`;
+
+        countryCoverage.forEach(c => {
+            tableHtml += `<tr><td><strong>${c.name}</strong></td>`;
+            indicesMeta.forEach(idx => {
+                const src = dataSources[idx.id];
+                const arr = src?.countries || src?.data || [];
+                const found = arr.find(x => x.iso === c.iso);
+                if (found) {
+                    const score = found.score ?? found.overall ?? found.composite ?? null;
+                    const display = score != null ? (score * 100).toFixed(0) : '✓';
+                    const bg = score != null ? MapView.scoreToGreen(score) : '#d1fae5';
+                    tableHtml += `<td style="text-align:center;background:${bg}20;font-size:0.75rem;font-weight:600">${display}</td>`;
+                } else {
+                    tableHtml += `<td style="text-align:center;color:#ccc">—</td>`;
+                }
+            });
+            tableHtml += `</tr>`;
+        });
+        tableHtml += `</tbody></table>`;
+        matrix.innerHTML = tableHtml;
     }
 
-    // ── SOURCES ──
+    // ─── SOURCES ───
     function renderSources() {
         const grid = document.getElementById('sources-grid');
-        const icons = { 'unesco-ram': '🏛️', 'stanford-hai': '🎓', 'tortoise': '🐢', 'oxford': '📊', 'girai': '⚖️', 'imf-aipi': '💰', 'world-bank': '🌍', 'icesco': '🕌', 'oecd': '📈' };
-        grid.innerHTML = indicesMeta.map(idx =>
-            `<div class="source-card"><a href="${idx.url}" target="_blank" rel="noopener">
-                <div class="source-icon">${icons[idx.id] || '📋'}</div>
-                <div class="source-info"><h4>${idx.fullName}</h4><span>${idx.org} · ${idx.year} · ${idx.coverage} countries</span></div>
-            </a></div>`
-        ).join('');
+        const sources = [
+            { name: 'UNESCO RAM', org: 'UNESCO', url: 'https://www.unesco.org/ethics-ai/en/global-hub', desc: 'Readiness Assessment Methodology — qualitative country assessments across 5 dimensions' },
+            { name: 'Oxford Insights', org: 'Oxford Insights', url: 'https://oxfordinsights.com/ai-readiness/', desc: 'Government AI Readiness Index — 188 countries, 40 indicators' },
+            { name: 'IMF AIPI', org: 'IMF', url: 'https://www.imf.org/external/datamapper/datasets/AIPI', desc: 'AI Preparedness Index — 174 economies, 4 dimensions' },
+            { name: 'Tortoise Global AI', org: 'Tortoise Media', url: 'https://www.tortoisemedia.com/data/global-ai', desc: '83 countries, 122 indicators, 7 pillars' },
+            { name: 'GIRAI', org: 'Global Center on AI Governance', url: 'https://www.global-index.ai/', desc: 'Global Index on Responsible AI — 138 countries, human rights benchmarks' },
+            { name: 'Stanford HAI', org: 'Stanford University', url: 'https://aiindex.stanford.edu/', desc: 'AI Index Report + Global AI Vibrancy Tool' },
+            { name: 'World Bank', org: 'World Bank', url: 'https://www.worldbank.org/en/publication/dptr2025-ai-foundations', desc: 'Digital Progress & Trends — 4Cs framework for AI foundations' },
+            { name: 'ICESCO', org: 'ICESCO', url: 'https://icesco.org', desc: 'AI Index for the Islamic World — Riyadh Charter implementation' },
+            { name: 'OECD AI', org: 'OECD', url: 'https://oecd.ai', desc: 'AI Policy Observatory — policy tracking & AI incidents' },
+        ];
+
+        grid.innerHTML = sources.map(s => `
+            <div class="source-card">
+                <h4>${s.name}</h4>
+                <p>${s.desc}</p>
+                <a href="${s.url}" target="_blank">${s.org} →</a>
+            </div>
+        `).join('');
     }
 
-    // ── SCROLL ──
-    function setupScroll() {
-        const nav = document.getElementById('navbar');
-        const scrollBtn = document.getElementById('scroll-top');
-        window.addEventListener('scroll', () => {
-            nav.classList.toggle('scrolled', window.scrollY > 80);
-            scrollBtn.classList.toggle('visible', window.scrollY > 400);
-        }, { passive: true });
+    // ─── PUBLIC API ───
+    function deselectRAM(iso) {
+        ramSelected.delete(iso);
+        MapView.setSelected(ramSelected);
+        renderRAMSelectedBar();
+        renderRAMRadar();
+        renderRAMBar();
+        renderRAMCountryCards();
     }
 
-    // ── BOOT ──
+    function deselectIndex(iso) {
+        indicesSelected.delete(iso);
+        renderIndicesMap();
+        renderIndicesSelectedBar();
+        renderIndicesBar();
+        renderIndicesScatter();
+    }
+
+    // Start
     document.addEventListener('DOMContentLoaded', init);
 
-    return { init };
+    return { deselectRAM, deselectIndex, selectIndex };
 })();
