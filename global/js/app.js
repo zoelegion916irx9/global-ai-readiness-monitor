@@ -34,8 +34,14 @@ const App = (() => {
     async function init() {
         await loadAll();
 
-        // Hero stat
+        // Hero stats
         document.getElementById('stat-countries').textContent = countries.length;
+        const ramData = dataSources['unesco-ram'];
+        const ramCountries = ramData?.countries || [];
+        document.getElementById('stat-completed').textContent = ramCountries.filter(c => c.status === 'completed').length;
+        document.getElementById('stat-inprocess').textContent = ramCountries.filter(c => c.status === 'inProcess' || c.status === 'inPreparation').length;
+        document.getElementById('stat-indices').textContent = (indicesMeta?.length || Object.keys(DATA_FILES).length - 2);
+        document.getElementById('last-updated').textContent = new Date().toISOString().split('T')[0];
 
         // Index selector
         Filters.renderIndexSelector(document.getElementById('index-selector-bar'), indicesMeta);

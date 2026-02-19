@@ -58,8 +58,8 @@
             <h2>Interactive World Map</h2>
             <p>Explore AI readiness across all countries. Click any marker for details.</p>
         </div>
-        <div id="filter-bars"></div>
-        <div id="index-selector" style="margin-bottom:20px"></div>
+        <div id="filter-bar"></div>
+        <div id="index-selector-bar" style="margin-bottom:20px"></div>
         <div style="display:flex;gap:16px;justify-content:center;margin-bottom:16px;flex-wrap:wrap;">
             <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#10b981"></span> Completed</span>
             <span style="display:flex;align-items:center;gap:6px;font-size:0.82rem;color:var(--text-muted)"><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#f59e0b"></span> In Process</span>
@@ -82,8 +82,13 @@
         <div class="chart-card chart-card-full" style="margin-bottom:28px">
             <h3>RAM Dimensions — Radar Comparison</h3>
             <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:16px">Click countries below to toggle them on/off the radar chart.</p>
-            <div class="country-selector" id="radar-selector"></div>
-            <div style="max-width:600px;margin:0 auto"><canvas id="radarChart"></canvas></div>
+            <div style="margin-bottom:16px;position:relative">
+                <input type="text" id="country-search" placeholder="Search countries to compare..." style="width:100%;padding:10px 16px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.9rem;background:var(--white)">
+                <div id="search-results" style="position:absolute;top:100%;left:0;right:0;background:white;border:1px solid rgba(13,61,42,0.15);border-radius:0 0 8px 8px;max-height:200px;overflow-y:auto;display:none;z-index:100"></div>
+            </div>
+            <div id="selected-countries" style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px"></div>
+            <p id="radar-empty" style="text-align:center;color:var(--text-muted);font-size:0.85rem">Search and select countries above to compare them</p>
+            <div style="max-width:600px;margin:0 auto"><canvas id="radar-chart"></canvas></div>
         </div>
 
         <div class="charts-grid">
@@ -92,9 +97,9 @@
                 <h3>Country Rankings by Dimension</h3>
                 <div style="margin-bottom:12px">
                     <label style="font-size:0.82rem;color:var(--text-muted);margin-right:8px">Dimension:</label>
-                    <select id="bar-dimension" style="padding:6px 12px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.85rem;background:var(--white)"></select>
+                    <select id="bar-dimension-select" style="padding:6px 12px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.85rem;background:var(--white)"></select>
                 </div>
-                <canvas id="barChart"></canvas>
+                <canvas id="bar-chart"></canvas>
             </div>
 
             <!-- Scatter Plot -->
@@ -103,14 +108,14 @@
                 <div style="display:flex;gap:12px;margin-bottom:12px;flex-wrap:wrap">
                     <div>
                         <label style="font-size:0.82rem;color:var(--text-muted)">X Axis:</label>
-                        <select id="scatter-x" style="padding:6px 10px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.82rem;background:var(--white)"></select>
+                        <select id="scatter-x-select" style="padding:6px 10px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.82rem;background:var(--white)"></select>
                     </div>
                     <div>
                         <label style="font-size:0.82rem;color:var(--text-muted)">Y Axis:</label>
-                        <select id="scatter-y" style="padding:6px 10px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.82rem;background:var(--white)"></select>
+                        <select id="scatter-y-select" style="padding:6px 10px;border:1.5px solid rgba(13,61,42,0.15);border-radius:8px;font-family:inherit;font-size:0.82rem;background:var(--white)"></select>
                     </div>
                 </div>
-                <canvas id="scatterChart"></canvas>
+                <canvas id="scatter-chart"></canvas>
             </div>
         </div>
     </div>
@@ -123,7 +128,7 @@
             <h2>Gap Analysis</h2>
             <p>Which indices cover which countries? Where are the blind spots?</p>
         </div>
-        <div class="gap-grid" id="gap-grid"></div>
+        <div class="gap-grid" id="gap-cards"></div>
         <div class="gap-matrix" id="gap-matrix" style="margin-top:32px"></div>
     </div>
 </section>
@@ -194,18 +199,18 @@
 </footer>
 
 <!-- Country Modal -->
-<div class="country-modal-overlay" id="country-modal-overlay">
-    <div class="country-modal" id="country-modal">
+<div class="country-modal-overlay" id="country-modal" onclick="this.classList.remove('show')">
+    <div class="country-modal" onclick="event.stopPropagation()">
         <div class="country-modal-header">
-            <h3>Country Name</h3>
-            <p class="name-ar arabic" style="opacity:0.8;margin-top:4px"></p>
-            <button class="close-btn" id="close-modal">✕</button>
+            <h3 id="modal-country-name">Country Name</h3>
+            <p id="modal-country-name-ar" class="name-ar arabic" style="opacity:0.8;margin-top:4px"></p>
+            <button class="close-btn" id="modal-close">✕</button>
         </div>
-        <div class="country-modal-body"></div>
+        <div class="country-modal-body" id="modal-body"></div>
     </div>
 </div>
 
-<button class="scroll-top" id="scrollTop">↑</button>
+<button class="scroll-top" id="scroll-top">↑</button>
 
 <!-- Scripts -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
