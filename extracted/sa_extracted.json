@@ -1,0 +1,170 @@
+{
+  "country_code": "SA",
+  "country_name": "SAUDI ARABIA",
+  "metadata": {
+    "page_count": 87,
+    "creation_date": "D:20241213105553+01'00'",
+    "modification_date": "D:20250501091458+02'00'",
+    "country_name": "SAUDI ARABIA"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "4 \nTable of Contents \n \nACKNOWLEDGEMENTS \n2 \nACRONYMS AND ABBREVIATIONS \n7 \nFOREWORD \n10 \nEXECUTIVE SUMMARY \n12 \nDIAGNOSIS OF THE NATIONAL AI LANDSCAPE \n17 \nKSA NATIONAL AI JOURNEY \n18 \nKSA AI Governance \n18 \nInternational Presence \n21 \nInternational Awards \n22 \nInternational Indices \n23 \nLEGAL AND REGULATORY \n24 \nAI POLICY AND REGULATION \n24 \nGuidelines \n25 \nDATA PROTECTION AND PRIVACY LAWS \n26 \nThe Personal Data Protection Law (PDPL) \n27 \nData Sharing and Accessibility \n27 \nPROCUREMENT LAWS AND POLICIES \n28 \nFREEDOM OF INFORMATION ACTS AND ACCESS TO KNOWLEDGE ACTS \n28 \nDUE PROCESS AND ACCOUNTABILITY \n29 \nONLINE SAFETY, INTEGRITY OF SPEECH, AND CYBERSECURITY \n30 \nLaws and Regulations \n30 \nKSA Performance in International Ranking \n30 \nPUBLIC SECTOR CAPACITY \n31 \nPublic Sector Upskilling \n32 \nPublic Sector AI Enablement \n32 \nSOCIAL AND CULTURAL \n34 \nDIVERSITY, INCLUSION AND EQUTY \n34 \nThe Gender Gap in KSA Is Improving in The Workforce, But Lags Digitally \n34 \nAffirmative Action in The Data and AI Space \n35\n\n5 \nBeyond the Gender Gap \n36 \nPUBLIC ENGAGEMENT AND TRUST \n36 \nENVIRONMENTAL AND SUSTAINABILITY POLICIES \n37 \nAI in Health-Related Policies \n38 \nCULTURE \n41 \nSCIENTIFIC AND EDUCATIONAL \n42 \nRESEARCH AND INNOVATION \n42 \nR&D Investments \n42 \nThe KSA AI Research Ecosystem \n42 \nResearch Output \n45 \nScientific Publications \n45 \nEDUCATION \n46 \nIntegrating AI into the Education System \n48 \nFuelling the Pipeline of AI Graduates: Supply of AI Talent \n48 \nPublic Access to Education \n49 \nGlobal Joint Academies \n50 \nECONOMIC \n51 \nLABOUR MARKETS \n51 \nIncreased Demand for AI Talent \n51 \nINTERMEDIATE CONSUMPTION \n52 \nINVESTMENTS AND OUTPUT \n52 \nGovernment Investment \n52 \nPrivate Investment \n54 \nTECHNICAL AND INFRASTRUCTURAL \n56 \nINFRASTRUCTURE AND CONNECTIVITY \n56 \nInfrastructure \n56 \nConnectivity \n57 \nApplied standards \n59 \nComputing capabilities \n60 \nData Centres \n60 \nSupercomputers \n61 \nCloud Computing \n62 \nSTATISTICAL PERFORMANCE \n63 \nDEVELOPING A NATIONAL AI MULTI-STAKEHOL",
+  "recommendations": [
+    {
+      "number": "1.1",
+      "title": "Develop and implement AI standards for priority sectors",
+      "text": "",
+      "dimension": "Laws and Regulation",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.2",
+      "title": "Implement specialised AI regulatory sandboxes and pilot zones",
+      "text": "",
+      "dimension": "Laws and Regulation",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.5",
+      "title": "Enhance regulations around synthetic content generation",
+      "text": "",
+      "dimension": "Laws and Regulation",
+      "timeline": "2025-2028",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "2.1",
+      "title": "Refresh the National AI Strategy to meet evolving priorities",
+      "text": "",
+      "dimension": "Institutional Frameworks and Governance",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "2.2",
+      "title": "Broaden the establishment of AI offices within the public sector",
+      "text": "",
+      "dimension": "Institutional Frameworks and Governance",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "2.4",
+      "title": "Enhance data collection and data sharing capabilities",
+      "text": "",
+      "dimension": "Institutional Frameworks and Governance",
+      "timeline": "2025-2026",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "3.1",
+      "title": "Embed AI across general and higher education curricula",
+      "text": "",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "3.3",
+      "title": "Introduce global AI talent attraction programs",
+      "text": "",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2028",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "3.4",
+      "title": "Deploy comprehensive, nationwide AI upskilling programs",
+      "text": "",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2026",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "4.2",
+      "title": "Establish AI centres of excellence in national priority areas",
+      "text": "",
+      "dimension": "Responsible Technologies and Innovation",
+      "timeline": "2025-2027",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "4.3",
+      "title": "Strengthen National AI research and innovation ecosystem",
+      "text": "",
+      "dimension": "Responsible Technologies and Innovation",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.1",
+      "title": "Catalyse the development of Arabic language technologies",
+      "text": "",
+      "dimension": "Inclusion and Well-being",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.2",
+      "title": "Promote diversity and inclusion in AI and digital sectors",
+      "text": "",
+      "dimension": "Inclusion and Well-being",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.3",
+      "title": "Address digital gender gaps in STEM and AI",
+      "text": "",
+      "dimension": "Inclusion and Well-being",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.4",
+      "title": "Assess the impact of AI on culture",
+      "text": "",
+      "dimension": "Inclusion and Well-being",
+      "timeline": "2025-2026",
+      "priority": "Low",
+      "start_page": 0
+    },
+    {
+      "number": "5.5",
+      "title": "Establish guidelines for environmental impact monitoring",
+      "text": "",
+      "dimension": "Inclusion and Well-being",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "6.1",
+      "title": "Advance AI investment and startup ecosystem",
+      "text": "",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2024-2030",
+      "priority": "High",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 17,
+  "page_count": 87
+}

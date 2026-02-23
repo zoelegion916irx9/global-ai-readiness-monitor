@@ -1,0 +1,137 @@
+{
+  "country_code": "IN",
+  "country_name": "INDIA",
+  "metadata": {
+    "page_count": 122,
+    "creation_date": "D:20260213160125+05'30'",
+    "modification_date": "D:20260217151210+01'00'",
+    "country_name": "INDIA"
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "DIAGNOSIS OF THE NATIONAL AI LANDSCAPE",
+      "start_page": 5
+    },
+    {
+      "chapter": 2,
+      "title": "LEGAL AND REGULATORY DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 3,
+      "title": "SOCIAL AND CULTURAL DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 4,
+      "title": "SCIENTIFIC AND EDUCATIONAL DIMENSION",
+      "start_page": 6
+    },
+    {
+      "chapter": 5,
+      "title": "ECONOMIC DIMENSION",
+      "start_page": 6
+    },
+    {
+      "chapter": 6,
+      "title": "TECHNICAL AND INFRASTRUCTURAL DIMENSION",
+      "start_page": 6
+    },
+    {
+      "chapter": 7,
+      "title": "DEVELOPING A NATIONAL MULTISTAKEHOLDER ROADMAP 53",
+      "start_page": 6
+    },
+    {
+      "chapter": 8,
+      "title": "FINDINGS FROM THE MULTISTAKEHOLDER CONSULTATIONS",
+      "start_page": 7
+    },
+    {
+      "chapter": 9,
+      "title": "POLICY RECOMMENDATIONS",
+      "start_page": 7
+    }
+  ],
+  "dimensions": {
+    "Legal and Regulatory": {
+      "chapter": 2,
+      "title": "LEGAL AND REGULATORY DIMENSION",
+      "start_page": 5
+    },
+    "Social and Cultural": {
+      "chapter": 3,
+      "title": "SOCIAL AND CULTURAL DIMENSION",
+      "start_page": 5
+    },
+    "Scientific and Educational": {
+      "chapter": 4,
+      "title": "SCIENTIFIC AND EDUCATIONAL DIMENSION",
+      "start_page": 6
+    },
+    "Economic": {
+      "chapter": 5,
+      "title": "ECONOMIC DIMENSION",
+      "start_page": 6
+    },
+    "Technical and Infrastructural": {
+      "chapter": 6,
+      "title": "TECHNICAL AND INFRASTRUCTURAL DIMENSION",
+      "start_page": 6
+    }
+  },
+  "executive_summary": "ii\nTable of contents\nACKNOWLEDGEMENTS \ni\nFOREWORD \nv\nACRONYMS AND ABBREVIATIONS \nvii\nEXECUTIVE SUMMARY \n1\nCHAPTER 1: DIAGNOSIS OF THE NATIONAL AI LANDSCAPE \n6\n         AI GOVERNANCE IN INDIA:  \nAN OVERVIEW OF LEGAL STRUCTURE, POLICIES AND INSTITUTIONS \n6\n               Parliament \n6\n               The executive \n6\n               The judiciary \n9\n               India’s engagements with global AI: forums and frameworks \n9\n               Opportunities and challenges in India’s AI ecosystem: an overview \n10\n OVERVIEW OF ASSESSMENT DIMENSIONS \n11\nCHAPTER 2: LEGAL AND REGULATORY DIMENSION \n12\n AI POLICY AND REGULATION \n12\n              Overview \n12\n              Evolution of AI regulation and policy \n12\n              IndiaAI Mission \n16\n DATA PROTECTION AND PRIVACY LAWS \n19\n DATA SHARING AND ACCESSIBILITY \n21\n PROCUREMENT LAWS AND POLICIES \n22\n FREEDOM OF INFORMATION/ACCESS TO KNOWLEDGE ACTS \n23\n DUE PROCESS AND ACCOUNTABILITY \n24\n ONLINE SAFETY AND INTEGRITY OF SPEECH \n24\n              Obligations on online intermediaries \n25\n PUBLIC SECTOR CAPACITY \n25\nCHAPTER 3: SOCIAL AND CULTURAL DIMENSION \n26\n DIVERSITY, INCLUSION AND EQUALITY \n26\n              Diversity in STEM \n28\n             Indigenous language training \n29\n\niii\n        PUBLIC ENGAGEMENT AND TRUST \n30\n        ENVIRONMENT AND SUSTAINABILITY POLICIES \n31\n        HEALTH AND SOCIAL WELLBEING \n31\n             Policy and regulatory frameworks for AI in health \n31\n             AI integration in public health service delivery \n32\n             AI for accessibility and persons with disabilities \n33\n             Impact of AI on children’s health \n33\n        CULTURE \n34\n             Community participation in AI development for cultural heritage \n34\nCHAPTER 4: SCIENTIFIC AND EDUCATIONAL DIMENSION \n35\n        RESEARCH AND INNOVATION IN AI \n35\n             Schemes, investments and publications \n35\n        AI IN EDUCATION \n37\n             Policies, infrastructure and curricula for school education \n37\n             AI and high",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "evidence-based risk and legal review",
+      "text": "While India has taken a measured approach to AI governance, so far, the increasing integration of AI \nacross sectors brings a growing range of complex risks, spanning technical failures, ethical concerns, \nsocietal harms, legal ambiguities, economic disruptions, environmental costs and national security \nthreats. Without a standardized framework to identify, classify and assess these risks, governance \nefforts may become fragmented and inconsistent. \nDuring consultations, stakeholders highlighted that a lack of research on AI risks and the absence of \na common taxonomy on harms may result in fragmented regulation, overlaps and gaps in oversight, \nand inconsistent treatment of similar risks. To address this, it is recommended that India conduct a \ncomprehensive AI risk-mapping exercise and develop a shared risk/harm taxonomy. Further, a gap \nanalysis of existing legal frameworks may also be taken up, as suggested in the short-term action \nplan of the AI Governance Guidelines.417 These steps will clarify the scope and severity of AI-related \nrisks, and help ensure more consistent, proportionate and adaptable regulatory responses across \nsectors.\nRATIONALE\nIndia’s AI Safety Institute may undertake a comprehensive AI risk-mapping and \ntaxonomy development exercise\nThe AI Safety Institute (AISI), in consultation with both the AI governance group and the \ntechnology and policy expert committee proposed under the AI Governance Guidelines, may \ninitiate a coordinated, cross-sectoral study to map and assess emerging and existing AI-related \nrisks. This exercise should be undertaken in collaboration with academic institutions, industry \nstakeholders, civil society, and policy think tanks. A key input into this risk mapping process \nROADMAP\n1.1\n63\nmay be an AI incident repository, as recommended in the AI Governance Guidelines, which \nwould collect real-world examples of AI failure or harm.418 Drawing from such case studies, \nthe risk mapping exercise should distinguish betwee",
+      "start_page": 75
+    },
+    {
+      "number": 2,
+      "title": "AI developers and deployers",
+      "text": "During consultations, stakeholders highlighted that translating high-level ethical AI principles \nsuch as fairness, accountability, transparency and safety into actionable AI practices remains a key \nbarrier to ethical and effective deployment of AI. Without practical tools or guidance, developers \nand deployers often struggle to integrate these principles into design and implementation life cycles.\nRecognizing these challenges, India has already begun supporting the development of practical, \ntechno-legal solutions through initiatives under the IndiaAI Mission. Under the Safe & Trusted \nAI pillar, the government has issued two expressions of interest (EOIs) to develop tools, frameworks \nand self-assessment mechanisms tailored to India’s institutional and developmental context. \nThe establishment of the IndiaAI Safety Institute further advances this objective, serving as the \nnational anchor institution for guiding responsible AI development and helping convert ethical \nprinciples into operational practices across sectors. Building on these initiatives, India may continue \nto expand and institutionalize such tools to ensure that practical, implementable mechanisms for \nethical AI become widely accessible across the ecosystem.\nRATIONALE\nThe AI Safety Institute, in collaboration with private entities, may establish \na voluntary repository of ethical AI practices \nThe AI Safety Institute (AISI), under the IndiaAI Mission, may establish a dynamic, publicly \naccessible repository of existing practices for operationalizing and contextualizing ethical \nprinciples according to India’s needs. In doing so, the AISI may be empowered to conduct \nresearch, analysis and testing, collaborate with international bodies, support industry \ncompliance and contribute to the development of standards. This platform can enable \ngovernments, AI developers/companies and researchers to voluntarily contribute their existing \nethical AI practices. The repository can include both sector-agnostic",
+      "start_page": 77
+    },
+    {
+      "number": 3,
+      "title": "publish adaptive toolkits and guidance documents to support state-level AI cells (Roadmap 3.2).",
+      "text": "THEME\n4\n5\npublish adaptive toolkits and guidance documents to support state-level AI cells (Roadmap 3.2).\n \nLeverage the AIKosh platform to increase access to high-quality datasets for AI development.\nIncrease access to AI-ready public sector data through dedicated AI data offices and certified officers \n(Roadmap 4.1). States may also be encouraged to contribute non-sensitive datasets to AIKosh and \ndevelop AI solutions for state-specific governance needs (Roadmap 4.2). Likewise, the IndiaAI Mission \nmay also develop a voluntary framework and incentives for non-sensitive data sharing by the private \nsector (Roadmap 4.3).\n \nAdvance public trust in AI through governance, procurement and awareness. \nThe AI Safety Institute may guide public-sector adoption of transparency and accountability measures \nin AI systems (Roadmap 5.1). Further, the IndiaAI Mission, in collaboration with relevant authorities, may \nconduct a national study to understand public perceptions of AI and, based on its findings, design and \nimplement inclusive awareness campaigns (Roadmap 5.2). Additionally, relevant nodal ministries and \ndepartments may develop model AI public procurement guidelines, drawing on technical inputs from \nthe IndiaAI Mission and NITI Aayog, as needed (Roadmap 5.3)\n \nPrepare India’s workforce for an AI future by strengthening capacities, embedding ethics and \nsupporting inclusive transitions.\nThe Ministry of Skill Development and Entrepreneurship may evaluate the National AI Programme \nSkilling Framework (NPAI-SF)1 and accelerate the implementation of pending recommendations \n(Roadmap 6.1). Further, the Education and Skilling ministries, in collaboration with the IndiaAI Mission \nand relevant authorities, may include AI ethics across various education and skilling levels (Roadmap \n6.2). Indian AI Centres of Excellence may also collaborate and prepare ‘training the trainers’ programmes, \nfor both public and private sectors, across levels (Roadmap 6.3). The Ministry of Labour",
+      "start_page": 17
+    },
+    {
+      "number": 4,
+      "title": "Diagnosis of the national AI landscape",
+      "text": "6\nCHAPTER 1 \nDiagnosis of the national AI landscape\nAI governance in India: an overview of legal structure, policies and institutions\nIndia has a quasi-federal structure. Under India’s Constitution, legislative powers are distributed \nbetween the centre and the states through three lists: the Union List, the State List, and the Concurrent \nList. Each branch plays an important role in shaping the trajectory of AI in India.\nThe Union List includes subjects on which only the Union Legislature may make laws, such as telegraphs, \ntelephones, wireless, and broadcasting. The State List includes matters where states exercise exclusive \nauthority, such as police, public health, law and order, and education. The Concurrent List allows both \nthe centre and the states to legislate on subjects such as criminal law and insolvency, with central law \nprevailing in case of conflict. This federal design ensures that policy-making reflects India’s diversity: \nstates have both the power and the obligation to adapt national frameworks to local conditions, \nmaking governance inherently contextual and negotiated. \nParliament \nThe Indian Parliament remains central to the lawmaking process, with the power to debate and pass \nbills introduced by the executive. Additionally, members of parliament regularly exercise oversight \nby raising questions or interventions related to AI policies, ethics and safety, investments, global \ncooperation, and regulatory approaches, and by introducing private member bills.3 Parliamentary \ncommittees play a key role in examining government action – particularly the Standing Committee \non Communications and Information Technology,4 which has selected, among other subjects, the \n‘Impact of emergence of Artificial Intelligence and related issues’ for examination.\nThe executive\nThe President of India is the constitutional head of the executive at the union level. A Council of \nMinisters,5 headed by the Prime Minister, aids and advises the President through fifty-th",
+      "start_page": 18
+    },
+    {
+      "number": 5,
+      "title": "Advance public trust in AI through governance, procurement",
+      "text": "While the benefits of AI are increasingly visible across sectors in India, concerns around its risks and \npotential harms have also led to trust issues, especially in a context of unequal digital literacy. While \ndata indicated optimism around the usage of AI, stakeholder consultations highlighted that public \ntrust may be weakened by the lack of better understanding of how AI systems work, how personal \ndata is used, and what safeguards exist for users. This uncertainty often leads to confusion, fear \nand resistance. As a major adopter of, and standard setter for AI, the Indian Government is uniquely \npositioned to set baseline norms for responsible AI use. By embedding transparency features in its \nown AI use and investing in public awareness, it can build trust, set clear standards and show what \nresponsible deployment looks like. This will not only boost public confidence but also create a culture \nof accountability and user-first design across the AI ecosystem. \nRATIONALE\nROADMAP\n5.1\nThe IndiaAI Mission may survey public perceptions of AI and run inclusive, \nmultimodal and multilingual awareness campaigns in collaboration with relevant \nauthorities\nUnder its Safe & Trusted AI pillar, the IndiaAI Mission may initiate a comprehensive study on \npublic trust levels, awareness gaps and user experiences with AI systems across both public \nand private sectors. Stakeholder consultations indicated that many users, particularly in high-\n5.2\n70\nRelevant authorities may develop model AI procurement guidelines for public \nsector adoption of AI systems\nPublic procurement can serve as a strategic lever to embed ethical AI practices into government \nuse of AI systems. As the adoption of AI tools for public service delivery accelerates, embedding \nethical and technical evaluation in procurement processes is critical to ensure safety, fairness \nand public trust. To operationalize this, relevant authorities, in consultation with NITI Aayog and \nthe IndiaAI Mission, may consider d",
+      "start_page": 82
+    },
+    {
+      "number": 6,
+      "title": "embedding ethics and supporting inclusive transitions",
+      "text": "The RAM consultations highlighted that while India is making strong strides in AI skilling, key \nchallenges persist. Skills gaps, job displacement risks and a shortage of qualified AI educators remain \nkey concerns. Many mid-career professionals lack clear upskilling pathways, while informal workers \nand those outside metro cities face limited access to quality AI education. In addition, the public \nsector needs to strengthen its ability to procure, govern and deploy AI responsibly, considering the \ngrowing emphasis on AI governance and AI-powered public service delivery. \nThere is also a need to shift focus from AI fluency to AI competence, to improve employability and \nalign with market expectations. Ethics and safety in AI must be integral parts of these programmes \nto ensure an AI workforce that is both competent and ethically aware. To prepare for this shift, India \nshould adopt a three-pronged approach: evaluate ongoing efforts; build AI competence and ethical \nAI knowledge across sectors, including the public sector; and anticipate labour market transitions \ndriven by automation.\nRATIONALE\nThe Ministry of Skill Development and Entrepreneurship may evaluate the National \nSkilling Framework and accelerate implementation of pending recommendations\nThe Ministry of Skill Development and Entrepreneurship (Skill Development Ministry) may \nconduct a comprehensive evaluation and review of the implementation of the National \nProgramme on AI Skilling Framework (NPAI-SF’s) recommendations and identify bottlenecks, \nespecially in the context of AI skilling schemes across government and industry. The evaluation \ncould focus on the ability of programmes and initiatives to build real competence, their \neffectiveness for translation into industry-required jobs, and their emphasis on integrating ethical \naspects of AI with technical skilling. In addition, a review of the Capacity Building Commission’s \nefforts, particularly its iGOT platform (an online platform launched to gui",
+      "start_page": 84
+    },
+    {
+      "number": 7,
+      "title": "into AI infrastructure planning and deployment",
+      "text": "As India scales up AI adoption, there is a critical need to address environmental sustainability. \nThe rising environmental footprint of large-scale AI systems, including data centres and compute \nclusters, requires that sustainability be embedded into infrastructure planning from the outset. This \nincludes integrating clean energy solutions, encouraging the use of energy-efficient AI models and \ndeveloping regulatory mechanisms to assess environmental impact.\nTo ensure long-term equity and resilience, infrastructure expansion must be coupled with targeted \nresearch and development (R&D) support and innovation funding beyond metro hubs, enabling \nthe emergence of grassroots innovation ecosystems. Strengthening local compute capacity, \nfostering applied AI research and enabling sustainable design practices are essential to building an \nAI ecosystem that is not only nationally scalable but also environmentally and socially responsible.\nRATIONALE\nROADMAP\n7.1\nThe Ministry of Environment, Forest and Climate Change and the IndiaAI Mission \nmay devise a comprehensive environmental impact assessment for large-scale AI \ninfrastructure.\nIndia’s existing environmental impact assessment (EIA) framework may be expanded to cover \nlarge-scale AI infrastructure such as data centres, compute clusters and AI test beds, which are \ncurrently not subject to sector-specific environmental scrutiny. Given the unique sustainability \nchallenges posed by AI systems, including high energy demands and the environmental impact \nof digital infrastructure, it would be beneficial to develop tailored evaluation criteria within the \nexisting EIA process. Further, such an EIA can highlight areas of particular ecological sensitivity \nand help identify optimal locations for AI infrastructure like data centres. The Environment \nMinistry, in collaboration with the IT Ministry and the IndiaAI Mission, may design appropriate \nassessment parameters, such as thresholds for energy and water consumption, provis",
+      "start_page": 87
+    },
+    {
+      "number": 8,
+      "title": "AI workforce and research and development ecosystem",
+      "text": "India’s AI ecosystem must be inclusive by design. Currently, the representation of women, rural \npopulations and marginalized communities remains limited across AI research, education and the \nworkforce. This under-representation risks embedding bias not only in datasets and algorithms, but \nin the direction of innovation itself. Promoting diversity is a matter of equity along with producing \nmore representative and responsible AI outcomes.\nThe Skill Development Ministry, the IT Ministry and leading academic institutions may co-develop \ntargeted interventions to ensure the inclusion of under-represented groups in AI careers and research. \nThese efforts must go beyond high-level policy commitments and be embedded into public skilling, \nfunding and research pipelines.\nRATIONALE\nROADMAP\n8.1\n8.2\n76\nMinistry, in collaboration with Bhashini and the National Institute of Electronics & Information \nTechnology (NIELIT), can lead efforts to integrate regional-language modules, covering both \ntechnical foundations in AI and its ethical dimensions, under national skilling programmes. \nTranslating core learning resources, tutorials and assessments into major Indian languages \nand delivering them through local training centres will help expand access to AI education \nand ensure that non-English-speaking learners are fully included in the opportunities of an \nAI-driven economy.\nThe Ministry of Electronics and Information Technology, the Department of Science \n& Technology and other ministries may embed inclusion metrics in public research \nand funding programmes. \nThe RAM findings highlighted persistent gaps in representation across India’s AI research and \ntalent ecosystem, particularly in terms of gender, caste, regional background and disability. \nTo address these disparities, public research and funding agencies such as the IT Ministry, \nthe Department of Science & Technology and others may embed diversity and inclusion as \nimportant criteria in the evaluation of research and ",
+      "start_page": 88
+    }
+  ],
+  "recommendation_count": 8,
+  "page_count": 122
+}
