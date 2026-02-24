@@ -2,131 +2,512 @@
   "meta": {
     "source": "UNESCO AI Readiness Assessment Methodology (RAM)",
     "url": "https://www.unesco.org/ethics-ai/en/global-hub",
-    "lastUpdated": "2026-02-19",
-    "dimensions": ["Legal & Regulatory","Social & Cultural","Economic","Scientific & Educational","Technological & Infrastructural"]
+    "lastUpdated": "2026-02-23",
+    "dimensions": [
+      "Legal & Regulatory",
+      "Social & Cultural",
+      "Economic",
+      "Scientific & Educational",
+      "Technological & Infrastructural"
+    ]
   },
   "countries": [
     {
-      "iso": "SA",
+      "iso": "AG",
       "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/saudiarabia",
-      "dimensions": {"legalRegulatory":4,"socialCultural":3,"economic":4,"scientificEducational":4,"technologicalInfrastructural":5},
-      "keyFindings": ["SDAIA leading AI strategy & regulation","Vision 2030 AI Integration","Critical talent gap needs addressing","Educational reform integrating ethics underway"]
-    },
-    {
-      "iso": "EG",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/egypt",
-      "dimensions": {"legalRegulatory":4,"socialCultural":4,"economic":4,"scientificEducational":5,"technologicalInfrastructural":4},
-      "keyFindings": ["Ranked 1st in Africa for AI readiness","92 AI institutes","500K+ trained annually","Charter for Responsible AI adopted 2023"]
-    },
-    {
-      "iso": "MA",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/morocco",
-      "dimensions": {"legalRegulatory":3,"socialCultural":4,"economic":3,"scientificEducational":4,"technologicalInfrastructural":3},
-      "keyFindings": ["No dedicated AI strategy yet","Strong female STEM participation","R&D investment at 0.75% GDP","Cybersecurity ranked 50th globally"]
-    },
-    {
-      "iso": "IN",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/india",
-      "dimensions": {"legalRegulatory":4,"socialCultural":3,"economic":4,"scientificEducational":4,"technologicalInfrastructural":3},
-      "keyFindings": ["Comprehensive national AI strategy","Strong IT sector foundation","Digital divide challenges remain","Growing startup ecosystem"]
-    },
-    {
-      "iso": "UY",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/uruguay",
-      "dimensions": {"legalRegulatory":4,"socialCultural":4,"economic":3,"scientificEducational":4,"technologicalInfrastructural":4},
-      "keyFindings": ["Strong data protection framework","National AI Strategy since 2019","High digital literacy rates","Limited AI research output"]
-    },
-    {
-      "iso": "LT",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/lithuania",
-      "dimensions": {"legalRegulatory":4,"socialCultural":4,"economic":3,"scientificEducational":4,"technologicalInfrastructural":4},
-      "keyFindings": ["EU AI Act alignment","National AI Strategy adopted","Growing tech sector","Strong digital infrastructure"]
-    },
-    {
-      "iso": "MU",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/mauritius",
-      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":3,"scientificEducational":3,"technologicalInfrastructural":3},
-      "keyFindings": ["National AI Strategy 2023","Small island developing state leader","Data protection law in place","Limited AI research capacity"]
-    },
-    {
-      "iso": "SN",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/senegal",
-      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":2,"scientificEducational":3,"technologicalInfrastructural":2},
-      "keyFindings": ["Digital Senegal 2025 strategy","Growing tech hub ecosystem","Infrastructure gaps remain","GPAI member state"]
-    },
-    {
-      "iso": "CL",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/chile",
-      "dimensions": {"legalRegulatory":4,"socialCultural":3,"economic":3,"scientificEducational":4,"technologicalInfrastructural":4},
-      "keyFindings": ["National AI Policy since 2021","Strong regulatory framework","Growing AI research output","OECD member with advanced digital policies"]
-    },
-    {
-      "iso": "TT",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/trinidadandtobago",
-      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":2,"scientificEducational":3,"technologicalInfrastructural":3},
-      "keyFindings": ["National ICT Plan includes AI","Caribbean SIDS leader","Data protection legislation","Limited local AI ecosystem"]
-    },
-    {
-      "iso": "SG",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/singapore",
-      "dimensions": {"legalRegulatory":5,"socialCultural":4,"economic":5,"scientificEducational":5,"technologicalInfrastructural":5},
-      "keyFindings": ["Global AI governance leader","National AI Strategy 2.0","World-class infrastructure","Model AI Governance Framework"]
-    },
-    {
-      "iso": "KR",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/southkorea",
-      "dimensions": {"legalRegulatory":5,"socialCultural":4,"economic":5,"scientificEducational":5,"technologicalInfrastructural":5},
-      "keyFindings": ["AI Ethics Charter adopted","Major AI R&D investment","Leading in AI patents","Strong semiconductor industry"]
-    },
-    {
-      "iso": "GB",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/unitedkingdom",
-      "dimensions": {"legalRegulatory":5,"socialCultural":4,"economic":5,"scientificEducational":5,"technologicalInfrastructural":5},
-      "keyFindings": ["Pro-innovation AI regulation approach","AI Safety Institute established","World-leading AI research","Strong venture capital ecosystem"]
-    },
-    {
-      "iso": "DE",
-      "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/germany",
-      "dimensions": {"legalRegulatory":5,"socialCultural":4,"economic":4,"scientificEducational":5,"technologicalInfrastructural":4},
-      "keyFindings": ["AI Strategy updated 2020","Strong ethics framework","Industry 4.0 integration","EU AI Act implementation leader"]
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/antiguaandbarbuda",
+      "dimensions": null,
+      "keyFindings": null
     },
     {
       "iso": "BR",
       "status": "completed",
       "ramUrl": "https://www.unesco.org/ethics-ai/en/brazil",
-      "dimensions": {"legalRegulatory":4,"socialCultural":3,"economic":3,"scientificEducational":4,"technologicalInfrastructural":3},
-      "keyFindings": ["AI regulation bill advancing","LGPD data protection law","Growing AI research community","Digital divide challenges"]
+      "dimensions": {},
+      "keyFindings": [
+        "AI regulation bill advancing",
+        "LGPD data protection law",
+        "Growing AI research community",
+        "Digital divide challenges"
+      ]
     },
     {
-      "iso": "ZA",
+      "iso": "CL",
       "status": "completed",
-      "ramUrl": "https://www.unesco.org/ethics-ai/en/southafrica",
-      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":3,"scientificEducational":3,"technologicalInfrastructural":3},
-      "keyFindings": ["Presidential Commission on 4IR","POPIA data protection act","Growing AI startup scene","Infrastructure inequalities"]
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/chile",
+      "dimensions": {},
+      "keyFindings": [
+        "Investment in AI in Chile is skyrocketing.",
+        "The biggest gaps are in the legal dimension,in particular theneed to update the privacy law and cybersecurity.",
+        "The strongest dimension is infrastructure.Chile ranks among thehighest global standards for internet network speed, and is in the top 10 countries in terms of mobile data consumption rates.",
+        "The report also notes improvements in human capital,with Chile’s talent concentration in AI growing every year since 2017.",
+        "Public spending on research and development remains comparatively lowat 0.34% of GDP in 2020 and Chile ranks only fifth in cybersecurity in the region."
+      ]
+    },
+    {
+      "iso": "CU",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/cuba",
+      "dimensions": null,
+      "keyFindings": [
+        "Cuba's legal framework is evolving, yet it presents challenges for AI governance.",
+        "Significant disparities exist in digital access, particularly a stark urban-rural divide in internet connectivity (84.1% vs.",
+        "The AI research and education ecosystem faces significant gaps, with low R&D spending, few AI publications or researchers, and no patents.",
+        "Assessing Cuba's economic readiness for AI is challenging due to significant data gaps concerning AI's impact onlabor, company investment, and skills.",
+        "Cuba faces significant infrastructure challenges for AI, including low overall connectivity, limited broadband access, and slow speeds."
+      ]
+    },
+    {
+      "iso": "CW",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/curacao",
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "DE",
+      "status": "inProcess",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/germany",
+      "dimensions": {},
+      "keyFindings": []
+    },
+    {
+      "iso": "DO",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/dominicanrepublic",
+      "dimensions": null,
+      "keyFindings": [
+        "Evaluating AI strategies and their implementation is an ongoing challenge.",
+        "The Dominican Republic used the first RAM’s results to hone the ENIA’s draft and incorporated its recommendation of using it to complement the existing indicators to evaluate the ENIA.",
+        "The RAM is a comprehensive evaluation, and most (if not all) countries will find gaps in their ecosystems when applying it.",
+        "Using the results to develop and prioritize policies to fill the gaps, as the Dominican Republic did, reduces resistance among government stakeholders.",
+        "Despite identifying relevant gaps, the Dominican Republic RAM was analyzed alongside the ENIA, which proved helpful in streamlining its acceptance and further embracing it for future evaluation."
+      ]
+    },
+    {
+      "iso": "EG",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/egypt",
+      "dimensions": {},
+      "keyFindings": [
+        "Ranked 1st in Africa for AI readiness",
+        "92 AI institutes",
+        "500K+ trained annually",
+        "Charter for Responsible AI adopted 2023"
+      ]
+    },
+    {
+      "iso": "GA",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/gabon",
+      "dimensions": null,
+      "keyFindings": [
+        "Gabon is resolutely turning towards digital technology to stimulate economic growth, promote social inclusion, and strengthen national sovereignty.",
+        "With UNESCO's support, the government established the National Technical Committee for AI (CTN-IA).",
+        "The adoption of AI in Gabon is still in its early stages.",
+        "Regulatory-wise, several laws, including the one onpersonal data protection, lay the foundation for regulating AI use and protecting citizens' privacy.",
+        "In terms of digital infrastructure, although Gabon does not have a public data center, it does have administrative and private data centers."
+      ]
+    },
+    {
+      "iso": "GB",
+      "status": "inProcess",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/unitedkingdom",
+      "dimensions": {},
+      "keyFindings": []
     },
     {
       "iso": "ID",
       "status": "completed",
       "ramUrl": "https://www.unesco.org/ethics-ai/en/indonesia",
-      "dimensions": {"legalRegulatory":3,"socialCultural":3,"economic":3,"scientificEducational":3,"technologicalInfrastructural":3},
-      "keyFindings": ["National AI Strategy 2020-2045","Digital transformation roadmap","Large talent pool","Infrastructure development ongoing"]
+      "dimensions": {},
+      "keyFindings": [
+        "Indonesia launched its National Strategy for Artificial Intelligence in 2020, developed through a multi-stakeholder consultation with industry, government, civil society, and academia.",
+        "Challenges remain in addressing the gender gap in internet use.",
+        "Bahasa Indonesia, spoken by around 200 million people, is underrepresented in research datasets, and over 700 indigenous languages face extinction.",
+        "Research in Indonesia is underfunded at just 0.2% of GDP, far below the global average of 2%, but AI research is growing.",
+        "Indonesia has 953 universities offering AI and ML-related programs, producing 500,000 graduates between 2019 and 2024."
+      ]
+    },
+    {
+      "iso": "KE",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/kenya",
+      "dimensions": null,
+      "keyFindings": [
+        "Kenya has undertaken amultistakeholder consultation processto develop its first national AI and emerging technology strategy.",
+        "Kenya is ranked 6th in Africa according to the 2023 Oxford Insights AI Readiness Index.",
+        "Kenya has established astrong legal frameworkto support the ethical use of AI and data.",
+        "TheKenyan Constitution guarantees access to information, a critical enabler for transparency and accountability.",
+        "Despite progress, significant disparities persist."
+      ]
+    },
+    {
+      "iso": "KH",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/cambodia",
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "KR",
+      "status": "inProcess",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/southkorea",
+      "dimensions": {},
+      "keyFindings": []
+    },
+    {
+      "iso": "LT",
+      "status": "inProcess",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/lithuania",
+      "dimensions": {},
+      "keyFindings": []
+    },
+    {
+      "iso": "MA",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/morocco",
+      "dimensions": {},
+      "keyFindings": [
+        "No dedicated AI strategy yet",
+        "Strong female STEM participation",
+        "R&D investment at 0.75% GDP",
+        "Cybersecurity ranked 50th globally"
+      ]
+    },
+    {
+      "iso": "MV",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/maldives",
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "MX",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/mexico",
+      "dimensions": null,
+      "keyFindings": [
+        "Currently, the countrydoes not yet havea national AI plan or strategy.",
+        "Scientific production in AI is low compared to international standards; however, at the regional level,Mexico and Brazil account for 95% of the region's AI patents, according to the Latin American Artificial Intelligence Index.",
+        "There are 93 mobile lines with internet and 106 with telephony per 100 inhabitants, with at least 3G mobile network coverage for93.3% of the population(2022).78% of the populationaged six and older are internet users."
+      ]
+    },
+    {
+      "iso": "MY",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/malaysia",
+      "dimensions": null,
+      "keyFindings": [
+        "Strong National AI Roadmap (AI-RMap 2021–2025).",
+        "Launch of National AI Governance & Ethics Guidelines (AIGE, 2024).",
+        "Institutional Leadership through National AI Office (NAIO).",
+        "Significant AI Investment Attraction.",
+        "Rapid AI Ecosystem Growth."
+      ]
+    },
+    {
+      "iso": "MZ",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/mozambique",
+      "dimensions": null,
+      "keyFindings": [
+        "Mozambique is in the early stages of AI adoption and is working towards establishinggovernance frameworksthat align with UNESCO’s Ethics of AI recommendations.",
+        "Mozambique faces significant infrastructure barriers.",
+        "AI research and developmentin Mozambique is emerging, with universities likeEduardo Mondlanebeginning to integrate AI into academic programs.",
+        "Mozambique faces a pronounceddigital and gender divide.",
+        "Interest inAI-driven entrepreneurshipis growing, particularly in agriculture, healthcare, and financial services."
+      ]
+    },
+    {
+      "iso": "NA",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/namibia",
+      "dimensions": null,
+      "keyFindings": [
+        "Namibia is actively working to implement the UNESCO framework on ethics of AI and the establishment of a National Responsible AI Institute as recommended by the 4IR Taskforce Report, is a central proposal for coordinating future AI development.",
+        "Additionally, Namibia is also advancing foundational work in data governance, through the development of a Data Protection Bill, making strides in data openness with initiatives like the National Statistics Agency (NSA) open data portal, and enhancing digital skills through its draft National Digital Strategy and e-government initiatives such as e-health, e-government procurement and the Namibia Cybersecurity Strategy.",
+        "The report concludes that while progress is being made, further efforts are needed in policy development, capacity building, and infrastructure improvement to fully harness AI’s potential for national development.",
+        "The Constitution of Namibia mandates the government to promote economic growth, prosperity, and dignity for all citizens, with a strong emphasis on science and technology development.",
+        "Namibia’s Vision 2030 highlights the essential role of ICT in transitioning the country into a knowledge-based, industrialized, and eco-friendly society."
+      ]
+    },
+    {
+      "iso": "NL",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/netherlands",
+      "dimensions": null,
+      "keyFindings": [
+        "Since 2019, the Dutch government has invested considerable efforts into AI.",
+        "An initiative aimed at increasing transparency about the use of AI and algorithms is the Dutchalgorithm registryfor the public sector, which was launched at the end of 2022.",
+        "Ethics and trustare central to the AI discourse in the Netherlands.",
+        "The Netherlands also has significantjudicial expertisewhen it comes to AI and international law. This also provides a possibilities for specialization in supervisory roles and arbitration.",
+        "The Dutch government developed theFundamental Rights and Algorithms Impact Assessment(FRAIA), which helps to map the risks to fundamental rights in the use of algorithms and to take measures to address this."
+      ]
+    },
+    {
+      "iso": "PE",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/peru",
+      "dimensions": null,
+      "keyFindings": [
+        "Peru has made early and significant normative advances in AI governance, positioning itself as one of the first countries in the region to adopt a general-scope AI law.",
+        "Building on this strong normative momentum, the report identifies an opportunity to further consolidate implementation and institutional alignment.",
+        "From an ecosystem perspective, Peru faces challenges in articulating a mature and sustainable AI ecosystem.",
+        "Human capital development and digital literacy emerge as cross-cutting priorities.",
+        "Finally, Peru shows comparatively strong performance in digital infrastructure at the regional level, ranking above the Latin American average in international benchmarks."
+      ]
+    },
+    {
+      "iso": "PH",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/philippines",
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "SA",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/saudiarabia",
+      "dimensions": {},
+      "keyFindings": [
+        "Saudi Arabia has a unique data and AI authority that leads the Kingdom's data and AI strategy, policymaking, regulation, and enablement.",
+        "The establishment of AI-specific regulatory sandboxes could accelerate innovation while managing risks.",
+        "There is a critical need to address the talent gap in the AI sector to sustain growth and innovation.",
+        "Educational systems must continue to adapt to prepare future generations for a world increasingly driven by AI.",
+        "Addressing the talent gap relies on empowering women to pursue careers in STEM fields, through early nurturing and appropriate inclusion programmes further down the road."
+      ]
+    },
+    {
+      "iso": "SG",
+      "status": "inProcess",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/singapore",
+      "dimensions": {},
+      "keyFindings": []
+    },
+    {
+      "iso": "SN",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/senegal",
+      "dimensions": {},
+      "keyFindings": [
+        "Digital Senegal 2025 strategy",
+        "Growing tech hub ecosystem",
+        "Infrastructure gaps remain",
+        "GPAI member state"
+      ]
+    },
+    {
+      "iso": "ST",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/saotomeandprincipe",
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "TD",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/chad",
+      "dimensions": null,
+      "keyFindings": [
+        "Chad has a digitalstrategyfor 2020-2030 andsectoralstrategiesinwhichdigitaltechnologyplaysafundamentalrole.Theseprovisions canstimulatethepragmaticadoption of AI and serve as anoperationalbasis for a national roadmap.",
+        "At theinstitutionallevel, the country has adedicatedministry(MCENDA) andagencies(notablyADETIC and ANSICE)thatconsolidategovernance.",
+        "The RAMexercisehighlights the urgentneedtoestablishaspecificliabilityregimetoensureaccountabilityand compensation for damagecausedby AIsystems.",
+        "Intermsof thelegalframework, the countryregulatescyberspace, but consultationsconcludethatthereisan urgentneedtoadopta proactiveapproachin light of the obsolescence ofcertain provisions.",
+        "The consultationsidentifydigital infrastructure as a “cornerstone” forsupportingresponsibledevelopment.Withoutconnectivity, ITresources, dataprocessingfacilities, andcomputingcenters,itseemsdifficultto envisage an AI roadmap."
+      ]
+    },
+    {
+      "iso": "TH",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/thailand",
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "TZ",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/tanzania",
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "ZA",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/southafrica",
+      "dimensions": {},
+      "keyFindings": [
+        "South Africa’s AI ecosystem is in a pivotal stage of development.",
+        "In terms of governance, South Africa leads in Africa and has a strong legal foundation for Al policy, with key regulations such as theProtection of Personal Information Act(2013), theCybercrimes Act(2020), and theElectronic Communications and Transactions Act 25(2002) providing some oversight.",
+        "South Africa ranks among thetop 20% of countries globally in digital infrastructure, according to the World Bank’s Statistical Performance Indicator.",
+        "As one of Africa's leading Al markets, South Africa has seen increasing Al adoption across key sectors such as finance, manufacturing, and healthcare.",
+        "Nevertheless, South Africa is aninnovation leader in Africa, ranking among the top five African nations in the 2023 Global Innovation Index and 24th globally in the Economic Complexity Index (Technology).Government funding constitutes 56.3% of R&D spending, followed by business (26.9%), foreign investment (13.3%), and other sources (3.5%).The majority ofthis funding supports universities and national science councils."
+      ]
+    },
+    {
+      "iso": "ZW",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/zimbabwe",
+      "dimensions": null,
+      "keyFindings": [
+        "Zimbabwe has recognised the pivotal role of the Fourth Industrial Revolution (4IR) technologies—such as artificial intelligence (AI), blockchain, and the Internet of Things (IoT)—in propelling economic growth and innovation.",
+        "The Government of the Republic of Zimbabwe is committed to strengthening ICTs and has developed a Smart Zimbabwe 2030 Master Plan with the key pillars anchored on policy, regulation and statutes; secure and shared infrastructure; partnerships, skills and capacity building; content development; and confidence and security of network services.",
+        "The Government has also enacted the Cyber and Data Protection Act (CPDA) which provides foundational guidance for the collection, storage, use and transfer of data, including the privacy of genetic, biometric, sensitive, and health data.",
+        "The National ICT Policy (2022-2027) correlates with aspects articulated in the Smart Zimbabwe 2030 Master Plan."
+      ]
+    },
+    {
+      "iso": "BD",
+      "status": "completed",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "BE",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
     },
     {
       "iso": "BH",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "BW",
+      "status": "completed",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CD",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CI",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CM",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CO",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CR",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "EC",
+      "status": "completed",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "ET",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "GE",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "GH",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "GT",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "IN",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/india",
+      "dimensions": {},
+      "keyFindings": [
+        "Comprehensive national AI strategy",
+        "Strong IT sector foundation",
+        "Digital divide challenges remain",
+        "Growing startup ecosystem"
+      ]
+    },
+    {
+      "iso": "JM",
+      "status": "completed",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "LA",
+      "status": "completed",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "MD",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "MU",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/mauritius",
+      "dimensions": {},
+      "keyFindings": [
+        "National AI Strategy 2023",
+        "Small island developing state leader",
+        "Data protection law in place",
+        "Limited AI research capacity"
+      ]
+    },
+    {
+      "iso": "MW",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "NG",
       "status": "inProcess",
       "ramUrl": null,
       "dimensions": null,
@@ -147,7 +528,7 @@
       "keyFindings": null
     },
     {
-      "iso": "KZ",
+      "iso": "PY",
       "status": "inProcess",
       "ramUrl": null,
       "dimensions": null,
@@ -161,63 +542,82 @@
       "keyFindings": null
     },
     {
-      "iso": "KE",
+      "iso": "SI",
       "status": "inProcess",
       "ramUrl": null,
       "dimensions": null,
       "keyFindings": null
     },
     {
-      "iso": "CO",
+      "iso": "SK",
       "status": "inProcess",
       "ramUrl": null,
       "dimensions": null,
       "keyFindings": null
     },
     {
-      "iso": "PE",
-      "status": "inProcess",
-      "ramUrl": null,
-      "dimensions": null,
-      "keyFindings": null
-    },
-    {
-      "iso": "TH",
-      "status": "inProcess",
-      "ramUrl": null,
-      "dimensions": null,
-      "keyFindings": null
-    },
-    {
-      "iso": "PH",
-      "status": "inProcess",
-      "ramUrl": null,
-      "dimensions": null,
-      "keyFindings": null
-    },
-    {
-      "iso": "GH",
-      "status": "inProcess",
-      "ramUrl": null,
-      "dimensions": null,
-      "keyFindings": null
-    },
-    {
-      "iso": "NG",
-      "status": "inProcess",
-      "ramUrl": null,
-      "dimensions": null,
-      "keyFindings": null
-    },
-    {
-      "iso": "BD",
-      "status": "inProcess",
+      "iso": "TL",
+      "status": "completed",
       "ramUrl": null,
       "dimensions": null,
       "keyFindings": null
     },
     {
       "iso": "TN",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "TR",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "UY",
+      "status": "completed",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/uruguay",
+      "dimensions": {},
+      "keyFindings": [
+        "Strong data protection framework",
+        "National AI Strategy since 2019",
+        "High digital literacy rates",
+        "Limited AI research output"
+      ]
+    },
+    {
+      "iso": "UZ",
+      "status": "inProcess",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "VN",
+      "status": "completed",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "AO",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "AR",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "CA",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
@@ -231,42 +631,35 @@
       "keyFindings": null
     },
     {
-      "iso": "ET",
+      "iso": "FJ",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
       "keyFindings": null
     },
     {
-      "iso": "TZ",
+      "iso": "HN",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
       "keyFindings": null
     },
     {
-      "iso": "CR",
+      "iso": "KM",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
       "keyFindings": null
     },
     {
-      "iso": "EC",
+      "iso": "KZ",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
       "keyFindings": null
     },
     {
-      "iso": "JM",
-      "status": "inPreparation",
-      "ramUrl": null,
-      "dimensions": null,
-      "keyFindings": null
-    },
-    {
-      "iso": "NP",
+      "iso": "LK",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
@@ -280,7 +673,14 @@
       "keyFindings": null
     },
     {
-      "iso": "VN",
+      "iso": "NP",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "PA",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
@@ -294,14 +694,42 @@
       "keyFindings": null
     },
     {
-      "iso": "FJ",
+      "iso": "PL",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
       "keyFindings": null
     },
     {
-      "iso": "CM",
+      "iso": "SO",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "SR",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "SV",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "TT",
+      "status": "inPreparation",
+      "ramUrl": "https://www.unesco.org/ethics-ai/en/trinidadandtobago",
+      "dimensions": {},
+      "keyFindings": []
+    },
+    {
+      "iso": "UA",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,
@@ -309,6 +737,13 @@
     },
     {
       "iso": "UG",
+      "status": "inPreparation",
+      "ramUrl": null,
+      "dimensions": null,
+      "keyFindings": null
+    },
+    {
+      "iso": "ZM",
       "status": "inPreparation",
       "ramUrl": null,
       "dimensions": null,

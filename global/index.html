@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global AI Readiness Monitor | ICAIRE</title>
-    <meta name="description" content="ICAIRE's comprehensive dashboard aggregating all major AI readiness indices worldwide.">
+    <title>Global RAM Monitor | ICAIRE</title>
+    <meta name="description" content="ICAIRE's interactive dashboard for UNESCO's Readiness Assessment Methodology (RAM) worldwide.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DIN&display=swap" rel="stylesheet">
@@ -68,28 +68,12 @@
         .hero-stat .lbl { font-size:0.72rem; color:rgba(255,255,255,0.5); text-transform:uppercase; letter-spacing:1px; }
         .last-updated { font-size:0.72rem; color:rgba(255,255,255,0.35); }
 
-        /* Tabs */
-        .tab-bar {
-            display:flex; justify-content:center; gap:0;
-            background:var(--primary-dark); padding:0; position:sticky; top:76px; z-index:100;
-        }
-        .tab-btn {
-            padding:14px 32px; background:none; border:none; border-bottom:3px solid transparent;
-            color:rgba(255,255,255,0.6); font-family:inherit; font-size:0.92rem; font-weight:600;
-            cursor:pointer; transition:all 0.3s; letter-spacing:0.3px;
-        }
-        .tab-btn:hover { color:rgba(255,255,255,0.85); background:rgba(255,255,255,0.05); }
-        .tab-btn.active { color:white; border-bottom-color:var(--accent); background:rgba(77,200,142,0.08); }
-        .tab-content { display:none; }
-        .tab-content.active { display:block; }
-
         /* Map */
         #map-container { height:500px; border-radius:12px; overflow:hidden; box-shadow:var(--shadow); margin-bottom:24px; }
         .map-controls { display:flex; gap:12px; justify-content:space-between; align-items:center; flex-wrap:wrap; margin-bottom:16px; }
         .map-legend { display:flex; gap:16px; flex-wrap:wrap; align-items:center; }
         .map-legend-item { display:flex; align-items:center; gap:6px; font-size:0.8rem; color:var(--text-muted); }
         .map-legend-color { width:14px; height:14px; border-radius:3px; }
-        .map-dropdown { padding:8px 14px; border:1.5px solid var(--border); border-radius:8px; font-family:inherit; font-size:0.85rem; background:white; color:var(--text-dark); }
 
         /* Info panel (right side of map) */
         .map-layout { display:grid; grid-template-columns:1fr 340px; gap:20px; }
@@ -129,11 +113,68 @@
         .chart-card h3 { font-size:1rem; color:var(--text-dark); margin-bottom:12px; }
         .chart-card-full { grid-column:1/-1; }
 
-        /* Gap matrix */
-        .coverage-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:12px; margin-bottom:24px; }
-        .coverage-card { background:var(--card-bg); border-radius:10px; padding:16px; text-align:center; box-shadow:var(--shadow); border-left:4px solid var(--accent); }
-        .coverage-card .cov-num { font-size:1.6rem; font-weight:700; color:var(--primary); }
-        .coverage-card .cov-label { font-size:0.78rem; color:var(--text-muted); margin-top:4px; }
+        /* Quantitative Summary */
+        .lb-controls { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; align-items:center; }
+        .lb-controls label { font-size:0.82rem; color:var(--text-muted); font-weight:600; }
+        .lb-controls select { padding:6px 12px; border:1px solid var(--border); border-radius:8px; font-size:0.82rem; font-family:inherit; background:white; color:var(--text-dark); cursor:pointer; }
+        .lb-table-wrap { overflow-x:auto; border-radius:12px; box-shadow:var(--shadow); }
+        .lb-table { width:100%; border-collapse:collapse; background:var(--card-bg); font-size:0.85rem; }
+        .lb-table thead { background:var(--primary-dark); color:white; }
+        .lb-table th { padding:10px 12px; text-align:left; font-weight:600; font-size:0.78rem; text-transform:uppercase; letter-spacing:0.5px; white-space:nowrap; cursor:pointer; user-select:none; }
+        .lb-table th:hover { background:var(--primary); }
+        .lb-table th.sort-active::after { content:' ▼'; font-size:0.65rem; }
+        .lb-table th.sort-active.sort-asc::after { content:' ▲'; font-size:0.65rem; }
+        .lb-table td { padding:8px 12px; border-bottom:1px solid var(--border); }
+        .lb-table tr { cursor:pointer; transition:background 0.15s; }
+        .lb-table tbody tr:hover { background:rgba(77,200,142,0.06); }
+        .lb-table tbody tr.lb-selected { background:rgba(26,92,58,0.08); border-left:3px solid var(--accent); }
+        .lb-rank { font-weight:700; color:var(--primary); min-width:32px; text-align:center; }
+        .lb-flag { font-size:1.1rem; }
+        .lb-avg { font-weight:700; font-size:0.95rem; }
+        .lb-score-pill { display:inline-block; width:28px; height:22px; line-height:22px; text-align:center; border-radius:4px; font-size:0.75rem; font-weight:700; color:white; }
+        .lb-score-1 { background:#ef4444; }
+        .lb-score-2 { background:#f59e0b; }
+        .lb-score-3 { background:#eab308; }
+        .lb-score-4 { background:#22c55e; }
+        .lb-score-5 { background:#16a34a; }
+        .lb-region-tag { font-size:0.72rem; color:var(--text-muted); background:rgba(13,61,42,0.06); padding:2px 8px; border-radius:10px; white-space:nowrap; }
+        @media(max-width:600px) {
+            .lb-table { font-size:0.78rem; }
+            .lb-table th, .lb-table td { padding:6px 8px; }
+            .lb-dim-cols { display:none; }
+        }
+
+        /* Deep Dive */
+        .dd-country-select { padding:8px 16px; border:1px solid var(--border); border-radius:8px; font-size:0.9rem; font-family:inherit; background:white; color:var(--text-dark); cursor:pointer; min-width:200px; }
+        .dd-summary { background:var(--card-bg); border-radius:12px; padding:24px; box-shadow:var(--shadow); margin-bottom:20px; max-height:300px; overflow-y:auto; }
+        .dd-summary h3 { font-size:1rem; margin-bottom:8px; color:var(--text-dark); }
+        .dd-summary pre { white-space:pre-wrap; font-family:inherit; font-size:0.82rem; color:var(--text-muted); line-height:1.6; }
+        .dd-chapters { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:12px; margin-bottom:24px; }
+        .dd-chapter-card { background:var(--card-bg); border-radius:10px; padding:14px 16px; box-shadow:var(--shadow); border-left:3px solid var(--accent); font-size:0.85rem; }
+        .dd-chapter-card .ch-num { font-weight:700; color:var(--primary); margin-right:6px; }
+        .dd-dim-group { margin-bottom:24px; }
+        .dd-dim-group h3 { font-size:1rem; color:var(--primary-dark); margin-bottom:12px; padding-bottom:6px; border-bottom:2px solid var(--accent); display:inline-block; }
+        .dd-rec-card { background:var(--card-bg); border-radius:10px; padding:16px; box-shadow:var(--shadow); margin-bottom:12px; }
+        .dd-rec-header { display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-bottom:8px; }
+        .dd-rec-num { background:var(--primary); color:white; font-weight:700; font-size:0.78rem; padding:3px 10px; border-radius:12px; white-space:nowrap; }
+        .dd-rec-title { font-weight:600; font-size:0.9rem; color:var(--text-dark); flex:1; }
+        .dd-rec-text { font-size:0.82rem; color:var(--text-muted); line-height:1.6; margin-top:6px; }
+        .dd-rec-text.collapsed { max-height:60px; overflow:hidden; position:relative; }
+        .dd-rec-text.collapsed::after { content:''; position:absolute; bottom:0; left:0; right:0; height:30px; background:linear-gradient(transparent,white); }
+        .dd-rec-toggle { background:none; border:none; color:var(--primary); font-size:0.8rem; cursor:pointer; padding:4px 0; font-family:inherit; }
+        .dd-pill { display:inline-block; padding:2px 10px; border-radius:10px; font-size:0.72rem; font-weight:600; white-space:nowrap; }
+        .dd-pill-high { background:rgba(239,68,68,0.12); color:#dc2626; }
+        .dd-pill-medium { background:rgba(245,158,11,0.12); color:#d97706; }
+        .dd-pill-low { background:rgba(34,197,94,0.12); color:#16a34a; }
+        .dd-pill-short { background:rgba(99,102,241,0.12); color:#4f46e5; }
+        .dd-pill-mid { background:rgba(168,85,247,0.12); color:#7c3aed; }
+        .dd-pill-long { background:rgba(14,165,233,0.12); color:#0284c7; }
+        .dd-no-data { text-align:center; padding:60px 20px; color:var(--text-muted); }
+        .dd-no-data .icon { font-size:2.5rem; margin-bottom:12px; }
+        .dd-stats { display:flex; gap:16px; flex-wrap:wrap; margin-bottom:20px; }
+        .dd-stat-card { background:var(--card-bg); border-radius:10px; padding:14px 20px; box-shadow:var(--shadow); text-align:center; min-width:120px; }
+        .dd-stat-card .num { font-size:1.4rem; font-weight:700; color:var(--primary); }
+        .dd-stat-card .lbl { font-size:0.72rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px; }
 
         /* Sources */
         .sources-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:16px; margin-bottom:24px; }
@@ -154,6 +195,61 @@
             background:rgba(77,200,142,0.12); color:rgba(77,200,142,0.35); font-size:1.1rem; font-weight:700;
             letter-spacing:4px; padding:4px 40px; z-index:9999; pointer-events:none;
         }
+
+        /* ── New Sections: Regulations, Rankings, Achievements, Key Numbers ── */
+        .reg-filters { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:20px; align-items:center; }
+        .reg-filters label { font-size:0.82rem; color:var(--text-muted); font-weight:600; }
+        .reg-filter-btn { padding:6px 14px; border:1px solid var(--border); border-radius:20px; font-size:0.8rem; font-family:inherit; background:white; color:var(--text-dark); cursor:pointer; transition:all 0.2s; }
+        .reg-filter-btn.active { background:var(--primary); color:white; border-color:var(--primary); }
+        .reg-table-wrap { overflow-x:auto; border-radius:12px; box-shadow:var(--shadow); }
+        .reg-table { width:100%; border-collapse:collapse; background:var(--card-bg); font-size:0.85rem; }
+        .reg-table thead { background:var(--primary-dark); color:white; }
+        .reg-table th { padding:10px 12px; text-align:left; font-weight:600; font-size:0.78rem; text-transform:uppercase; letter-spacing:0.5px; white-space:nowrap; }
+        .reg-table td { padding:8px 12px; border-bottom:1px solid var(--border); }
+        .reg-table tbody tr:hover { background:rgba(77,200,142,0.06); }
+        .reg-status { display:inline-block; padding:2px 10px; border-radius:10px; font-size:0.72rem; font-weight:600; }
+        .reg-enacted { background:rgba(16,185,129,0.12); color:#059669; }
+        .reg-draft { background:rgba(245,158,11,0.12); color:#d97706; }
+        .reg-proposed { background:rgba(99,102,241,0.12); color:#4f46e5; }
+        .reg-unknown { background:rgba(148,163,184,0.1); color:#64748b; }
+        .reg-cross-view { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:16px; margin-top:24px; }
+        .reg-cross-card { background:var(--card-bg); border-radius:10px; padding:16px; box-shadow:var(--shadow); border-left:3px solid var(--accent); }
+        .reg-cross-card h4 { font-size:0.92rem; margin-bottom:8px; }
+        .reg-cross-card .country-list { font-size:0.82rem; color:var(--text-muted); line-height:1.7; }
+
+        /* Rankings */
+        .rank-controls { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:20px; align-items:center; }
+        .rank-controls select { padding:6px 12px; border:1px solid var(--border); border-radius:8px; font-size:0.82rem; font-family:inherit; background:white; color:var(--text-dark); cursor:pointer; }
+        .rank-chart-wrap { max-width:900px; margin:0 auto; }
+        .rank-table-wrap { overflow-x:auto; border-radius:12px; box-shadow:var(--shadow); margin-top:20px; }
+        .rank-table { width:100%; border-collapse:collapse; background:var(--card-bg); font-size:0.85rem; }
+        .rank-table thead { background:var(--primary-dark); color:white; }
+        .rank-table th { padding:10px 12px; text-align:left; font-weight:600; font-size:0.78rem; text-transform:uppercase; letter-spacing:0.5px; }
+        .rank-table td { padding:8px 12px; border-bottom:1px solid var(--border); }
+        .rank-table tbody tr:hover { background:rgba(77,200,142,0.06); }
+
+        /* Achievements */
+        .ach-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:16px; }
+        .ach-card { background:var(--card-bg); border-radius:10px; padding:16px; box-shadow:var(--shadow); position:relative; border-top:3px solid var(--accent); }
+        .ach-card .ach-dim { font-size:0.72rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:6px; }
+        .ach-card .ach-text { font-size:0.82rem; color:var(--text-dark); line-height:1.6; }
+        .ach-card.ach-highlight { border-top-color:#f59e0b; }
+        .ach-card .ach-badge { position:absolute; top:12px; right:12px; font-size:0.7rem; padding:2px 8px; border-radius:10px; background:rgba(245,158,11,0.12); color:#d97706; font-weight:600; }
+        .ach-dim-filters { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:16px; }
+
+        /* Key Numbers */
+        .kn-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:16px; }
+        .kn-card { background:var(--card-bg); border-radius:10px; padding:16px 20px; box-shadow:var(--shadow); text-align:center; }
+        .kn-card .kn-value { font-size:1.4rem; font-weight:700; color:var(--primary); }
+        .kn-card .kn-unit { font-size:0.75rem; color:var(--accent); font-weight:600; }
+        .kn-card .kn-label { font-size:0.78rem; color:var(--text-muted); margin-top:4px; }
+        .kn-card .kn-country { font-size:0.7rem; color:var(--text-muted); margin-top:2px; opacity:0.7; }
+        .kn-compare-table { width:100%; border-collapse:collapse; background:var(--card-bg); font-size:0.85rem; border-radius:12px; overflow:hidden; box-shadow:var(--shadow); margin-top:20px; }
+        .kn-compare-table thead { background:var(--primary-dark); color:white; }
+        .kn-compare-table th, .kn-compare-table td { padding:8px 12px; text-align:left; border-bottom:1px solid var(--border); }
+
+        .no-data-msg { text-align:center; padding:40px 20px; color:var(--text-muted); font-size:0.9rem; }
+        .no-data-msg .icon { font-size:2rem; margin-bottom:8px; }
 
         /* Leaflet overrides */
         .leaflet-container { background:#f0f4f0; }
@@ -180,9 +276,13 @@
             ICAIRE
         </a>
         <ul class="nav-links">
-            <li><a href="#" onclick="switchTab('ram')">UNESCO RAM</a></li>
-            <li><a href="#" onclick="switchTab('indices')">AI Indices</a></li>
-            <li><a href="#sources-section">Sources</a></li>
+            <li><a href="#ram-section">RAM Assessment</a></li>
+            <li><a href="#leaderboard-section">Overview</a></li>
+            <li><a href="#regulations-section">Regulations</a></li>
+            <li><a href="#rankings-section">Rankings</a></li>
+            <li><a href="#achievements-section">Achievements</a></li>
+            <li><a href="#keynumbers-section">Stats</a></li>
+            <li><a href="#deepdive-section">Deep Dive</a></li>
         </ul>
     </div>
 </nav>
@@ -191,27 +291,20 @@
 <section class="hero">
     <div class="hero-content">
         <span class="hero-badge">Curated by ICAIRE · A UNESCO Category 2 Center</span>
-        <h1>Global <span class="hl">AI Readiness</span> Monitor</h1>
-        <p class="hero-sub">The world's AI readiness landscape — assessments, indices, and insights in one place</p>
+        <h1>Global <span class="hl">RAM</span> Monitor</h1>
+        <p class="hero-sub">UNESCO Readiness Assessment Methodology — Interactive Dashboard</p>
         <p class="hero-tagline">Empowering nations to advance ethical, inclusive AI</p>
         <div class="hero-stats">
             <div class="hero-stat"><span class="num" id="stat-countries">—</span><span class="lbl">Countries</span></div>
             <div class="hero-stat"><span class="num" id="stat-ram">—</span><span class="lbl">RAM Assessed</span></div>
-            <div class="hero-stat"><span class="num" id="stat-indices">9</span><span class="lbl">Indices</span></div>
             <div class="hero-stat"><span class="num" id="stat-dimensions">—</span><span class="lbl">Dimensions</span></div>
         </div>
         <p class="last-updated">Last Updated: <span id="last-updated">—</span></p>
     </div>
 </section>
 
-<!-- Tab Bar -->
-<div class="tab-bar">
-    <button class="tab-btn active" onclick="switchTab('ram')" id="tab-btn-ram">🏛️ UNESCO RAM Assessment</button>
-    <button class="tab-btn" onclick="switchTab('indices')" id="tab-btn-indices">📊 AI Readiness Indices</button>
-</div>
-
-<!-- TAB 1: UNESCO RAM -->
-<div class="tab-content active" id="tab-ram">
+<!-- RAM Assessment -->
+<div id="ram-section">
     <div class="section-pad">
         <div class="container">
             <div class="section-header">
@@ -240,7 +333,13 @@
 
             <!-- Selected countries for comparison -->
             <div style="margin-top:24px">
-                <h3 style="font-size:0.95rem;color:var(--text-muted);margin-bottom:8px">Selected for comparison (click countries on map):</h3>
+                <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap">
+                    <h3 style="font-size:0.95rem;color:var(--text-muted);margin:0">Selected for comparison:</h3>
+                    <div style="background:linear-gradient(90deg,rgba(77,200,142,0.15),rgba(26,92,58,0.1));border:1.5px dashed var(--accent);border-radius:8px;padding:8px 14px;font-size:0.85rem;color:var(--primary);display:flex;align-items:center;gap:8px">
+                        <span style="font-size:1.1rem">🔍</span>
+                        <span><strong>Click countries</strong> on the map to compare up to 8 — click again to deselect</span>
+                    </div>
+                </div>
                 <div class="selected-bar" id="selected-countries"></div>
             </div>
 
@@ -248,7 +347,9 @@
             <div class="charts-grid" style="margin-top:24px" id="ram-charts">
                 <div class="chart-card chart-card-full">
                     <h3>RAM Dimensions — Radar Comparison</h3>
+                    <p style="font-size:0.75rem;color:var(--text-muted);margin-top:-8px">Derived from report analysis (strengths vs gaps ratio per dimension)</p>
                     <p style="font-size:0.82rem;color:var(--text-muted);margin-bottom:12px">Select countries on the map to compare their RAM dimension scores</p>
+                    <div id="radar-no-data-notice" style="text-align:center;margin-bottom:8px"></div>
                     <div style="max-width:550px;margin:0 auto"><canvas id="radar-chart"></canvas></div>
                 </div>
             </div>
@@ -256,88 +357,160 @@
     </div>
 </div>
 
-<!-- TAB 2: AI Indices -->
-<div class="tab-content" id="tab-indices">
-    <div class="section-pad">
-        <div class="container">
-            <div class="section-header">
-                <h2>Global AI Readiness Indices</h2>
-                <p>Quantitative scores and rankings from the world's leading AI indices. Select an index to color the map.</p>
-            </div>
+<!-- Quantitative Summary -->
+<section id="leaderboard-section" class="section-pad alt">
+    <div class="container">
+        <div class="section-header">
+            <h2>Quantitative Summary</h2>
+            <p>Ranking assessed countries by their average RAM score across all five dimensions</p>
+        </div>
+        <div class="lb-controls">
+            <label>Region:</label>
+            <select id="lb-region-filter">
+                <option value="all">All Regions</option>
+            </select>
+            <label>Sort by:</label>
+            <select id="lb-sort-filter">
+                <option value="average">Overall Average</option>
+                <option value="legalRegulatory">Legal & Regulatory</option>
+                <option value="socialCultural">Social & Cultural</option>
+                <option value="economic">Economic</option>
+                <option value="scientificEducational">Scientific & Educational</option>
+                <option value="technologicalInfrastructural">Tech & Infrastructure</option>
+            </select>
+        </div>
+        <div class="lb-table-wrap">
+            <table class="lb-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Country</th>
+                        <th>Region</th>
+                        <th>Avg</th>
+                        <th class="lb-dim-cols">Legal</th>
+                        <th class="lb-dim-cols">Social</th>
+                        <th class="lb-dim-cols">Econ</th>
+                        <th class="lb-dim-cols">Sci/Edu</th>
+                        <th class="lb-dim-cols">Tech</th>
+                    </tr>
+                </thead>
+                <tbody id="lb-tbody"></tbody>
+            </table>
+        </div>
+    </div>
+</section>
 
-            <div class="map-controls">
-                <div>
-                    <label style="font-size:0.82rem;color:var(--text-muted);margin-right:8px">Color map by:</label>
-                    <select class="map-dropdown" id="index-selector" onchange="updateIndicesMap()">
-                        <option value="oxford">Oxford Insights Gov AI Readiness</option>
-                        <option value="imf-aipi">IMF AI Preparedness (AIPI)</option>
-                        <option value="tortoise">Tortoise Global AI Index</option>
-                        <option value="girai">GIRAI Responsible AI</option>
-                        <option value="stanford-hai">Stanford HAI Vibrancy</option>
-                    </select>
-                </div>
-                <div class="map-legend" id="indices-legend">
-                    <div class="map-legend-item"><div class="map-legend-color" style="background:#0D3D2A"></div> High</div>
-                    <div class="map-legend-item"><div class="map-legend-color" style="background:#1A5C3A"></div> Medium-High</div>
-                    <div class="map-legend-item"><div class="map-legend-color" style="background:#4DC88E"></div> Medium</div>
-                    <div class="map-legend-item"><div class="map-legend-color" style="background:#a7f3d0"></div> Low</div>
-                    <div class="map-legend-item"><div class="map-legend-color" style="background:#e2e8f0"></div> No Data</div>
-                </div>
-            </div>
+<!-- Regulations & Legal Framework -->
+<section id="regulations-section" class="section-pad">
+    <div class="container">
+        <div class="section-header">
+            <h2>Regulations & Legal Framework</h2>
+            <p>Key regulations identified across RAM-assessed countries</p>
+        </div>
+        <div class="reg-filters" id="reg-filters">
+            <label>Quick filters:</label>
+            <button class="reg-filter-btn active" data-filter="all" onclick="filterRegulations('all',this)">All</button>
+            <button class="reg-filter-btn" data-filter="data_protection" onclick="filterRegulations('data_protection',this)">Data Protection</button>
+            <button class="reg-filter-btn" data-filter="cybersecurity" onclick="filterRegulations('cybersecurity',this)">Cybersecurity</button>
+            <button class="reg-filter-btn" data-filter="ai_policy" onclick="filterRegulations('ai_policy',this)">AI Policy</button>
+        </div>
+        <div class="reg-table-wrap">
+            <table class="reg-table">
+                <thead><tr><th>Country</th><th>Regulation</th><th>Year</th><th>Status</th></tr></thead>
+                <tbody id="reg-tbody"></tbody>
+            </table>
+        </div>
+        <div id="reg-no-data" class="no-data-msg" style="display:none"><div class="icon">📜</div><p>No regulation data found. Select countries on the map or wait for data to load.</p></div>
+        <div class="reg-cross-view" id="reg-cross-view"></div>
+    </div>
+</section>
 
-            <div class="map-layout">
-                <div id="indices-map-container" style="height:500px;border-radius:12px;overflow:hidden;box-shadow:var(--shadow)"></div>
-                <div class="info-panel" id="indices-info-panel">
-                    <div class="info-placeholder">
-                        <div class="icon">📊</div>
-                        <p>Click a country to view its scores across all indices</p>
-                    </div>
-                </div>
-            </div>
+<!-- Rankings & Indices Comparison -->
+<section id="rankings-section" class="section-pad alt">
+    <div class="container">
+        <div class="section-header">
+            <h2>Rankings & Indices Comparison</h2>
+            <p>Compare country positions across global AI and digital indices</p>
+        </div>
+        <div class="rank-controls">
+            <label style="font-size:0.82rem;color:var(--text-muted);font-weight:600">Index:</label>
+            <select id="rank-index-filter"><option value="all">All Indices</option></select>
+            <span style="font-size:0.82rem;color:var(--text-muted);margin-left:12px">💡 Select countries on the map to compare</span>
+        </div>
+        <div class="rank-chart-wrap"><canvas id="rankings-chart"></canvas></div>
+        <div class="rank-table-wrap">
+            <table class="rank-table">
+                <thead><tr><th>Country</th><th>Index</th><th>Rank</th><th>Score</th><th>Year</th></tr></thead>
+                <tbody id="rank-tbody"></tbody>
+            </table>
+        </div>
+        <div id="rank-no-data" class="no-data-msg" style="display:none"><div class="icon">🏆</div><p>No rankings data available. Select countries on the map.</p></div>
+    </div>
+</section>
 
-            <!-- Index comparison charts -->
-            <div class="charts-grid" style="margin-top:24px">
-                <div class="chart-card">
-                    <h3>Top 20 Countries</h3>
-                    <p style="font-size:0.82rem;color:var(--text-muted);margin-bottom:12px">By selected index</p>
-                    <canvas id="bar-chart"></canvas>
-                </div>
-                <div class="chart-card">
-                    <h3>Index Correlation</h3>
-                    <p style="font-size:0.82rem;color:var(--text-muted);margin-bottom:12px">How do different indices compare?</p>
-                    <div style="display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap">
-                        <select class="map-dropdown" id="scatter-x" style="font-size:0.8rem;padding:6px 10px"></select>
-                        <span style="color:var(--text-muted);font-size:0.8rem;padding-top:6px">vs</span>
-                        <select class="map-dropdown" id="scatter-y" style="font-size:0.8rem;padding:6px 10px"></select>
-                    </div>
-                    <canvas id="scatter-chart"></canvas>
-                </div>
-            </div>
+<!-- Key Achievements Showcase -->
+<section id="achievements-section" class="section-pad">
+    <div class="container">
+        <div class="section-header">
+            <h2>Key Achievements</h2>
+            <p>Notable accomplishments and milestones from RAM-assessed countries</p>
+        </div>
+        <div class="ach-dim-filters" id="ach-dim-filters">
+            <button class="reg-filter-btn active" onclick="filterAchievements('all',this)">All</button>
+        </div>
+        <div class="ach-grid" id="ach-grid"></div>
+        <div id="ach-no-data" class="no-data-msg" style="display:none"><div class="icon">🏅</div><p>No achievements data available. Select countries on the map.</p></div>
+    </div>
+</section>
 
-            <!-- Coverage cards -->
-            <div style="margin-top:32px">
-                <h3 style="font-size:1.1rem;color:var(--text-dark);margin-bottom:16px;text-align:center">Index Coverage</h3>
-                <div class="coverage-grid" id="coverage-grid"></div>
+<!-- Key Numbers / Stats Dashboard -->
+<section id="keynumbers-section" class="section-pad alt">
+    <div class="container">
+        <div class="section-header">
+            <h2>Key Numbers & Statistics</h2>
+            <p>Important indicators and statistics from RAM reports</p>
+        </div>
+        <div class="kn-grid" id="kn-grid"></div>
+        <div id="kn-no-data" class="no-data-msg" style="display:none"><div class="icon">📊</div><p>No statistics available. Select countries on the map.</p></div>
+    </div>
+</section>
+
+<!-- Country Deep Dive -->
+<section id="deepdive-section" class="section-pad">
+    <div class="container">
+        <div class="section-header">
+            <h2>Country Deep Dive</h2>
+            <p>Explore detailed recommendations and findings from UNESCO RAM reports</p>
+        </div>
+        <div style="display:flex;align-items:center;gap:16px;margin-bottom:24px;flex-wrap:wrap">
+            <label style="font-size:0.85rem;font-weight:600;color:var(--text-muted)">Select Country:</label>
+            <select id="dd-country-select" class="dd-country-select">
+                <option value="">— Choose a country —</option>
+            </select>
+        </div>
+        <div id="dd-content">
+            <div class="dd-no-data">
+                <div class="icon">📊</div>
+                <p>Select a country above to explore its RAM report recommendations and findings</p>
             </div>
         </div>
     </div>
-</div>
+</section>
 
 <!-- Sources -->
 <section id="sources-section" class="section-pad alt">
     <div class="container">
         <div class="section-header">
-            <h2>Data Sources & Methodology</h2>
-            <p>All data aggregated from official, publicly available sources</p>
+            <h2>Data Source & Methodology</h2>
+            <p>Data from UNESCO's official Readiness Assessment Methodology</p>
         </div>
         <div class="sources-grid" id="sources-grid"></div>
         <div style="max-width:700px;margin:20px auto;padding:20px;background:white;border-radius:10px;box-shadow:var(--shadow)">
             <h3 style="font-size:0.95rem;color:var(--text-dark);margin-bottom:8px">📐 Methodology Note</h3>
             <p style="font-size:0.82rem;color:var(--text-muted);line-height:1.7">
-                ICAIRE aggregates data from independent sources without alteration. Each index uses its own methodology, scale, and coverage.
-                Where indices overlap, differences may reflect methodology rather than substance.
-                UNESCO RAM dimension scores (1-5) are qualitative expert assessments. Quantitative index scores are normalized for visual comparison.
-                For detailed methodology, consult each source directly.
+                UNESCO RAM dimension scores (1-5) are qualitative expert assessments across five key dimensions:
+                Legal & Regulatory, Social & Cultural, Economic, Scientific & Educational, and Technological & Infrastructure.
+                For detailed methodology, consult <a href="https://www.unesco.org/ethics-ai/en/global-hub" target="_blank" style="color:var(--primary)">UNESCO's RAM Global Hub</a>.
             </p>
         </div>
     </div>
@@ -358,10 +531,9 @@
         </div>
         <div style="max-width:650px;margin:20px auto;padding:14px;background:rgba(255,255,255,0.03);border-radius:6px">
             <p style="color:rgba(255,255,255,0.4);font-size:0.7rem;line-height:1.7">
-                <strong>Disclaimer:</strong> Data aggregated from independent sources for research purposes. ICAIRE does not claim ownership of third-party data.
-                This tool does not represent the views of UNESCO or any data source organization. Provided "as is" without warranty.
+                <strong>Disclaimer:</strong> Data sourced from UNESCO for research purposes. ICAIRE does not claim ownership of UNESCO data.
+                This tool does not represent the official views of UNESCO. Provided "as is" without warranty.
                 <strong>License:</strong> Dashboard by ICAIRE under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color:rgba(255,255,255,0.4)" target="_blank">CC BY-NC-SA 4.0</a>.
-                Underlying data subject to each publisher's terms.
             </p>
         </div>
         <p style="color:rgba(255,255,255,0.3);font-size:0.72rem;margin-top:12px">© 2026 ICAIRE</p>
@@ -373,35 +545,25 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 <script>
 // ═══════════════════════════════════════════
-// ICAIRE Global AI Readiness Monitor — App
+// ICAIRE Global RAM Monitor — App
 // ═══════════════════════════════════════════
 
 let countries = [], geojsonData = null, dataSources = {};
-let ramMap = null, indicesMap = null;
-let ramGeoLayer = null, indicesGeoLayer = null;
-let selectedCountries = []; // for radar comparison
-let radarChart = null, barChart = null, scatterChart = null;
+let ramMap = null, ramGeoLayer = null;
+let selectedCountries = [];
+let radarChart = null;
 
 const RAM_COLORS = { completed:'#10b981', inProcess:'#f59e0b', inPreparation:'#6366f1', none:'#e2e8f0' };
-const SCORE_COLORS = ['#e2e8f0','#a7f3d0','#4DC88E','#1A5C3A','#0D3D2A'];
 const CHART_PALETTE = [
-    {bg:'rgba(26,92,58,0.2)', border:'#1A5C3A'},
-    {bg:'rgba(77,200,142,0.2)', border:'#4DC88E'},
-    {bg:'rgba(13,61,42,0.2)', border:'#0D3D2A'},
-    {bg:'rgba(0,180,216,0.2)', border:'#00b4d8'},
-    {bg:'rgba(99,102,241,0.2)', border:'#6366f1'},
-    {bg:'rgba(245,158,11,0.2)', border:'#f59e0b'},
+    {bg:'rgba(37,99,235,0.2)', border:'#2563eb'},
     {bg:'rgba(239,68,68,0.2)', border:'#ef4444'},
+    {bg:'rgba(16,185,129,0.2)', border:'#10b981'},
+    {bg:'rgba(245,158,11,0.2)', border:'#f59e0b'},
     {bg:'rgba(168,85,247,0.2)', border:'#a855f7'},
+    {bg:'rgba(236,72,153,0.2)', border:'#ec4899'},
+    {bg:'rgba(0,180,216,0.2)', border:'#00b4d8'},
+    {bg:'rgba(255,115,0,0.2)', border:'#ff7300'},
 ];
-
-const INDEX_META = {
-    'oxford': {name:'Oxford Insights', field:'score', max:100},
-    'imf-aipi': {name:'IMF AIPI', field:'overall', max:1},
-    'tortoise': {name:'Tortoise Global AI', field:'score', max:100},
-    'girai': {name:'GIRAI', field:'score', max:100},
-    'stanford-hai': {name:'Stanford HAI', field:'score', max:100},
-};
 
 // ── DATA LOADING ──
 async function loadData() {
@@ -409,15 +571,6 @@ async function loadData() {
         countries: 'data/countries.json',
         geojson: 'data/world-boundaries.json',
         'unesco-ram': 'data/unesco-ram.json',
-        'imf-aipi': 'data/imf-aipi.json',
-        'oxford': 'data/oxford-insights.json',
-        'tortoise': 'data/tortoise.json',
-        'girai': 'data/girai.json',
-        'stanford-hai': 'data/stanford-hai.json',
-        'world-bank': 'data/world-bank.json',
-        'icesco': 'data/icesco.json',
-        'oecd': 'data/oecd.json',
-        'indices-meta': 'data/indices-meta.json',
     };
     const entries = Object.entries(files);
     const results = await Promise.all(entries.map(([,url]) => fetch(url).then(r => r.json()).catch(() => null)));
@@ -426,17 +579,7 @@ async function loadData() {
     geojsonData = dataSources.geojson;
 }
 
-// ── TABS ──
-function switchTab(tab) {
-    document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
-    document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
-    document.getElementById('tab-' + tab).classList.add('active');
-    document.getElementById('tab-btn-' + tab).classList.add('active');
-    if (tab === 'ram' && ramMap) ramMap.invalidateSize();
-    if (tab === 'indices' && indicesMap) indicesMap.invalidateSize();
-}
-
-// ── CHOROPLETH HELPERS ──
+// ── HELPERS ──
 function getRAMStatus(iso) {
     const ram = dataSources['unesco-ram'];
     if (!ram) return null;
@@ -445,27 +588,8 @@ function getRAMStatus(iso) {
 }
 
 function getRAMCountry(iso) {
-    return dataSources['unesco-ram']?.countries?.find(c => c.iso === iso);
-}
-
-function getIndexScore(iso, indexKey) {
-    const src = dataSources[indexKey];
-    if (!src) return null;
-    const arr = src.countries || src.data || [];
-    const entry = arr.find(c => c.iso === iso);
-    if (!entry) return null;
-    const meta = INDEX_META[indexKey];
-    return entry[meta?.field] ?? entry.overall ?? entry.score ?? entry.composite ?? null;
-}
-
-function scoreToColor(score, max) {
-    if (score == null) return '#e2e8f0';
-    const pct = score / max;
-    if (pct >= 0.8) return SCORE_COLORS[4];
-    if (pct >= 0.6) return SCORE_COLORS[3];
-    if (pct >= 0.4) return SCORE_COLORS[2];
-    if (pct >= 0.2) return SCORE_COLORS[1];
-    return SCORE_COLORS[0];
+    const normalized = iso?.toUpperCase?.()?.trim?.() || '';
+    return dataSources['unesco-ram']?.countries?.find(c => c.iso.toUpperCase().trim() === normalized);
 }
 
 function getCountryByISO(iso) {
@@ -507,7 +631,6 @@ function initRAMMap() {
 }
 
 function onRAMCountryClick(iso, name, nameAr, layer) {
-    // Update info panel
     const panel = document.getElementById('info-panel');
     const ramEntry = getRAMCountry(iso);
     const country = getCountryByISO(iso);
@@ -545,8 +668,6 @@ function onRAMCountryClick(iso, name, nameAr, layer) {
     }
 
     panel.innerHTML = html;
-
-    // Toggle selection for radar
     toggleCountrySelection(iso);
 }
 
@@ -567,8 +688,10 @@ function updateMapHighlights() {
     if (!ramGeoLayer) return;
     ramGeoLayer.eachLayer(layer => {
         const iso = layer.feature.properties.iso;
-        if (selectedCountries.includes(iso)) {
-            layer.setStyle({weight:3, color:'#1A5C3A'});
+        const selIdx = selectedCountries.indexOf(iso);
+        if (selIdx >= 0) {
+            const borderColor = CHART_PALETTE[selIdx % CHART_PALETTE.length].border;
+            layer.setStyle({weight:4, color:borderColor});
             layer.bringToFront();
         } else {
             layer.setStyle({weight:1, color:'#fff'});
@@ -593,28 +716,80 @@ function removeSelection(iso) {
 }
 
 // ── RADAR CHART ──
-function updateRadarChart() {
+async function updateRadarChart() {
     const ctx = document.getElementById('radar-chart');
     if (radarChart) radarChart.destroy();
     if (selectedCountries.length === 0) return;
 
-    const dims = ['legalRegulatory','socialCultural','economic','scientificEducational','technologicalInfrastructural'];
+    // Preload extracted data for selected countries
+    for (const iso of selectedCountries) {
+        if (!extractedCache[iso.toUpperCase().trim()]) await getExtractedData(iso.toUpperCase().trim());
+    }
+
+    const dimKeys = ['legal_regulatory','social_cultural','economic','scientific_educational','technological_infrastructural'];
     const labels = ['Legal & Regulatory','Social & Cultural','Economic','Scientific & Educational','Tech & Infrastructure'];
 
-    const datasets = selectedCountries.map((iso, i) => {
-        const ram = getRAMCountry(iso);
+    // Try UNESCO RAM scores first, fall back to extracted strengths count
+    const ramLookup = {};
+    const ramSrc = dataSources['unesco-ram'];
+    (ramSrc?.countries || []).forEach(c => { ramLookup[c.iso.toUpperCase().trim()] = c; });
+
+    const noDataCountries = [];
+    const datasets = [];
+    selectedCountries.forEach((iso, i) => {
+        const normalizedISO = iso.toUpperCase().trim();
+        const ram = ramLookup[normalizedISO];
         const c = getCountryByISO(iso);
         const palette = CHART_PALETTE[i % CHART_PALETTE.length];
-        return {
+        
+        // Try official scores first
+        const officialDims = ['legalRegulatory','socialCultural','economic','scientificEducational','technologicalInfrastructural'];
+        let data = officialDims.map(d => ram?.dimensions?.[d] ?? null);
+        let hasData = data.some(v => v !== null && v > 0);
+        
+        // Fall back to extracted data: strengths count (capped at 10, scaled to 1-5)
+        if (!hasData && extractedCache[normalizedISO]) {
+            const ext = extractedCache[normalizedISO];
+            const sd = ext?.structured_dimensions || {};
+            data = dimKeys.map(dk => {
+                const dim = sd[dk];
+                if (!dim) return 0;
+                const s = (dim.strengths?.length || 0);
+                const g = (dim.gaps?.length || 0);
+                const total = s + g;
+                if (total === 0) return 0;
+                // Score based on strengths ratio: more strengths = higher score
+                return Math.min(5, Math.max(1, Math.round((s / total) * 5)));
+            });
+            hasData = data.some(v => v > 0);
+        }
+
+        if (!hasData) {
+            noDataCountries.push(c?.name || iso);
+            return;
+        }
+
+        datasets.push({
             label: c?.name || iso,
-            data: dims.map(d => ram?.dimensions?.[d] ?? 0),
+            data: data.map(v => v ?? 0),
             backgroundColor: palette.bg,
             borderColor: palette.border,
             borderWidth: 2,
             pointBackgroundColor: palette.border,
             pointBorderColor: '#fff',
-        };
+            pointRadius: 4,
+            hidden: false,
+        });
     });
+
+    const noticeEl = document.getElementById('radar-no-data-notice');
+    if (noticeEl) {
+        noticeEl.innerHTML = noDataCountries.length > 0
+            ? `<span style="font-size:0.82rem;color:#d97706">⚠️ No RAM dimension data for: ${noDataCountries.join(', ')}</span>`
+            : '';
+    }
+
+    if (datasets.length === 0) return;
 
     radarChart = new Chart(ctx, {
         type: 'radar',
@@ -623,202 +798,78 @@ function updateRadarChart() {
             responsive: true, maintainAspectRatio: true,
             animation: {duration:400},
             scales: { r: { min:0, max:5, ticks:{stepSize:1, backdropColor:'transparent', color:'#5a6d64'}, pointLabels:{font:{size:11,weight:'500'}, color:'#0D3D2A'}, grid:{color:'rgba(13,61,42,0.1)'}, angleLines:{color:'rgba(13,61,42,0.1)'} } },
-            plugins: { legend: { position:'bottom', labels:{usePointStyle:true, padding:16, color:'#0D3D2A', font:{size:11}} } }
-        }
-    });
-}
-
-// ── INDICES MAP (Choropleth) ──
-function initIndicesMap() {
-    indicesMap = L.map('indices-map-container', { center:[20,15], zoom:2, minZoom:2, maxZoom:6, scrollWheelZoom:true, worldCopyJump:true });
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-        attribution:'© <a href="https://carto.com/">CARTO</a>', subdomains:'abcd'
-    }).addTo(indicesMap);
-    updateIndicesMap();
-}
-
-function updateIndicesMap() {
-    const indexKey = document.getElementById('index-selector').value;
-    const meta = INDEX_META[indexKey];
-    if (!meta || !geojsonData) return;
-
-    if (indicesGeoLayer) indicesMap.removeLayer(indicesGeoLayer);
-
-    indicesGeoLayer = L.geoJSON(geojsonData, {
-        style: feature => {
-            const iso = feature.properties.iso;
-            const score = getIndexScore(iso, indexKey);
-            return {
-                fillColor: scoreToColor(score, meta.max),
-                weight: 1, color: '#fff', fillOpacity: 0.8,
-            };
-        },
-        onEachFeature: (feature, layer) => {
-            const iso = feature.properties.iso;
-            const name = feature.properties.name;
-            const nameAr = feature.properties.nameAr || '';
-            const score = getIndexScore(iso, indexKey);
-            const scoreStr = score != null ? (meta.max === 1 ? (score*100).toFixed(0) + '%' : score.toFixed(1)) : 'No data';
-
-            layer.bindTooltip(`<div class="country-tooltip"><div class="tt-name">${name}</div><div class="tt-ar">${nameAr}</div><div>${meta.name}: <span class="tt-score">${scoreStr}</span></div></div>`, {sticky:true});
-
-            layer.on('click', () => onIndicesCountryClick(iso, name, nameAr));
-            layer.on('mouseover', () => layer.setStyle({weight:2, color:'#1A5C3A'}));
-            layer.on('mouseout', () => layer.setStyle({weight:1, color:'#fff'}));
-        }
-    }).addTo(indicesMap);
-
-    updateBarChart(indexKey);
-}
-
-function onIndicesCountryClick(iso, name, nameAr) {
-    const panel = document.getElementById('indices-info-panel');
-    const country = getCountryByISO(iso);
-    let html = `<h3>${name}</h3><p class="country-ar arabic">${nameAr}</p>`;
-    if (country?.region) html += `<div style="margin-bottom:12px"><span class="badge badge-none">${country.region}</span></div>`;
-
-    html += `<h4 style="font-size:0.88rem;color:var(--text-dark);margin-bottom:12px">Index Scores</h4>`;
-
-    Object.entries(INDEX_META).forEach(([key, meta]) => {
-        const score = getIndexScore(iso, key);
-        if (score != null) {
-            const pct = (score / meta.max) * 100;
-            const display = meta.max === 1 ? (score*100).toFixed(0)+'%' : score.toFixed(1);
-            html += `<div class="score-row"><span style="min-width:130px;font-size:0.82rem">${meta.name}</span><div class="score-bar"><div class="score-fill" style="width:${Math.min(pct,100)}%"></div></div><span style="font-weight:600;font-size:0.82rem">${display}</span></div>`;
-        } else {
-            html += `<div class="score-row" style="opacity:0.4"><span style="min-width:130px;font-size:0.82rem">${meta.name}</span><span style="font-size:0.82rem;color:var(--text-muted)">—</span></div>`;
-        }
-    });
-
-    panel.innerHTML = html;
-}
-
-// ── BAR CHART ──
-function updateBarChart(indexKey) {
-    const ctx = document.getElementById('bar-chart');
-    if (barChart) barChart.destroy();
-
-    const meta = INDEX_META[indexKey];
-    if (!meta) return;
-    const src = dataSources[indexKey];
-    if (!src) return;
-
-    const arr = (src.countries || src.data || [])
-        .filter(c => c[meta.field] != null)
-        .sort((a,b) => (b[meta.field]||0) - (a[meta.field]||0))
-        .slice(0, 20);
-
-    barChart = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: arr.map(c => c.name || c.iso),
-            datasets: [{
-                data: arr.map(c => meta.max === 1 ? (c[meta.field]*100) : c[meta.field]),
-                backgroundColor: arr.map((_, i) => i < 3 ? '#1A5C3A' : i < 10 ? '#4DC88E' : '#a7f3d0'),
-                borderRadius: 4,
-            }]
-        },
-        options: {
-            indexAxis: 'y', responsive: true,
-            plugins: { legend:{display:false} },
-            scales: { x:{grid:{color:'rgba(13,61,42,0.06)'}}, y:{ticks:{font:{size:11}}} }
-        }
-    });
-}
-
-// ── SCATTER CHART ──
-function initScatterSelects() {
-    const indices = Object.entries(INDEX_META);
-    ['scatter-x','scatter-y'].forEach((id, idx) => {
-        const sel = document.getElementById(id);
-        indices.forEach(([key, meta], i) => {
-            const opt = document.createElement('option');
-            opt.value = key; opt.textContent = meta.name;
-            if (idx === 0 && i === 0) opt.selected = true;
-            if (idx === 1 && i === 1) opt.selected = true;
-            sel.appendChild(opt);
-        });
-        sel.onchange = updateScatterChart;
-    });
-    updateScatterChart();
-}
-
-function updateScatterChart() {
-    const ctx = document.getElementById('scatter-chart');
-    if (scatterChart) scatterChart.destroy();
-
-    const xKey = document.getElementById('scatter-x').value;
-    const yKey = document.getElementById('scatter-y').value;
-    const xMeta = INDEX_META[xKey], yMeta = INDEX_META[yKey];
-    if (!xMeta || !yMeta) return;
-
-    const points = [];
-    countries.forEach(c => {
-        const xScore = getIndexScore(c.iso, xKey);
-        const yScore = getIndexScore(c.iso, yKey);
-        if (xScore != null && yScore != null) {
-            points.push({
-                x: xMeta.max === 1 ? xScore*100 : xScore,
-                y: yMeta.max === 1 ? yScore*100 : yScore,
-                label: c.name,
-            });
-        }
-    });
-
-    scatterChart = new Chart(ctx, {
-        type: 'scatter',
-        data: { datasets: [{ data: points, backgroundColor: 'rgba(26,92,58,0.5)', borderColor: '#1A5C3A', pointRadius: 5, pointHoverRadius: 8 }] },
-        options: {
-            responsive: true,
             plugins: {
-                legend: {display:false},
-                tooltip: { callbacks: { label: ctx => ctx.raw.label + ` (${ctx.raw.x.toFixed(1)}, ${ctx.raw.y.toFixed(1)})` } }
-            },
-            scales: {
-                x: { title:{display:true, text:xMeta.name, font:{size:11}}, grid:{color:'rgba(13,61,42,0.06)'} },
-                y: { title:{display:true, text:yMeta.name, font:{size:11}}, grid:{color:'rgba(13,61,42,0.06)'} }
+                legend: {
+                    position:'bottom',
+                    labels:{
+                        usePointStyle:true,
+                        padding:16,
+                        color:'#0D3D2A',
+                        font:{size:11},
+                        generateLabels: function(chart) {
+                            return chart.data.datasets.map((ds, i) => ({
+                                text: ds.label,
+                                fillStyle: ds.borderColor,
+                                strokeStyle: ds.borderColor,
+                                lineWidth: 2,
+                                hidden: false,
+                                index: i,
+                                pointStyle: 'circle',
+                            }));
+                        }
+                    }
+                }
             }
         }
     });
 }
 
-// ── COVERAGE GRID ──
-function renderCoverage() {
-    const grid = document.getElementById('coverage-grid');
-    const sources = [
-        {key:'unesco-ram', name:'UNESCO RAM', color:'#10b981'},
-        {key:'oxford', name:'Oxford Insights', color:'#1A5C3A'},
-        {key:'imf-aipi', name:'IMF AIPI', color:'#0D3D2A'},
-        {key:'tortoise', name:'Tortoise', color:'#4DC88E'},
-        {key:'girai', name:'GIRAI', color:'#6366f1'},
-        {key:'stanford-hai', name:'Stanford HAI', color:'#f59e0b'},
-        {key:'world-bank', name:'World Bank', color:'#00b4d8'},
-        {key:'icesco', name:'ICESCO', color:'#a855f7'},
-    ];
-    grid.innerHTML = sources.map(s => {
-        const src = dataSources[s.key];
-        const count = (src?.countries || src?.data || []).length;
-        return `<div class="coverage-card" style="border-left-color:${s.color}"><div class="cov-num">${count}</div><div class="cov-label">${s.name}</div></div>`;
-    }).join('');
-}
-
 // ── SOURCES ──
 function renderSources() {
     const grid = document.getElementById('sources-grid');
-    const sources = [
-        {name:'UNESCO RAM', org:'UNESCO', url:'https://www.unesco.org/ethics-ai/en/global-hub', desc:'Readiness Assessment Methodology — qualitative 5-dimension assessment across 70+ countries'},
-        {name:'Oxford Insights', org:'Oxford Insights', url:'https://oxfordinsights.com/ai-readiness/', desc:'Government AI Readiness Index — 188 countries, 40 indicators across 3 pillars'},
-        {name:'IMF AIPI', org:'International Monetary Fund', url:'https://www.imf.org/external/datamapper/datasets/AIPI', desc:'AI Preparedness Index — 174 economies, 4 dimensions'},
-        {name:'Tortoise Global AI', org:'Tortoise Media', url:'https://www.tortoisemedia.com/data/global-ai', desc:'Global AI Index — 83 countries, 122 indicators, 7 pillars'},
-        {name:'GIRAI', org:'Global Center on AI Governance', url:'https://www.global-index.ai/', desc:'Global Index on Responsible AI — 138 countries, human rights-based benchmarks'},
-        {name:'Stanford HAI', org:'Stanford University', url:'https://aiindex.stanford.edu/', desc:'AI Index Report & Global AI Vibrancy Tool — investment, research, policy data'},
-        {name:'World Bank', org:'World Bank Group', url:'https://www.worldbank.org/en/publication/dptr2025-ai-foundations', desc:'Digital Progress & Trends 2025 — 4Cs framework for AI foundations'},
-        {name:'ICESCO AI Index', org:'ICESCO', url:'https://icesco.org', desc:'AI Index for the Islamic World — 9 OIC countries, based on Riyadh Charter'},
-        {name:'OECD AI Observatory', org:'OECD', url:'https://oecd.ai', desc:'AI Policy Observatory — policy tracking, incidents monitor, compute metrics'},
-    ];
-    grid.innerHTML = sources.map(s =>
-        `<div class="source-card"><h4>${s.name}</h4><p style="font-size:0.75rem;color:var(--accent);margin-bottom:4px">${s.org}</p><p>${s.desc}</p><a href="${s.url}" target="_blank">Visit source →</a></div>`
-    ).join('');
+    grid.innerHTML = `<div class="source-card">
+        <h4>UNESCO RAM</h4>
+        <p style="font-size:0.75rem;color:var(--accent);margin-bottom:4px">UNESCO</p>
+        <p>Readiness Assessment Methodology — qualitative 5-dimension assessment across 70+ countries evaluating preparedness for ethical AI</p>
+        <a href="https://www.unesco.org/ethics-ai/en/global-hub" target="_blank">Visit source →</a>
+    </div>`;
+}
+
+// ── AUTO-DETECT COUNTRY ──
+async function autoDetectCountry() {
+    try {
+        const response = await fetch('https://ipapi.co/json/', { timeout: 5000 });
+        if (response.ok) {
+            const data = await response.json();
+            if (data.country_code) return data.country_code;
+        }
+    } catch (e) {
+        try {
+            const response = await fetch('https://get.geojs.io/v1/ip/geo.json', { timeout: 5000 });
+            if (response.ok) {
+                const data = await response.json();
+                if (data.country_code) return data.country_code;
+            }
+        } catch (e2) {
+            console.log('Could not auto-detect country');
+        }
+    }
+    return null;
+}
+
+function selectCountryInRAMPanel(iso) {
+    if (!iso) return;
+    const country = getCountryByISO(iso);
+    if (!country) return;
+    if (ramGeoLayer) {
+        ramGeoLayer.eachLayer(layer => {
+            if (layer.feature.properties.iso === iso) {
+                const name = layer.feature.properties.name;
+                const nameAr = layer.feature.properties.nameAr || '';
+                onRAMCountryClick(iso, name, nameAr, layer);
+            }
+        });
+    }
 }
 
 // ── HERO STATS ──
@@ -827,7 +878,7 @@ function updateHeroStats() {
     const ram = dataSources['unesco-ram'];
     const ramTotal = (ram?.countries || []).length;
     document.getElementById('stat-ram').textContent = ramTotal;
-    document.getElementById('stat-dimensions').textContent = '45+';
+    document.getElementById('stat-dimensions').textContent = '5';
     document.getElementById('last-updated').textContent = '2026-02-19';
 }
 
@@ -836,15 +887,514 @@ window.addEventListener('scroll', () => {
     document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 50);
 });
 
+// ── LEADERBOARD ──
+const ISO_FLAGS = iso => {
+    const cp = iso.toUpperCase().split('').map(c => 127397 + c.charCodeAt(0));
+    return String.fromCodePoint(...cp);
+};
+
+const DIM_KEYS = ['legalRegulatory','socialCultural','economic','scientificEducational','technologicalInfrastructural'];
+
+function buildLeaderboardData() {
+    const ram = dataSources['unesco-ram'];
+    if (!ram) return [];
+    return ram.countries
+        .filter(c => c.status === 'completed' && c.dimensions)
+        .map(c => {
+            const country = getCountryByISO(c.iso);
+            const scores = DIM_KEYS.map(d => c.dimensions[d] || 0);
+            const avg = scores.reduce((a,b) => a+b, 0) / scores.length;
+            return { iso: c.iso, name: country?.name || c.iso, region: country?.region || '—', scores, avg: Math.round(avg * 100) / 100 };
+        });
+}
+
+function renderLeaderboard() {
+    const data = buildLeaderboardData();
+    const regionFilter = document.getElementById('lb-region-filter');
+    const sortFilter = document.getElementById('lb-sort-filter');
+    const region = regionFilter.value;
+    const sortKey = sortFilter.value;
+
+    // Populate region options once
+    if (regionFilter.options.length <= 1) {
+        const regions = [...new Set(data.map(d => d.region))].sort();
+        regions.forEach(r => { const o = document.createElement('option'); o.value = r; o.textContent = r; regionFilter.appendChild(o); });
+    }
+
+    let filtered = region === 'all' ? data : data.filter(d => d.region === region);
+
+    // Sort
+    if (sortKey === 'average') {
+        filtered.sort((a,b) => b.avg - a.avg);
+    } else {
+        const idx = DIM_KEYS.indexOf(sortKey);
+        filtered.sort((a,b) => b.scores[idx] - a.scores[idx] || b.avg - a.avg);
+    }
+
+    const tbody = document.getElementById('lb-tbody');
+    tbody.innerHTML = filtered.map((d, i) => {
+        const sel = selectedCountries.includes(d.iso) ? ' lb-selected' : '';
+        const dimCells = d.scores.map(s => `<td class="lb-dim-cols"><span class="lb-score-pill lb-score-${s}">${s}</span></td>`).join('');
+        return `<tr class="${sel}" data-iso="${d.iso}" onclick="toggleLeaderboardRow('${d.iso}')">
+            <td class="lb-rank">${i+1}</td>
+            <td><span class="lb-flag">${ISO_FLAGS(d.iso)}</span> ${d.name}</td>
+            <td><span class="lb-region-tag">${d.region}</span></td>
+            <td class="lb-avg" style="color:${d.avg >= 4 ? '#16a34a' : d.avg >= 3 ? '#eab308' : '#ef4444'}">${d.avg.toFixed(1)}</td>
+            ${dimCells}
+        </tr>`;
+    }).join('');
+}
+
+function toggleLeaderboardRow(iso) {
+    toggleCountrySelection(iso);
+}
+
+// Patch existing functions to also update leaderboard
+const _origUpdateSelectedBar = updateSelectedBar;
+updateSelectedBar = function() {
+    _origUpdateSelectedBar();
+    if (document.getElementById('lb-tbody')) renderLeaderboard();
+    updateNewSections();
+};
+
+document.getElementById('lb-region-filter').addEventListener('change', renderLeaderboard);
+document.getElementById('lb-sort-filter').addEventListener('change', renderLeaderboard);
+
+// ── EXTRACTED DATA (Regulations, Rankings, Achievements, Key Numbers) ──
+let extractedManifest = [];
+let extractedCache = {};
+let rankingsChart = null;
+let currentRegFilter = 'all';
+let currentAchFilter = 'all';
+
+async function loadExtractedManifest() {
+    try {
+        const r = await fetch('data/extracted/manifest.json');
+        extractedManifest = await r.json(); // flat array
+    } catch(e) { console.log('No extracted manifest'); }
+}
+
+async function getExtractedData(code) {
+    if (extractedCache[code]) return extractedCache[code];
+    try {
+        const r = await fetch(`data/extracted/${code.toLowerCase()}_extracted.json`);
+        extractedCache[code] = await r.json();
+        return extractedCache[code];
+    } catch(e) { return null; }
+}
+
+async function loadAllExtractedForSelected() {
+    const codes = selectedCountries.length > 0 ? selectedCountries : extractedManifest.map(e => e.country_code);
+    const useAll = selectedCountries.length === 0;
+    const limit = useAll ? extractedManifest.length : codes.length;
+    const results = [];
+    for (const code of codes.slice(0, limit)) {
+        const d = await getExtractedData(code);
+        if (d) results.push({code, data: d});
+    }
+    return results;
+}
+
+async function updateNewSections() {
+    const entries = await loadAllExtractedForSelected();
+    renderRegulations(entries);
+    renderRankings(entries);
+    renderAchievements(entries);
+    renderKeyNumbers(entries);
+}
+
+function getCountryLabel(code) {
+    const c = getCountryByISO(code);
+    return c ? c.name : code;
+}
+
+// ── REGULATIONS ──
+function renderRegulations(entries) {
+    const tbody = document.getElementById('reg-tbody');
+    const noData = document.getElementById('reg-no-data');
+    const crossView = document.getElementById('reg-cross-view');
+    
+    let allRegs = [];
+    entries.forEach(({code, data}) => {
+        const dims = data.structured_dimensions || {};
+        const legalRegs = dims.legal_regulatory?.regulations || [];
+        legalRegs.forEach(reg => {
+            allRegs.push({...reg, country: code, countryName: getCountryLabel(code)});
+        });
+    });
+
+    // Apply filter
+    let filtered = allRegs;
+    if (currentRegFilter === 'data_protection') {
+        filtered = allRegs.filter(r => /data\s*protect|privacy|pdp|gdpr/i.test(r.name));
+    } else if (currentRegFilter === 'cybersecurity') {
+        filtered = allRegs.filter(r => /cyber|security|crime/i.test(r.name));
+    } else if (currentRegFilter === 'ai_policy') {
+        filtered = allRegs.filter(r => /\bai\b|artificial\s*intelligence|machine\s*learning/i.test(r.name));
+    }
+
+    if (filtered.length === 0) {
+        tbody.innerHTML = '';
+        noData.style.display = 'block';
+        tbody.parentElement.parentElement.style.display = allRegs.length > 0 ? 'block' : 'none';
+        if (allRegs.length === 0) noData.style.display = 'block';
+    } else {
+        noData.style.display = 'none';
+        tbody.parentElement.parentElement.style.display = 'block';
+        tbody.innerHTML = filtered.map(r => {
+            const statusCls = r.status === 'enacted' ? 'reg-enacted' : r.status === 'draft' ? 'reg-draft' : r.status === 'proposed' ? 'reg-proposed' : 'reg-unknown';
+            return `<tr>
+                <td>${ISO_FLAGS(r.country)} ${r.countryName}</td>
+                <td>${r.name || '—'}</td>
+                <td>${r.year || '—'}</td>
+                <td><span class="reg-status ${statusCls}">${r.status || 'unknown'}</span></td>
+            </tr>`;
+        }).join('');
+    }
+
+    // Cross-country view
+    const categories = [
+        {label: '🛡️ Data Protection Laws', filter: /data\s*protect|privacy|pdp|gdpr/i},
+        {label: '🔒 Cybersecurity Laws', filter: /cyber|security|crime/i},
+        {label: '🤖 AI-Specific Policies', filter: /\bai\b|artificial\s*intelligence/i},
+    ];
+    crossView.innerHTML = categories.map(cat => {
+        const matching = [...new Set(allRegs.filter(r => cat.filter.test(r.name)).map(r => r.country))];
+        const countryLabels = matching.map(c => `${ISO_FLAGS(c)} ${getCountryLabel(c)}`).join(', ') || '<em>No countries found</em>';
+        return `<div class="reg-cross-card"><h4>${cat.label}</h4><div class="country-list">${countryLabels}</div><div style="font-size:0.72rem;color:var(--accent);margin-top:6px">${matching.length} countries</div></div>`;
+    }).join('');
+}
+
+function filterRegulations(filter, btn) {
+    currentRegFilter = filter;
+    document.querySelectorAll('#reg-filters .reg-filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    loadAllExtractedForSelected().then(entries => renderRegulations(entries));
+}
+
+// ── RANKINGS ──
+function renderRankings(entries) {
+    const tbody = document.getElementById('rank-tbody');
+    const noData = document.getElementById('rank-no-data');
+    const indexFilter = document.getElementById('rank-index-filter');
+    
+    let allRankings = [];
+    entries.forEach(({code, data}) => {
+        (data.rankings_indices || []).forEach(r => {
+            allRankings.push({...r, country: code, countryName: getCountryLabel(code)});
+        });
+    });
+
+    // Populate index filter
+    const indices = [...new Set(allRankings.map(r => r.index_name).filter(Boolean))].sort();
+    const currentVal = indexFilter.value;
+    indexFilter.innerHTML = '<option value="all">All Indices</option>' + indices.map(idx => `<option value="${idx}" ${idx === currentVal ? 'selected':''}>${idx}</option>`).join('');
+
+    let filtered = indexFilter.value === 'all' ? allRankings : allRankings.filter(r => r.index_name === indexFilter.value);
+    filtered.sort((a,b) => (a.rank || 999) - (b.rank || 999));
+
+    if (filtered.length === 0) {
+        tbody.innerHTML = '';
+        noData.style.display = 'block';
+    } else {
+        noData.style.display = 'none';
+        tbody.innerHTML = filtered.map(r => `<tr>
+            <td>${ISO_FLAGS(r.country)} ${r.countryName}</td>
+            <td>${r.index_name || '—'}</td>
+            <td style="font-weight:700;color:var(--primary)">${r.rank != null ? '#' + r.rank : '—'}</td>
+            <td>${r.score != null ? r.score : '—'}</td>
+            <td>${r.year || '—'}</td>
+        </tr>`).join('');
+    }
+
+    // Chart
+    renderRankingsChart(filtered, indices);
+}
+
+function renderRankingsChart(rankings, allIndices) {
+    const ctx = document.getElementById('rankings-chart');
+    if (rankingsChart) rankingsChart.destroy();
+    
+    if (rankings.length === 0) return;
+
+    const indexFilter = document.getElementById('rank-index-filter').value;
+    const indicesToShow = indexFilter === 'all' ? allIndices.slice(0, 6) : [indexFilter];
+    
+    // Group by country
+    const countries_in_data = [...new Set(rankings.map(r => r.country))];
+    if (countries_in_data.length === 0) return;
+
+    const datasets = indicesToShow.map((idx, i) => {
+        const palette = CHART_PALETTE[i % CHART_PALETTE.length];
+        return {
+            label: idx.length > 30 ? idx.substring(0,30) + '…' : idx,
+            data: countries_in_data.map(c => {
+                const entry = rankings.find(r => r.country === c && r.index_name === idx);
+                return entry?.rank || null;
+            }),
+            backgroundColor: palette.bg,
+            borderColor: palette.border,
+            borderWidth: 2,
+        };
+    });
+
+    rankingsChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: countries_in_data.map(c => getCountryLabel(c)),
+            datasets,
+        },
+        options: {
+            responsive: true,
+            indexAxis: 'y',
+            scales: {
+                x: { reverse: true, title: { display: true, text: 'Rank (lower is better)' }, beginAtZero: true },
+            },
+            plugins: {
+                legend: { position: 'bottom', labels: { font: { size: 10 } } },
+                tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: #${ctx.raw}` } },
+            }
+        }
+    });
+}
+
+// ── ACHIEVEMENTS ──
+function renderAchievements(entries) {
+    const grid = document.getElementById('ach-grid');
+    const noData = document.getElementById('ach-no-data');
+    const filtersDiv = document.getElementById('ach-dim-filters');
+    
+    let allAch = [];
+    entries.forEach(({code, data}) => {
+        // Use key_achievements if available, fall back to achievements
+        const achs = data.key_achievements || data.achievements || [];
+        achs.forEach(a => {
+            allAch.push({...a, country: code, countryName: getCountryLabel(code)});
+        });
+    });
+
+    // Dimension filters
+    const dims = [...new Set(allAch.map(a => a.dimension || 'other').filter(Boolean))].sort();
+    filtersDiv.innerHTML = `<button class="reg-filter-btn ${currentAchFilter==='all'?'active':''}" onclick="filterAchievements('all',this)">All (${allAch.length})</button>` + 
+        dims.map(d => {
+            const count = allAch.filter(a => (a.dimension||'other') === d).length;
+            return `<button class="reg-filter-btn ${currentAchFilter===d?'active':''}" onclick="filterAchievements('${d}',this)">${d.replace(/_/g,' ')} (${count})</button>`;
+        }).join('');
+
+    let filtered = currentAchFilter === 'all' ? allAch : allAch.filter(a => (a.dimension||'other') === currentAchFilter);
+    
+    // Limit display
+    const maxShow = 24;
+    const showing = filtered.slice(0, maxShow);
+
+    if (showing.length === 0) {
+        grid.innerHTML = '';
+        noData.style.display = 'block';
+    } else {
+        noData.style.display = 'none';
+        const isFirst = text => /\bfirst\b|\b1st\b|\bpioneering\b|\brecord\b/i.test(text);
+        const isAward = text => /\baward\b|\bprize\b|\brecognition\b|\brecognised\b|\brecognized\b/i.test(text);
+        grid.innerHTML = showing.map(a => {
+            const text = a.achievement || a.text || '';
+            const highlight = isFirst(text) || isAward(text);
+            const badge = isFirst(text) ? '🏆 First' : isAward(text) ? '🏅 Award' : '';
+            const shortText = text.length > 200 ? text.substring(0, 200) + '…' : text;
+            return `<div class="ach-card ${highlight ? 'ach-highlight' : ''}">
+                ${badge ? `<span class="ach-badge">${badge}</span>` : ''}
+                <div class="ach-dim">${ISO_FLAGS(a.country)} ${a.countryName} · ${(a.dimension||'overall').replace(/_/g,' ')}</div>
+                <div class="ach-text">${shortText}</div>
+            </div>`;
+        }).join('');
+        if (filtered.length > maxShow) {
+            grid.innerHTML += `<div style="text-align:center;padding:20px;color:var(--text-muted);font-size:0.85rem;grid-column:1/-1">Showing ${maxShow} of ${filtered.length} achievements</div>`;
+        }
+    }
+}
+
+function filterAchievements(filter, btn) {
+    currentAchFilter = filter;
+    document.querySelectorAll('#ach-dim-filters .reg-filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    loadAllExtractedForSelected().then(entries => renderAchievements(entries));
+}
+
+// ── KEY NUMBERS ──
+function renderKeyNumbers(entries) {
+    const grid = document.getElementById('kn-grid');
+    const noData = document.getElementById('kn-no-data');
+    
+    let allNums = [];
+    entries.forEach(({code, data}) => {
+        (data.key_numbers || []).forEach(n => {
+            allNums.push({...n, country: code, countryName: getCountryLabel(code)});
+        });
+    });
+
+    if (allNums.length === 0) {
+        grid.innerHTML = '';
+        noData.style.display = 'block';
+    } else {
+        noData.style.display = 'none';
+        grid.innerHTML = allNums.map(n => {
+            const val = n.value != null ? n.value : '—';
+            return `<div class="kn-card">
+                <div class="kn-value">${val}</div>
+                <div class="kn-unit">${n.unit || ''}</div>
+                <div class="kn-label">${n.label || '—'}</div>
+                <div class="kn-country">${ISO_FLAGS(n.country)} ${n.countryName}</div>
+            </div>`;
+        }).join('');
+    }
+}
+
+// Wire up rankings filter
+document.getElementById('rank-index-filter').addEventListener('change', () => {
+    loadAllExtractedForSelected().then(entries => renderRankings(entries));
+});
+
+// ── DEEP DIVE ──
+let ddManifest = null;
+let ddCache = {};
+
+async function loadDeepDiveManifest() {
+    try {
+        const r = await fetch('data/extracted/manifest.json');
+        const raw = await r.json();
+        // Manifest is a flat array; normalize to {countries: [{code, name, file}]}
+        ddManifest = { countries: raw.map(e => ({ code: e.country_code, name: e.country_name, file: `${e.country_code.toLowerCase()}_extracted.json` })) };
+        const sel = document.getElementById('dd-country-select');
+        ddManifest.countries.forEach(c => {
+            const o = document.createElement('option');
+            o.value = c.code;
+            o.textContent = `${ISO_FLAGS(c.code)} ${c.name}`;
+            sel.appendChild(o);
+        });
+        sel.addEventListener('change', () => loadDeepDiveCountry(sel.value));
+    } catch(e) { console.log('No deep dive data available'); }
+}
+
+async function loadDeepDiveCountry(code) {
+    const container = document.getElementById('dd-content');
+    if (!code) {
+        container.innerHTML = '<div class="dd-no-data"><div class="icon">📊</div><p>Select a country above to explore its RAM report recommendations and findings</p></div>';
+        return;
+    }
+    const entry = ddManifest.countries.find(c => c.code === code);
+    if (!entry) return;
+
+    if (!ddCache[code]) {
+        try {
+            const r = await fetch(`data/extracted/${entry.file}`);
+            ddCache[code] = await r.json();
+        } catch(e) {
+            container.innerHTML = '<div class="dd-no-data"><div class="icon">⚠️</div><p>Could not load report data</p></div>';
+            return;
+        }
+    }
+    const data = ddCache[code];
+    renderDeepDive(data, container);
+}
+
+function renderDeepDive(data, container) {
+    let html = '';
+    const recs = data.recommendations || [];
+    const chapters = data.chapters || [];
+    const dims = data.dimensions || {};
+    const hasDimField = recs.some(r => r.dimension);
+    const hasPriority = recs.some(r => r.priority);
+    const hasTimeline = recs.some(r => r.timeline);
+
+    // Stats bar
+    const dimCount = hasDimField ? [...new Set(recs.map(r => r.dimension))].length : Object.keys(dims).length;
+    const highCount = recs.filter(r => r.priority === 'High').length;
+    html += `<div class="dd-stats">
+        <div class="dd-stat-card"><span class="num">${recs.length}</span><span class="lbl">Recommendations</span></div>
+        <div class="dd-stat-card"><span class="num">${dimCount || '—'}</span><span class="lbl">Dimensions</span></div>
+        <div class="dd-stat-card"><span class="num">${data.page_count || data.metadata?.page_count || '—'}</span><span class="lbl">Pages</span></div>
+        ${hasPriority ? `<div class="dd-stat-card"><span class="num" style="color:#dc2626">${highCount}</span><span class="lbl">High Priority</span></div>` : ''}
+    </div>`;
+
+    // Chapters
+    if (chapters.length) {
+        html += `<h3 style="font-size:1rem;color:var(--text-dark);margin-bottom:12px">📑 Report Structure</h3><div class="dd-chapters">`;
+        chapters.forEach(ch => {
+            html += `<div class="dd-chapter-card"><span class="ch-num">Ch ${ch.chapter}</span>${ch.title}</div>`;
+        });
+        html += `</div>`;
+    }
+
+    // Recommendations grouped by dimension (if available) or flat list
+    html += `<h3 style="font-size:1rem;color:var(--text-dark);margin-bottom:16px">📋 Recommendations</h3>`;
+
+    if (hasDimField) {
+        const groups = {};
+        recs.forEach(r => {
+            const dim = r.dimension || 'Other';
+            if (!groups[dim]) groups[dim] = [];
+            groups[dim].push(r);
+        });
+        Object.entries(groups).forEach(([dim, items]) => {
+            html += `<div class="dd-dim-group"><h3>${dim}</h3>`;
+            items.forEach(r => { html += renderRecCard(r, hasPriority, hasTimeline); });
+            html += `</div>`;
+        });
+    } else {
+        recs.forEach(r => { html += renderRecCard(r, hasPriority, hasTimeline); });
+    }
+
+    container.innerHTML = html;
+}
+
+function renderRecCard(r, showPriority, showTimeline) {
+    const priorityCls = r.priority === 'High' ? 'dd-pill-high' : r.priority === 'Medium' ? 'dd-pill-medium' : r.priority === 'Low' ? 'dd-pill-low' : '';
+    const timelineCls = getTimelineCls(r.timeline);
+    const hasLongText = r.text && r.text.length > 150;
+    const recId = `rec-${r.number}`.replace(/[^a-zA-Z0-9]/g, '-');
+
+    let html = `<div class="dd-rec-card"><div class="dd-rec-header">`;
+    html += `<span class="dd-rec-num">${r.number}</span>`;
+    html += `<span class="dd-rec-title">${r.title}</span>`;
+    if (showPriority && r.priority) html += `<span class="dd-pill ${priorityCls}">${r.priority}</span>`;
+    if (showTimeline && r.timeline) html += `<span class="dd-pill ${timelineCls}">${r.timeline}</span>`;
+    html += `</div>`;
+    if (r.text) {
+        html += `<div class="dd-rec-text${hasLongText ? ' collapsed' : ''}" id="${recId}">${r.text.replace(/\n/g,'<br>')}</div>`;
+        if (hasLongText) html += `<button class="dd-rec-toggle" onclick="toggleRecText('${recId}', this)">Show more ▾</button>`;
+    }
+    html += `</div>`;
+    return html;
+}
+
+function getTimelineCls(t) {
+    if (!t) return '';
+    const s = t.toLowerCase();
+    if (s.includes('short') || /2025-202[56]/.test(t)) return 'dd-pill-short';
+    if (s.includes('long') || /203\d/.test(t)) return 'dd-pill-long';
+    return 'dd-pill-mid';
+}
+
+function toggleRecText(id, btn) {
+    const el = document.getElementById(id);
+    if (!el) return;
+    const collapsed = el.classList.toggle('collapsed');
+    btn.textContent = collapsed ? 'Show more ▾' : 'Show less ▴';
+}
+
 // ── INIT ──
 async function main() {
     await loadData();
     updateHeroStats();
     initRAMMap();
-    initIndicesMap();
-    initScatterSelects();
-    renderCoverage();
     renderSources();
+    renderLeaderboard();
+    await loadExtractedManifest();
+    loadDeepDiveManifest();
+    updateNewSections();
+
+    const detectedISO = await autoDetectCountry();
+    if (detectedISO) {
+        setTimeout(() => selectCountryInRAMPanel(detectedISO), 500);
+    }
 }
 main();
 </script>

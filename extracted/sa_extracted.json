@@ -1,15 +1,17 @@
 {
   "country_code": "SA",
   "country_name": "SAUDI ARABIA",
+  "language": "en",
   "metadata": {
     "page_count": 87,
     "creation_date": "D:20241213105553+01'00'",
     "modification_date": "D:20250501091458+02'00'",
-    "country_name": "SAUDI ARABIA"
+    "country_name": "SAUDI ARABIA",
+    "language": "en"
   },
   "chapters": [],
   "dimensions": {},
-  "executive_summary": "4 \nTable of Contents \n \nACKNOWLEDGEMENTS \n2 \nACRONYMS AND ABBREVIATIONS \n7 \nFOREWORD \n10 \nEXECUTIVE SUMMARY \n12 \nDIAGNOSIS OF THE NATIONAL AI LANDSCAPE \n17 \nKSA NATIONAL AI JOURNEY \n18 \nKSA AI Governance \n18 \nInternational Presence \n21 \nInternational Awards \n22 \nInternational Indices \n23 \nLEGAL AND REGULATORY \n24 \nAI POLICY AND REGULATION \n24 \nGuidelines \n25 \nDATA PROTECTION AND PRIVACY LAWS \n26 \nThe Personal Data Protection Law (PDPL) \n27 \nData Sharing and Accessibility \n27 \nPROCUREMENT LAWS AND POLICIES \n28 \nFREEDOM OF INFORMATION ACTS AND ACCESS TO KNOWLEDGE ACTS \n28 \nDUE PROCESS AND ACCOUNTABILITY \n29 \nONLINE SAFETY, INTEGRITY OF SPEECH, AND CYBERSECURITY \n30 \nLaws and Regulations \n30 \nKSA Performance in International Ranking \n30 \nPUBLIC SECTOR CAPACITY \n31 \nPublic Sector Upskilling \n32 \nPublic Sector AI Enablement \n32 \nSOCIAL AND CULTURAL \n34 \nDIVERSITY, INCLUSION AND EQUTY \n34 \nThe Gender Gap in KSA Is Improving in The Workforce, But Lags Digitally \n34 \nAffirmative Action in The Data and AI Space \n35\n\n5 \nBeyond the Gender Gap \n36 \nPUBLIC ENGAGEMENT AND TRUST \n36 \nENVIRONMENTAL AND SUSTAINABILITY POLICIES \n37 \nAI in Health-Related Policies \n38 \nCULTURE \n41 \nSCIENTIFIC AND EDUCATIONAL \n42 \nRESEARCH AND INNOVATION \n42 \nR&D Investments \n42 \nThe KSA AI Research Ecosystem \n42 \nResearch Output \n45 \nScientific Publications \n45 \nEDUCATION \n46 \nIntegrating AI into the Education System \n48 \nFuelling the Pipeline of AI Graduates: Supply of AI Talent \n48 \nPublic Access to Education \n49 \nGlobal Joint Academies \n50 \nECONOMIC \n51 \nLABOUR MARKETS \n51 \nIncreased Demand for AI Talent \n51 \nINTERMEDIATE CONSUMPTION \n52 \nINVESTMENTS AND OUTPUT \n52 \nGovernment Investment \n52 \nPrivate Investment \n54 \nTECHNICAL AND INFRASTRUCTURAL \n56 \nINFRASTRUCTURE AND CONNECTIVITY \n56 \nInfrastructure \n56 \nConnectivity \n57 \nApplied standards \n59 \nComputing capabilities \n60 \nData Centres \n60 \nSupercomputers \n61 \nCloud Computing \n62 \nSTATISTICAL PERFORMANCE \n63 \nDEVELOPING A NATIONAL AI MULTI-STAKEHOL",
+  "executive_summary": "4 \nTable of Contents \n \nACKNOWLEDGEMENTS \n2 \nACRONYMS AND ABBREVIATIONS \n7 \nFOREWORD \n10 \nEXECUTIVE SUMMARY \n12 \nDIAGNOSIS OF THE NATIONAL AI LANDSCAPE \n17 \nKSA NATIONAL AI JOURNEY \n18 \nKSA AI Governance \n18 \nInternational Presence \n21 \nInternational Awards \n22 \nInternational Indices \n23 \nLEGAL AND REGULATORY \n24 \nAI POLICY AND REGULATION \n24 \nGuidelines \n25 \nDATA PROTECTION AND PRIVACY LAWS \n26 \nThe Personal Data Protection Law (PDPL) \n27 \nData Sharing and Accessibility \n27 \nPROCUREMENT LAWS AND POLICIES \n28 \nFREEDOM OF INFORMATION ACTS AND ACCESS TO KNOWLEDGE ACTS \n28 \nDUE PROCESS AND ACCOUNTABILITY \n29 \nONLINE SAFETY, INTEGRITY OF SPEECH, AND CYBERSECURITY \n30 \nLaws and Regulations \n30 \nKSA Performance in International Ranking \n30 \nPUBLIC SECTOR CAPACITY \n31 \nPublic Sector Upskilling \n32 \nPublic Sector AI Enablement \n32 \nSOCIAL AND CULTURAL \n34 \nDIVERSITY, INCLUSION AND EQUTY \n34 \nThe Gender Gap in KSA Is Improving in The Workforce, But Lags Digitally \n34 \nAffirmative Action in The Data and AI Space \n35\n\n5 \nBeyond the Gender Gap \n36 \nPUBLIC ENGAGEMENT AND TRUST \n36 \nENVIRONMENTAL AND SUSTAINABILITY POLICIES \n37 \nAI in Health-Related Policies \n38 \nCULTURE \n41 \nSCIENTIFIC AND EDUCATIONAL \n42 \nRESEARCH AND INNOVATION \n42 \nR&D Investments \n42 \nThe KSA AI Research Ecosystem \n42 \nResearch Output \n45 \nScientific Publications \n45 \nEDUCATION \n46 \nIntegrating AI into the Education System \n48 \nFuelling the Pipeline of AI Graduates: Supply of AI Talent \n48 \nPublic Access to Education \n49 \nGlobal Joint Academies \n50 \nECONOMIC \n51 \nLABOUR MARKETS \n51 \nIncreased Demand for AI Talent \n51 \nINTERMEDIATE CONSUMPTION \n52 \nINVESTMENTS AND OUTPUT \n52 \nGovernment Investment \n52 \nPrivate Investment \n54 \nTECHNICAL AND INFRASTRUCTURAL \n56 \nINFRASTRUCTURE AND CONNECTIVITY \n56 \nInfrastructure \n56 \nConnectivity \n57 \nApplied standards \n59 \nComputing capabilities \n60 \nData Centres \n60 \nSupercomputers \n61 \nCloud Computing \n62 \nSTATISTICAL PERFORMANCE \n63 \nDEVELOPING A NATIONAL AI MULTI-STAKEHOLDER ROADMAP \n65\n\n6 \nOVERVIEW OF STAKEHOLDER ENGAGEMENT PROCESS \n65 \nMAIN CHALLENGES IDENTIFIED THROUGH PREVIOUS CONSULTATIONS \n67 \nCONCLUSION \n71 \nTOWARDS A NATIONAL AI STRATEGY: HIGH LEVEL \nRECOMMENDATIONS \n72 \nLAWS AND REGULATION \n72 \nDEVELOP AND IMPLEMENT AI STANDARDS FOR PRIORITY SECTORS \n72 \nIMPLEMENT SPECILAIZED AI REGULATORY SANDBOXES AND PILOT ZONES \n73 \nINTRODUCE AI-SPECIFIC TERMS AND CONDITIONS IN PUBLIC PROCUREMENT \n73 \nEXPAND THE SCOPE OF AI ETHICS ASSESSMENT ACROSS PUBLIC AND PRIVATE SECTORS \n73 \nENHANCE REGULATIONS AROUND SYNTHETIC CONTENT GENERATION \n74 \nINSTITUTIONAL FRAMEWORKS AND GOVERNANCE \n74 \nREFRESH THE NATIONAL AI STRATEGY TO MEET EVOLOVING PRIORETIES \n74 \nBROADEN THE ESTABLISHMENT OF AI OFFICES WITHIN THE PUBLIC SECTOR \n74 \nDEVELOP A NATIONAL FRAMEWORK TO MONITOR ECONOMIC IMPACT OF AI \n75 \nENHANCE DATA COLLECTION AND DATA SHARING CAPABILITIES \n75 \nCAPACITY BUILDING \n76 \nEMBED AI ACROSS GENERAL AND HIGHER EDUCATION CURRECULA \n76 \nREGULARLY EVALUATE THE IMPACT OF AI AND AUTOMATION ON THE WORKFORCE \n76 \nINTRODUCE GLOBAL AI TALENT ATTRACTION PROGRAMS \n77 \nDEPLOY COMPREHENSIVE, NATIONWIDE AI UPSKILLING PROGRAMS \n77 \nRESPONSIBLE TECHNOLOGIES AND INNOVATION \n77 \nENSURE SUSTAINABILITY AND ACCESSIBILITY OF HIGH-PERFORMANCE AI INFRASTRUCTURE77 \nESTABLISH AI CENTERS OF EXCELLENCE IN NATIONAL PRIORITY AREAS \n78 \nSTRENGTHEN NATIONAL AI RESEARCH AND INNOVATION ECOSYSTEM \n78 \nINCLUSION AND WELL-BEING \n78 \nCATALYSE THE DEVELOPMENT OF ARABIC LANGUAGE TECHNOLOGIES \n78 \nPROMOTE DIVERSITY AND INCLUSION IN AI AND DIGITAL SECTORS \n79 \nADDRESS DIGITAL GENDER GAPS IN STEM AND AI \n79 \nASSESS THE IMPACT OF AI ON CULTURE \n79 \nESTABLISH GUIDELINES FOR ENVIRONMENTAL IMPACT MONITORING \n80 \nINVESTMENT ECOSYSTEM \n80 \nADVANCE AI INVESTMENT AND STARTUP ECOSYSTEM \n80\n\n7 \nACRONYMS AND ABBREVIATIONS \nAI \nArtificial Intelligence \nAPI \nApplication Programming Interface \nCAGR \nCompound Average Growth Rate \nCCRF \nCITC \nCloud Computing Regulatory Framework \nCommunications and Information, Technology Commission  \nCoE \nCentre of Excellence \nCSP \nCloud Service Provider \nCST \nCommunications, Space & Technology Commission \nDGA \nDigital Government Authority \nDM \nData Management \nDMO \nData Management Offices \nDSF \nDigital Skills Framework \nEGDI \nE-Government Development Index \nEPI \nE-Participation Index \nFII \nFuture Investment Initiative  \nGAIA \nGenerative AI Accelerator \nGCC \nGulf Cooperation Council \nGCI \nGlobal Cybersecurity Index \nGDP \nGross Domestic Product \nGenAI \nGenerative Artificial Intelligence \nGERD \nGross Expenditure on Research and Development \nGPU \nGraphics Processing Unit \nGSB \nGovernment Service Bus \nGSN \nGovernment Secure Network \nHRDF \nHuman Resources Development Fund \nIAIO \nInternational AI Olympiad \nICAIRE \nInternational Center for Artificial Intelligence Research and Ethics \nICESCO \nIslamic World Educational, Scientific and Cultural Organisation \nICT \nInformation and Communication Technology\n\n8 \nIEEE \nInstitute of Electrical and Electronics Engineers",
   "recommendations": [
     {
       "number": "1.1",
@@ -27,6 +29,24 @@
       "dimension": "Laws and Regulation",
       "timeline": "2025-2026",
       "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.3",
+      "title": "Introduce AI-specific terms and conditions in public procurement",
+      "text": "",
+      "dimension": "Laws and Regulation",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.4",
+      "title": "Expand the scope of AI ethics assessment across public and private sectors",
+      "text": "",
+      "dimension": "Laws and Regulation",
+      "timeline": "2025-2030",
+      "priority": "Medium",
       "start_page": 0
     },
     {
@@ -57,6 +77,15 @@
       "start_page": 0
     },
     {
+      "number": "2.3",
+      "title": "Develop a national framework to monitor economic impact of AI",
+      "text": "",
+      "dimension": "Institutional Frameworks and Governance",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
       "number": "2.4",
       "title": "Enhance data collection and data sharing capabilities",
       "text": "",
@@ -75,6 +104,15 @@
       "start_page": 0
     },
     {
+      "number": "3.2",
+      "title": "Regularly evaluate the impact of AI and automation on the workforce",
+      "text": "",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2026",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
       "number": "3.3",
       "title": "Introduce global AI talent attraction programs",
       "text": "",
@@ -90,6 +128,15 @@
       "dimension": "Capacity Building",
       "timeline": "2025-2026",
       "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "4.1",
+      "title": "Ensure sustainability and accessibility of high-performance AI infrastructure",
+      "text": "",
+      "dimension": "Responsible Technologies and Innovation",
+      "timeline": "2025-2030",
+      "priority": "High",
       "start_page": 0
     },
     {
@@ -165,6 +212,599 @@
       "start_page": 0
     }
   ],
-  "recommendation_count": 17,
-  "page_count": 87
+  "recommendation_count": 22,
+  "page_count": 87,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY Saudi Arabia’s National Strategy for Data and AI (NSDAI), spearheaded by the Saudi Data and Artificial Intelligence Authority (SDAIA), is the foundation of the Kingdom's ambition to become a global AI leader.",
+        "This strategy is also complemented by specific guidelines developed by SDAIA, such as the AI Ethics Principles, GenAI guidelines and Deepfakes guidelines.",
+        "Ethics are woven into the NSDAI as a foundational pillar, upholding Saudi Arabia’s vision for responsible and impactful AI development.",
+        "Initiatives such as the \"AI Ethics\" and \"AI Adoption Framework\" guide responsible AI practices, ensuring transparency, fairness, and accountability across sectors.",
+        "The Saudi Data and AI Authority (SDAIA) leads the implementation of the NSDAI, steering this ethical AI agenda with dedicated government funding to maximise AI’s contribution to economic growth and diversification.",
+        "It climbed from 31st place in 2019 to 14th in 2024 on the Tortoise Intelligence16 Global AI Index and ranked 1st globally in Government AI Strategy.",
+        "Additionally, Saudi Arabia is one of the top five countries worldwide in AI policy publications with over 57 policies submitted through the OECD17 AI Policy Observatory, demonstrating its commitment to AI governance.",
+        "In alignment with its ambitious goals, Saudi Arabia has initiated a programme to establish AI offices across government entities, with over 25 such offices now operational."
+      ],
+      "strengths": [
+        "Complementing these AI-specific guidelines is a robust legal framework that includes the Personal Data Protection Law (PDPL), Freedom of Information policy, and Anti-Cyber Crime Law positioning Saudi Arabia as a front-runner in responsible and secure AI adoption.",
+        "AI POLICY AN D REGULATION AI POLICY AND REGULATION Saudi Arabia's NSDAI combines ethics, innovation, and global leadership into a comprehensive framework that has elevated the Kingdom’s AI capabilities.",
+        "This ethical focus is critical as Saudi Arabia builds an advanced AI ecosystem to benefit citizens, businesses, and government functions alike.",
+        "The NSDAI’s robust implementation plan emphasises continuous monitoring, evaluation, and adaptability, tracking progress with global AI performance indicators such as the Global AI Index, and Government AI Readiness Index18.",
+        "• Generative AI guidelines for government (January 2024)20 Provides comprehensive guidance for government employees in Saudi Arabia on the ethical and effective use of generative AI tools.",
+        "• Deepfakes Guidelines: (Published for public consultation in September 2024)23 This document provides comprehensive guidelines for technology developer, content creators and consumers to address the implications of deepfake and mitigate their associated risks.",
+        "• AI Ethics Badges (ongoing) Comprehensive assessment framework developed by SDAIA and relying on the AI Ethics Principles.",
+        "DATA PROTECTION AND PRIVACY LAWS DATA PROTECTION AND PRIVACY LAWS Saudi Arabia has attained a distinguished position in Tier 1 of the Global Cybersecurity Index (GCI)24, achieving a commendable score range of 95–100.",
+        "By securing its place in this elite tier, Saudi Arabia underscores its dedication to establishing a robust, secure, and resilient digital landscape, setting a high standard for cybersecurity practices.",
+        "Multiple initiatives and programmes are being launched with the objective of increasing the Kingdom’s ranking in key international indexes such as the UN E-Government Index and the Open Data Barometer, the Kingdom provides high-quality open data to drive economic growth and foster innovation."
+      ],
+      "gaps": [
+        "It outlines key principles such as fairness, reliability, transparency, accountability, privacy, and the need for AI tools to benefit humanity and the environment.",
+        "The law ensures that cybercrime regulation does not conflict with other laws, such as those protecting intellectual property, and it mandates that the Communications and Information Technology Commission support investigations.",
+        "However, the law does not address specific risks related to AI (e.g., misinformation/disinformation)."
+      ],
+      "key_stats": [
+        {
+          "stat": "237 data centres",
+          "context": "ficient technological infrastructure for government and semi- government entities. By consolidating 237 data centres and delivering an estimated financial impact of 5.6 billion SAR, the platform has b"
+        },
+        {
+          "stat": "ranked 1st globally",
+          "context": "climbed from 31st place in 2019 to 14th in 2024 on the Tortoise Intelligence16 Global AI Index and ranked 1st globally in Government AI Strategy. Additionally, Saudi Arabia is one of the top five coun"
+        },
+        {
+          "stat": "ranked 6th globally",
+          "context": "the Kingdom has achieved significant milestones in open data and e-government development. KSA is ranked 6th globally on the UN E-Government Development Index (EGDI) and achieved the first place in th"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "Personal Data Protection Law",
+          "year": "2021",
+          "status": "enacted"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "The Gender Gap in KSA Is Improving in The Workforce, But Lags Digitally The Kingdom of Saudi Arabia has made significant progress in promoting diversity, particularly in the workforce.",
+        "KSA female labour force participation rate (in %)34 34 World Bank, 2024: https://data.worldbank.org/indicator/SL.TLF.CACT.FE.ZS?locations=SA 20.00% 22.00% 25.00% 30.00% 35.00% 34.00% 35.00% 20.0% 25.0% 30.0% 35.0% 40.0% 2017 2018 2019 2020 2021 2022 2023 ### Page 35 35 Saudi Arabia has shown remarka",
+        "One key achievement is the active empowerment of women within the technology and AI sectors, where their participation has now reached 35%.",
+        "• Additional initiatives such as the Saudi Digital Academy, the Future Skills Programme, the SDAIA Academy, and the Tuwaiq Academy extend support to women and other underserved populations43, equipping them with essential skills in digital and AI fields.",
+        "For instance, there is no legal requirement for tech companies to publish diversity statistics, and there is no provision for employment of women or other vulnerable populations in the field of data and AI within the KSA labour laws, as mentioned in the previous section.",
+        "This project is strategic and extremely important in ensuring that all schools in Saudi Arabia are linked to the ministry via the Internet, thereby enabling them to access and use the services provided by the ministry’s major centralised systems FARIS, NOOR and EduMap Award.46 In addition, KSA’s off",
+        "For example, SDAIA published 3,000 hours of voice from different Arabic dialects with annotated data for AI training.",
+        "In general, the trust of Saudis in Innovation, Technology, and AI is high, as suggested by the 2024 Edelman Trust Barometer50: • 86% trust in technology businesses."
+      ],
+      "strengths": [
+        "Affirmative Action in The Data and AI Space Saudi Arabia has launched several targeted initiatives to enhance the participation and qualifications of women and other vulnerable groups in the digital and AI sectors.",
+        "These efforts are part of the Kingdom's broader commitment to inclusivity and empowerment: • Women Empowerment in Technology39: • The Ministry of Communication and Information Technology (MCIT) launched the Women Empowerment Programme in Technology40 in 2018 to enhance women’s digital skills and cre",
+        "• AI Training and Capacity Building: • In 2023, SDAIA introduced the Elevate Program42, aiming to train 25,000 women in Saudi Arabia and globally in advanced AI-related technical fields.",
+        "ENVIRONMENTAL AND SUSTAINABILITY POLICIES ENVIRONMENTAL AND SUSTAINABILITY POLICIES The Saudi Green Initiative (SGI)51, launched in 2021 as part of Vision 2030, aims to address climate change, promote sustainability, and enhance environmental protection across Saudi Arabia.",
+        "• Smart Planet Program55: SDAIA in collaboration with the Ministry of Energy and IBM utilises advanced AI to track environmental data, monitor carbon footprints, and support sustainable development projects, reinforcing Saudi Arabia’s commitment to responsible environmental stewardship and innovativ",
+        "This programme would cover existing AI projects at a conceptual or advanced stage, including integrating AI in the SEHA platform, and leveraging AI in diagnostic/care support, pharmaceuticals, retinopathy, etc.",
+        "• Al-Yamama archaeological project60 In archaeology, the Saudi Heritage Commission is deploying AI within the Al-Yamama archaeological project, launched in September 2024 in Riyadh, to generate detailed geographic and topographic maps; this initiative complements advanced technological tools like gr"
+      ],
+      "gaps": [
+        "SOCIAL AND CULTURAL DIVERSITY, INCLUSION AN D EQUTY DIVERSITY, INCLUSION AND EQUALITY While KSA has improved in including women in the workforce, significant digital gender gaps remain, although dedicated programs and affirmative action is being developed.",
+        "Beyond the gender gap, KSA is committed to improving connectivity, with dedicated programs aiming at reducing the rural/urban connectivity gap.",
+        "For instance, The Digital Gender Gaps ranking developed by the University of Oxford35 reports as: • Internet gender gap.",
+        "• Combined both Online and Offline 0.763 • ITU: 0.673 • Mobile gender gap • Combined: 0.905 both online and offline.",
+        "• GSMA: 0.965 The gap between KSA and peers in ITU Internet Gender Gap suggests there is further room for improvement in female digital adoption.",
+        "This gender gap is also visible in tertiary education within STEM programs, where 63.18% of graduates are male and only 36.82% are female36.",
+        "Furthermore, there is a gender gap in career aspirations, with 30% of top-performing male students in science or mathematics expecting to work as STEM professionals by the age of 30, compared to only 11.7% of female students.",
+        "While these initiatives are expected to have a significant impact on the Saudi workforce, managing their performance is made difficult by the lack of diversity statistics reporting in the data and AI space.",
+        "Beyond the Gender Gap While efforts are well underway to tackle gender equality, the Kingdom has made strides in bridging the rural-urban connectivity divide, with 99% of its population now covered by 4G wireless broadband45.",
+        "Arabic language still underrepresented in many large training datasets due to the lack of available public datasets."
+      ],
+      "key_stats": [
+        {
+          "stat": "20% in",
+          "context": "n the workforce. The labour force participation rate of Saudi women saw a remarkable increase from 20% in 2017 to 34% in 2022, representing a 71% improvement over five years. The Vision 2030 target, w",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "34% in",
+          "context": ". The labour force participation rate of Saudi women saw a remarkable increase from 20% in 2017 to 34% in 2022, representing a 71% improvement over five years. The Vision 2030 target, which aimed for ",
+          "value": 34.0,
+          "unit": "%"
+        },
+        {
+          "stat": "71% improvement over five years",
+          "context": "tion rate of Saudi women saw a remarkable increase from 20% in 2017 to 34% in 2022, representing a 71% improvement over five years. The Vision 2030 target, which aimed for a 30% female participation r",
+          "value": 71.0,
+          "unit": "%"
+        },
+        {
+          "stat": "30% female participation \nrate in",
+          "context": "in 2022, representing a 71% improvement over five years. The Vision 2030 target, which aimed for a 30% female participation rate in the workforce by 2030, was therefore surpassed ahead of schedule. Fi",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "63.18% of \ngraduates are male and only",
+          "context": "digital adoption. This gender gap is also visible in tertiary education within STEM programs, where 63.18% of graduates are male and only 36.82% are female36. Furthermore, there is a gender gap in car",
+          "value": 63.18,
+          "unit": "%"
+        },
+        {
+          "stat": "36.82% are female",
+          "context": "so visible in tertiary education within STEM programs, where 63.18% of graduates are male and only 36.82% are female36. Furthermore, there is a gender gap in career aspirations, with 30% of top-perfor",
+          "value": 36.82,
+          "unit": "%"
+        },
+        {
+          "stat": "30% of top",
+          "context": "male and only 36.82% are female36. Furthermore, there is a gender gap in career aspirations, with 30% of top-performing male students in science or mathematics expecting to work as STEM professionals ",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "11.7% of female students",
+          "context": "science or mathematics expecting to work as STEM professionals by the age of 30, compared to only 11.7% of female students. Affirmative action is well developed in KSA, and addresses equal opportuniti",
+          "value": 11.7,
+          "unit": "%"
+        },
+        {
+          "stat": "35% in",
+          "context": "ls and create opportunities in the ICT sector. The female representation in the industry jumped to 35% in 2024, up from 7% in 2018. 35 Digital Gender Gaps, University of Oxford: https://www.digitalgen",
+          "value": 35.0,
+          "unit": "%"
+        },
+        {
+          "stat": "7% in",
+          "context": "nities in the ICT sector. The female representation in the industry jumped to 35% in 2024, up from 7% in 2018. 35 Digital Gender Gaps, University of Oxford: https://www.digitalgendergaps.org/ 36 Globa",
+          "value": 7.0,
+          "unit": "%"
+        },
+        {
+          "stat": "99% of its population now covered by",
+          "context": "ender equality, the Kingdom has made strides in bridging the rural-urban connectivity divide, with 99% of its population now covered by 4G wireless broadband45. For instance, The Schools Connectivity ",
+          "value": 99.0,
+          "unit": "%"
+        },
+        {
+          "stat": "86% trust in technology businesses",
+          "context": "in Innovation, Technology, and AI is high, as suggested by the 2024 Edelman Trust Barometer50: • 86% trust in technology businesses. • 69% trust in AI. ENVIRONMENTAL AND SUSTAINABILITY POLICIES ENVIRO",
+          "value": 86.0,
+          "unit": "%"
+        },
+        {
+          "stat": "69% trust in AI",
+          "context": "h, as suggested by the 2024 Edelman Trust Barometer50: • 86% trust in technology businesses. • 69% trust in AI. ENVIRONMENTAL AND SUSTAINABILITY POLICIES ENVIRONMENTAL AND SUSTAINABILITY POLICIES Th",
+          "value": 69.0,
+          "unit": "%"
+        },
+        {
+          "stat": "rank 4th out of",
+          "context": "scoring 0.9602 in the 2024 Online Service Index (UN E-government database), which translates to a rank 4th out of 193. • 2024 United Nations E-participation index48: KSA is currently scoring 0.09589 i"
+        },
+        {
+          "stat": "rank 7th out of",
+          "context": "coring 0.09589 in the 2024 E-participation Index (UN E-government database), which translates to a rank 7th out of 193. • 2022 The Economist Inclusive Internet Index49: • Availability of e-Government "
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "SCIENTIFIC AND EDUCATIONAL RESEARCH AN D INNOVATION RESEARCH AND INNOVATION Saudi Arabia is advancing its position in the global research and development (R&D) and artificial intelligence (AI) sectors.",
+        "This ecosystem emphasises ethical AI development, with key players like the International Centre for Artificial Intelligence Research and Ethics (ICAIRE) and the National Committee of Bioethics (NCBE).",
+        "Saudi Arabia has also seen a surge in AI-related research output, including a substantial increase in publications and patents, underscoring its commitment to improving its standing in AI and technology research.",
+        "R&D Investments While R&D figures for AI specifically are not readily available, Gross Expenditure on Research and Development (GERD) represented 0.45% of KSA GDP63 in 2021, placing KSA behind most GCC and G20 peers.",
+        "The KSA AI Research Ecosystem Saudi Arabia is cultivating a thriving research ecosystem that includes academic institutions, research centres, and private sector companies.",
+        "• The Research, Development, and Innovation Authority (RDIA) introduced the Open Access Portal in 2021, which facilitates access to 10+ AI-focused research labs across universities and research centres.",
+        "• These synergies have contributed to increases in AI-related scholarly publications and patent filings, strengthening Saudi Arabia's global stature in AI.",
+        "Alongside this, KAUST Academy offers an Artificial Intelligence Specialization programme to equip Saudi students and recent graduates with essential AI skills."
+      ],
+      "strengths": [
+        "The Kingdom's AI research ecosystem is robust, with numerous academic institutions, research centres, and strategic partnerships driving innovation.",
+        "Key Contributions: • Many universities, both public and private, have launched centres specializing in AI to support academic and student research.",
+        "Recently, KAUST established a new Generative AI Centre of Excellence, advancing research in AI- powered innovation across various sectors.",
+        "• KAUST – SDAIA CoE68 The SDAIA-KAUST Centre of Excellence in Data Science and Artificial Intelligence (CoE), launched in 2023 as part of Saudi Vision 2030, was created through a strategic partnership between SDAIA and King Abdullah University of Science and Technology (KAUST).",
+        "Its mission is to enhance Saudi Arabia's global standing in data science and AI by fostering collaboration among leading scientists and delivering applied solutions in critical sectors, including healthcare, environment, water, food, and energy.",
+        "• King Fahd University of Petroleum and Minerals (KFUPM)70 Located in Dhahran, Saudi Arabia, it is a leading institution specializing in engineering, science, and technology education.",
+        "• KSU Thakaa74 The AI Centre for Advanced Studies (Thakaa) at King Saud University is a leading research hub focused on advancing AI and data science in Saudi Arabia.",
+        "KSA has launched a comprehensive AI framework in digital learning, establishing guidelines, policies, and tools to support AI across K-12, higher education, and lifelong learning, driving innovation and advancing digital literacy.",
+        "The Ministry of Education (MoE) has introduced a robust AI curriculum for secondary education, complemented by university programmes covering both technical and ethical aspects of AI.",
+        "These courses address a range of AI topics, including ethics, applications, and generative AI, and are tailored to support professionals and students seeking advanced knowledge in AI."
+      ],
+      "gaps": [
+        "• On AI, however, a significant investment of ~$10.7 billion (SAR 40 billion), dedicated to R&D among other areas, has been committed through the Public Investment Fund (PIF).",
+        "However, while a limited improvement of GERD as % of GDP of 0.02% is observed between 2021 and 2022, an increase in R&D investment of ~1.15 billion (SAR 4.3 billion)64,65 was registered over the period, mitigated by similar GDP growth66.",
+        "However, it is critical to monitor the quality of the skills achieved by KSA graduates, as data may suggest lower skills than regional and international peers.",
+        "Designed to enhance international cooperation and awareness of AI's transformative impact, the IAIO highlighted the need for forward- thinking AI solutions that consider societal values alongside technical prowess.",
+        "The programme seeks to bridge the talent gap, support Saudi Arabia's technological advancement, and contribute to Vision 2030 by fostering an innovation-driven, knowledge-based society.",
+        "While these numbers are based on LinkedIn data and are therefore subject to the signalling effect of employers and potential employees alike, they nevertheless reflect a fundamental increase in the need for AI talent in the Kingdom."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.5% of GDP",
+          "context": "telligence (AI) sectors. • Gross Expenditure on Research and Development (GERD) remains close to 0.5% of GDP, which is below GCC and G20 peers. • On AI, however, a significant investment of ~$10.7 bil",
+          "value": 0.5,
+          "unit": "%"
+        },
+        {
+          "stat": "0.45% of KSA GDP",
+          "context": "ically are not readily available, Gross Expenditure on Research and Development (GERD) represented 0.45% of KSA GDP63 in 2021, placing KSA behind most GCC and G20 peers. However, while a limited impro",
+          "value": 0.45,
+          "unit": "%"
+        },
+        {
+          "stat": "0.02% is observed between",
+          "context": "ing KSA behind most GCC and G20 peers. However, while a limited improvement of GERD as % of GDP of 0.02% is observed between 2021 and 2022, an increase in R&D investment of ~1.15 billion (SAR 4.3 bill",
+          "value": 0.02,
+          "unit": "%"
+        },
+        {
+          "stat": "4% acceptance rate",
+          "context": "y has secured over 1,500 U.S. patents, underscoring its commitment to innovation. With a selective 4% acceptance rate, KFUPM fosters a competitive academic environment. Through initiatives like Dhahra",
+          "value": 4.0,
+          "unit": "%"
+        },
+        {
+          "stat": "146% rise in publications",
+          "context": "uthority (RDIA)73 The RDIA has driven significant growth in Saudi Arabia's research sector, with a 146% rise in publications, totalling 59,016 in 2022. Focusing on national priorities like Health, Env",
+          "value": 146.0,
+          "unit": "%"
+        },
+        {
+          "stat": "42% of universities now offer AI degr",
+          "context": "ucation programmes. Initiatives like the Artificial Intelligence Hour80 engage students early, and 42% of universities now offer AI degrees81, contributing to over 38,000 AI-related graduates between ",
+          "value": 42.0,
+          "unit": "%"
+        },
+        {
+          "stat": "42% of Saudi universities are \nofferi",
+          "context": "n opportunities across both academic and non-academic grounds. In the realm of academic education, 42% of Saudi universities are offering AI-specific degree programmes at undergraduate and about 44% a",
+          "value": 42.0,
+          "unit": "%"
+        },
+        {
+          "stat": "44% at graduate levels",
+          "context": "n, 42% of Saudi universities are offering AI-specific degree programmes at undergraduate and about 44% at graduate levels. The number of bachelor graduates in Saudi Arabia reached 38K+ graduates with ",
+          "value": 44.0,
+          "unit": "%"
+        },
+        {
+          "stat": "39% score",
+          "context": "e KSA is ranked 15th globally in business, it lags behind peers in both tech (67th globally with a 39% score), and data science (79th with a 29% score). Public Access to Education While producing a hi",
+          "value": 39.0,
+          "unit": "%"
+        },
+        {
+          "stat": "29% score",
+          "context": "it lags behind peers in both tech (67th globally with a 39% score), and data science (79th with a 29% score). Public Access to Education While producing a highly skilled workforce in Data and AI remai",
+          "value": 29.0,
+          "unit": "%"
+        },
+        {
+          "stat": "32% \nshould be viewed positively",
+          "context": "While the improvement of yearly AI talent concentration by a Compound Average Growth Rate (CAGR) of 32% should be viewed positively, KSA is still lagging two thirds of its G20 peers, highlighting the ",
+          "value": 32.0,
+          "unit": "%"
+        },
+        {
+          "stat": "43% yearly on average between",
+          "context": ", they are included within the Information and Communication Technology (ICT) spending, which grew 43% yearly on average between 2019 and 2023. 101 Leap Forward Issue #1, as highlighted in ‘State of A",
+          "value": 43.0,
+          "unit": "%"
+        },
+        {
+          "stat": "29% CAGR",
+          "context": "stance, KSA expects AI to grow significantly until 2030, with the AI market expected to grow at a 29% CAGR, reaching a contribution to Saudi Arabia’s GDP of 12% by 2030. Recognising the transformative",
+          "value": 29.0,
+          "unit": "%"
+        },
+        {
+          "stat": "12% by",
+          "context": "ith the AI market expected to grow at a 29% CAGR, reaching a contribution to Saudi Arabia’s GDP of 12% by 2030. Recognising the transformative potential of AI across industries, Saudi Arabia's Venture",
+          "value": 12.0,
+          "unit": "%"
+        },
+        {
+          "stat": "160% increase compared to",
+          "context": "companies attracted $1.7+ billion (approximately SAR 6.3 billion) in funding. This represents a ~160% increase compared to 2022, highlighting the growing confidence among investors in Saudi Arabia's A",
+          "value": 160.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Such a framework is essential to identify opportunities, address challenges, and ensure equitable benefits from AI advancements.",
+        "By establishing this framework, the Kingdom can make informed decisions, shape policies effectively, and support sustainable economic and workforce development in the AI era.",
+        "To foster a collaborative data-sharing culture, incentives should be introduced for local, regional, and global data sharing.",
+        "Additionally, the National Data Index (NDI) should be utilised to assess and improve data management practices across government entities, ensuring efficient and ethical use of the national data infrastructure.",
+        "These measures will strengthen Saudi Arabia's data ecosystem, supporting innovation and responsible AI development.",
+        "Timeline: 2025-2026 Priority: Medium ### Page 76 76 CAPACITY BUILDING As Saudi Arabia continues to advance its AI capabilities, building and sustaining a skilled workforce is crucial to drive innovation and implementation.",
+        "The capacity building dimension provides recommendations that focus on integrating AI into educational curricula at all levels and expanding AI training opportunities.",
+        "Additionally, these recommendations emphasise the importance of monitoring and assessing the impact of AI on the workforce."
+      ],
+      "strengths": [
+        "It is recommended that Saudi Arabia develops a comprehensive national framework to assess the impact of AI on the economy and workforce.",
+        "Timeline: 2025-2028 Priority: Medium ENHANCE DATA COLLECTION AND DATA SHARING CAPABILITIES High-quality data is vital for training AI algorithms, and Saudi Arabia has made significant progress through initiatives like the National Data Bank (NDB) and the National Data Catalogue.",
+        "These could include data-sharing agreements, access to advanced analytics tools, and research funding for contributors.",
+        "Developing sector-specific databases and cross-sectorial databanks will also provide AI researchers and developers with comprehensive datasets, which can be integrated into national platforms for broader accessibility.",
+        "While Saudi Arabia has made strides in introducing AI into its education system, a more comprehensive and structured approach is required to ensure the nation remains at the forefront of innovation and technological leadership.",
+        "To achieve this, Saudi Arabia should prioritize the comprehensive integration of AI into national educational and training programs.",
+        "Such an approach will enable the Kingdom to cultivate a robust talent pipeline aligned with its vision for global leadership in AI and innovation.",
+        "A multi-stakeholder task force should be established, including representatives from government, industry, academia, and civil society.",
+        "This programme could include competitive incentives such as research grants, streamlined immigration processes, and collaborative opportunities with leading academic institutions and industry leaders.",
+        "To address this, Saudi Arabia should focus on deploying comprehensive AI upskilling programs nationwide."
+      ],
+      "gaps": [
+        "However, further enhancements to data collection and governance are needed to maximise AI's potential across sectors.",
+        "However, to fully harness the potential of these technologies and ensure they meet the diverse needs of Arabic-speaking communities, there is a need to expand the resources, platforms, and high- quality dialectical data needed to accelerate and scale Arabic LT solutions.",
+        "Timeline: 2025-2030 Priority: High ADDRESS DIGITAL GENDER GAPS IN STEM AND AI Despite progress in gender equality, women remain underrepresented in STEM and AI fields in Saudi Arabia, limiting the potential of the workforce and technological innovation.",
+        "To bridge this gap, Saudi Arabia should implement initiatives that promote women’s participation in AI and STEM, such as scholarships, mentorship programs, and targeted training opportunities.",
+        "Addressing the gender gap will unlock the full potential of Saudi Arabia's diverse talent pool and strengthen its position in the global digital economy.",
+        "However, the impact and potential of AI in the cultural and creative industries have not been systematically measured or fully explored.",
+        "Timeline: 2025-2026 Priority: Low ### Page 80 80 ESTABLISH GUIDELINES FOR ENVIRONMENTAL IMPACT MONITORING AI infrastructure is a significant energy consumer, highlighting the need for sustainable practices to manage its growing demands."
+      ],
+      "key_stats": [
+        {
+          "stat": "$40B",
+          "context": "cations: https://sdaia.gov.sa/en/Research/Documents/SaudiAcademicFramework.pdf Saudi Arabia plans $40B push into AI: https://www.reuters.com/world/middle-east/saudi-arabia-plans-40-bln-push- into-arti",
+          "value": 40000000000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "These elements work in concert to create an ecosystem capable of supporting complex AI applications, from smart city initiatives to groundbreaking research in fields like healthcare and energy.",
+        "In the private sector, companies such as STC and Saudi Aramco are making significant strides by heavily investing in AI infrastructure.",
+        "For instance, in 2022, From a pure infrastructure perspective, STC has also deployed an AI-powered operations system on its network using Nokia’s MantaRay118 Self-Organising Network (SON).",
+        "This AI-powered system automates network optimisation, resulting in an increased utilisation rate of approximately 30% on loaded cells and a 10% average improvement in user throughput.",
+        "Similarly, through its subsidiary Aramco Digital, Aramco formed a strategic partnership with Worldwide Technology (WWT) in July 2024 to advance AI infrastructure in Saudi Arabia119.",
+        "Likewise, Cisco's AI Readiness Index indicates that just 22% of private sector businesses in Saudi Arabia possess highly scalable infrastructure for the development of AI use cases.",
+        "The Saudi Data and AI Authority (SDAIA) collaborates with the Saudi Standards, Metrology and Quality Organisation (SASO), among others, to engage with international organisations like ISO, IEC, ITU, and IEEE.",
+        "SDAIA lead AI and emerging technologies specification team in SASO to approve and localise international standards in the kingdom."
+      ],
+      "strengths": [
+        "TECHNICAL AND INFRASTRUCTURAL INFRASTRUCTURE AN D CONNECTIVITY INFRASTRUCTURE AND CONNECTIVITY Infrastructure Saudi Arabia recognises that robust infrastructure is crucial for the development, implementation, and deployment of AI.",
+        "To build such infrastructure, the country focuses on three key pillars: • Data centre capacity • Advanced supercomputing capabilities • Scalable cloud computing services.",
+        "Various entities are driving efforts to develop robust infrastructure by collaborating with global tech providers such as NVIDIA and IBM Entities like SDAIA and KAUST are leading these infrastructure efforts in the public sector.",
+        "For instance, STC's Center3 is expanding its capacities by 9.6MW, while DAMAC data centre plans to deliver a capacity of 55MW by 2025, ensuring robust storage and processing capabilities for advanced AI applications.",
+        "In addition, the KSA government, led by MCIT, launched a plan in 2021 to attract $18 billion worth of investment by 2030 to transform the Kingdom of Saudi Arabia into the main data centre hub for the region126.",
+        "On the other hand, Aramco is leading private sector expansion of super computers by acquiring six different supercomputers, with Dammam-7 as the second most powerful supercomputer in Saudi Arabia128.",
+        "As of 2023, the Kingdom has successfully increased the number of Cloud Service Providers (CSPs) registered with the Communications, Space & Technology Commission (CST) to 29.",
+        "Simultaneously, local providers such as STC, SITE, and Cloud4C are playing a key role in strengthening the domestic cloud ecosystem In a similar vein, SDAIA launched DEEM, a government cloud platform, in 2018.",
+        "During the 8th Future Investment Initiative (FII) held in Riyadh, the Public Investment Fund (PIF) announced a strategic partnership with Google Cloud to establish an advanced AI and Cloud Computing Hub in Saudi Arabia.",
+        "Yearly World Bank Statistical Performance Indicators (SPI) of KSA136 This strong momentum positions KSA as a leader in the GCC and Arab World, yet with further improvements possible to reach a world-leading status from a data generation and utilisation standpoint."
+      ],
+      "gaps": [
+        "Despite these ongoing efforts, a SDAIA survey shows that only 28% of government entities believe they have adequate AI infrastructure in place.",
+        "This highlights that the full impact of these initiatives has yet to materialise.",
+        "However, this stakeholder engagement takes place on a continuous basis and through a variety of formats, all of which form a core part of SDAIA’s activities: • Regular workshops (e.g., Regional AI Governance Workshop).",
+        "This talent gap risks slowing the pace of AI innovation and broader technological adoption across industries: • While the talent gap is generalised and applies to the private sector at large, hiring talent is particularly difficult for SMEs and startups as larger corporations remain more attractive ",
+        "The talent gap suffered by the private sector should be largely targeted by improvements to the KSA education system at large, and through increased attractivity for foreign talent.",
+        "• Beyond the growth of talent locally to fuel the private sector, increasing the attractivity of KSA at large to existing AI-talent is also perceived as critical to bridge the talent gap, with the added benefit of bringing international perspectives and expertise to the Kingdom.",
+        "For instance, sustainability practices in AI infrastructure development in Saudi Arabia are not developed, despite being included in SDAIA's AI Ethics Principles.",
+        "• Institutional frameworks and governance: Challenges: There is currently a limited view within the public sector of the efficiency of previously implemented policies, limiting the possibility of agile amendments.",
+        "This means the data exists but needs to be analysed on a more continuous basis through an adapted data backbone.",
+        "It is critical to ensure this gap is closed in the broader context of the AI-talent gap in KSA."
+      ],
+      "key_stats": [
+        {
+          "stat": "30% on loaded cells and a",
+          "context": "system automates network optimisation, resulting in an increased utilisation rate of approximately 30% on loaded cells and a 10% average improvement in user throughput. Similarly, through its subsidia",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "10% \naverage improvement in user th",
+          "context": "optimisation, resulting in an increased utilisation rate of approximately 30% on loaded cells and a 10% average improvement in user throughput. Similarly, through its subsidiary Aramco Digital, Aramco",
+          "value": 10.0,
+          "unit": "%"
+        },
+        {
+          "stat": "28% of government entities believe th",
+          "context": "I infrastructure in Saudi Arabia119. Despite these ongoing efforts, a SDAIA survey shows that only 28% of government entities believe they have adequate AI infrastructure in place. Likewise, Cisco's A",
+          "value": 28.0,
+          "unit": "%"
+        },
+        {
+          "stat": "22% of private sector \nbusinesses in",
+          "context": "have adequate AI infrastructure in place. Likewise, Cisco's AI Readiness Index indicates that just 22% of private sector businesses in Saudi Arabia possess highly scalable infrastructure for the devel",
+          "value": 22.0,
+          "unit": "%"
+        },
+        {
+          "stat": "45% of this capacity located in Riyad",
+          "context": "centres, with the capacity of these centres increasing to 204MW in 2023 from 122.4MW in 2022, with 45% of this capacity located in Riyadh. The growth in capacity has been driven by collaboration betwe",
+          "value": 45.0,
+          "unit": "%"
+        },
+        {
+          "stat": "15% of the live data centres in the K",
+          "context": "ahman University (PNU), alongside data centre investors such as STC and Tamasuk. According to IDC, 15% of the live data centres in the Kingdom are classified as hyperscale data centres, while 58% are ",
+          "value": 15.0,
+          "unit": "%"
+        },
+        {
+          "stat": "58% \nare considered large",
+          "context": "o IDC, 15% of the live data centres in the Kingdom are classified as hyperscale data centres, while 58% are considered large. Figure 15. Datacentres capacity distribution in KSA125 125 Datacentres cap",
+          "value": 58.0,
+          "unit": "%"
+        },
+        {
+          "stat": "3% \nNEOM\nMadinah \nJeddah \nMakkah",
+          "context": ": https://globalaisummit.org/Documents/StateofAIinSaudiArabia.pdf Live Datacentres 45% 24% 16% 3% NEOM Madinah Jeddah Makkah Riyadh Al Khobar Dammam Unaizah Buraydah 3% 3% 2% 3% 3% ### Page 61 61 This",
+          "value": 3.0,
+          "unit": "%"
+        },
+        {
+          "stat": "$18 billion",
+          "context": "AI applications. In addition, the KSA government, led by MCIT, launched a plan in 2021 to attract $18 billion worth of investment by 2030 to transform the Kingdom of Saudi Arabia into the main data ce",
+          "value": 18000000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$1.5 billion",
+          "context": "s, the delivery of 51 different cloud services, and generating a financial impact of approximately $1.5 billion (SAR 5.6 billion) through hosted services. During the 8th Future Investment Initiative (",
+          "value": 1500000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "SAR 5.6 billion",
+          "context": "y of 51 different cloud services, and generating a financial impact of approximately $1.5 billion (SAR 5.6 billion) through hosted services. During the 8th Future Investment Initiative (FII) held in R",
+          "value": 5600000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "248 data centres",
+          "context": "or government and semi-government entities. Notable achievements include the consolidation of over 248 data centres, the provision of services to 185 government entities, the delivery of 51 different "
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "The Saudi Data and AI Authority (SDAIA) has developed a robust governance framework committed to providing strategic oversight and aligning AI development with ethical standards.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• International Awards In addition to the international presence of KSA within the AI field, several initiatives and programmes have achieved international recognition, such as The World Summit on the Information Society (WSIS) and the United Nations Public Service Award (UNPSA).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Today, Saudi Arabia proudly stands as the top-ranking country in the region and a global leader in AI, securing 14th place globally and 1st place worldwide in “Government Strategy for AI”, as recognised by the Global AI Index 20241.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "As such, the Authority has launched a series of 10 programmes focusing on deploying new technologies (e.g., Cloud Adoption Acceleration Programme for Government Entities), providing tailored support (e.g., Digital Consulting Programme), and monitoring and evaluating the performance of digital government initiatives (e.g., Digital Government Award).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "As such, the NCA has developed the National Cryptographic Standards (NCS), the Cybersecurity Guidelines for Internet of Things (IoT), and the Essential Cybersecurity Controls, among others.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "Specifically, Alat has created a business unit on AI infrastructure technology including network & communication, servers, data centre networking equipment & storage, industrial edge servers, and industry 4.0 computing.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "• The United Nations Public Service Award (UNPSA) Recognises SDAIA’s Tawakkalna Platform10: The Saudi Data & AI Authority (SDAIA) was awarded the United Nations Public Service Award (UNPSA) in 2022 for its innovative Tawakkalna platform, which revolutionised public service delivery by combining essential services, health management, and government access into a single, user-friendly platform.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The award highlights Tawakkalna's significant role in enhancing transparency, accessibility, and resilience, ensuring seamless.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "As part of its ambition to develop E-Government, the Kingdom has recognised the importance of unlocking the power of Open Data.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "However, KSA has adopted the AI Ethics Principles, which specify that for an AI system built by a third party, AI system owners should ensure that an AI Ethics due diligence is carried out.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• AI Offices Saudi Arabia has launched a national initiative to establish AI Offices in government agencies, aiming to leverage the transformative potential of artificial intelligence across the public sector.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "With its commitment to excellence, Deem Cloud has earned top-tier recognition from the Communications, Space, and Technology Commission (CST) and achieved globally respected certifications like ISO 27001 for Information Security and ISO 9001 for Quality Management, solidifying its role as a key enabler of the Saudi Vision 2030.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This project is strategic and extremely important in ensuring that all schools in Saudi Arabia are linked to the ministry via the Internet, thereby enabling them to access and use the services provided by the ministry’s major centralised systems FARIS, NOOR and EduMap Award.46 In addition, KSA’s official language is only Arabic but there are many Arabic dialects, therefore online content and data are available from different resources to train AI model in Arabic language to be more inclusive.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "Recently, KAUST established a new Generative AI Centre of Excellence, advancing research in AI- powered innovation across various sectors.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The Centre is recognised for its cutting-edge research, such as AI-based early pneumonia detection and predictive environmental models, and it has been published in top AI journals and conferences, such as Nature Machine Intelligence and CVPR69.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "KSA has launched a comprehensive AI framework in digital learning, establishing guidelines, policies, and tools to support AI across K-12, higher education, and lifelong learning, driving innovation and advancing digital literacy.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "With a foundation built on strategic partnerships with top global technology firms and leading Saudi institutions, Tuwaiq has consistently delivered exceptional results, including record-breaking employment rates for graduates and recognition in international competitions.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In this respect, a series of programmes and frameworks have been developed to favour the upskilling of the Saudi population on digital topics: • Digital Skills Framework (DSF)90 The Ministry of Communications and Information Technology (MCIT) developed a Digital Skill Framework (DSF) to define ICT skills built based on the SFIA Skills Framework for the Information Age and define ICT skills worldwide.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• Tuwaiq Academy94 Founded in 2019 by the Saudi Federation for Cybersecurity, Programming, and Drones (SAFCSP), it is the first academy in the Kingdom of Saudi Arabia to offer educational programmes in advanced technologies, with a wide range of courses for different age groups and technical fields (1,200+ bootcamps and courses, 1,4M+ registered students, 23k+ graduates).",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "M110: Founded to foster a robust AI ecosystem by supporting research, innovation, and the growth of 100 quality AI companies.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "For instance, in 2022, From a pure infrastructure perspective, STC has also deployed an AI-powered operations system on its network using Nokia’s MantaRay118 Self-Organising Network (SON).",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "In addition, the KSA government, led by MCIT, launched a plan in 2021 to attract $18 billion worth of investment by 2030 to transform the Kingdom of Saudi Arabia into the main data centre hub for the region126.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "SDAIA seized the opportunity of 10 of these gatherings to finetune strategic directions for AI in the Kingdom, and to investigate possible supporting initiatives: • The establishment of the International Center for Artificial Intelligence Research and Ethics (ICAIRE), recognised as a Category 2 Centre (C2C) under UNESCO’s auspices137 Underscores the Kingdom's commitment to leveraging AI for collective benefit and advancing the United Nations Sustainable Development Goals (SDGs).",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "SDAIA’s introduction of the ITU’s AI Readiness Framework, a globally recognised tool, marks a significant step in supporting nations to evaluate their AI capabilities and foster international collaboration.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "When deployed through the right providers, these training programmes are also expected to increase ties and foster cross-pollination of ideas with leading private sector organisations.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.5,
+      "unit": "% GDP",
+      "dimension": "economic"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "It climbed from 31st place in 2019 to 14th in 2024 on the Tortoise Intelligence16 Global AI Index and ranked 1st globally in Government AI Strategy.",
+      "index_name": "Global AI Index",
+      "rank": 1,
+      "year": 2019
+    },
+    {
+      "context": "KSA is ranked 6th globally on the UN E-Government Development Index (EGDI) and achieved the first place in the Open Government Data Initiative (OGDI) pillar.",
+      "index_name": "E-Government Development Index",
+      "rank": 6
+    },
+    {
+      "context": "Furthermore, KSA ranks 69th on the 2022 Open Data Inventory Ranking (ODIN)28, highlighting significant improvements in the past couple of years.",
+      "index_name": "Open Data Inventory Ranking",
+      "rank": 69,
+      "year": 2022
+    },
+    {
+      "context": "• 2024 United Nations E-participation index48: KSA is currently scoring 0.09589 in the 2024 E-participation Index (UN E-government database), which translates to a rank 7th out of 193.",
+      "index_name": "E-participation index",
+      "rank": 7,
+      "score": 0.09589,
+      "year": 2024
+    },
+    {
+      "context": "• 2022 The Economist Inclusive Internet Index49: • Availability of e-Government services in the local language: Ranked 1st.",
+      "index_name": "Inclusive Internet Index",
+      "rank": 1,
+      "year": 2022
+    }
+  ]
 }

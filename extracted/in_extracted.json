@@ -1,11 +1,13 @@
 {
   "country_code": "IN",
   "country_name": "INDIA",
+  "language": "en",
   "metadata": {
     "page_count": 122,
     "creation_date": "D:20260213160125+05'30'",
     "modification_date": "D:20260217151210+01'00'",
-    "country_name": "INDIA"
+    "country_name": "INDIA",
+    "language": "en"
   },
   "chapters": [
     {
@@ -81,7 +83,7 @@
       "start_page": 6
     }
   },
-  "executive_summary": "ii\nTable of contents\nACKNOWLEDGEMENTS \ni\nFOREWORD \nv\nACRONYMS AND ABBREVIATIONS \nvii\nEXECUTIVE SUMMARY \n1\nCHAPTER 1: DIAGNOSIS OF THE NATIONAL AI LANDSCAPE \n6\n         AI GOVERNANCE IN INDIA:  \nAN OVERVIEW OF LEGAL STRUCTURE, POLICIES AND INSTITUTIONS \n6\n               Parliament \n6\n               The executive \n6\n               The judiciary \n9\n               India’s engagements with global AI: forums and frameworks \n9\n               Opportunities and challenges in India’s AI ecosystem: an overview \n10\n OVERVIEW OF ASSESSMENT DIMENSIONS \n11\nCHAPTER 2: LEGAL AND REGULATORY DIMENSION \n12\n AI POLICY AND REGULATION \n12\n              Overview \n12\n              Evolution of AI regulation and policy \n12\n              IndiaAI Mission \n16\n DATA PROTECTION AND PRIVACY LAWS \n19\n DATA SHARING AND ACCESSIBILITY \n21\n PROCUREMENT LAWS AND POLICIES \n22\n FREEDOM OF INFORMATION/ACCESS TO KNOWLEDGE ACTS \n23\n DUE PROCESS AND ACCOUNTABILITY \n24\n ONLINE SAFETY AND INTEGRITY OF SPEECH \n24\n              Obligations on online intermediaries \n25\n PUBLIC SECTOR CAPACITY \n25\nCHAPTER 3: SOCIAL AND CULTURAL DIMENSION \n26\n DIVERSITY, INCLUSION AND EQUALITY \n26\n              Diversity in STEM \n28\n             Indigenous language training \n29\n\niii\n        PUBLIC ENGAGEMENT AND TRUST \n30\n        ENVIRONMENT AND SUSTAINABILITY POLICIES \n31\n        HEALTH AND SOCIAL WELLBEING \n31\n             Policy and regulatory frameworks for AI in health \n31\n             AI integration in public health service delivery \n32\n             AI for accessibility and persons with disabilities \n33\n             Impact of AI on children’s health \n33\n        CULTURE \n34\n             Community participation in AI development for cultural heritage \n34\nCHAPTER 4: SCIENTIFIC AND EDUCATIONAL DIMENSION \n35\n        RESEARCH AND INNOVATION IN AI \n35\n             Schemes, investments and publications \n35\n        AI IN EDUCATION \n37\n             Policies, infrastructure and curricula for school education \n37\n             AI and high",
+  "executive_summary": "ii\nTable of contents\nACKNOWLEDGEMENTS \ni\nFOREWORD \nv\nACRONYMS AND ABBREVIATIONS \nvii\nEXECUTIVE SUMMARY \n1\nCHAPTER 1: DIAGNOSIS OF THE NATIONAL AI LANDSCAPE \n6\n         AI GOVERNANCE IN INDIA:  \nAN OVERVIEW OF LEGAL STRUCTURE, POLICIES AND INSTITUTIONS \n6\n               Parliament \n6\n               The executive \n6\n               The judiciary \n9\n               India’s engagements with global AI: forums and frameworks \n9\n               Opportunities and challenges in India’s AI ecosystem: an overview \n10\n OVERVIEW OF ASSESSMENT DIMENSIONS \n11\nCHAPTER 2: LEGAL AND REGULATORY DIMENSION \n12\n AI POLICY AND REGULATION \n12\n              Overview \n12\n              Evolution of AI regulation and policy \n12\n              IndiaAI Mission \n16\n DATA PROTECTION AND PRIVACY LAWS \n19\n DATA SHARING AND ACCESSIBILITY \n21\n PROCUREMENT LAWS AND POLICIES \n22\n FREEDOM OF INFORMATION/ACCESS TO KNOWLEDGE ACTS \n23\n DUE PROCESS AND ACCOUNTABILITY \n24\n ONLINE SAFETY AND INTEGRITY OF SPEECH \n24\n              Obligations on online intermediaries \n25\n PUBLIC SECTOR CAPACITY \n25\nCHAPTER 3: SOCIAL AND CULTURAL DIMENSION \n26\n DIVERSITY, INCLUSION AND EQUALITY \n26\n              Diversity in STEM \n28\n             Indigenous language training \n29\n\niii\n        PUBLIC ENGAGEMENT AND TRUST \n30\n        ENVIRONMENT AND SUSTAINABILITY POLICIES \n31\n        HEALTH AND SOCIAL WELLBEING \n31\n             Policy and regulatory frameworks for AI in health \n31\n             AI integration in public health service delivery \n32\n             AI for accessibility and persons with disabilities \n33\n             Impact of AI on children’s health \n33\n        CULTURE \n34\n             Community participation in AI development for cultural heritage \n34\nCHAPTER 4: SCIENTIFIC AND EDUCATIONAL DIMENSION \n35\n        RESEARCH AND INNOVATION IN AI \n35\n             Schemes, investments and publications \n35\n        AI IN EDUCATION \n37\n             Policies, infrastructure and curricula for school education \n37\n             AI and higher education \n39\n             Technical and ethical AI courses for the general public \n40\nCHAPTER 5: ECONOMIC DIMENSION \n41\n        LABOUR MARKETS AND TALENT CONCENTRATION \n41\n             AI skilling landscape in India: developing competencies and job-readiness \n42\n             \n \n44\n        INVESTMENTS AND OUTPUTS \n45\n             AI start-ups in India \n46\n             Private investment \n47\n        INTERMEDIATE CONSUMPTION \n47\nCHAPTER 6: TECHNICAL AND INFRASTRUCTURAL DIMENSION \n49\n        INFRASTRUCTURE AND CONNECTIVITY \n49\n        APPLIED STANDARDS \n50\n        COMPUTE CAPABILITIES \n51\n        STATISTICAL PERFORMANCE \n52\nCHAPTER 7: DEVELOPING A NATIONAL MULTISTAKEHOLDER ROADMAP 53\n        MAPPING THE ECOSYSTEM \n53\n        METHODOLOGY OF THE READINESS ASSESSMENT \n54\n             Overview of stakeholder engagement on India’s AI readiness \n54\n\nCHAPTER 8: FINDINGS FROM THE MULTISTAKEHOLDER CONSULTATIONS\t\n56\n       THEME 1: AI GOVERNANCE AND POLICY IN INDIA\t\n56\n              Policies and governance\t\n56\n              Addressing coordination with and among states and disparities in capacity\t\n57\n              Procurement\t\n57\n       THEME 2: AI ADOPTION: ENABLERS AND BARRIERS\t\n57\n              A call to enhance data availability and quality\t\n57\n              \u0007Increasing trust in AI systems can go a long way towards making the Indian AI \necosystem thrive\t\n58\n              \u0007Enhancing flexibility and radical technological development  \nby supporting AI start-ups\t\n59\n       THEME 3: PREPARING INDIA’S WORKFORCE FOR AI\t\n59\n              Impact on India’s workforce\t\n59\n              Disparities in access to AI skilling initiatives and education\t\n60\n              Public sector capacity building\t\n60\n       THEME 4: INFRASTRUCTURE AND INVESTMENT\t\n60\n              Infrastructure\t\n60\n              Investment\t\n61\nCHAPTER 9: POLICY RECOMMENDATIONS\t\n62\n       \u0007RECOMMENDATION 1: Ensure informed AI governance across sectors  \nthrough comprehensive evidence-based risk and legal review\t\n62\n       \u0007RECOMMENDATION 2: Co-develop guidelines for operationalizing  \nethical AI principles for AI developers and deployers\t\n64\n       \u0007RECOMMENDATION 3: Strengthen centre–state coordination for  \nAI governance and implementation\t\n66\n       \u0007RECOMMENDATION 4: Leverage the AIKosh platform to increase  \naccess to high-quality datasets for AI development\t\n67\n       \u0007RECOMMENDATION 5: Advance public trust in AI through governance,  \nprocurement and awareness\t\n69\n       \u0007RECOMMENDATION 6: Prepare India’s workforce for an AI future by  \nstrengthening capacities, embedding ethics and supporting inclusive transitions\t\n71\n       \u0007RECOMMENDATION 7: Ensure integration of environmental sustainability \nconsiderations into AI infrastructure planning and deployment\t\n74\n       \u0007RECOMMENDATION 8: Ensure targeted interventions to promote diversity  \nin the AI workforce and research and development ecosystem\t\n75\nENDNOTES\t\n77\niv\n\nv\nForeword\nWe have officially entered the Age of Artificial Intelligence. \n",
   "recommendations": [
     {
       "number": 1,
@@ -133,5 +135,509 @@
     }
   ],
   "recommendation_count": 8,
-  "page_count": 122
+  "page_count": 122,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Legal and regulatory dimension The legal and regulatory dimension of the RAM evaluates India’s readiness to govern AI.",
+        "This chapter maps India’s efforts to build AI governance frameworks while maintaining regulatory agility and ensuring AI technologies are safe, accountable and aligned with constitutional values.",
+        "This includes examining AI policy development, data protection and privacy laws; procurement rules; transparency mechanisms like the Right to Information (RTI); and human rights frameworks such as freedom of expression and due process.",
+        "It also tracks the maturity of institutional safeguards, including grievance redress systems and accountability mechanisms across the AI value chain.",
+        "Concurrently, sectoral regulators are examining AI governance within their respective domains, with financial, telecommunications and health regulators developing sector-specific standards and requirements tailored to address domain- specific risks and create accountability mechanisms.",
+        "Evolution of AI regulation and policy A key starting point for India’s deliberations on AI governance can be traced to 2017, with the constitution of a task force on artificial intelligence by the Ministry of Commerce and Industry (Commerce Ministry).",
+        "The resulting report, published in 2018, explicitly acknowledged the importance of ethical and safe AI, calling for the development of ethical frameworks to guide responsible AI deployment in India.",
+        "It also recommended the creation of a National AI Mission – an inter-ministerial nodal agency to coordinate AI-related activities in India.33 In ensuing years, several government-constituted multistakeholder expert committees have deliberated on a potential AI governance framework for India; the out"
+      ],
+      "strengths": [
+        "The task force was established to recommend a policy and legal framework for the deployment of AI technologies and to provide guidance for government, industry and research institutions.",
+        "This programme culminated in the IndiaAI Mission, launched in 2024.",
+        "Figure 1: India’s AI governance journey AI TASKFORCE The Commerce Ministry established a multistakeholder task force to develop a policy framework for India’s AI ecosystem.i The task force had nineteen members, including two women.",
+        "These proposals aim to address risks associated with deepfakes, misinformation and other forms of artificially generated content presented as authentic.50 IndiaAI Mission The IndiaAI Mission is a flagship initiative for AI, launched by the Government of India in March 2024, with a five-year budget o",
+        "It operates as an independent business division under the Digital India Corporation, a not-for-profit entity established by the IT Ministry.53 While not a regulatory body, the IndiaAI Mission plays a central role in India’s AI governance ecosystem by supporting policy development, inter-ministerial ",
+        "Its seven pillars reflect India’s pro-innovation approach to AI governance, focusing on enabling infrastructure, inclusive development and responsible deployment, aiming to build a comprehensive AI ecosystem: 1.",
+        "\u0007IndiaAI Foundation Models This pillar focuses on developing indigenous large language models (LLMs) and domain-specific foundational models for India.56 In January 2025, the IT Ministry launched a call for proposals inviting researchers, start-ups, etc.",
+        "\u0007AIKosh/India Datasets Platform (IDP) This pillar aims to create a national repository that seeks to enhance access, quality and utilization ### Page 30 17 of public sector datasets, models and use cases for AI development.58 In March 2025, the Mission launched AIKosh, a platform designed to democra",
+        "As part of this pillar, 570 data and AI labs will be established across the country, of which 27 labs have been launched in collaboration with the National Institute of Electronics & Information Technology (NIELIT) and aim to train over 10,000 students in data and AI foundational courses tailored to",
+        "Tier-1, categorized as role-modelling, reflects the highest level of cybersecurity preparedness.67 India enacted the Digital Personal Data Protection Act (DPDPA) on 11 August 2023.68 The DPDPA replaces the earlier Information Technology (Reasonable security practices and procedures and sensitive per"
+      ],
+      "gaps": [
+        "They also recognize the importance of responsible AI development, and articulate the need for ethical principles to guide AI adoption rather than overly prescriptive horizontal legislation.",
+        "While a range of policy documents have informed India’s approach to AI governance, the country does not currently have an AI-specific law.",
+        "Expert consultation on these issues required Copyright Act (Section 52); legal interpretation evolving Bias and discrimination General protections exist under employment, minority and consumer laws; limited clarity on application in AI contexts Equal Remuneration Act; consumer protection laws; minor",
+        "\u0007IndiaAI Application Development Initiative (AIADI) This pillar promotes the development of AI applications to catalyse socio-economic transformation.60 In August 2024, the IT Ministry announced the IndiaAI Innovation Challenge, offering up to INR 1 crore (approximately USD 112,000) for AI solutions",
+        "As of April 2025, thirty AI solutions have been shortlisted for funding.61 Thirty applications have reached the prototyping stage, with a second iteration of the challenge planned in conjunction with the Ministry of Education.",
+        "The DPDPA does not distinguish sensitive personal data such as health, biometric or financial information from other forms of personal data, bringing all personal data under a single standard of protection.",
+        "However, the Central Government is empowered to exempt ‘instrumentalities of the State’ from certain obligations under the law in the interest of national security and public order, or for delivering subsidies and public services.81 Beyond statutory law, the constitutional status of privacy in India",
+        "India has a national data sharing framework in place through its National Data Sharing and Accessibility Policy (NDSAP), 2012, which mandates all ministries, departments and public agencies to release shareable and non-sensitive data in publicly accessible formats.84 The policy is underpinned by pri",
+        "It is designed to operate through regulated intermediaries (account aggregators) that facilitate encrypted, purpose-limited data transfers without retaining or processing the data themselves.97 Separately, India’s Data Protection Act introduces the concept of consent managers – entities responsible ",
+        "The standard outlines key competencies related to data quality, compliance and life-cycle management.100 Procurement laws and policies Currently, India does not have a dedicated national law or policy specifically governing the procurement of AI systems or services."
+      ],
+      "key_stats": [
+        {
+          "stat": "USD 1.2 billion",
+          "context": "Government of India in March 2024, with a five-year budget of INR 10,371.92 crore51 (approximately USD 1.2 billion).52 The Mission serves as a key institutional mechanism for advancing India’s nationa",
+          "value": 1200000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 28 million",
+          "context": "complaints, direct corrective measures, and impose penalties of up to INR 250 crore (approximately USD 28 million).80 ### Page 34 21 The Act applies to both private and public sector entities. However",
+          "value": 28000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "10,000 students",
+          "context": "with the National Institute of Electronics & Information Technology (NIELIT) and aim to train over 10,000 students in data and AI foundational courses tailored to India’s diverse development needs 6. "
+        }
+      ],
+      "regulations": [
+        {
+          "name": "Digital Personal Data Protection Act",
+          "year": "2023",
+          "status": "enacted"
+        },
+        {
+          "name": "government act",
+          "year": "",
+          "status": "draft"
+        },
+        {
+          "name": "Digital Competition Bill",
+          "year": "",
+          "status": "draft"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Social and cultural dimension The social and cultural dimension of the RAM outlines how inclusion, diversity, public awareness and environmental considerations shape the development and deployment of AI systems.",
+        "In the Indian context, these priorities are closely linked to the government’s AI for All vision, which aims to ensure that the benefits of AI reach all segments of society.",
+        "This chapter also explores gender representation in science, technology, engineering and mathematics (STEM) education and the broader AI workforce.",
+        "Public engagement with digital platforms and trust in AI systems, including perceptions of fairness and data use, are discussed as indicators of public acceptance.",
+        "It also reviews the integration of AI into healthcare and disability services, and the impact of AI tools on children.",
+        "Finally, this dimension reviews initiatives supporting linguistic and cultural diversity through AI, as well as national- and state-level approaches to environmental sustainability in AI infrastructure.",
+        "The Comprehensive Modular Survey: Telecom, 2025, undertaken by the Ministry of Statistics and Programme Implementation, surveyed 142,065 people and found that despite 76.3 per cent of rural women using mobile phones, only 48.4 per cent of them owned the device.",
+        "Complementing this, the National Policy for Skill Development and Entrepreneurship146 and the Skill India Mission,147 both launched in 2015, emphasize the need for skilling people from geographical and socially disadvantaged backgrounds and marginalized communities, to build a more inclusive and fut"
+      ],
+      "strengths": [
+        "A Draft Data Centre Policy (2020), issued by the IT Ministry, encouraged the use of renewable energy for data centres but did not outline specific environmental safeguards related to land use, water consumption or emissions.187 India has also established a Centre of Excellence (CoE) on sustainable c",
+        "Led by IIT Kanpur, the CoE focuses on applications such as energy forecasting, air quality monitoring, urban flood management and digital twins for city planning.188 While not a substitute for a comprehensive AI environment policy, the CoE reflects growing institutional efforts to align AI innovatio",
+        "This includes financial support for setting up green buildings in data infrastructure projects193 and reimbursements for upgrading to energy-efficient equipment and technologies.194 Health and social well-being India has adopted multiple legal, policy and institutional frameworks to guide the integr",
+        "The Bureau of Indian Standards (BIS) has also launched a research project to examine the psychological impacts of AI on different user groups, with the aim of informing ethical guidance and future standards for AI systems.228 ### Page 47 34 AI is also being deployed in public health efforts aimed at",
+        "While India has not adopted a dedicated policy focused exclusively on the use of AI for cultural preservation, several national initiatives incorporate digital components that enable aspects of this work.",
+        "As of July 2024, it has established over 100 manuscripts resource centres and conservation centres across India.",
+        "One example of community participation in this context is the Mera Gaon Meri Dharohar initiative, launched under the Culture Mapping Mission, which documents and digitally presents local traditions, art forms and practices of rural India.237 The initiative encourages local communities to share stori"
+      ],
+      "gaps": [
+        "A 25 per cent gender gap in internet access persists,137 highlighting challenges in providing digital connectivity.",
+        "Diversity, inclusion and equality India’s digital landscape shows varying levels of access to the internet across demographics, with internet penetration of 406.97 million in rural areas and 563.19 million in urban areas.138 India’s gender gap in internet use stands at 0.74 (with 1 indicating parity",
+        "Figure 5: Public trust in AI technologies (urban India) 20% 40% 60% 80% 100% 0% Respondents (%) Trust metric Trust companies using AI to handle personal data Believe AI is unlikely to exhibit bias or discrimination Believe AI’s benefits outweigh its potential risks 60% 63% 62% ### Page 44 31 Environ",
+        "Additionally, India does not have a specific legal mandate for specialized environmental impact assessments (EIA) applicable to AI deployments.",
+        "These include documentation of manuscripts, digitization of cultural resources, and limited applications of AI in museum settings and archival projects.",
+        "However, this participation is content-based and does not extend to AI development or governance processes."
+      ],
+      "key_stats": [
+        {
+          "stat": "0%\nNote",
+          "context": "Gender Advancement for Transforming Institutions (GATI) seeks to create an 10% 20% 30% 40% 60% 50% 0% Note: The countries compared with India in this infographic are the top five countries in the over",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "35.56%\nIndia",
+          "context": "025, June 2025, available at: https://reports.weforum.org/docs/WEF_GGGR_2025.pdf New Zealand 15.74% 35.56% India 23.05% 31.43% Finland 15.48% 51.27% Norway 11.35% 35.83% The United Kingdom 12.97% 35.3",
+          "value": 35.56,
+          "unit": "%"
+        },
+        {
+          "stat": "31.43%\nFinland",
+          "context": "lable at: https://reports.weforum.org/docs/WEF_GGGR_2025.pdf New Zealand 15.74% 35.56% India 23.05% 31.43% Finland 15.48% 51.27% Norway 11.35% 35.83% The United Kingdom 12.97% 35.39% Iceland 10.07% 31",
+          "value": 31.43,
+          "unit": "%"
+        },
+        {
+          "stat": "51.27%\nNorway",
+          "context": "rts.weforum.org/docs/WEF_GGGR_2025.pdf New Zealand 15.74% 35.56% India 23.05% 31.43% Finland 15.48% 51.27% Norway 11.35% 35.83% The United Kingdom 12.97% 35.39% Iceland 10.07% 31.22% Female (%) Male (",
+          "value": 51.27,
+          "unit": "%"
+        },
+        {
+          "stat": "35.83%\nThe United \nKingdom",
+          "context": "WEF_GGGR_2025.pdf New Zealand 15.74% 35.56% India 23.05% 31.43% Finland 15.48% 51.27% Norway 11.35% 35.83% The United Kingdom 12.97% 35.39% Iceland 10.07% 31.22% Female (%) Male (%) Figure 4: Share of",
+          "value": 35.83,
+          "unit": "%"
+        },
+        {
+          "stat": "35.39%\nIceland",
+          "context": "4% 35.56% India 23.05% 31.43% Finland 15.48% 51.27% Norway 11.35% 35.83% The United Kingdom 12.97% 35.39% Iceland 10.07% 31.22% Female (%) Male (%) Figure 4: Share of female and male graduates in STEM",
+          "value": 35.39,
+          "unit": "%"
+        },
+        {
+          "stat": "31.22%\nFemale",
+          "context": "31.43% Finland 15.48% 51.27% Norway 11.35% 35.83% The United Kingdom 12.97% 35.39% Iceland 10.07% 31.22% Female (%) Male (%) Figure 4: Share of female and male graduates in STEM fields Percentage of g",
+          "value": 31.22,
+          "unit": "%"
+        },
+        {
+          "stat": "0%\nRespondents",
+          "context": "f ~ ±3–5 %-age points. Figure 5: Public trust in AI technologies (urban India) 20% 40% 60% 80% 100% 0% Respondents (%) Trust metric Trust companies using AI to handle personal data Believe AI is unlik",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "142,065 people",
+          "context": "y: Telecom, 2025, undertaken by the Ministry of Statistics and Programme Implementation, surveyed 142,065 people and found that despite 76.3 per cent of rural women using mobile phones, only 48.4 per "
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Scientific and educational dimension The scientific and educational dimension of the RAM explores India’s capacity to generate AI knowledge, support research and innovation, and build a skilled AI workforce.",
+        "It reviews public investment in research and development (R&D), the quality and volume of research output, AI education, and the extent of interdisciplinary collaboration.",
+        "India’s gross expenditure on R&D (GERD) stood at INR 1.27 lakh crore (approximately USD 14.23 billion) in 2020/21,238 while over 86,000 AI patents have been filed between 2010 and 2025 (accounting for over 25 per cent of all tech patents filed in the country during this period),239 indicating growin",
+        "This chapter also examines national strategies to integrate AI into higher education, expand infrastructure for AI training, and align curriculum content with evolving technological needs.",
+        "These efforts are complemented by digital platforms, online courses and targeted initiatives that aim to increase AI literacy and access.",
+        "Research and innovation in AI Schemes, investments and publications Scientific research in India is supported by a range of institutions, with the Department of Science & Technology (DST) serving as the primary government body for promoting science, technology and innovation, including in the field ",
+        "In the 2025/26 Union Budget, funding for the DST’s central government schemes saw a significant increase, from approximately INR 2,300 crore (approximately USD 257.7 million) in 2024/25 to INR 20,000 crore (approximately USD 2.33 billion) in 2025/26.240 This substantial boost reflects the government",
+        "In addition to core funding programmes, the DST also supports AI research through specialized schemes and international collaborations."
+      ],
+      "strengths": [
+        "One of the DST’s main initiatives is the Vigyan Dhara scheme, which focuses on institutional and human capacity building, research and development, and the deployment of innovative technologies.241 Its budget allocation rose from INR 330.75 crore (approximately USD 37.05 million) in 2024/25 to INR 1",
+        "national fellowship programmes for undergraduate to doctoral students to build advanced AI research capability; 2.",
+        "For instance, a course called Solve Business Problems with AI features a dedicated module on ethics.286 The Visvesvaraya PhD Scheme was launched to increase the number of Ph.D.s in electronics system design and manufacturing (ESDM) and information technology/IT-enabled services (IT/ITES).",
+        "Besides government-led initiatives, academic institutionsiii and private actorsiv have also established independent or collaborative CoEs.",
+        "AI for All is a self-learning programme, launched by the Ministry of Education, aimed at increasing AI awareness and elaborating on principles of responsible AI and ethics of AI.297 Similarly, the Ministry of Skill Development and Entrepreneurship collaborated with industry players to introduce AI f",
+        "• \u0007Through programmes like the Skill India Digital Hub (SIDH), launched in August 2023, the government has created a unified platform using AI/machine learning (ML) to offer skilling, credit and employment services.",
+        "As per reports, Indian companies are now investing up to 1.5 per cent of their revenues into workforce learning and development, with a growing focus on AI upskilling, to stay competitive.329 Many leading information technology (IT) and financial services companies in India are investing in AI upski",
+        "Targeting 20,000 learners, it includes certifications, internships, apprenticeships and career guidance to build a robust talent pipeline among rural and urban women.ii i \u0007Press Information Bureau, ‘Ministry of Skill Development and Entrepreneurship (MSDE) and Microsoft come together to launch “AI C",
+        "Through flagship programmes like the Startup India initiative (launched in 2016), the government has sought to build a supportive environment for innovation and entrepreneurship.335 AI start-ups recognized under Startup India benefit from tax exemptions, fast-tracked patent processes, and access to ",
+        "This amount has been fully allocated, ahead of its March 2026 target, to 138 registered AIFs.339 Beyond overall start-up support, the government has launched targeted initiatives to accelerate AI innovation."
+      ],
+      "gaps": [
+        "It also notes that the demand for a skilled workforce that has core computational abilities in computer science and mathematics will be on the rise and that the education system needs to weave AI into its curricula.263 Infrastructure readiness in schools varies by level.",
+        "Additionally, government-backed initiatives, such as the Defence Research and Development Organisation (DRDO’s) Young Scientist Laboratory, focus on advancing AI research in strategic and emerging areas.291 As of 2023, India had 27.09 per cent science, technology, engineering and mathematics (STEM) ",
+        "However, early- stage funding declined by 37 per cent, highlighting a capital gap for newer entrants.359 This shift is reflective of a broader trend: investors are prioritizing start-ups with proven market traction over seed-stage bets, posing challenges for early-stage AI entrepreneurs.",
+        "However, data from the National Accounts Statistics, 2025365 offer insight into the broader category of ‘information and computer related services’."
+      ],
+      "key_stats": [
+        {
+          "stat": "0%\nSource",
+          "context": "commits (%) Figure 7: Top 5 contributions to public AI projects on GitHub (2023) 10% 15% 5% 20% 25% 0% Source: OECD AI Policy Observatory, ‘Contributions to public AI projects by country and project i",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "11.7%\nIndia",
+          "context": "tware-development&selectedVisualization=contributions-to-ai-projects-by-country-and-project-impact 11.7% India 10.5% China Germany 4.5% 5.0% United Kingdom United States of America 22.84% ### Page 51 ",
+          "value": 11.7,
+          "unit": "%"
+        },
+        {
+          "stat": "10.5%\nChina\nGermany",
+          "context": "pment&selectedVisualization=contributions-to-ai-projects-by-country-and-project-impact 11.7% India 10.5% China Germany 4.5% 5.0% United Kingdom United States of America 22.84% ### Page 51 38 Education",
+          "value": 10.5,
+          "unit": "%"
+        },
+        {
+          "stat": "5.0%\nUnited \nKingdom\nUnited States",
+          "context": "on=contributions-to-ai-projects-by-country-and-project-impact 11.7% India 10.5% China Germany 4.5% 5.0% United Kingdom United States of America 22.84% ### Page 51 38 Education. NDEAR is an initiative ",
+          "value": 5.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0%\nIndia\nCosta Rica\nPortugal\nCypr",
+          "context": "change in AI talent concentration by geographic area, 2016 vs 2024 40% 80% 120% 240% 200% 160% 280% 0% India Costa Rica Portugal Cyprus Brazil Estonia Turkey Croatia Denmark Indonesia Iceland Uruguay ",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "166%\nSource",
+          "context": "a United Arab Emirates Canada 252% 240% 237% 219% 217% 207% 198% 192% 192% 191% 173% 171% 170% 168% 166% Source: Stanford Institute for Human-Centered Artificial Intelligence (HAI), ‘AI Index Report 2",
+          "value": 166.0,
+          "unit": "%"
+        },
+        {
+          "stat": "USD 14.23 billion",
+          "context": "collaboration. India’s gross expenditure on R&D (GERD) stood at INR 1.27 lakh crore (approximately USD 14.23 billion) in 2020/21,238 while over 86,000 AI patents have been filed between 2010 and 2025 ",
+          "value": 14230000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 257.7 million",
+          "context": "government schemes saw a significant increase, from approximately INR 2,300 crore (approximately USD 257.7 million) in 2024/25 to INR 20,000 crore (approximately USD 2.33 billion) in 2025/26.240 This ",
+          "value": 257700000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 2.33 billion",
+          "context": "ly INR 2,300 crore (approximately USD 257.7 million) in 2024/25 to INR 20,000 crore (approximately USD 2.33 billion) in 2025/26.240 This substantial boost reflects the government’s growing emphasis on",
+          "value": 2330000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 37.05 million",
+          "context": "ent of innovative technologies.241 Its budget allocation rose from INR 330.75 crore (approximately USD 37.05 million) in 2024/25 to INR 1,425 crore (approximately USD 159.6 million) in 2025/26, a 4.3-",
+          "value": 37050000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 159.6 million",
+          "context": "om INR 330.75 crore (approximately USD 37.05 million) in 2024/25 to INR 1,425 crore (approximately USD 159.6 million) in 2025/26, a 4.3-fold increase242 that indicates strong support for foundational ",
+          "value": 159600000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD \n2 million",
+          "context": "ommended for financial support.243 Under the US-India Science and Technology Endowment Fund, a new USD 2 million joint grant programme was launched in 2023 to support innovations in AI and quantum tec",
+          "value": 2000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 410 million",
+          "context": "Mission on Interdisciplinary Cyber-Physical Systems, an INR 3,660 crore initiative (approximately USD 410 million), has established twenty-five technology innovation hubs across premier Indian institu",
+          "value": 410000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 14.27 billion",
+          "context": "emistry and biology.249 ### Page 49 36 India’s GERD stood at INR 1,27,380.96 crore (approximately USD 14.27 billion) in the fiscal year 2020/21,250 accounting for around 0.65 per cent of the country’s",
+          "value": 14270000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 9.07 billion",
+          "context": "ic product (GDP).251 Of this, government investment amounted to INR 80,992.83 crore (approximately USD 9.07 billion), with the remainder contributed by the private sector.252 While specific GERD data ",
+          "value": 9070000000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "https://www.startupindia.gov.in/digital-map/maps 26 \u0007Stanford Institute for Human-Centered Artificial Intelligence, Artificial Intelligence Index Report 2025.",
+        "https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf 27 \u0007World Intellectual Property Organization, Patent Landscape Report: Generative Artificial Intelligence, 2024.",
+        "https://www.wipo.int/web-publications/patent-landscape-report-generative-artificial- intelligence-genai/assets/62504/Generative%20AI%20-%20PLR%20EN_WEB2.pdf 28 \u0007NITI Aayog, National Strategy for Artificial Intelligence, Government of India, June 2018, p.",
+        "https://www.niti.gov.in/sites/default/files/2023-03/National-Strategy-for-Artificial-Intelligence.pdf 30 \u0007Oxford Insights, Government AI Readiness Index 2024.",
+        "https://oxfordinsights.com/ai-readiness/ai-readiness-index/ 31 \u0007Tortoise Media, ‘Global AI Index’.",
+        "https://www.tortoisemedia.com/data/global-ai 32 \u0007Ministry of Electronics and Information Technology, ‘Reply to Unstarred Question No.",
+        "2236 in Lok Sabha on “Challenges Posed by AI”’, Government of India, 12 March 2025.",
+        "https://sansad.in/getFile/loksabhaquestions/annex/184/AU2236_K6xzZC.pdf?source=pqals 33 \u0007Ministry of Commerce and Industry, Report of the Artificial Intelligence Task Force, 2018."
+      ],
+      "strengths": [
+        "https://www.niti.gov.in/sites/default/files/2021-08/Part2-Responsible-AI-12082021.pdf 103 \u0007Government e-Marketplace (GeM) is an online procurement platform launched by the Government of India to facilitate transparent, efficient and paperless procurement of goods and services by government departmen",
+        "https://www.trai.gov.in/sites/default/files/2025-04/AR_04042025.pdf 142 \u0007Press Information Bureau, ‘Results of Comprehensive Modular Survey: Telecom, 2025’, Government of India, 29 May 2025.",
+        "149 \u0007Press Information Bureau, ‘Women are leading prestigious science projects like Aditya L1 mission, Chandrayaan3 etc.’, Government of India, 7 February 2024."
+      ],
+      "gaps": [
+        "https://www.startupindia.gov.in/content/sih/en/startup-scheme.html As per the criteria, an entity is recognized as a start-up if it is incorporated as a private limited company, registered partnership firm or limited liability partnership; has not completed ten years since incorporation; and has an ",
+        "https://skillindiamission.in/ 148 \u0007World Economic Forum, Global Gender Gap Report 2025, June 2025.",
+        "https://www.niti.gov.in/sites/default/files/2021-02/Responsible-AI-22022021.pdf 164 \u0007India AI Impact Summit 2026, ‘AI by HER: global impact challenge’."
+      ],
+      "key_stats": [
+        {
+          "stat": "USD 12.05 million",
+          "context": "nership; has not completed ten years since incorporation; and has an annual turnover not exceeding USD 12.05 million (INR 100 crore) in any preceding financial year. It must also be working towards in",
+          "value": 12050000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Technical and infrastructural dimension The technical and infrastructural dimension of the RAM assesses India’s capacity to support secure, scalable and inclusive AI development.",
+        "It examines national connectivity, compute infrastructure, data centre capacity, technical standards and statistical systems.",
+        "This committee, along with its working groups, is engaged in reviewing and adapting various ISO/IEC JTC 1/SC 42 standards on AI for applicability within the Indian context.388 Further, the Telecommunication Engineering Centre (TEC), India’s telecom standard-setting body under the Department of Telec",
+        "In July 2023, the TEC published the Standard for Fairness Assessment and Rating of Artificial Intelligence Systems389 and, in June 2025, released a draft standard for assessing and rating the robustness of AI systems in telecom networks and digital infrastructure, for public comment.390 The latter i",
+        "Year ### Page 64 51 Compute capabilities India is expanding its AI compute infrastructure through the Compute Capacity pillar of the IndiaAI Mission.",
+        "In addition, the Government of India has invited proposals from start-ups, entrepreneurs and academic institutions to build foundational AI models trained on Indian datasets, offering compute credits and equity-based funding for selected projects.",
+        "At present, four start-ups have been shortlisted to develop these models,395 alongside the government-funded BharatGen, a multi-modal foundational model initiative focused on speech, vision and language applications in public service delivery.396 India’s high-performance computing infrastructure is ",
+        "As of July 2024, India had 259 data centres, including public and private facilities, with major hubs in Mumbai (37 centres) and Bengaluru (21 centres).406 Public infrastructure includes the NIC’s National Data Centres (NDCs) in Delhi, Pune, Bhubaneswar and Hyderabad."
+      ],
+      "strengths": [
+        "The government aims to build a high-performance, scalable ecosystem to support AI research, innovation and start-ups.391 The initiative is centred on the creation of a national AI compute platform comprising over 34,000 GPUs, developed through public-private partnerships.392 To operationalize access",
+        "AIRAWAT is integrated with the National Knowledge Network, enabling connectivity among academic institutions, public research bodies and innovation hubs.397 India is investing in indigenous semiconductor capabilities to support AI and advanced computing.",
+        "The enhancement of the National Informatics Centre (NIC’s) National Cloud Services, launched in 2022, aims to modernize the government’s central cloud infrastructure for enhanced e-governance.",
+        "The GI Cloud (MeghRaj) initiative provides shared cloud infrastructure across departments and promotes IT optimization for applications such as digital payments, digital identity and consent-based data sharing.404 Several states have also adopted cloud policies.405 These efforts contribute to locali",
+        "TCS and Infosys have adopted internal frameworks emphasizing fairness, explainability and human oversight; Wipro has launched a Responsible AI Lab focused on bias mitigation and algorithmic transparency.",
+        "India’s academic and research institutions play a pivotal role in advancing AI, with premier institutes like the Indian Institutes of Technology (IITs), the Indian Institutes of Information Technology (IIITs), the Indian Statistical Institute and the Centre for Development of Advanced Computing (C-D",
+        "Methodology of the Readiness Assessment Overview of stakeholder engagement on India’s AI readiness In July 2024, UNESCO partnered with the IndiaAI Mission (established under the IT Ministry) to implement the Readiness Assessment Methodology (RAM) in India.",
+        "They also recognized that the evolving risks and harms associated with greater AI adoption will require THEME 1 ### Page 70 57 the government to undertake comprehensive evaluations of the adequacy of current laws and act accordingly, to promote trust in the technology.",
+        "Preparing India’s workforce for AI Impact on India’s workforce Stakeholders noted that unlike previous technological transformations, which impacted manual jobs, AI’s impact is more severe on cognitive and high-value roles, leading to concerns around job security within the workforce, especially in ",
+        "Ensure informed AI governance across sectors through comprehensive evidence-based risk and legal review RECOMMENDATION 1 While India has taken a measured approach to AI governance, so far, the increasing integration of AI across sectors brings a growing range of complex risks, spanning technical fai"
+      ],
+      "gaps": [
+        "India currently has around 1.4 GW of active data-centre capacity, with recent reports estimating an additional 1.4 GW being built, with roughly 5 GW more in the pipeline.409 Currently, India does not have a stand-alone policy dedicated to AI-driven cloud computing.",
+        "Groups such as, though not limited to, the Centre for Internet and Society, Digital Future Lab, IT for Change, and Aapti Institute, are shaping AI governance discourse through research, advocacy and engagement with policy-makers.",
+        "AI governance and policy in India Policies and governance Stakeholders emphasized the need for governance frameworks that enable innovation while addressing potential risks associated with AI deployment.",
+        "In particular, a widespread observation emerged in relation to the need for clear, flexible, principle-based approaches that can adapt to, different technological advancements and application contexts.",
+        "However, several participants cautioned that overly prescriptive or rigid risk-based frameworks applied in other jurisdictions may not be well-suited to India’s developing AI ecosystem.",
+        "Stakeholders noted that current frameworks may, at times, lack practical tools and guidance for operationalization, particularly for smaller firms and start-ups.",
+        "To address this imbalance, they underscored the importance of expanding AI-related development, infrastructure and access more evenly across states to contain deepening digital divides, and the need to ensure more equitable participation in AI-related schemes, funding and opportunities across the co",
+        "Procurement Participants underscored the need for structured AI procurement-related guidelines and implementation at both state and national levels, enabling responsible and ethical AI to be developed and deployed.",
+        "Besides underlining the need to strengthen public sector capacity related to AI procurement, participants cautioned that unresolved capacity gaps could result in delays and ineffective procurement decisions.",
+        "AI adoption: enablers and barriers A call to enhance data availability and quality Several stakeholders observed that large volumes of government data remain underutilized due to the lack of clear protocols for their public access or release."
+      ],
+      "key_stats": [
+        {
+          "stat": "USD 8.51 billion",
+          "context": "cs manufacturing and design.398 The ISM is backed by an outlay of INR 75,000 crore (approximately USD 8.51 billion), of which nearly INR 65,000 crore (approximately USD 7.6 billion) has already been c",
+          "value": 8510000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 7.6 billion",
+          "context": "INR 75,000 crore (approximately USD 8.51 billion), of which nearly INR 65,000 crore (approximately USD 7.6 billion) has already been committed.399 Complementing ISM are two major incentive schemes: th",
+          "value": 7600000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 747 million",
+          "context": "em has experienced significant growth, particularly in terms of funding, with AI start-ups raising USD 747 million in venture capital funding in 2024.416 Key AI unicorns like Krutrim, Fractal Analytic",
+          "value": 747000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "259 data centres",
+          "context": "ntre ecosystem, which underpins cloud infrastructure and AI deployment. As of July 2024, India had 259 data centres, including public and private facilities, with major hubs in Mumbai (37 centres) and"
+        },
+        {
+          "stat": "37 centres",
+          "context": "4, India had 259 data centres, including public and private facilities, with major hubs in Mumbai (37 centres) and Bengaluru (21 centres).406 Public infrastructure includes the NIC’s National Data Cen"
+        },
+        {
+          "stat": "21 centres",
+          "context": "es, including public and private facilities, with major hubs in Mumbai (37 centres) and Bengaluru (21 centres).406 Public infrastructure includes the NIC’s National Data Centres (NDCs) in Delhi, Pune,"
+        },
+        {
+          "stat": "ranked 75th globally",
+          "context": "rted by AIRAWAT, a national AI supercomputing platform offering 200 petaflops of compute power and ranked 75th globally as of 2023. AIRAWAT is integrated with the National Knowledge Network, enabling "
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "Social and cultural dimension In India, the sociocultural context plays a central role in shaping how AI is designed, deployed and experienced.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Start-ups have been central to this growth, with over 150,000 start-ups currently recognized by the Department for Promotion of Industry and Internal Trade (DPIIT),24 Government of India, and over 2,900 start-ups focusing on AI.25 Global benchmarks reflect India’s growing capacity in AI-related skills and innovation.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "They propose that regulatory guidance be sector-specific, allowing ministries and regulators to tailor guidance to the contexts in which AI systems are deployed.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Figure 1: India’s AI governance journey AI TASKFORCE The Commerce Ministry established a multistakeholder task force to develop a policy framework for India’s AI ecosystem.i The task force had nineteen members, including two women.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "National Strategy for Artificial Intelligence NITI Aayog developed a National Strategy for Artificial Intelligence (NSAI) in consultation with a range of stakeholders.ii Contributions were made by officials at NITI Aayog, academic experts and representatives from industry and research institutions.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "\u0007IndiaAI Foundation Models This pillar focuses on developing indigenous large language models (LLMs) and domain-specific foundational models for India.56 In January 2025, the IT Ministry launched a call for proposals inviting researchers, start-ups, etc.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "As of April 2025, 150 undergraduate, 48 postgraduate and 3 doctoral students have been awarded IndiaAI fellowships.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "India’s Data Protection Act has been shaped by a decade of legal and policy developments, including a 2017 Supreme Court ruling70 that recognized privacy as a fundamental right, and a 2018 expert committee report on personal data protection.71 In November 2025, the Government notified the Digital Personal Data Protection (DPDP) Rules, marking the operationalization of the Act.72 The DPDPA provides individuals, referred to as data principals, with control over their personal data.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Freedom of information/access to knowledge Acts With the growing use of AI in public services across India, ensuring transparency in how these systems are developed, procured and deployed becomes critical.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In contrast, 89.5 per cent of rural men used mobile phones, with 80.7 per cent owning them.142 The government has implemented programmes to promote women’s digital literacy.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Bhashini currently supports linguistic inclusion in twenty-two languages across a growing number of government digital interfaces.169 For example, Indian Railways upgraded its RailMadad portal with Bhashini’s multilingual text and speech recognition technology, enabling users to lodge grievances, track bookings and make inquiries in their preferred Indian languages.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "A Draft Data Centre Policy (2020), issued by the IT Ministry, encouraged the use of renewable energy for data centres but did not outline specific environmental safeguards related to land use, water consumption or emissions.187 India has also established a Centre of Excellence (CoE) on sustainable cities to develop AI-driven solutions for urban environmental challenges.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "AI for accessibility and persons with disabilities AI is increasingly being deployed in India to develop accessible and assistive solutions for persons with disabilities (PwDs), moving beyond physical infrastructure to address digital inclusion.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "The NEP is built on five foundational pillars: access, equity, quality, affordability and accountability.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• \u0007Through programmes like the Skill India Digital Hub (SIDH), launched in August 2023, the government has created a unified platform using AI/machine learning (ML) to offer skilling, credit and employment services.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Through flagship programmes like the Startup India initiative (launched in 2016), the government has sought to build a supportive environment for innovation and entrepreneurship.335 AI start-ups recognized under Startup India benefit from tax exemptions, fast-tracked patent processes, and access to government procurement channels.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "The initiative is aligned with efforts to develop LLMs built on Indian datasets.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "TCS and Infosys have adopted internal frameworks emphasizing fairness, explainability and human oversight; Wipro has launched a Responsible AI Lab focused on bias mitigation and algorithmic transparency.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Participation may be voluntary to encourage openness, and non-monetary incentives like recognition may be considered for contributors.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "These commitments could take a graded approach, with more robust expectations for high-risk or widely deployed systems and flexibility for lower-risk developers.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "States may be encouraged to participate through targeted incentives or support programmes, including technical assistance for data standardization, capacity building for state government departments, support for development of applications trained on such datasets, and recognition mechanisms for states that contribute meaningfully to the national AI ecosystem.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "A central repository may also be established to publish documentation for AI systems deployed in the public sector, in accessible formats and regional languages.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "AI Publications",
+      "value": 2025,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "https://sansad.in/getFile/loksabhaquestions/annex/183/AU1589_ok33Tc.pdf?source=pqals ### Page 32 19 Data protection and privacy laws India achieved a score of 98.49 out of 100 and secured Tier-1 status (score of 95–100) on the International Telecommunication Union (ITU’s) Global Cybersecurity Index, 2024 (Figure 2).",
+      "index_name": "Global Cybersecurity Index",
+      "score": 98.49,
+      "year": 2024
+    },
+    {
+      "context": "Data sharing and accessibility The Open Data Inventory 2024 by Open Data Watch ranks India 106th of 197 countries, with an overall score of 54 out of 100.",
+      "index_name": "Open Data Inventory",
+      "score": 54.0,
+      "total_countries": 197,
+      "year": 2024
+    },
+    {
+      "context": "These initiatives include large-scale training efforts across engineering and non- engineering roles, internal skilling platforms in partnership with academic institutions, and specialized education programmes to build AI capabilities across departments such as operations, treasury and sales.330 ### Page 58 45 Investments and outputs As per the Global Innovation Index 2025, India ranks 38th of 139 economies.",
+      "index_name": "Global Innovation Index",
+      "rank": 38,
+      "year": 2025
+    }
+  ]
 }

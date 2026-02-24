@@ -11,19 +11,29 @@ Country Code: SA
 
 ### Recommendation 1.2: Implement specialised AI regulatory sandboxes and pilot zones
 
+### Recommendation 1.3: Introduce AI-specific terms and conditions in public procurement
+
+### Recommendation 1.4: Expand the scope of AI ethics assessment across public and private sectors
+
 ### Recommendation 1.5: Enhance regulations around synthetic content generation
 
 ### Recommendation 2.1: Refresh the National AI Strategy to meet evolving priorities
 
 ### Recommendation 2.2: Broaden the establishment of AI offices within the public sector
 
+### Recommendation 2.3: Develop a national framework to monitor economic impact of AI
+
 ### Recommendation 2.4: Enhance data collection and data sharing capabilities
 
 ### Recommendation 3.1: Embed AI across general and higher education curricula
 
+### Recommendation 3.2: Regularly evaluate the impact of AI and automation on the workforce
+
 ### Recommendation 3.3: Introduce global AI talent attraction programs
 
 ### Recommendation 3.4: Deploy comprehensive, nationwide AI upskilling programs
+
+### Recommendation 4.1: Ensure sustainability and accessibility of high-performance AI infrastructure
 
 ### Recommendation 4.2: Establish AI centres of excellence in national priority areas
 

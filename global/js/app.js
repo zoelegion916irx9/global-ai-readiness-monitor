@@ -163,10 +163,15 @@ const App = (() => {
         empty.style.display = 'none';
 
         const ram = dataSources['unesco-ram'];
+        // Build lookup map for fast, normalized ISO matching
+        const ramLookup = {};
+        (ram?.countries || []).forEach(c => { ramLookup[c.iso.toUpperCase().trim()] = c; });
+
         const datasets = [];
         let i = 0;
         ramSelected.forEach(iso => {
-            const rc = ram?.countries?.find(c => c.iso === iso);
+            const normalizedISO = iso.toUpperCase().trim();
+            const rc = ramLookup[normalizedISO];
             if (!rc?.dimensions) return;
             const c = countries.find(x => x.iso === iso);
             const color = CHART_COLORS[i % CHART_COLORS.length];
@@ -235,9 +240,11 @@ const App = (() => {
             return;
         }
         const ram = dataSources['unesco-ram'];
+        const ramLookup = {};
+        (ram?.countries || []).forEach(c => { ramLookup[c.iso.toUpperCase().trim()] = c; });
         let html = '';
         ramSelected.forEach(iso => {
-            const rc = ram?.countries?.find(c => c.iso === iso);
+            const rc = ramLookup[iso.toUpperCase().trim()];
             const c = countries.find(x => x.iso === iso);
             if (!rc || !c) return;
 
