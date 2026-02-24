@@ -1,0 +1,337 @@
+{
+  "country_code": "TL",
+  "country_name": "AI",
+  "language": "en",
+  "metadata": {
+    "page_count": 109,
+    "creation_date": "D:20250919094221+07'00'",
+    "modification_date": "D:20250923164641+02'00'",
+    "country_name": "AI",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Social & Cultural:  Use AI to preserve and promote local languages and tradition  Innovate cultural expression through digital and AI tools  Encourage cultural education, diversity, and inclusion in digital content ### Page 84 72 Part 8.",
+        "Key Themes and Recommendations Overall Key Themes To strategically advance AI readiness and adoption in Timor-Leste, the following key themes are the most concerning: 1.",
+        "This includes upgrading existing infrastructure to ensure meaningful digital access for all, and bridging both gender and rural-urban divides, as a prerequisite for any AI adoption.",
+        "This also involves amending existing digital laws to incorporate AI-specific clauses to close regulatory gaps.",
+        "Ethical AI Governance and Principles: Establishing a national framework of AI ethics principles is consistently highlighted as vital for guiding the responsible and trustworthy deployment of AI, particularly within government services.",
+        "This includes integrating AI ethics, detection tools, and practical digital skills into curricula and professional development frameworks to empower the workforce for the AI era.",
+        "Development and Leveraging of Local Language Data Sets: A key concern for culturally relevant AI is the urgent need to develop comprehensive data sets in local languages, especially Tetun.",
+        "This strategic investment is crucial for creating AI models that are accessible, useful, and culturally nuanced for the diverse Timorese population."
+      ],
+      "strengths": [
+        "Robust Legal and Regulatory Framework for AI and Data: A high-priority concern is the rapid approval, public socialization, and effective implementation of comprehensive legislation covering cybersecurity, data protection, and intellectual property rights, with explicit provisions for AI.",
+        "Comprehensive Digital and AI Literacy & Skills Development: There is a strong emphasis on developing and implementing widespread digital and AI literacy programs for all citizens, from students to professionals.",
+        "National Data Governance and Digital Public Infrastructure (DPI): Establishing a robust governance framework for public data is paramount, ensuring it is accessible, secure, interoperable, and usable across sectors while rigorously protecting privacy rights."
+      ],
+      "gaps": [
+        "Universal and Inclusive Digital Infrastructure: A foundational and recurrent concern is the urgent need to expand high-speed, reliable, and affordable internet connectivity (fiber optics, 5G, satellite) into all communities, specially underserved rural and remote areas.",
+        "Youth Empowerment and Participation in Digital Transformation: Youth perspectives underscore the critical need for inclusive digital infrastructure specifically targeting young people in rural and underserved areas."
+      ],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Scientific and Educational Dimension Findings AI is beginning to permeate education in Timor-Leste, especially among students who use tools like ChatGPT, Photomath, Canva, and translation apps for homework, research, and creative assignments.",
+        "Some curricular efforts are underway, including plans to integrate AI detection tools and Tetun-based AI content into classroom activities.",
+        "There is also emerging research in areas like food security, flood detection, and IoT, with ambitions to create a national AI research agency.",
+        "There is no standardization or regulation around AI use in schools, and professional development programs for teachers remain underdeveloped and underfunded.",
+        "Most schools ### Page 79 67 and universities are unprepared to adopt AI tools into their curricula.",
+        "There is a critical skill shortage in software engineering, data science and digital design to support preparing the next generation for a digital and AI world, and also to support the adoption of digital and AI tools within the Government and private sector.",
+        "Opportunities include integrating AI integration into the national curriculum in law, creating localized content in Tetun, and expanding existing ICT classes to cover AI topics.",
+        "Public-private-academic partnerships could also be leveraged to support scholarships, training platforms, and innovation hubs focused on AI literacy."
+      ],
+      "strengths": [],
+      "gaps": [
+        "However, current use is largely informal and uncoordinated, with significant gaps in policy, training, and digital infrastructure.",
+        "Challenges The most pressing challenges include poor internet connectivity, limited access to devices, and high data costs, particularly in rural areas.",
+        "Teachers and students alike often lack the digital skills needed to meaningfully engage with AI.",
+        "Educators report difficulty in guiding students on ethical AI use, while students show tendencies toward plagiarism, lack of critical thinking, and overreliance on AI-generated content.",
+        "Moreover, the education system still lacks a national strategy to systematically integrate AI and digital skills into learning pathways.",
+        "Opportunities Despite the challenges, there is strong momentum to expand AI-related education.",
+        "However, the consultation also revealed uneven preparedness among sectors: while some institutions in finance, telecoms, and banking show readiness, many public agencies, local businesses, and educational institutions remain underprepared for digital and AI transformation.",
+        "This gap underscores the need for widespread capacity-building, particularly among civil servants, educators, SMEs, and rural communities Challenges The readiness gap is exacerbated by limited digital and AI literacy, especially among teachers, civil servants, and the low-skilled workforce.",
+        "Many sectors lack the infrastructure, training systems, and curricula necessary to adapt.",
+        "Moreover, stakeholders flagged the absence of clear state strategies for upskilling, the lack of targeted budget allocations, and the low engagement of educational institutions in preparing future-ready graduates."
+      ],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Portal Municipio, developed by the government of Timor-Leste, aims to empower local authority and local development by providing holistic data depositories, information and public services.",
+        "This inefficiency can encourage the use of brokers to expedite processes, which, in turn, may contribute to a decline in trust in the system.15 The challenges above suggest that this situation underscores the need for an integrated and comprehensive approach to digital governance, one that not only ",
+        "Access to, and integration of, modern advancements and environmentally friendly technologies are crucial to supporting climate action and solutions, enhancing national capacity to align with and implement environmental principles, and upholding commitments to international law and initiatives on cli",
+        "The Government of Timor-Leste has been working with an international Non-Governmental Orgaization (NGO) and tech-company in Timor-Leste to utilise AI for disaster and climate- change risks monitoring and prevention.",
+        "Efforts are being made to make this data publically available online to support farmers in making informed decisions.17 The Decree Law No.",
+        "This legislation may potentially be upgraded to enforce legal, ethical and responsible deployment and procurement of AI technologies or any other development of foundational technology for AI such as cloud, super-computing, and data centers in Timor- Leste.",
+        "16 https://www.mercycorps.org/technology-for-impact-year-4 17 Samuel Bacon, Florindo Morais Neto and José Quintão Amarál Gonçalves, Developing meteorological data systems for agricultural applications in Timor-Leste, in Food security in Timor-Leste through crop production, Proceedings of TimorAg2016",
+        "https://pacificfarmers.com/wp-content/uploads/2016/06/pr_seeds_of_life-web.pdf ### Page 47 35 Health and Social Well-being Timor-Leste does not have a universal and comprehensive digital health policy or strategy that includes provisions for modern digital technologies such as AI and nanotechnology."
+      ],
+      "strengths": [
+        "Balkaun Unico, developed by the government in partnership with UNDP, serves as an innovative and integrated online public services and information portal for citizens and private sectors.",
+        "8/2022 on the National Climate Change Policy emphasised the crucial role of access to and acquisition of advanced, eco-friendly technologies for supporting nationally driven climate actions and solutions.",
+        "The Timor-Leste Government established a network of stations across the country for automated agro-meteorological data collections on rainfall, temperature, humidity, solar radiation, and wind speed.",
+        "5/2011 on Environmental Licensing provided a legal foundation and robust commitment to conserve and protect the environment for future generations through safe and sustainable human and ecological development.",
+        "The law established a principle of efficiency and transparency, and it laid foundations for the standards and mechanisms involved in licensing, assessment, monitoring, control, and evaluation, also ensuring community and public participation in environmental assessment of large projects, both privat",
+        "This marks a significant step forward in policy planning to advance digitalization, good governance, and legislative frameworks that support the integration of digitally innovative technologies into the national healthcare system.",
+        "The incorporation of modern digital technologies holds considerable promise for advancements in areas such as early disease detection, informed decision-making, preventive measures, ### Page 48 36 and medical treatment, potentially leading to significant improvements in healthcare outcomes and acces",
+        "14/2022)21 represents a crucial step in establishing a robust framework for copyright protection in the digital age, encompassing literary, artistic, and scientific works, as well as the rights of authors, artists, producers, and broadcasters.",
+        "Distinct versions have emerged from various sources, including the church, the state-sponsored Instituto Nacional Linguistica (INL), and academic projects such as those from the Dili Institute of Technology (DIT), leading to ongoing debate and a fragmented linguistic landscape.",
+        "Research Output The number of publications discussing the adoption and application of advanced technology such as AI have been growing since 2023."
+      ],
+      "gaps": [
+        "economic factors, infrastructure, and market forces, demanding a nuanced approach that goes beyond simply expanding infrastructure to address the underlying socio-economic factors that perpetuate this gap.",
+        "This classification stems from the limited availability of digital content, such as research publications, and its limited use in NLP model training.12 However, despite this, there’s significant real-world usage that points to crucial opportunities.",
+        "In 2021, MercyCorp partnered with Similie, a cloud- tech company, to work with the government of Timor-Leste in using hydro-meteorological data and AI in a national early warning system.16 The food crisis (malnutrition and lack of self-sufficiency) is another major problem faced by Timor-Leste.",
+        "The collected data is then transferred remotely to a government database and is used for agricultural research such as understanding the limited production of Maise and how to enhance food production.",
+        "Following the COVID-19 pandemic and ongoing challenges in the health sector, there is a growing need to consider the integration of digital ICT and electronic health data systems into national health policy and strategy.",
+        "This consultation aimed to assess the current readiness and identify the needs for developing a national digital health system blueprint.",
+        "The 2024 health plan, “Plano Integrado Para a Saude: Hakbesik Saude ba sira ne’ebe laiha Asesu,”18 provided only a limited number of actionable strategies and financial commitments to translate policy principles into tangible improvements in using the digital technologies to enhance healthcare acces",
+        "This gap between policy and practice underscores the critical need for more than just legislative pronouncements to effectively leverage digital technologies in strengthening Timor-Leste’s healthcare system.",
+        "Culture Timor-Leste lacks specific legislation governing the use of AI in cultural heritage preservation and promotion.",
+        "However, existing policy strategies signal a growing recognition of technology’s potential in this domain."
+      ],
+      "key_stats": [
+        {
+          "stat": "11.67% of graduates",
+          "context": "reflecting the public sector’s role as a major employer in Timor-Leste. Self- employment represents 11.67% of graduates, indicating some degree of entrepreneurial activity. However, a concerning 8.67%",
+          "value": 11.67,
+          "unit": "%"
+        },
+        {
+          "stat": "8.67% of graduates remain unemployed",
+          "context": "nts 11.67% of graduates, indicating some degree of entrepreneurial activity. However, a concerning 8.67% of graduates remain unemployed. The distribution of alumni across Timor-Leste shows that most g",
+          "value": 8.67,
+          "unit": "%"
+        },
+        {
+          "stat": "8.4% compared to",
+          "context": "d in the labour force. The higher employment rate of Timorese women in the manufacturing sector (8.4% compared to 5.3% for men) might initially seem positive. However, the 2021 Labour Force Survey pai",
+          "value": 8.4,
+          "unit": "%"
+        },
+        {
+          "stat": "5.3% for men",
+          "context": "force. The higher employment rate of Timorese women in the manufacturing sector (8.4% compared to 5.3% for men) might initially seem positive. However, the 2021 Labour Force Survey paints a concerning",
+          "value": 5.3,
+          "unit": "%"
+        },
+        {
+          "stat": "5.9% vs",
+          "context": "orkforce. Despite lower overall labor force participation, women face a higher unemployment rate (5.9% vs. 4.6% for men) and a greater degree of labor underutilization. This suggests that while women ",
+          "value": 5.9,
+          "unit": "%"
+        },
+        {
+          "stat": "4.6% for men",
+          "context": "Despite lower overall labor force participation, women face a higher unemployment rate (5.9% vs. 4.6% for men) and a greater degree of labor underutilization. This suggests that while women are active",
+          "value": 4.6,
+          "unit": "%"
+        },
+        {
+          "stat": "80.4% of employed women are concentrate",
+          "context": "ly seeking employment, they face more significant barriers to finding suitable jobs. Furthermore, 80.4% of employed women are concentrated in the informal sector, compared to 75.3% of men, indicating ",
+          "value": 80.4,
+          "unit": "%"
+        },
+        {
+          "stat": "75.3% of men",
+          "context": "e jobs. Furthermore, 80.4% of employed women are concentrated in the informal sector, compared to 75.3% of men, indicating a lack of access to formal employment opportunities with better job security,",
+          "value": 75.3,
+          "unit": "%"
+        },
+        {
+          "stat": "18.6% of GNI per capita",
+          "context": "ia-Pacific region and Southeast Asia. The lack of affordability of mobile data and voice services (18.6% of GNI per capita) and fixed broadband (30.3% of GNI per capita) is a significant barrier, as c",
+          "value": 18.6,
+          "unit": "%"
+        },
+        {
+          "stat": "30.3% of GNI per capita",
+          "context": "of affordability of mobile data and voice services (18.6% of GNI per capita) and fixed broadband (30.3% of GNI per capita) is a significant barrier, as costs are relatively high compared to the countr",
+          "value": 30.3,
+          "unit": "%"
+        },
+        {
+          "stat": "45%\nAt least",
+          "context": "nectivity Access Population coverage, by mobile network technology % 2023 At least 2G 96.5 % 96.5 % 45% At least 3G At least LTE/WIMAX At least 5G World Connectivity Access Individuals who own a mobil",
+          "value": 45.0,
+          "unit": "%"
+        },
+        {
+          "stat": "98% of survey respondents having hear",
+          "context": "Finding Awareness and current state of AI. Awareness of AI in Timor-Leste is remarkably high, with 98% of survey respondents having heard of it and 55% reporting daily use for tasks like information s",
+          "value": 98.0,
+          "unit": "%"
+        },
+        {
+          "stat": "55% reporting daily use for tasks",
+          "context": "ess of AI in Timor-Leste is remarkably high, with 98% of survey respondents having heard of it and 55% reporting daily use for tasks like information search and translation. Despite this awareness and",
+          "value": 55.0,
+          "unit": "%"
+        },
+        {
+          "stat": "58% of survey respondents",
+          "context": "sts regarding AI’s potential negative impacts, including reducing critical thinking (identified by 58% of survey respondents), harming data privacy (54%), and spreading misinformation (52%). Fundament",
+          "value": 58.0,
+          "unit": "%"
+        },
+        {
+          "stat": "98% of respondents have heard of it",
+          "context": "he AI RAM Workshop, April 8, 2025. Key findings from survey:  Awareness: High awareness of AI (98% of respondents have heard of it), with 55% reporting daily AI usage, for a variety of purposes (info",
+          "value": 98.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Technical and Infrastructural Dimension Findings Participants assessed four key components of AI-related infrastructure: connectivity, data processing and storage, power stability, and device availability at national and municipal levels.",
+        "Across all categories, there was a shared understanding of both the current limitations and the aspirations for a more AI-ready national infrastructure.",
+        "While some basic infrastructure exists—such as fiber optic networks, 4G coverage in certain areas, and existing government data centres—the overall environment remains underdeveloped and fragmented, particularly outside urban centres.",
+        "There is momentum to expand government and private data centres and integrate business continuity mechanisms, which could also benefit broader digital governance needs.",
+        "Upgrading municipal-level devices and connectivity would not only support AI-readiness but also improve local government service delivery and decentralization goals.",
+        "From a regional perspective, and in the imminence of entering ASEAN, Timor-Leste could benefit from improvements to the existing and under-developed digital infrastructure, namely the introduction of powerful data centres and data hubs like those in Indonesia, Singapore and Malaysia.",
+        "These centres and hubs are designed to handle the increasing data processing needs that come with AI.",
+        "Youth Perspective Findings Youth in Timor-Leste are actively engaging with a wide range of digital tools, particularly generative AI (e.g., ChatGPT, Perplexity, Gemini), content creation tools (CapCut, Canva), and online communication platforms (WhatsApp, TikTok, Facebook)."
+      ],
+      "strengths": [],
+      "gaps": [
+        "There is limited redundancy, resilience, and access to modern systems necessary for AI deployment, especially at the subnational level.",
+        "Although this is an important step, it is limited to connecting buildings and facilities owned by the government and will not directly improve the situation to the general population and communities, especially in rural areas.",
+        "The Timor-Leste South Submarine Cable (TLSSC) has been connected to shore but so far, the mechanisms to utilise it and distribute internet connectivity by internet vendors are not yet in place, which means that the population and organisations are still waiting to experience the benefits from the TL",
+        "Many municipalities experience inconsistent or limited access to internet or modern equipment, and existing data centres lack Tier 3 or Tier 4 capabilities for secure, scalable processing.",
+        "Power stability was noted as a problem particularly in rural regions, where outages and weak infrastructure persist, though it was considered a slightly smaller gap compared to other areas.",
+        "Overall, the challenges reflect unequal infrastructure development, poor maintenance and sustainability planning, and a lack of redundancy for high-availability systems.",
+        "It is also a more realistic approach, as Timor-Leste with its limited state budget and very competitive infrastructure funding priorities, would benefit from the more cost-effective solution of taking advantage of regional digital infrastructure by establishing bilateral agreements with ASEAN countr",
+        "However, they also expressed concerns about over-dependence, lack of critical thinking, privacy risks, and loss of human connection."
+      ],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "However, the environmental category had the lowest overall score of 13, comprising of a 10 for coverage and 16 for openness, with significant limitations and gaps on agriculture and land use, and built environment.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The law also promotes international recognition of electronic signatures and records, establishes dispute resolution mechanisms, and is designed to be technologically neutral to accommodate future technological advancements, and this provides a basis for updating the legal provisions in the future to anticipate and address the risk and opportunities posed by emerging technologies like AI.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "The Timor-Leste Government established a network of stations across the country for automated agro-meteorological data collections on rainfall, temperature, humidity, solar radiation, and wind speed.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The law established a principle of efficiency and transparency, and it laid foundations for the standards and mechanisms involved in licensing, assessment, monitoring, control, and evaluation, also ensuring community and public participation in environmental assessment of large projects, both private and public.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "However, existing policy strategies signal a growing recognition of technology’s potential in this domain.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Despite these challenges, the recent incorporation of Tetun into Google Translate (2024) signals a growing recognition and inclusion.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "The Timorese government has recognized the importance of STEM and STI for economic growth and is likely to invest more in these areas, which could enhance the quality of education and research.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Telkomcel’s affiliate, GM Household, founded the T-pay, a homegrown digital payment system that allows users to make online transactions, transfer money and access credit.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The Timor-Leste government has implemented two leading active programs for export of labour namely the Mobilidade Laboral Australia Pasifiku (PALM) and Sistema Permisaun Timoroan ba Súl Korea.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Furthermore, the Ministry of Education (MoE) and the Ministry of Higher Education, Science and Culture (MESCC) were recognized as indispensable stakeholders due to their central role in shaping the education system, particularly in cultivating the digital literacy and skills essential for successful AI adoption.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "After ideation, each group built a simple prototype of their idea to make the concept tangible, which they then presented and tested with the broader group.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Social and cultural dimension  How can AI technologies be deployed in Timor-Leste’s public sector while ensuring inclusivity and accessibility for all citizens, especially vulnerable populations?",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "By integrating hands-on prototyping and inclusive dialogue, the session not only built AI literacy but also strengthened digital skills, critical thinking, and leadership for ethical tech development.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Significant opportunities associated with AI are recognized across various stakeholder groups.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Broad recognition of the potential value of AI in making work and education more effective (81%), developing human knowledge (77%), facilitating access to information (62%).",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The original plan was led by the Ministry of Transport and Communications (MTC) and implemented by TIC Timor, the national information and communication technology agency.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The process requires the following of several steps, such as needs assessments, tender preparation, before publication in the portal or website and relevant publications, bid submission and evaluation, awarding and contracting, management and implementation, and finally audit and reporting.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The contract is not awarded based on brands of the product, but based on technical needs and specifications.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Although a draft for a Digital Health Blueprint was presented earlier this year, it has not yet been deployed or implemented.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Academia and Civil Society Organizations are recognized as crucial supporting entities, especially in areas of data development, literacy, and community engagement, ensuring broad societal benefits.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Population",
+      "value": 1.4,
+      "unit": "million",
+      "dimension": "overall"
+    }
+  ],
+  "executive_summary": "i\nTable of Contents\nForeword\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\niii\nAbbreviations nd Acronyms\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\niv\nExecutive Summary\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n1\nDiagnostic of Key Aspects of the National AI Landscape in Timor-Leste\t\n\t\n\t\n1\nOverall Key Themes of Stakeholder Consultations\t \t\n\t\n\t\n\t\n\t\n3\nKey Recommendations\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n4\nList of Recommendations\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n7\nPart 1: Diagnosis of National AI Landscape\t\n\t\n\t\n\t\n\t\n\t\n10\nOverview\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n10\nHierarchy of Laws in Timor-Leste\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n11\nState Organs in Timor-Leste\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n11\nDigital Transformation\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n14\nAI in Timor-Leste\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n15\nMisconception and Neglect of AI\t\t\n\t\n\t\n\t\n\t\n\t\n\t\n15\nChallenges\t\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n16\nPart 2. Legal and Regulatory Aspects\t\n\t\n\t\n\t\n\t\n\t\n\t\n18\nAI Policy and Regulation\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n18\nData Protection and Privacy Laws\t\n\t\n\t\n\t\n\t\n\t\n\t\n20\nData Sharing and Accessibility\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n21\nProcurement Laws and Policies\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n23\nFreedom of Information Acts and Access to Knowledge Acts\t\n\t\n\t\n\t\n24\nDue Process and Accountability\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n26\nOnline Safety and Integrity of Speech\t\n\t\n\t\n\t\n\t\n\t\n\t\n26\nPublic Sector Capacity\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n27\nPart 3. Social and Cultural\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n28\nDiversity, Inclusion and Equality\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n28\nGender Balance\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n28\nRural-Urban Gap\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n31\nPublic Engagement and Trust\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n32\nEnvironmental and Sustainability Policies\t\n\t\n\t\n\t\n\t\n\t\n34\nHealth and Social Wellbeing\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n35\nCulture\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n36\nPart 4. Scientific and Education\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n38\nResearch and Innovation\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n38\nR&D\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n38\nResearch Output\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n38\nEthical AI Research\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n39\nAI Talent\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n40\n\nii\nInnovation Output\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n40\nEducation\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n41\nEducation strategy\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n41\nInfrastructure\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n41\nCurriculum Content\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n42\nEducation Attainment\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n43\nPublic Access to AI Education\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n45\nPart 5. Economic\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n46\nEvolving Digital Economic Trend\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n46\nLabour Markets and Talent\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n47\nAI Adoption\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n48\nPart 6. Technical and Infrastructure\t\n\t\n\t\n\t\n\t\n\t\n\t\n50\nInfrastructure and Connectivity\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n52\nApplied Standards and Computing Capabilities\t\t\n\t\n\t\n\t\n\t\n52\nStatistical Performance\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n53\nPart 7. Developing a National Multistakeholder Consultation\t\t\n\t\n\t\n55\nIntroduction\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n55\nMethodology of Multistakeholder Consultation Workshops\t\n\t\n\t\n\t\n56\nStakeholder mapping\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n56\nOnline Survey\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n57\nOne-on-one Interviews\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n57\nConsultation Workshops\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n58\nRoundtable Session\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n59\nYouth Workshop Consultation\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n61\nKey Findings\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n61\nFindings, Challenges and Opportunities\t \t\n\t\n\t\n\t\n\t\n\t\n62\nLegal Dimension\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n62\nSocial and Cultural Dimension\t\t\n\t\n\t\n\t\n\t\n\t\n\t\n65\nScientific and Educational Dimension\t\t\n\t\n\t\n\t\n\t\n\t\n66\nEconomic Dimension\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n67\nTechnical and Infrastructural Dimension\t\n\t\n\t\n\t\n\t\n\t\n68\nYouth Perspective\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n69\nPart 8. Key Themes and Recommendations\t\n\t\n\t\n\t\n\t\n\t\n72\nOverall Key Themes and Recommendations\t\n\t\n\t\n\t\n\t\n\t\n72\nRecommendations by Dimension\t\n\t\n\t\n\t\n\t\n\t\n\t\n73\nReferences\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n83\n\niii\nFOREWORD \nTimor-Leste stands at a pivotal juncture in its \njourney \ntowards \ndigital \ntransformation. While \nthe nation has laid foundational groundwork in \nInformation, Communication and Technology (ICT) \ninfrastructure and digital literacy, as evidenced by \nthe Timor Digital 2032 strategy and investments in \nconnectivity, the integration of Artificial Intelligence \n(AI) into national policy and discourse remains in its \nearly stages. Currently positioned as a downstream \nuser of AI, primarily a consumer of technologies \ndeveloped elsewhere, Timor-Leste possesses a latent \npotential that can be unlocked through strategic and \ncoordinated action.\nSignificant policy and infrastructural advancements are already underway. The ongoing \nrevision of the nation’s primary digital ICT strategy, Timor Digital 2032, to incorporate AI \nprovisions, coupled with legislative reforms addressing the dynamic technological landscape, \nsignals a commendable governmental commitment to adapting to the global digital \nenvironment. Furthermore, strategic investments in foundational ICT infrastructure, notably \nthe submarine cable and plans for a centralized, advanced data center, are crucial steps \ntowards creating the necessary environment for future AI development and deployment \nwithin government sectors.\nThis document serves as a comprehensive diagnostic of Timor-Leste’s national AI landscape, \nanalyzing the prevailing conditions across legal, socio-cultural, scientific and educational, \neconomic, and infrastructural contexts. Through extensive stakeholder consultations, ten \noverarching themes have been identified as critica",
+  "recommendations": [],
+  "recommendation_count": 0,
+  "page_count": 109,
+  "rankings_indices": [
+    {
+      "context": "The Open Data Inventory from ODIN reported that Timor-Leste ranks 155th out of 195 countries on open data availability.",
+      "index_name": "Open Data Inventory",
+      "rank": 155,
+      "total_countries": 195
+    },
+    {
+      "context": "Timor-Leste ranks 155th in the Open Data Inventory 2022 with an overall score of 36.",
+      "index_name": "Open Data Inventory",
+      "rank": 155,
+      "score": 36.0,
+      "year": 2022
+    }
+  ]
+}

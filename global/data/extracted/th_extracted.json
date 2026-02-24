@@ -1,0 +1,578 @@
+{
+  "country_code": "TH",
+  "country_name": "THAILAND",
+  "language": "en",
+  "metadata": {
+    "page_count": 85,
+    "creation_date": "D:20250813132636Z",
+    "modification_date": "D:20250818163849+02'00'",
+    "country_name": "THAILAND",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "5\nACKNOWLEDGEMENTS\t\n4\nACRONYMS AND ABBREVIATIONS\t\n7\nFOREWORD \t\n9\nPREFACE\t\n11\nEXECUTIVE SUMMARY\t\n12\nDIAGNOSIS OF THE NATIONAL AI LANDSCAPE\t\n16\nLEGAL AND REGULATORY\t\n19\n2.1\t AI POLICY AND REGULATION\t\n19\n2.2\t DATA PROTECTION AND PRIVACY LAWS\t\n20\n2.3\t DATA SHARING AND ACCESSIBILITY\t\n23\n2.4\t PROCUREMENT LAW AND POLICIES\t\n26\n2.5\t FREEDOM OF INFORMATION ACTS\nAND ACCESS TO KNOWLEDGE ACTS\t\n27\n2.6\t DUE PROCESS AND ACCOUNTABILITY\t\n27\n2.7\t ONLINE SAFETY AND INTEGRITY OF SPEECH\t\n28\n2.8\t PUBLIC SECTOR CAPACITY\t\n31\nSOCIAL AND CULTURAL\t\n33\n3.1\t DIVERSITY, INCLUSION AND EQUALITY\t\n33\n3.2\t PUBLIC ENGAGEMENT AND TRUST\t\n41\n3.3\t ENVIRONMENTAL AND SUSTAINABILITY POLICIES\t\n43\n3.4\t HEALTH AND SOCIAL WELLBEING\t\n45\n3.5\t CULTURE\t\n47\nSCIENTIFIC AND EDUCATIONAL\t\n49\n4.1\t RESEARCH AND INNOVATION\t\n49\n4.2\t EDUCATION\t\n52\nECONOMIC\t\n55\n5.1\t LABOR MARKETS\t\n55\n5.2\t INTERMEDIATE CONSUMPTION\t\n56\n5.3\t INVESTMENTS AND OUTPUT\t\n56\nTECHNICAL AND INFRASTRUCTURAL\t\n58\n6.1\t INFRASTRUCTURE AND CONNECTIVITY\t\n58\n6.2\t APPLIED STANDARDS\t\n59\n6.3\t COMPUTING CAPABILITIES\t\n59\n6.4\t STATISTICAL PERFORMANCE\t\n60\nTOWARDS A NATIONAL AI MULTI-STAKEHOLDER APPROACH\t\n62\nTABLE OF CONTENTS\nPage\n\n6\nOVERVIEW OF STAKEHOLDER ENGAGEMENT PROCESS\t\n63\nMAIN OPPORTUNITIES AND CHALLENGES IDENTIFIED THROUGH\nTHE CONSULTATIONS\t\n64\nHIGH LEVEL RECOMMENDATIONS\t\n66\n1.\t\nLAW AND REGULATION\t\n66\n1.1\t Establish a National Framework for Data Sharing\nand Trusted Data Pooling\t\n66\n1.2\t Strengthen Legal Safeguards for Human Rights\nand Algorithmic Accountability\t\n67\n1.3 \t Establish Risk Assessment Framework\t\n67\n1.4\t Establish AI procurement guideline\t\n67\n2.\t\nINSTITUTIONAL FRAMEWORK AND GOVERNANCE\t\n68\n2.1\t Develop Thailand’s National AI Strategy Monitoring and Evaluation (M&E) \nmechanism\t\n68\n2.2\t Strengthen Thailand’s Existing NQI for AI and Establish\na Dedicated AI Testing Infrastructure\t\n69\n2.3\t Establish National-level AI Governance\nand Promote International Cooperation\t\n69\n3.\t\nCAPACITY BUILDING\t\n70\n3.1\t Integrate AI Literacy and Ethics into the National Education Curriculum\n(K to 12 or Higher Education), including teacher training and\ncertification program\t\n70\n3.2\t Labor incentives and programs for upskilling and reskilling\t\n70\n3.3\t Establish AI training course\t\n71\n4.\t\nINCLUSION AND WELL-BEING\t\n71\n4.1\t Ensure Universal Design and Accessibility Standards\t\n72\n4.2\t Enhancing Digital Literacy and AI Competencies for Vulnerable Groups\t\n72\n4.3\t Preserve Cultural and Linguistic Diversity through AI initiatives\t\n72\n4.4\t Develop Community-Centric AI Co-Creation Platforms\t\n73\n5.\t\nINVESTMENT ECOSYSTEM\t\n73\n5.1\t Establish a National AI Consultancy Support Program to assist businesses\nand SMEs in AI solution adoption, including funding for solution design\nand technical training\t\n73\n5.2\t Encourage AI-related infrastructure investment\t\n74\n5.3\t Strengthen Investments in Data Pooling\t\n74\n5.4\t Unlocking Green Energy for Sustainable Data Center Expansion\t\n74\n6.\t\nR&D AND INNOVATION\t\n75\n6.1\t Elevate Thailand’s R&D Investment to 2.5 percent of GDP by 2030\t\n75\n6.2\t Define Copyright Exceptions for Text and Data Mining (TDM) \nand Strengthen Patent Guidelines for AI\t\n76\n6.3\t Developing Regulatory Sandbox for AI Innovation\t\n76\n6.4\t Strengthen Scientific Research and Institutional Collaboration\t\n76\n\n7\nAI \n \nArtificial Intelligence\nAPI \n \nApplication Programming Interface\nBDI \n \nBig Data Institute \nCAGR \n \nCompound Average Growth Rate\nCII  \n \nCritical Information Infrastructure \nDEPA \n \nDigital Economy Promotion Agency\nDGA \n \nDigital Government Development Agency \nGDP \n \nGross Domestic Product\nGDCC \n \nGovernment Data Center and Cloud Service Program \nGDX  \n \nGovernment Data Exchange\nEPI \n \nE-Participation Index\nETDA \n \nElectronic Transactions Development Agency  \nEU \n \nEuropean Union\nHDC \n \nHealth Data Center\nICTs  \n \nInformation and Communication Technologies\nISO \n \nInternational Organization for Standardization\nKPI \n \nKey Performance Indicator\nMDES \n \nMinistry of Digital Economy and Society \nMHESI \n \nMinistry of Higher Education, Science, Research and Innovation\nNAIC  \n \nNational AI Committee\nNAIS \n \nThailand National Artificial Intelligence Strategy and Action Plan 2022–2027\nNBTC \n \nThe National Broadcasting and Telecommunications Commission\nNECTEC  \n \nNational Electronics and Computer Technology Center\nNSO  \n \nNational Statistical Office\nACRONYMS AND ABBREVIATIONS\n\n8\nNQI  \n \nNational Quality Infrastructure\nNSTDA \n \nNational Science and Technology Development Agency\nOCSC  \n \nOffice of the Civil Service Commission\nODC \n \nOpen Data Charter\nODIN \n \nOpen Data Inventory\nOECD \n \nOrganization for Economic Co-operation and Development.\nOIA  \n \nOfficial Information Act, B.E. 2540 (1997)\nOIB \n \nOfficial Information Board\nONDE  \n \nOffice of National Digital Economy and Society Commission\nOSI \n \nOnline Service Index\nPDPA \n \nPersonal Data Protection Act \nPEA  \n \nPlatform Economy Act\nPISA \n \nProgram for International Student Assessment \nRAM \n \nReadiness Assessment Methodology\nR&D \n \nResearch and Development\nR&I \n \nResearch and Innovation\nSTEM",
+  "recommendations": [
+    {
+      "number": "1.1",
+      "title": "Establish a National Framework for Data Sharing and Trusted Data Pooling",
+      "text": "Establish a National Framework for Data Sharing and Trusted Data Pooling Thailand should stablish a clear legal framework to support data sharing and create trusted data pooling between the public and private sectors. Government agencies should lead by providing high-quality open government data in standardized, machine-readable formats to enhance accessibility for AI training and research. The framework must prioritize the reuse of non-personal and anonymized datasets under strong privacy and ethical safeguards. Beyond the public sector, data-sharing mechanisms should be established to encourage private sector participation through incentive structures and risk-governance model that balance competitive interests with the protection of individual rights. Strategic prioritization of high-value datasets, driven my user demand, will help lay the foundation for ethical, resilient, and socially beneficial AI development in Thailand. Timeline: 2025-2026 Priority: High 67",
+      "dimension": "Law And Regulation",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.2",
+      "title": "Strengthen Legal Safeguards for Human Rights and Algorithmic Accountability",
+      "text": "Strengthen Legal Safeguards for Human Rights and Algorithmic Accountability To promote fair and transparent AI governance, the Personal Data Protection Act (PDPA) should be enhanced to guarantee the rights of individuals to object to automated decision-making and profiling where such processing significantly impacts their rights or access to services. Given that AI systems often rely on personal data to make predictions or decisions, clear legal pathways for objections are essential to safeguard individual autonomy and build public trust. Additionally, individuals should be able to challenge and appeal automated outcomes that significantly affect them, especially when they affect critical areas such as public services, credit, employment, or education. These rights would strengthen public accountability and ensure that AI systems respect fairness, transparency, and due process. Enhancing these legal safeguards would help bridge current regulatory gaps and reinforce trust in AI-driven decision-making. Timeline: 2025–2030 Priority: Low",
+      "dimension": "Law And Regulation",
+      "timeline": "2025–2030",
+      "priority": "Low",
+      "start_page": 0
+    },
+    {
+      "number": "1.3",
+      "title": "Establish Risk Assessment Framework",
+      "text": "Establish Risk Assessment Framework Thailand should develop a national risk assessment framework to systematically identify, evaluate, and mitigate the potential harms associated with AI systems, particularly those classified as high-risk. This framework should outline clear criteria for assessing AI risks to fundamental rights, safety, fairness, and transparency, and offer practical tools for both public and private sector developers to evaluate their systems throughout the AI lifecycle. The framework should initially focus on high-impact or high-risk use cases, such as AI systems used in healthcare, law enforcement, finance, education, and critical public services—where errors, bias, or lack of oversight could result in significant harm to individuals or society. For high-risk AI systems, policymakers should also consider requiring insurance or liability coverage schemes to ensure adequate compensation in cases of harm, especially when legal responsibility cannot be clearly assigned. While the framework should not impose unnecessary regulatory burdens on low-risk innovation, it should strongly encourage risk-based self-assessment, documentation, and transparency practices for any AI system that affects human decision-making or public trust. The framework can be integrated into existing regulatory sandboxes, procurement processes, or audit mechanisms to ensure responsible AI deployment. Timeline: 2025-2026 Priority: High",
+      "dimension": "Law And Regulation",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.4",
+      "title": "Establish AI procurement guideline",
+      "text": "Establish AI procurement guideline Thailand has set up a special committee to oversee government procurement of computer systems, requiring agencies to obtain approval for projects exceeding 100 million baht. However, the committee’s considerations focus only on technical feasibility and financial efficiency, while neglecting the ethical implications and potential impacts of AI on human rights. Additionally, there are currently no guidelines in Thailand for evaluating human rights risks during AI procurement, leading to an increase in the deployment of opaque systems in public services. 68 142 “Me-Handbook,” accessed April 29, 2025, http://web.undp.org/evaluation/documents/handbook/me-handbook.pdf. 143 “Demystifying the M&E Framework: A Guide for Effective Evaluation,” EvalCommunity (blog), accessed April 29, 2025, https://www.evalcommunity.com/career-center/me-framework/. 144 “Introduction to Monitoring and Evaluation: The Basics,” EvalCommunity (blog), https://www.evalcommunity.com/career-center/monitoring-and-evaluation-basics/. In comparison to international practices, such as the United Kingdom, having AI procurement guidelines is essential for public agencies. This guideline could assist agencies in evaluating their AI needs by providing clear instructions and recommendations for acquiring AI systems. It can also emphasize the importance of ethical considerations in the procurement process aligning with UNESCO’s Ethical Impact Assessment, ensuring a responsible evaluation of suppliers and the adoption of AI technologies that serve the public’s best interests. Timeline: 2025-2030 Priority: Low",
+      "dimension": "Law And Regulation",
+      "timeline": "2025-2030",
+      "priority": "Low",
+      "start_page": 0
+    },
+    {
+      "number": "2.1",
+      "title": "Develop Thailand’s National AI Strategy Monitoring and Evaluation (M&E) mechanism",
+      "text": "Develop Thailand’s National AI Strategy Monitoring and Evaluation (M&E) mechanism The achievements of Thailand’s National AI Strategy and Action Plan (2022–2027) are outlined in the National AI Strategy Annual Report. Even though the National AI Strategy’s annual report provides a broad overview of each strategy achievement. It does not specify more details about the plan’s evaluations, limitations, or challenges in the implementation phase. As a result, the annual report does not serve as an effective measure for assessing the plan’s implementation. To effectively assess the implementation of the plan, adopting a Monitoring and Evaluation (M&E) mechanism is essential. M&E is a systematic process that enables organizations to measure the performance, effectiveness, and impact of programs, projects, or policies. Monitoring ensures activities align with objectives, identifying inefficiencies and delays, while evaluation provides deeper analysis of relevance, efficiency, and outcomes to determine whether goals have been achieved.142 A robust M&E framework typically includes key performance indicators (KPIs), data collection methods, reporting structures, and feedback loops, supporting informed decision-making and continuous improvement.143 It enhances transparency, accountability, and strategic planning, ensuring initiatives remain effective and aligned with their intended purpose.144 Thailand should establish an M&E mechanism to assess the effectiveness of the National AI Strategy, ensuring that its implementation is data-driven and results-oriented. This would provide a structured approach to evaluating real performance, optimizing resources, and maintaining efficiency and accountability. The National AI Committee could serve as the primary agency responsible for M&E, overseeing execution and driving the strategy forward while ensuring its alignment with national objectives. Timeline: 2025-2026 Priority: High 69",
+      "dimension": "Institutional Framework And Governance",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "2.2",
+      "title": "Strengthen Thailand’s Existing NQI for AI and Establish a Dedicated AI Testing Infrastructure",
+      "text": "Strengthen Thailand’s Existing NQI for AI and Establish a Dedicated AI Testing Infrastructure Thailand already has the foundational elements of a National Quality Infrastructure (NQI)—including metrology, standardization, accreditation, and conformity assessment bodies—but these systems are not yet fully prepared to support the unique demands of AI technologies. To ensure AI systems developed or deployed in Thailand are safe, trustworthy, and internationally interoperable, the country must urgently adapt its NQI to be AI-ready and simultaneously establish a dedicated infrastructure for AI testing. This involves: • Upgrading Accreditation Systems: Ensure that existing accreditation mechanisms are capable of certifying laboratories and conformity assessment bodies (CABs) specifically for AI-related evaluations, including fairness, explainability, and robustness testing. • Expanding CAB Capabilities: Promote the development and recognition of Thai CABs that can perform AI-specific conformity assessments, covering both algorithmic behavior and data governance. • Adapting Metrology and Standardization: Equip Thailand’s national metrology and standardization systems with the tools and expertise to measure and validate AI-specific indicators, including performance benchmarking and probabilistic outputs. • Establishing AI Testing Facilities: Build dedicated infrastructure for AI system testing. These facilities would simulate real-world conditions and evaluate AI systems prior to deployment, especially in high-risk sectors like healthcare, mobility, and public administration. • Market Surveillance for AI: Leverage existing market surveillance mechanisms and adapt them for continuous monitoring of AI systems post-deployment, to detect systemic risks or violations of standards. By preparing the national NQI system to accommodate AI and filling the current testing infrastructure gap, Thailand can lay the groundwork for trusted, safe, and export-ready AI ecosystems—aligned with",
+      "dimension": "Institutional Framework And Governance",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "2.3",
+      "title": "Establish National-level AI Governance and Promote International Cooperation",
+      "text": "Establish National-level AI Governance and Promote International Cooperation Thailand should explore the establishment of a dedicated AI Governance and Policy Center, leveraging existing expertise within the Electronic Transactions Development Agency (ETDA). Over time, this center could evolve into a UNESCO Category 2 Center (C2C), serving as a regional hub for ethical AI implementation, policy development, and capacity building in ASEAN and aligned with UNESCO’s Recommendation on the Ethics of AI. For international cooperation, such Centre can be associated with the UNESCO Global Observatory on the Ethics of AI. The C2C model would further position Thailand as an active contributor to South-South knowledge exchange and inclusive AI governance, enhancing the country’s influence in regional and global dialogues on responsible AI through international cooperation. Timeline: 2025–2026 Priority: High 70",
+      "dimension": "Institutional Framework And Governance",
+      "timeline": "2025–2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "3.1",
+      "title": "Integrate AI Literacy and Ethics into the National Education Curriculum (K to 12 or Higher Education),",
+      "text": "Integrate AI Literacy and Ethics into the National Education Curriculum (K to 12 or Higher Education), including teacher training and certification program Thailand has made initial progress in integrating AI and related subjects into the national education system, particularly through efforts by the Ministry of Education and the MHESI. Current initiatives mainly focus on technical competencies such as programming, data science, and machine learning. However, ethical, societal, and governance aspects of AI remain significantly underrepresented in curricula, and early assessments indicate a persistent skills gap, particularly in aligning education outcomes with labor market demands. Coordination between educational institutions and industry also remains limited. To build a comprehensive and future-proof education system, it is critical to expand the curriculum across all levels— from K-12 to higher education—to systematically incorporate AI literacy, ethics, and responsible innovation. Students must not only learn how to build AI systems, but also understand how to design, deploy, and manage AI technologies in a safe, fair, and socially responsible manner. In this time of major technological revolution, the education system should be revisited along two parallel tracks, to actively foster youth’s intellectual immunity in the face of misinformation, disinformation, and technological solutionism: (i) integrating specific AI-focused contents that tackle all dimensions (technical and sociocultural); and (ii) enhancing the quality of the teaching and learning methods in the existing disciplines and subject matters that develop critical and creative thinking, such as humanities, social studies, and civic education. In parallel, teacher training and certification programs should be developed to equip educators with the skills needed to teach AI concepts effectively, including both technical and ethical dimensions. Ongoing monitoring and evaluation mechanisms should be estab",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "3.2",
+      "title": "Labor incentives and programs for upskilling and reskilling",
+      "text": "Labor incentives and programs for upskilling and reskilling As AI and digital technologies advance rapidly, Thailand’s workforce faces growing pressure to adapt. Many existing jobs are at risk of disruption, and new roles increasingly require digital literacy and AI-related competencies. While some upskilling and reskilling initiatives have been introduced by both public and private sectors, participation remains 71 uneven, especially among workers in informal employment or SMEs. Without stronger incentives, large segments of the workforce risk being left behind in the digital transition. To accelerate human capital development, the government should implement labor incentives that encourage upskilling and reskilling, especially in AI and digital domains. These could include tax deductions or subsidies for companies that invest in employee training, as well as stipends or learning credits for individuals who pursue certified courses. Special attention should be given to workers in vulnerable sectors to ensure equitable access. Public-private partnerships should also be leveraged to co-develop relevant training programs and platforms, creating a more inclusive and future-ready workforce. Timeline: 2025-2026 Priority: High",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "3.3",
+      "title": "Establish AI training course",
+      "text": "Establish AI training course Thailand is advancing digital skills through the DGA. Therefore, the DGA establishes the “Thailand Digital Government Academy (TDGA)” to provide training for government agencies, collaborating with the Office of the Civil Service Commission (OCSC) to develop a digital skills curriculum for public employees. However, the TDGA’s courses are exclusively available to IT staff, not to all government employees. Additionally, the training overlooks topics related to AI governance and ethics. To enhance the skills and knowledge of government employees regarding AI, it is essential to develop an “AI training course.” This course should emphasize a comprehensive understanding of fundamental AI concepts, effective applications of AI within the public sector, and the importance of AI ethics and governance. Therefore, such a framework will empower government employees to view AI not just as a tool, but as a responsibility that requires thoughtful and ethical utilization. Timeline: 2025-2026 Priority: High",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "4.1",
+      "title": "Ensure Universal Design and Accessibility Standards",
+      "text": "Ensure Universal Design and Accessibility Standards Despite Thailand’s commitment to digital inclusion, AI-powered government portals and health applications frequently remain inaccessible to older adults, persons with disabilities, and low-literacy users. Current development contracts seldom embed rigorous accessibility requirements, and end-users report difficulty in navigating essential services— undermining trust in e-government initiatives and perpetuating exclusion. To rectify this, Thailand should encourage Universal Design Principles within all AI and digital-service procurement processes. Accessibility criteria, covering screen-reader compatibility, simplified interfaces, and multilingual support, should be included in the procurement criteria of public AI. Such a framework will ensure that technological innovation advances equitably, empowering all citizens to engage fully with public services. Timeline: 2025–2028 Priority: Medium",
+      "dimension": "Capacity Building",
+      "timeline": "2025–2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "4.2",
+      "title": "Enhancing Digital Literacy and AI Competencies for Vulnerable Groups",
+      "text": "Enhancing Digital Literacy and AI Competencies for Vulnerable Groups Although rural broadband expansion has markedly improved connectivity, significant digital-skill gaps persist among seniors, low-income households, and ethnic-minority communities. Without targeted training, these groups struggle to leverage e-health platforms, e-government portals, and digital financial services, thereby exacerbating socioeconomic vulnerabilities. To address these disparities and build both AI and digital capabilities, Thailand should establish Boot Camps—offering hands-on workshops in AI-driven tools (e.g., voice assistants, mobile banking) alongside digital-safety training, particularly in rural areas where elderly and low-income populations have limited access to technology. Timeline: 2025–2026 Priority: High",
+      "dimension": "Capacity Building",
+      "timeline": "2025–2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "4.3",
+      "title": "Preserve Cultural and Linguistic Diversity through AI initiatives",
+      "text": "Preserve Cultural and Linguistic Diversity through AI initiatives Thailand’s artificial intelligence (AI) ecosystem remains predominantly centered on Central Thai, marginalizing speakers of regional dialects and ethnic minority languages that lack extensive, annotated linguistic resources. This homogeneity restricts equitable access to natural language processing (NLP) technologies and endangers the preservation of cultural heritage and linguistic diversity. To redress this imbalance, the Thai government—working in partnership with local communities and academic institutions—should initiate a Dialectal Corpora Project. This effort would ethically collect, annotate, and curate speech and text datasets for regional dialects and hill-tribe languages, thereby enabling the creation of culturally authentic translation tools, educational platforms, and digital-heritage applications. By equipping AI systems to process the full spectrum of Thailand’s linguistic variation, the project will foster inclusive technological innovation and contribute to the long-term safeguarding of the nation’s rich linguistic heritage. Timeline: 2025–2030 Priority: Low 73",
+      "dimension": "Capacity Building",
+      "timeline": "2025–2030",
+      "priority": "Low",
+      "start_page": 0
+    },
+    {
+      "number": "4.4",
+      "title": "Develop Community-Centric AI Co-Creation Platforms",
+      "text": "Develop Community-Centric AI Co-Creation Platforms Top-down AI deployments often fail to resonate with local realities, resulting in low adoption and inadequate problem- solving. Without direct community input, precision-agriculture tools or heritage-site guides risk being technically advanced yet socially irrelevant. Inspired by DEPA’s Smart City Ambassadors, Thailand should establish AI Co-Creation Hubs in both rural and urban locales. These labs will convene residents, SMEs, NGOs, and academic researchers for hackathons, user-testing workshops, and ethics dialogues—co-designing AI solutions that reflect lived experiences. By integrating digital-human capability courses, these hubs will transform community members into active co-designers rather than passive recipients. Timeline: 2025–2028 Priority: Medium",
+      "dimension": "Capacity Building",
+      "timeline": "2025–2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "5.1",
+      "title": "Establish a National AI Consultancy Support Program to assist businesses and SMEs in AI solution",
+      "text": "Establish a National AI Consultancy Support Program to assist businesses and SMEs in AI solution adoption, including funding for solution design and technical training To accelerate AI adoption among businesses and small and medium-sized enterprises (SMEs), Thailand should establish a National AI Consultancy Support Program aimed at providing targeted assistance for solution design and technical training. This program would offer expert consulting services to identify AI use cases that align with business objectives and sector-specific needs. Additionally, it would facilitate the design of fit-for-purpose AI solutions that are tailored to industry-specific challenges and opportunities. To lower the barriers to adoption, the program would also provide grants, vouchers, and co-funding mechanisms to support consultancy, prototyping, and training activities, ensuring that businesses, particularly SMEs, can access the expertise and resources needed to effectively integrate AI technologies. The initiative is prioritized for 2025–2026 with a high priority status, reflecting its strategic importance in boosting digital competitiveness and economic resilience. Timeline: 2025 – 2026 Priority: High 74",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2025",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.2",
+      "title": "Encourage AI-related infrastructure investment",
+      "text": "Encourage AI-related infrastructure investment The government should collaborate with relevant financial institutions to alleviate external uncertainties for the private sector, particularly concerning changes in data-related policies that may affect the effectiveness of AI-focused hyperscale data centers. For example, regulations around data localization could limit the ability of investors to integrate data from international sources. This collaboration could include providing investor access to risk assessment services with incentives such as reduced insurance premiums. Additionally, beyond hyperscale data centers driven by global tech firms, Thailand should prioritize the development of smaller-scale data centers, such as edge and modular facilities, to enhance on-site analytical capacity, precision, and AI processing speed. This infrastructure could significantly improve user experience, supporting AI adoption in local areas, including smart cities. These data centers are designed to be energy-efficient, helping to reduce the costs of AI development across the country. Furthermore, the expansion of edge and modular data center investments should be strategically directed towards rural and provincial areas beyond major metropolitan zones, where current data infrastructure is predominantly concentrated. This shift would facilitate broader AI deployment, bridge the technology gap, and promote balanced technological development nationwide. Timeline: 2025 - 2026 Priority: High",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2025",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.3",
+      "title": "Strengthen Investments in Data Pooling",
+      "text": "Strengthen Investments in Data Pooling To enhance data-driven innovation and sectoral competitiveness, Thailand aims to strengthen investments in data pooling across 10 strategic sectors by building sectoral single dataspaces. This initiative is designed to encourage collective data sharing and aggregation, enabling participants to access richer datasets that improve analytics and AI capabilities. As part of this strategy, exclusive rights to access pooled data will be granted to private participants as an incentive, while developers will have affordable service fees to utilize the data for innovation and solution development. Additionally, the government will prioritize upgrading its datasets, particularly in critical areas such as geospatial and mobility data, to enhance the value and reliability of shared information. This upgrade is crucial for ensuring that public-private data sharing is both efficient and beneficial, supporting nationwide digital transformation. The initiative is scheduled for implementation between 2025 and 2027 and is considered a high priority due to its potential to accelerate Thailand’s digital economy and AI adoption. Timeline: 2025 - 2026 Priority: High",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2025",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.4",
+      "title": "Unlocking Green Energy for Sustainable Data Center Expansion",
+      "text": "Unlocking Green Energy for Sustainable Data Center Expansion A major barrier for expanding green and energy-efficient data centers in Thailand is the limited availability of renewable energy production. While global tech investors increasingly require green energy sources for their data centers, Thailand’s current renewable energy capacity remains insufficient to meet growing demand. To address this, the government should accelerate investments in solar, wind, and hydropower projects, focusing on scaling up production capacity. Initiatives such as Public-Private Partnerships (PPPs) and green energy bonds could be explored to fund large-scale renewable energy infrastructure. Furthermore, regulatory support is needed to open direct Power Purchase Agreements (Direct PPA) and enable Third Party Access (TPA) for electricity supply. Currently, private sector entities cannot directly supply power to data centers, 75 limiting renewable energy adoption. By allowing direct PPA and third-party grid access, clean energy producers could supply electricity directly to data centers, bypassing current regulatory constraints. This change would enable more sustainable data center expansion and facilitate broader AI deployment. Additionally, microgrids and distributed energy generation in rural areas should be supported to localize green power, enhancing the sustainability and reliability of energy supplies for edge and modular data centers across Thailand. Timeline: 2025 - 2026 Priority: High",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2025",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "6.1",
+      "title": "Elevate Thailand’s R&D Investment to 2.5 percent of GDP by 2030",
+      "text": "Elevate Thailand’s R&D Investment to 2.5 percent of GDP by 2030 According to UNCTAD, share of AI in frontier technology market in 2023 is at 7 percent, which projects to increase to 29 percent in ten years. The forecast represents the importance of increasing the size of the AI market as well as corporate and private sector R&D spending, to keep up with the global trend. Currently, Thailand ranked is not outstanding in Global Innovation Index (ranked by the World Intellectual Property Organization). In 2024, its rank in human capital and research is at 71 among 133 countries reflecting the low proportion of R&D spending on innovation development. However, the country has a high innovation output relative to its innovation input, reflecting efficient resource utilization and indicating a strong potential for Thailand’s research to thrive. Thailand’s current R&D expenditure at 1.21 percent of GDP in 2024 while the percentage share in GDP of R&D decreases from 2023, it shows a rising trend since 2013 indicating the upward trend of the R&D spending in the country. However, the proportion of R&D remains low, ranked 34 among 133 countries. To enhance its competitiveness and foster economic growth, Thailand should aim to increase its R&D spending to 2.5 percent of GDP by 2030, with a dedicated sub-allocation of 0.5–0.7 percent of GDP for AI-specific research and innovation. This target aligns with the OECD average and positions Thailand to better compete with other nations in the region. Thailand remains primarily an importer of AI technology, positioning itself more as a user than a developer. As such, increasing investment in AI R&D may initially appear counterintuitive. However, it is crucial that the country allocate research funding strategically to areas where it can add the most value. Rather than focusing on foundational model development, Thailand should emphasize applied research aimed at optimizing and contextualizing AI technologies. It could focus its research",
+      "dimension": "R&D And Innovation",
+      "timeline": "2025–2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "6.2",
+      "title": "Define Copyright Exceptions for Text and Data Mining (TDM) and Strengthen Patent Guidelines for AI",
+      "text": "Define Copyright Exceptions for Text and Data Mining (TDM) and Strengthen Patent Guidelines for AI Thailand should begin studying and developing a clear legal framework to support Text and Data Mining (TDM) activities in line with the country’s digital and AI development goals. This includes exploring the possibility of introducing a specific exception under the Copyright Act for non-commercial TDM uses, particularly for research, education, and public-interest innovation. In parallel, Thailand should consider fair and balanced models for commercial TDM activities, including appropriate remuneration or licensing mechanisms to protect rights holders while enabling innovation. Simultaneously, strengthening patent guidelines for AI is necessary to address emerging challenges in AI-related inventions. Updated guidelines would provide clarity on how AI innovations are protected, setting clear criteria for novelty, technical application, and the use of training datasets in patent claims. This would create legal certainty, incentivize innovation, and protect intellectual property rights in the evolving AI landscape. Timeline: 2025–2028 Priority: Medium",
+      "dimension": "R&D And Innovation",
+      "timeline": "2025–2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "6.3",
+      "title": "Developing Regulatory Sandbox for AI Innovation",
+      "text": "Developing Regulatory Sandbox for AI Innovation A Regulatory Sandbox should provide a supervised framework where AI applications can be deployed under temporary regulatory flexibility, allowing authorities to evaluate legal, ethical, and societal implications before broader adoption, this will ensure that there would be no adverse effects for the technology before commercialized. One illustrative example is the case of autonomous vehicles (AVs). These systems raise complex regulatory questions around liability, data protection, algorithmic transparency, and road safety. A regulatory sandbox would allow AV developers to conduct limited trials, such as geo-fenced testing zones or designated public routes, under close regulatory supervision. This enables policymakers to observe system behavior, assess potential harm, and consult with affected stakeholders, such as insurers, city authorities, and pedestrians, before enacting permanent rules. Such an approach reduces the risk of premature or overreaching regulation while supporting evidence-based policymaking. The sandbox model can be applied across other high-risk AI use cases, such as AI in health diagnostics, credit scoring, or predictive policing, where real-world data is essential for understanding how algorithmic decisions impact individual rights and social systems. By institutionalizing this mechanism, Thailand can improve regulatory agility, foster trust in AI innovation, and ensure that its legal frameworks evolve in step with technological change. Timeline: 2025-2028 Priority: Medium",
+      "dimension": "R&D And Innovation",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "6.4",
+      "title": "Strengthen Scientific Research and Institutional Collaboration",
+      "text": "Strengthen Scientific Research and Institutional Collaboration To drive ethical and sustainable AI innovation, Thailand must empower its universities and research institutions to lead in foundational and ethical AI research. This includes enhancing support for academic freedom and promoting open, inclusive, and interdisciplinary research that addresses both technical and societal challenges of AI. Institutional collaboration should be aligned with international frameworks such as UNESCO’s 2017 Recommendation on Science and Scientific Researchers, ensuring that research activities are grounded in global best practices and ethical principles. 77",
+      "dimension": "R&D And Innovation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 22,
+  "page_count": 85,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY The legal and regulatory framework regarding AI is essential for ensuring the ethical use of AI systems.",
+        "Additionally, it must include mechanisms to monitor, address, evaluate, and provide compensation for any unexpected negative consequences that may arise from the deployment of AI systems.",
+        "2.1 AI POLICY AND REGULATION Clear AI policies and regulations are essential to uphold the principles of Responsibility and Accountability, Human Oversight and Determination, and Transparency and Explainability.2 Legal frameworks help ensure that AI systems remain under human control, operate transp",
+        "These principles are crucial to prevent misuse and to build trust in AI deployment.",
+        "To achieve these goals, the strategy outlines five main strategies, as follows: • Strategy 1 Preparing Thailand’s readiness in social, ethics, law, and regulation for AI application • Strategy 2 Developing national infrastructure for sustainable AI development.",
+        "• Strategy 3 Increasing human capability and improving AI education.",
+        "• Strategy 4 Driving AI technology and innovation development.",
+        "• Strategy 5 Promoting the use of AI in public and private sectors."
+      ],
+      "strengths": [
+        "Additionally, the NSTDA has established the AI Ethics Guideline (for academic sector)8 specifically for academic actors and researchers to ensure their compliance with AI ethics in their work.",
+        "This significant improvement reflects advancements across legal, technical, organizational, capacity development, and cooperation pillars, including key legislation, the establishment of the National Cyber Security Agency (NCSA), and a comprehensive National Cybersecurity Strategy.",
+        "GDX and data.go.th ### Page 25 25 Thailand has developed a comprehensive legal and digital infrastructure to advance open government data initiatives.",
+        "Evaluations conducted by the Digital Government Development Agency (DGA) and the Open Data Institute (ODI)22 indicate significant progress in service integration and public sector capacity building.",
+        "Additionally, there are currently no clear guidelines or practices for AI procurement, leading to challenges for government agencies in understanding the benefits of AI and how to effectively implement it within their organizations.",
+        "For example, the information that will result in a decline in the efficiency of law enforcement or failure to achieve its objectives, whether or not it is related to litigation, protection, suppression, verification, inspection, or knowledge of the source of the information, is prohibited from being",
+        "At the same time, the AI Ethics Guidelines issued by the MDES currently serve as a soft law framework to guide responsible AI use, while the country prepares for more robust legal instruments such as the upcoming The Platform Economy Act (PEA).34 The efficacy of these laws remains under assessment."
+      ],
+      "gaps": [
+        "Currently, Thailand has not yet announced any laws that directly govern AI.",
+        "However, in 2024, Thailand achieved a Global Cybersecurity Index (GCI)1F12 score of 99.22, ranking 7th globally.",
+        "However, the recent surveys reveal that although 87.80 percent of individuals are aware of the PDPA, only 3.72 percent have a strong understanding of its provisions.14 The gap between awareness and understanding may hinder individuals from fully exercising their data protection rights.",
+        "Despite some progress, overall engagement of data subjects remains low, indicating a need for targeted efforts to strengthen legal literacy and participation.",
+        "However, the law does not contain explicit provisions regarding the right not to be subject to automated decision-making, raising concerns about individuals’ ability to oppose AI- driven decisions.",
+        "The PDPA also establishes the principle of data minimization, requiring that data collection be limited to what is necessary for the specified purpose.",
+        "These include the absence of an explicit right to object to automated decision-making and the need for clearer, binding secondary regulations on AI-related data processing.",
+        "Balanced frameworks are needed to promote openness, ensure accountability, and prevent the exclusion of underrepresented groups.",
+        "Economic data demonstrates relatively strong coverage (63), but openness remains limited (46).",
+        "The efficacy of existing data-sharing initiatives has not been systematically assessed, although operational indicators— such as over 44 million transactions on GDX in 2023 and more than 10,000 datasets published on data.go.th— demonstrate practical potential."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranking 7th globally",
+          "context": "cks0F11. However, in 2024, Thailand achieved a Global Cybersecurity Index (GCI)1F12 score of 99.22, ranking 7th globally. This significant improvement reflects advancements across legal, technical, or"
+        },
+        {
+          "stat": "ranked 99th globally",
+          "context": "ess and openness of official statistics across 195 countries. In the 2022 ODIN assessment, Thailand ranked 99th globally with an overall score of 48. This score is comprised of a data coverage score o"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "Platform Economy Act",
+          "year": "",
+          "status": "draft"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Without deliberate inclusion, AI risks reinforcing existing inequalities in access, outcomes, and participation.",
+        "The Digital Access Gaps Regarding the Digital Access Gaps (Gender and Rural-Urban Divides), Thailand has made significant progress in closing the gender gap in internet use.",
+        "According to data from the International Telecommunication Union (ITU), the ratio of internet usage between genders42, has remained stable at 0.97.",
+        "These legal and policy frameworks have given rise to major national projects designed to fulfill the State’s digital inclusion mandate.",
+        "To promote gender equality in the digital, technology, and science sectors, including addressing the digital gap, Thailand has enacted various laws and policies, such as The Gender Equality Act, B.E.",
+        "Additionally, programs such as Girls in ICT Day Thailand, in collaboration with the ITU, inspire young women to enter the ICT sector, while the Women ICT Frontier Initiative (WIFI), led by DEPA has evolved into WIFI DX with UNESCAP to enhance digital, AI, and data literacy among underserved women.",
+        "That will show in examining women’s participation in the AI ecosystem.",
+        "Source: Office of the Basic Education Commission (OBEC) 2024 In terms of student aspirations and abilities in science, data from the 2022 PISA assessment were not available for students’ specific expectations regarding future STEM careers."
+      ],
+      "strengths": [
+        "The efficacy of these initiatives remains an ongoing area of assessment, but early indicators suggest significant progress, particularly through the Super AI Engineering Project, launched under the “MHESI For AI”56 mission in collaboration with NECTEC, NSTDA, and the Artificial Intelligence Associat",
+        "The project offers tiered learning pathways for AI researchers, engineers, innovators, beginners, and prompt engineers, with advanced modules designed to cultivate AI instructors and entrepreneurs, thereby expanding career trajectories, facilitating international educational exchanges, and stimulati",
+        "To this end, the plan articulates comprehensive AI ethics and governance guidelines and establishes an AI Governance Clinic to advise governmental and non-governmental entities on responsible AI deployment.",
+        "Thailand, in partnership with UNDP, has developed the Thailand Adaptation Platform—a data and AI-driven digital tool that leverages satellite analytics and advanced modeling to assess climate risks and support planning in coastal provinces.",
+        "16.5% of Thai organizations have adopted AI ethics frameworks."
+      ],
+      "gaps": [
+        "Supplementary data from sources like the Facebook Gender Gap Index and the National Statistical Office (NSO) indicate an even narrower gap, with an average usage ratio of 0.994 and 0.976 respectively over the 2019–2024 period.",
+        "Despite improvements in gender parity, regional disparities in internet access remain evident.",
+        "Municipal areas showed a higher internet adoption rate at 92.5 percent, while non-municipal areas lagged behind at 86.9 percent—a gap of 5.7 percent.",
+        "To reduce the digital socioeconomic or rural/urban gap, Remarks: The NSO survey on information and communication technology use will be updated annually until 2020 and quarterly since 2021.",
+        "Internet Gender Gap 2019 – 2024 Figure 14.",
+        "Internet use in Thailand based on areas 2021-2024 Source: National Statistical Office 2024a ### Page 35 35 Thailand has implemented several laws and policies including flagship projects to reduce the digital socioeconomic and rural-urban gap, focusing on expanding digital infrastructure, increasing ",
+        "However, despite progress, 688 villages still rely on low-speed satellite connections.46 Notably, declining usage of free Wi-Fi services suggests an increasing shift towards private internet access, signalling improved digital inclusivity.",
+        "Through collaboration with Lao PDR, the initiative supports Thailand’s broader efforts to ensure inclusive digital access across regions.47 However, the efficacy of gender-equality and women’s digital-skills programs remains unclear at the national level.",
+        "Thailand’s 2024 national review under the Beijing Declaration and Platform for Action demonstrates that while various policies have aimed to promote women’s digital inclusion—particularly through education, skills development, and legal protections—their effectiveness in reducing the digital gender ",
+        "Despite near gender parity in internet and mobile access, as well as higher female participation in higher education, these gains have not been matched by equal outcomes in digital careers or leadership roles."
+      ],
+      "key_stats": [
+        {
+          "stat": "16.5% of Thai organizations have adopte",
+          "context": "ly promoted ethical AI for climate adaptation, particularly in agriculture and disaster resilience. 16.5% of Thai organizations have adopted AI ethics frameworks. Thailand also participates in regiona",
+          "value": 16.5,
+          "unit": "%"
+        },
+        {
+          "stat": "ranked 9th globally",
+          "context": "er the Beijing Declaration highlights that, despite notable achievements in educational attainment (ranked 9th globally), women remain underrepresented in both the technology sector and leadership rol"
+        },
+        {
+          "stat": "ranking 42nd out of",
+          "context": "ormation, e-consultation, and e-decision-making. In 2024, Thailand achieved an EPI score of 0.7534, ranking 42nd out of 193 countries, showing steady improvement through initiatives like the e-governm"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "SCIENTIFIC AND EDUCATIONAL The scientific and educational components play a significant role in the advancement of AI.",
+        "Therefore, evaluating them becomes an important method for assessing a country’s readiness for AI development.",
+        "The scientific aspect is measured by the country’s performance in research and innovation, which includes research and development (R&D) expenditure, research output, ethical AI research, and the output of AI talent innovation.",
+        "On the other hand, the educational aspect is assessed based on the country’s performance in various educational factors, such as educational strategy, infrastructure, curriculum content, educational attainment, and public access to AI education.",
+        "4.1 RESEARCH AND INNOVATION Research and innovation in AI reflect the principles of Sustainability, Responsibility and Accountability, and Awareness and Literacy.77 According to the UNESCO Recommendation on the Ethics of Artificial Intelligence, AI technology is not a stand-alone progress – it is a ",
+        "Expanding public investment and ensuring open, interdisciplinary collaboration help ensure that AI development responds to societal needs and respects human rights.",
+        "One of the key constraints in the development of the AI industry in Thailand is the limitation of R&D expenditure.",
+        "Furthermore, the government has set aside 1.29 billion THB for AI research and development from 2023 to June 2024.79 Additionally, TSRI data shows a breakdown of R&D AI research funding provided by TSRI since 2017, shown in Figure 25."
+      ],
+      "strengths": [
+        "In addition, AIGC, in collaboration with the MDES and ETDA, has established the AI Governance Practice Center (AIGPC) to serve as a regional hub for AI governance under four key missions: Regional Knowledge Hub: Promoting understanding and awareness of AI ethics grounded in UNESCO’s framework.",
+        "The MHESI has launched a project called “MHESI for AI” which aims to support the use of AI in higher education96.",
+        "This comprehensive approach aims to equip the workforce with the necessary competencies to thrive in an AI-driven economy.",
+        "Thailand maintains a substantial share of high-tech exports within its trade portfolio, presenting an opportunity to further enhance its position in global value chains by investing in innovation, advanced manufacturing, and AI-driven industrial transformation."
+      ],
+      "gaps": [
+        "Gross expenditure on Research and Development (GERD) as a share of GDP, Thailand Source: UNESCO 2021 ### Page 50 50 Source: TSRI 2024 Source: OECD.AI 2024 One of the consequences of low R&D expenditure in Thailand is the limited AI and AI-related research output.",
+        "Since 2018, while the number of AI-related publications has increased (Figure 27), the output remains low, with only 18 publications per million people in 202380.",
+        "Additionally, Thailand’s AI ecosystem has demonstrated limited innovation output.",
+        "Although tertiary programs offering digital anthropology, philosophy of technology, or AI ethics module remain limited, which illustrate a gap in ethical considerations within AI curricula, some good examples should be noted and encouraged.",
+        "Despite Thailand’s strong educational infrastructure and course availability, the impact on AI literacy remains unclear.",
+        "However, despite the graduate statistics, the lack of digital skills remains a challenge.",
+        "Research implications reveal an abundance of technical AI resources across multiple providers, while AI ethics courses remain significantly limited.",
+        "Additionally, lifelong learning initiatives ensure continuous skill development, enabling workers to adapt to rapid technological changes and maintain global competitiveness.109 However, while these efforts are crucial for establishing AI adoption, there has been little reported on the actual qualit",
+        "Thailand’s job market data reveals limited demand for AI skills.",
+        "A significant adoption gap persists, as ETDA’s survey shows only 18 percent of organizations have implemented AI technologies, while 74 percent is still in a preparation stage, with the education, financial services, and logistics sectors demonstrating higher AI readiness.115 At the same time, A Cis"
+      ],
+      "key_stats": [
+        {
+          "stat": "10.7% yoy",
+          "context": "al solutions among Thai businesses. In particular, sectors such as e-logistics (92.4 billion THB, +10.7% yoy), e-retail (80.05 billion THB, +2.25% yoy) and FinTech (47.69 billion, +12.1% yoy) has the ",
+          "value": 10.7,
+          "unit": "%"
+        },
+        {
+          "stat": "2.25% yoy",
+          "context": "ticular, sectors such as e-logistics (92.4 billion THB, +10.7% yoy), e-retail (80.05 billion THB, +2.25% yoy) and FinTech (47.69 billion, +12.1% yoy) has the largest market values. Thailand maintains ",
+          "value": 2.25,
+          "unit": "%"
+        },
+        {
+          "stat": "12.1% yoy",
+          "context": ".4 billion THB, +10.7% yoy), e-retail (80.05 billion THB, +2.25% yoy) and FinTech (47.69 billion, +12.1% yoy) has the largest market values. Thailand maintains a substantial share of high-tech exports",
+          "value": 12.1,
+          "unit": "%"
+        },
+        {
+          "stat": "$54.14 billion",
+          "context": "strial transformation. Thailand’s high-tech exports accounted for 16.7 percent of total exports (US$54.14 billion; approximately 1,774,436,188,796.86 THB), ranking 8th worldwide. However, production o",
+          "value": 54140000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "52 AI researchers",
+          "context": "ent, and future innovation in Thailand. The talent shortage in Thailand is reflected in having only 52 AI researchers who published in SciVal and Scopus databases86, equivalent to 0.73 AI talents per "
+        },
+        {
+          "stat": "ranked 67th in data",
+          "context": "However, despite the graduate statistics, the lack of digital skills remains a challenge. Thailand ranked 67th in data science skills in the Coursera Global Skills Report 2024102. While the report has"
+        },
+        {
+          "stat": "ranking 8th worldwide",
+          "context": "nted for 16.7 percent of total exports (US$54.14 billion; approximately 1,774,436,188,796.86 THB), ranking 8th worldwide. However, production often occurs under multinational corporations, limiting na"
+        },
+        {
+          "stat": "22,800 job",
+          "context": "ing a shortage of 80,000 professionals in the field of AI.110 The research by TDRI found a total of 22,800 job postings related to AI from April 2024 to March 2025.111 Additionally, PwC Thailand repor"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Digital platforms such as data.go.th and the Government Data Exchange (GDX) support cross-agency data sharing and provide a foundation for AI-readiness.",
+        "There are 0.59 certified data centers per million people, with most concentrated in Bangkok, limiting nationwide access to compute resources.",
+        "Without trusted data environments, standardized formats, and ethical testing protocols, Thailand’s technical ecosystem remains ill-equipped for safe, scalable AI deployment.",
+        "Roadmap for Ethical and Inclusive AI Governance in Thailand To ensure that AI development in Thailand is responsible, inclusive, and aligned with international standards, national efforts must shift from high-level strategies to actionable implementation.",
+        "This roadmap outlines strategic priorities, providing a high-level policy orientation across the following sections: 1.",
+        "Laws and Regulation • Establish a national framework for Data Sharing and Trusted Data Pooling in strategic sectors.",
+        "• Enhance Human Rights and Algorithmic Accountability • Develop a Risk Assessment Framework for high-risk AI systems in critical sectors.",
+        "• Implement Ethical Procurement Guidelines for government AI acquisitions."
+      ],
+      "strengths": [
+        "There are no established frameworks for AI system testing, auditing, benchmarking, or certification.",
+        "The NAIC is responsible for leading the implementation of the plan, monitoring and evaluating its progress, and coordinating efforts among Figure 1.",
+        "Thailand regional and international cooperation In addition to the efforts of domestic agencies, Thailand has established international cooperation with various organizations, both regionally and internationally as shown in Figure 3.",
+        "Figure 2 below illustrates some of the key agencies involved in the implementation of NAIS and additional agencies can also be found in the NAIS annual report.1 ### Page 18 18 Thailand remains committed to advancing responsible and ethical AI through robust international engagement."
+      ],
+      "gaps": [
+        "Thailand’s intellectual property regime does not provide clear pathways for AI innovation, particularly in licensing and commercializing public research.",
+        "Training programs often lack monitoring or alignment with labor market needs, while private investment in AI R&D and training remains very limited, where Thai businesses in the computer programming, consultancy, and related activities sector (SIC 62.0) spent only 47.5 million THB on training, resear",
+        "However, in 2024 alone, BOI applications for inbound data centre and cloud service investments in Thailand reached 240,000 million baht.",
+        "Nevertheless, data quality remains inconsistent across ministries, with outdated, unlabeled, or unstandardized datasets and insufficient metadata tagging.",
+        "Thailand lacks a National Quality Infrastructure (NQI) system tailored to AI, which impairs the ability to assess model safety, fairness, or explainability.",
+        "The plan's name was also updated to the “(Draft) Thailand National AI Strategy and Action Plan” as well as the set of urgent projects (Phase I) under this plan.",
+        "However, Thailand faces some challenges in developing AI regulations and policies, including: • Lack of a mechanism for plan assessment: The NAIS requires an evaluation process before progressing to subsequent implementation phases.",
+        "While an annual report is currently published, it offers only a general overview of strategic achievements and lacks detailed analysis of the plan’s limitations, implementation challenges, and areas needing improvement.",
+        "• Under-representation of the private sector in the composition of the National AI Committee, which does not reflect the role of the private sector in the overall AI ecosystem."
+      ],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "TECHNICAL AND INFRASTRUCTURAL The technical and infrastructure dimensions refer to a country’s capacity to develop and deploy AI solutions.",
+        "This includes factors such as computing power, the availability of data centers, connectivity, and internet access.",
+        "These elements are essential enablers for the development of AI systems, as they influence the capabilities available based on the necessary infrastructure to support processed information.",
+        "6.1 INFRASTRUCTURE AND CONNECTIVITY Digital infrastructure and connectivity relate to the principles of Sustainability, Inclusiveness and Equity, and Awareness and Literacy.120 Strong foundational infrastructure is essential for enabling access to AI technologies and ensuring they benefit all groups",
+        "Without reliable connectivity, communities may be excluded from digital opportunities, reinforcing systemic inequalities and undermining inclusive AI development.",
+        "Therefore, Thailand’s successful development of essential digital infrastructure remains crucial to supporting technological advancements, including AI implementation.",
+        "Moreover, the country also demonstrates impressive digital inclusivity, with global rankings of 30th for gender gap in internet access and 11th for gender gap in mobile access124, while having a low rural/urban gap for internet access (92.7 percent in municipality areas, 86.9 percent outside of muni",
+        "Overall, these metrics collectively illustrate Thailand’s success in creating not only high-performing digital infrastructure but also ensuring its accessibility across demographic groups, establishing a strong foundation for widespread AI adoption and utilization."
+      ],
+      "strengths": [
+        "Thailand has established a robust digital infrastructure and connectivity, comparable to leading nations.",
+        "Key metrics highlight Thailand’s advanced digital infrastructure, as seen in its mobile-cellular subscription rate of 169 per 100 people.121 Additionally, Figure 29 shows that the country had an active mobile broadband subscription rate of 124 percent per population in 2023122.",
+        "6.2 APPLIED STANDARDS The development and application of AI standards relate to the principles of Responsibility and Accountability, Transparency and Explainability, and Safety and Security.126 Ethical AI requires robust technical and governance standards to ensure systems perform reliably, safely, ",
+        "The country has established AI standards including ISO/IEC TS 4213:2022 for machine learning classification performance assessment127, ISO/IEC TR 24368:2022 addressing ethical concerns128, and ISO/IEC TR 24028:2020 on AI trustworthiness129,130.",
+        "6.3 COMPUTING CAPABILITIES Computing capabilities are closely linked to the principles of Sustainability, Inclusiveness and Equity, and Responsibility and Accountability.136 Robust data center infrastructure and high-performance computing are critical for ethical and 123 Speedtest Global Index, “Int",
+        "which may hinder advanced AI research and applications.",
+        "Moreover, the Thai government, through the NSTDA Supercomputer Center (ThaiSC), provides high-performance computing (HPC) resources for private sector hire, including the advanced LANTA and TARA systems.",
+        "LANTA, ranked among the top 70 most powerful supercomputers globally in 2022 and the best in ASEAN139, supports a range of innovative applications.",
+        "The BDI, established under the MDES, serves as a national platform to accelerate data-driven innovation, offering big data analytics capabilities, talent development, and support for integrating data across ministries.",
+        "With a data infrastructure score of 85, Thailand’s system is well-developed, supported by robust legal frameworks, governance standards, and data compilation processes141."
+      ],
+      "gaps": [
+        "Thailand’s data center infrastructure is limited, with only 0.59 data centers per million people137.",
+        "While cloud-first policies have been implemented in Thailand, their impact on driving tangible improvements in efficiency and fostering the growth of AI technologies is yet to be fully realized.",
+        "However, Thailand faces a critical shortfall in data sources, scoring just 51.",
+        "Addressing this gap in data sources is essential for Thailand to fully align with global standards despite its otherwise strong statistical foundation.",
+        "Challenges Despite this momentum, Thailand faces key challenges that must be addressed to fully realize its AI ambitions.",
+        "Legally, implementation gaps persist, with limited assessment of the National AI Strategy.",
+        "Transparency mechanisms and procurement standards remain underdeveloped, and AI ethics training among civil servants is insufficient ### Page 65 65 Social inclusion faces barriers from digital divides, underrepresentation of women in STEM, and weak public understanding of AI.",
+        "Fragmented cultural AI initiatives, lack of child-sensitive design, and unsustainable energy policies limit equitable participation and trust.",
+        "Training program effectiveness is uncertain, and private sector investment in R&D remains low.",
+        "A clearer transition plan is needed to link talent supply with market demand."
+      ],
+      "key_stats": [
+        {
+          "stat": "137 Data Center",
+          "context": "ilable at https://www.unesco.org/en/artificial-intelligence/recommendation-ethics. ### Page 60 60 137 Data Center Map, “Data Center Map,” 2024, https://www.datacentermap.com/. 138 Nation Thailand, “Th"
+        },
+        {
+          "stat": "59 data centers",
+          "context": "ologies for broader societal benefit. Thailand’s data center infrastructure is limited, with only 0.59 data centers per million people137. The existing centers are highly concentrated, with 33 facilit"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "To ensure AI systems developed or deployed in Thailand are safe, trustworthy, and internationally interoperable, the country must urgen ### Recommendation 2.3: Establish National-level AI Governance and Promote International Cooperation Establish National-level AI Governance and Promote International Cooperation Thailand should explore the establishment of a dedicated AI Governance and Policy Center, leveraging existing expertise within the Electronic Transactions Development Agency (ETDA).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In parallel, Thailand ### Recommendation 6.3: Developing Regulatory Sandbox for AI Innovation Developing Regulatory Sandbox for AI Innovation A Regulatory Sandbox should provide a supervised framework where AI applications can be deployed under temporary regulatory flexibility, allowing authorities to evaluate legal, ethical, and societal implications before broader adoption, this will ensure that there would be no adverse effects for the technology before commercialized.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Special recognition is given to the National Science and Technology Development Agency (NSTDA) and the National Electronics and Computer Technology Center (NECTEC), acting on behalf of the MHESI secretariat team, for leading the implementation of the RAM in Thailand, including data gathering, technical input, and inter-agency coordination throughout the assessment process.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "NAIS has set the scope of AI technology application focusing on 10 industries, implemented in two phases: • Phase 1 (2022 to 2023): This phase focuses on the Government sector, Agriculture and Food, Medical and Health • Phase 2 (2024 to 2027): This phase will focus on additional sector.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Thailand has implemented a secondary law concerning the procurement of AI systems, as well as products and services that include AI components.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Recognizing the cross-border nature of these crimes, Thailand signed MoUs with Cambodia and Laos in 2024 and joined ASEAN+3 efforts to build shared digital fraud safeguards The UNHCHR’s 2023 report, “Online Scam Operations and Traffick ing into Forced Criminality in Southeast Asia,” reveals that hundreds of thousands are being coerced by organized crime networks into online scams; ranging from romance-investment fraud and crypto schemes to illegal gambling.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "• Chulalongkorn University’s Gowajee for high-accuracy speech-to-text and text-to-speech • the AI for Thai suite for NLP, OCR, face recognition, and speech services • Alisa AI for dynamic personal assistance • Anthropic’s Claude AI for contextual understanding • the scb-mt-en-th-2020 English -Thai parallel corpus Emerging projects aimed at broadening linguistic inclusivity offer a promising counterbalance to the indigenous and dialectal languages.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "AI in health and social services must uphold dignity, protect rights, and be implemented with fairness and accountability.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "This transformation is being implemented through a phased national framework.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The MHESI has launched a project called “MHESI for AI” which aims to support the use of AI in higher education96.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The NSTDA, in collaboration with the Institute for the Promotion of Teaching Science and Technology (IPST), OBEC, and Office of Vocational Education Commission (OVEC) has developed a project aimed at advancing AI and modern technology instruction in educational settings.97 Furthermore, many higher education institutions provide general education courses open to students across departments.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "In contrast, some international approaches have implemented more targeted upskilling strategies such as, offering financial support to mid-career professionals to enroll in government-approved courses in areas like data analytics, cybersecurity, and various AI-related fields.113 This targeted initiative provides workers with the opportunity to acquire specialized, in-demand skills, helping to create a workforce better equipped to meet the growing demand for AI and digital technologies.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "A significant adoption gap persists, as ETDA’s survey shows only 18 percent of organizations have implemented AI technologies, while 74 percent is still in a preparation stage, with the education, financial services, and logistics sectors demonstrating higher AI readiness.115 At the same time, A Cisco AI readiness survey reveals that Thai organizations are dedicating a substantial portion of their budgets to AI, particularly in the education and financial services sectors.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Thailand has established a robust digital infrastructure and connectivity, comparable to leading nations.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "While cloud-first policies have been implemented in Thailand, their impact on driving tangible improvements in efficiency and fostering the growth of AI technologies is yet to be fully realized.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• Expanding CAB Capabilities: Promote the development and recognition of Thai CABs that can perform AI-specific conformity assessments, covering both algorithmic behavior and data governance.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "AI Publications",
+      "value": 18,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "However, in 2024, Thailand achieved a Global Cybersecurity Index (GCI)1F12 score of 99.22, ranking 7th globally.",
+      "index_name": "Global Cybersecurity Index",
+      "rank": 7,
+      "score": 99.22,
+      "year": 2024
+    },
+    {
+      "context": "In the 2022 ODIN assessment, Thailand ranked 99th globally with an overall score of 48.",
+      "index_name": "ODIN",
+      "rank": 99,
+      "score": 48.0,
+      "year": 2022
+    },
+    {
+      "context": "49 The Political Empowerment subindex gauges gender gaps in decision-making structures, which integrates the percentage of women in national parliaments, the percentage of women in ministerial positions, and the cumulative years with a female head of state over the past 50 years, yields a score of 0.147—placing the country 102nd out of 146 nations and indicating that Thailand has achieved only 14.7 percent of full gender parity in political leadership.",
+      "index_name": "osi",
+      "score": 0.147
+    },
+    {
+      "context": "In 2024, Thailand achieved an EPI score of 0.7534, ranking 42nd out of 193 countries, showing steady improvement through initiatives like the e-government portal, the Thang Rath super app, and the Pao Tang financial services app.",
+      "index_name": "EPI",
+      "rank": 42,
+      "score": 0.7534,
+      "total_countries": 193,
+      "year": 2024
+    },
+    {
+      "context": "Thailand ranked 67th in data science skills in the Coursera Global Skills Report 2024102.",
+      "index_name": "Coursera Global Skills Report",
+      "rank": 67,
+      "year": 2024
+    }
+  ]
+}

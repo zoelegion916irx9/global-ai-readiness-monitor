@@ -1,0 +1,519 @@
+{
+  "country_code": "SN",
+  "country_name": "SENEGAL",
+  "language": "fr",
+  "metadata": {
+    "page_count": 91,
+    "creation_date": "D:20250825175858Z",
+    "modification_date": "D:20250827112002+02'00'",
+    "country_name": "SENEGAL",
+    "language": "fr",
+    "translated": true,
+    "original_language": "fr",
+    "translation_note": "Auto-translated from French by AI"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Senegal has a relatively advanced legal framework for digital governance in West Africa, but specific AI regulations are still lacking."
+      ],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Senegal has relatively good telecommunications infrastructure for the region, with expanding broadband coverage.",
+        "The country serves as a regional connectivity hub with submarine cable connections.",
+        "Computing infrastructure including data centers is developing but needs expansion for AI workloads.",
+        "Mobile phone penetration is high, creating opportunities for AI-powered mobile services.",
+        "Electricity reliability remains a challenge, particularly outside major urban centers."
+      ],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [],
+  "key_numbers": [],
+  "rankings_indices": [],
+  "executive_summary": "Senegal's AI readiness assessment demonstrates that the country has a relatively advanced position in West Africa for AI development, while significant challenges remain across all dimensions.\n\nThe legal and regulatory framework includes data protection legislation and digital governance policies, but specific AI regulations are still lacking. The Emerging Senegal Plan (PSE) provides a strategic framework that can integrate AI development priorities.\n\nRegarding the social and cultural dimension, Senegal has a growing digital culture, particularly among youth, but the gender digital divide remains significant. Public awareness of AI is primarily concentrated in urban areas, necessitating broader sensitization efforts. The country's linguistic and cultural diversity presents both opportunities and challenges for AI development.\n\nThe scientific and educational landscape shows emerging AI research capacity in universities and research institutions, though substantial investment is needed in STEM education and specialized AI training programs.\n\nEconomically, Senegal's digital ecosystem is growing, driven by mobile services and fintech innovation. The startup ecosystem is relatively vibrant, with emerging AI-focused companies. Agriculture and key economic sectors present significant opportunities for AI-driven improvements.\n\nThe technological and infrastructural assessment reveals relatively good telecommunications infrastructure for the region, with expanding broadband coverage. However, computing infrastructure, data availability, and electricity reliability need improvement.\n\nFifty-six recommendations are proposed across all dimensions, emphasizing open data governance, infrastructure investment, education, research, ethical frameworks, and inclusive AI development.",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Promote and ensure secure, free, and democratic access to local infrastructure a",
+      "text": "Promote and ensure secure, free, and democratic access to local infrastructure and data (Open Data) and make available the infrastructure necessary for AI development.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Encourage interoperability: it is necessary that all data sources (ANSD, ARTP, m",
+      "text": "Encourage interoperability: it is necessary that all data sources (ANSD, ARTP, ministries, etc.) communicate and collaborate to ensure data quality and accessibility.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Improve access protocols, availability, and promotion of infrastructure and data",
+      "text": "Improve access protocols, availability, and promotion of infrastructure and data for practical use to have a positive impact on development.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Organize technological monitoring to follow the latest international advances in",
+      "text": "Organize technological monitoring to follow the latest international advances in AI and adapt knowledge to national needs.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Promote the use of emerging technologies, such as IoT, smart connectivity, and a",
+      "text": "Promote the use of emerging technologies, such as IoT, smart connectivity, and artificial intelligence, to improve infrastructure management.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Invest in the development of secure and high-performance digital infrastructure ",
+      "text": "Invest in the development of secure and high-performance digital infrastructure to support AI deployment across the country.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Strengthen cybersecurity capacities and establish protocols to protect data and ",
+      "text": "Strengthen cybersecurity capacities and establish protocols to protect data and AI systems from cyber threats.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Develop and implement a national data governance strategy ensuring quality, secu",
+      "text": "Develop and implement a national data governance strategy ensuring quality, security, and ethical use of data.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Establish regulatory frameworks for AI that address issues of transparency, acco",
+      "text": "Establish regulatory frameworks for AI that address issues of transparency, accountability, and protection of fundamental rights.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Create incentive mechanisms for the private sector to invest in AI research and ",
+      "text": "Create incentive mechanisms for the private sector to invest in AI research and development in Senegal.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Strengthen public-private partnerships for the development and deployment of AI ",
+      "text": "Strengthen public-private partnerships for the development and deployment of AI solutions adapted to national needs.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Promote AI training at all educational levels, from primary school to higher edu",
+      "text": "Promote AI training at all educational levels, from primary school to higher education and professional training.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Develop specialized AI training programs in universities and vocational training",
+      "text": "Develop specialized AI training programs in universities and vocational training centers.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Encourage scientific research in AI by establishing dedicated laboratories and r",
+      "text": "Encourage scientific research in AI by establishing dedicated laboratories and research programs.",
+      "dimension": "SUR LES PLANS TECHNIQUE ET INFRASTRUCTURE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Support the creation of AI innovation hubs and technology incubators to foster l",
+      "text": "Support the creation of AI innovation hubs and technology incubators to foster local entrepreneurship.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Implement awareness campaigns on AI opportunities and risks for the general publ",
+      "text": "Implement awareness campaigns on AI opportunities and risks for the general public.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Promote the inclusion of women and marginalized groups in the AI sector through ",
+      "text": "Promote the inclusion of women and marginalized groups in the AI sector through targeted programs.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Develop ethical guidelines for AI development and deployment adapted to the Sene",
+      "text": "Develop ethical guidelines for AI development and deployment adapted to the Senegalese context.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "Establish monitoring and evaluation mechanisms for AI projects to ensure their s",
+      "text": "Establish monitoring and evaluation mechanisms for AI projects to ensure their social and economic impact.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "Promote the use of AI in key sectors such as agriculture, health, and education ",
+      "text": "Promote the use of AI in key sectors such as agriculture, health, and education to accelerate development.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "Strengthen institutional capacities for AI governance through training of public",
+      "text": "Strengthen institutional capacities for AI governance through training of public officials.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "Develop a national AI strategy aligned with the Emerging Senegal Plan and intern",
+      "text": "Develop a national AI strategy aligned with the Emerging Senegal Plan and international frameworks.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "Create a national AI observatory to monitor developments and advise the governme",
+      "text": "Create a national AI observatory to monitor developments and advise the government on AI policy.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "Invest in computing infrastructure including cloud computing and high-performanc",
+      "text": "Invest in computing infrastructure including cloud computing and high-performance computing resources.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "Promote the development of AI applications in local languages to ensure inclusiv",
+      "text": "Promote the development of AI applications in local languages to ensure inclusivity.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "Establish international cooperation frameworks to share AI knowledge and best pr",
+      "text": "Establish international cooperation frameworks to share AI knowledge and best practices.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "Support the development of local AI datasets reflecting Senegalese realities and",
+      "text": "Support the development of local AI datasets reflecting Senegalese realities and needs.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "Implement intellectual property frameworks adapted to AI innovations and creatio",
+      "text": "Implement intellectual property frameworks adapted to AI innovations and creations.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 29,
+      "title": "Develop sustainable financing mechanisms for AI initiatives including public fun",
+      "text": "Develop sustainable financing mechanisms for AI initiatives including public funds and international partnerships.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 30,
+      "title": "Promote AI ethics education and awareness among technology developers and users.",
+      "text": "Promote AI ethics education and awareness among technology developers and users.",
+      "dimension": "RELATIVES AU DOMAINE SCIENTIFIQUE ET ÉDUCATIF",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 31,
+      "title": "Strengthen the role of civil society in AI governance and policy development.",
+      "text": "Strengthen the role of civil society in AI governance and policy development.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 32,
+      "title": "Establish standards for AI procurement in the public sector ensuring transparenc",
+      "text": "Establish standards for AI procurement in the public sector ensuring transparency and accountability.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 33,
+      "title": "Promote the use of AI for environmental monitoring and climate change adaptation",
+      "text": "Promote the use of AI for environmental monitoring and climate change adaptation.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 34,
+      "title": "Develop mechanisms for assessing and mitigating AI risks including algorithmic b",
+      "text": "Develop mechanisms for assessing and mitigating AI risks including algorithmic bias and discrimination.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 35,
+      "title": "Support the development of a vibrant AI startup ecosystem through funding and me",
+      "text": "Support the development of a vibrant AI startup ecosystem through funding and mentoring programs.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 36,
+      "title": "Establish data protection laws and regulations aligned with international standa",
+      "text": "Establish data protection laws and regulations aligned with international standards.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 37,
+      "title": "Promote regional cooperation in AI development within the West African community",
+      "text": "Promote regional cooperation in AI development within the West African community.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 38,
+      "title": "Invest in digital literacy programs to prepare the population for an AI-driven e",
+      "text": "Invest in digital literacy programs to prepare the population for an AI-driven economy.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 39,
+      "title": "Develop frameworks for responsible AI use in the justice system and public admin",
+      "text": "Develop frameworks for responsible AI use in the justice system and public administration.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 40,
+      "title": "Promote the integration of AI in the informal economy to boost productivity and ",
+      "text": "Promote the integration of AI in the informal economy to boost productivity and innovation.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 41,
+      "title": "Establish mechanisms for public participation in AI policy development and gover",
+      "text": "Establish mechanisms for public participation in AI policy development and governance.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 42,
+      "title": "Develop guidelines for AI use in media and communication to combat misinformatio",
+      "text": "Develop guidelines for AI use in media and communication to combat misinformation.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 43,
+      "title": "Support the creation of AI centers of excellence in Senegalese universities.",
+      "text": "Support the creation of AI centers of excellence in Senegalese universities.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 44,
+      "title": "Promote the development of AI solutions for disaster preparedness and response.",
+      "text": "Promote the development of AI solutions for disaster preparedness and response.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 45,
+      "title": "Establish regulatory sandboxes for AI experimentation in a controlled environmen",
+      "text": "Establish regulatory sandboxes for AI experimentation in a controlled environment.",
+      "dimension": "EN MATIÈRE DE RÉGULATION ET RÉGLEMENTATION",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 46,
+      "title": "Develop frameworks for AI impact assessment in social and cultural contexts.",
+      "text": "Develop frameworks for AI impact assessment in social and cultural contexts.",
+      "dimension": "DANS LE DOMAINE ÉCONOMIQUE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 47,
+      "title": "Promote the use of AI in public service delivery to improve efficiency and acces",
+      "text": "Promote the use of AI in public service delivery to improve efficiency and accessibility.",
+      "dimension": "DANS LE DOMAINE ÉCONOMIQUE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 48,
+      "title": "Invest in AI talent retention programs to prevent brain drain.",
+      "text": "Invest in AI talent retention programs to prevent brain drain.",
+      "dimension": "DANS LE DOMAINE ÉCONOMIQUE",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 49,
+      "title": "Develop guidelines for the ethical use of AI in surveillance and security applic",
+      "text": "Develop guidelines for the ethical use of AI in surveillance and security applications.",
+      "dimension": "DANS LE DOMAINE SOCIAL ET CULTUREL",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 50,
+      "title": "Promote the integration of traditional knowledge and cultural values in AI devel",
+      "text": "Promote the integration of traditional knowledge and cultural values in AI development.",
+      "dimension": "DANS LE DOMAINE SOCIAL ET CULTUREL",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 51,
+      "title": "Establish mechanisms for AI technology transfer and adaptation to local contexts",
+      "text": "Establish mechanisms for AI technology transfer and adaptation to local contexts.",
+      "dimension": "DANS LE DOMAINE SOCIAL ET CULTUREL",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 52,
+      "title": "Develop comprehensive AI risk management frameworks for both public and private ",
+      "text": "Develop comprehensive AI risk management frameworks for both public and private sectors.",
+      "dimension": "DANS LE DOMAINE SOCIAL ET CULTUREL",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 53,
+      "title": "Promote South-South cooperation in AI research and development.",
+      "text": "Promote South-South cooperation in AI research and development.",
+      "dimension": "DANS LE DOMAINE SOCIAL ET CULTUREL",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 54,
+      "title": "Support the development of AI-powered tools for government decision-making and p",
+      "text": "Support the development of AI-powered tools for government decision-making and planning.",
+      "dimension": "DANS LE DOMAINE SOCIAL ET CULTUREL",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 55,
+      "title": "Establish clear liability frameworks for AI-related harms and damages.",
+      "text": "Establish clear liability frameworks for AI-related harms and damages.",
+      "dimension": "DANS LE DOMAINE SOCIAL ET CULTUREL",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 56,
+      "title": "Promote inclusive dialogue on AI between government, industry, academia, and civ",
+      "text": "Promote inclusive dialogue on AI between government, industry, academia, and civil society.",
+      "dimension": "DANS LE DOMAINE SOCIAL ET CULTUREL",
+      "language": "en",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 56,
+  "page_count": 91
+}

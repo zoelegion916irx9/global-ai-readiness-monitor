@@ -1,0 +1,558 @@
+{
+  "country_code": "MV",
+  "country_name": "MALDIVES",
+  "language": "en",
+  "metadata": {
+    "page_count": 49,
+    "creation_date": "D:20250728133911+05'30'",
+    "modification_date": "D:20250801100512+02'00'",
+    "country_name": "MALDIVES",
+    "language": "en"
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "DIAGNOSIS OF THE NATIONAL AI LANDSCAPE",
+      "start_page": 5
+    },
+    {
+      "chapter": 2,
+      "title": "LEGAL AND REGULATORY DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 3,
+      "title": "SOCIAL AND CULTURAL DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 4,
+      "title": "SCIENTIFIC AND EDUCATIONAL DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 5,
+      "title": "ECONOMIC DIMENSION",
+      "start_page": 6
+    },
+    {
+      "chapter": 6,
+      "title": "TECHNICAL AND INFRASTRUCTURAL DIMENSION",
+      "start_page": 6
+    },
+    {
+      "chapter": 7,
+      "title": "DEVELOPING A NATIONAL MULTISTAKEHOLDER ROADMAP 24",
+      "start_page": 6
+    },
+    {
+      "chapter": 8,
+      "title": "POLICY RECOMMENDATIONS",
+      "start_page": 6
+    },
+    {
+      "chapter": 10,
+      "title": "of the Public Finance Regulation outlines overarching procurement principles",
+      "start_page": 15
+    }
+  ],
+  "dimensions": {
+    "Legal and Regulatory": {
+      "chapter": 2,
+      "title": "LEGAL AND REGULATORY DIMENSION",
+      "start_page": 5
+    },
+    "Social and Cultural": {
+      "chapter": 3,
+      "title": "SOCIAL AND CULTURAL DIMENSION",
+      "start_page": 5
+    },
+    "Scientific and Educational": {
+      "chapter": 4,
+      "title": "SCIENTIFIC AND EDUCATIONAL DIMENSION",
+      "start_page": 5
+    },
+    "Economic": {
+      "chapter": 5,
+      "title": "ECONOMIC DIMENSION",
+      "start_page": 6
+    },
+    "Technical and Infrastructural": {
+      "chapter": 6,
+      "title": "TECHNICAL AND INFRASTRUCTURAL DIMENSION",
+      "start_page": 6
+    }
+  },
+  "executive_summary": "ii\nTable of contents\nACKNOWLEDGEMENTS\t\ni\nFOREWORD\t\nv\nACRONYMS AND ABBREVIATIONS\t\nvi\nEXECUTIVE SUMMARY\t\n1\nCHAPTER 1: DIAGNOSIS OF THE NATIONAL AI LANDSCAPE\t\n5\n        MAIN AI ACTORS IN MALDIVES\t\n5\n        NATIONAL AI JOURNEY\t\n6\nCHAPTER 2: LEGAL AND REGULATORY DIMENSION\t\n7\n        AI POLICY AND REGULATION\t\n7\n        DATA PROTECTION AND PRIVACY LAWS\t\n7\n        DATA SHARING AND ACCESSIBILITY\t\n8\n        PROCUREMENT LAWS AND POLICIES\t\n8\n        FREEDOM OF INFORMATION ACTS/ACCESS TO KNOWLEDGE ACTS\t\n9\n        DUE PROCESS AND ACCOUNTABILITY\t\n9\n        ONLINE SAFETY AND INTEGRITY OF SPEECH\t\n10\n        PUBLIC SECTOR CAPACITY\t\n10\nCHAPTER 3: SOCIAL AND CULTURAL DIMENSION\t\n11\n        DIVERSITY, INCLUSION AND EQUALITY\t\n11\n Language and cultural representation\t\n13\n                Disability inclusion\t\n14\n        PUBLIC ENGAGEMENT AND TRUST\t\n14\n        ENVIRONMENTAL AND SUSTAINABILITY POLICIES\t\n16\n        HEALTH AND SOCIAL WELL-BEING\t\n16\n        CULTURE\t\n16\nCHAPTER 4: SCIENTIFIC AND EDUCATIONAL DIMENSION\t\n17\n        RESEARCH AND INNOVATION\t\n17\n        EDUCATION\t\n17\n\niii\nCHAPTER 5: ECONOMIC DIMENSION\t\n20\n        LABOUR MARKETS\t\n20\n        INTERMEDIATE CONSUMPTION\t\n20\n        INVESTMENTS AND OUTPUT\t\n20\nCHAPTER 6: TECHNICAL AND INFRASTRUCTURAL DIMENSION\t\n21\n        INFRASTRUCTURE AND CONNECTIVITY\t\n21\n        APPLIED STANDARDS\t\n22\n        COMPUTING CAPABILITIES\t\n22\n        STATISTICAL PERFORMANCE\t\n23\nCHAPTER 7: DEVELOPING A NATIONAL MULTISTAKEHOLDER ROADMAP\t 24\n        GOVERNING AI IN MALDIVES\t\n24\n        INSTITUTIONALIZING AI GOVERNANCE IN MALDIVES\t\n25\n        BUILDING KNOWLEDGE AND COMPETENCIES IN MALDIVES\t\n26\n        ENSURING INCLUSION AND WELL-BEING IN MALDIVES\t\n27\n        STRENGTHENING THE INVESTMENT ECOSYSTEM IN MALDIVES\t\n28\n        CONCLUSION\t\n29\nCHAPTER 8: POLICY RECOMMENDATIONS\t\n30\n        REGULATION\t\n31\n        INSTITUTIONAL FRAMEWORK\t\n33\n        CAPACITY BUILDING\t\n35\nREFERENCES\t\n38\n\nv\nForeword\nWe have officially entered the Age of Artificial Intelligence. \nThe world is now set to change at a pace not seen in decades, \neven centuries. AI-based tools and applications make our lives \neasier, smoother and richer. They help us move efficiently, get \ninformed, get credit, get a job or get our taxes done.\nBut in its current form, AI reproduces and amplifies many of \nthe social challenges we face. It is not acceptable that around \none-third of the world’s population still lacks adequate internet \naccess. Upstream, the AI industry is highly concentrated, with \njust two countries – the United States and China – and a dozen \ncompanies accounting for a major share of the sector. This can \nonly lead to greater inequality of outcomes – including gender \ndisparities – downstream. Non-diverse AI teams, unrepresentative datasets, and opaque and biased \nalgorithms can cause harm, particularly to those who are already vulnerable, whether companies or \nindividuals, children and young people, women or entire democracies.\nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was \nadopted by 193 countries in 2021, to make sure AI delivers fair, sustainable and inclusive outcomes. \nThe Recommendation is based on the protection and promotion of human rights, human dignity \nand environmental sustainability, and these values are then translated into principles such as \naccountability, transparency and privacy. The Recommendation also sets out concrete policy actions \nthat governments can draw on to steer technological developments in a responsible direction, \npremised on the belief that light-touch regulation, which has been the norm until now, is insufficient. \nWe need capable governments that are well equipped, in terms of competencies, institutions and \nlaws, to frame responsible AI development and protect the rule of law online; and public and private \ndevelopers who are accountable for putting human rights and fundamental freedoms – not profits \nor geopolitical considerations – first.\nThe Readiness Assessment Methodology (RAM) is a diagnostic tool intended to assist Member States \nin upholding their commitment to the Recommendation by helping them understand how prepared \nthey are to implement AI ethically and responsibly for all their citizens. By highlighting any institutional, \nregulatory or data gaps and obstacles, it enables UNESCO to tailor support for governments to fill \nthose gaps to ensure an ethical AI ecosystem aligned with the Recommendation.\nOverall, this report presents a fundamentally optimistic vision that we at UNESCO share: that ethical \ngovernance and responsible regulation of AI is entirely consistent with innovation and economic \ngrowth and is essential for ensuring a technological ecosystem that benefits the public good. With \nthe RAM data and this report, Maldives has a clear roadmap for how to get there.\nIt was a pleasure working with the Government of Maldives to conduct this exercise. We are grateful \nfor their engagement with the RAM, and I am sure that by following the p",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Homeland Security and Technology",
+      "dimension": "Regulation",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: high Develop anti-discrimination policies for AI Anti-discrimination principles should be integrated into all AI regulations in Maldives to prevent biases in AI systems, ensuring equitable treatment of all individuals regardless of gender, disability or other characteristics. As stated in the UNESCO Recommendation on the Ethics of Artificial Intelligence, AI actors should promote social justice, fairness and non-discrimination, ensuring the benefits of AI Dimension Recommendation Responsible institution Time frame Priority",
+      "dimension": "Regulation",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Homeland Security and Technology",
+      "dimension": "Capacity \nBuilding",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: high Develop policies on open data and data sharing Policies on open data and data sharing should be developed, and campaigns to change mindsets in this regard should be initiated, to avoid a siloed working culture and promote collaborative, data- driven functioning. This could lead to increased availability of Maldives-specific AI training data (in Dhivehi and including culturally specific datasets) through standardized open-source repositories, for example, while protecting data privacy with a comprehensive data protection law. This law should be aligned with international standards to safeguard personal data and enhance public trust in AI technologies. UNESCO has published guidelines for Member States on how to open their data in a sustainable manner, how to build capacities in this regard, and how to build an open-data-driven culture (UNESCO, 2023b). Data-sharing initiatives, such as those by the Maldives Bureau of Statistics or the planned Data Sharing Platform for Climate Action (D4DInsights, 2025) could also lay the groundwork for AI systems.",
+      "dimension": "Capacity \nBuilding",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Finance and Planning",
+      "dimension": "Capacity \nBuilding",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: high Create specific AI procurement guidelines Specific guidelines for the procurement of AI technologies within public sector projects should be formulated to ensure transparency, cybersecurity, fairness and adherence to ethical standards. To mitigate the risks of biased algorithms and security vulnerabilities, clear policies must be established to regulate the procurement of AI systems. These policies should outline necessary criteria for purchasing AI systems, including requirements for ethical compliance, technical robustness and alignment with national AI goals and standards. The policies should specifically include accessibility requirements for persons with disabilities. The accessibility should be tested and endorsed by persons with disabilities. By setting these standards, the government can ensure that AI systems are developed with ethical considerations in mind. A national-level coordinating initiative can harmonize sector-specific AI procurement needs and policies by establishing standardized guidelines and frameworks. This could include developing model contracts and procurement templates. These policies should also include mechanisms for the evaluation and oversight of contracted AI systems, with regular assessments to guarantee compliance with established guidelines. This allows for the continuous improvement of AI systems and their adaptation to evolving standards and societal needs, ensuring that AI systems remain aligned with government objectives.",
+      "dimension": "Capacity \nBuilding",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Finance and Planning",
+      "dimension": "Capacity \nBuilding",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: medium 33 Enhance cybersecurity regulations to protect AI systems A bill on cybersecurity to enhance the scope of the National Cyber Security Agency should be enacted, with a view to ensuring the integrity and security of data used in AI applications. Given Maldives’ very low ranking in terms of cybersecurity, it is crucial to protect AI systems from vulnerabilities and threats, including against critical infrastructure. AI systems rely on vast amounts of data, making them vulnerable to data breaches and cyberattacks. If compromised, AI systems can be manipulated to produce biased or incorrect results, leading to harmful consequences for users of these systems. Cybersecurity measures like encryption and secure authentication can help prevent such threats. Effective cybersecurity also ensures the integrity and reliability of AI decision-making processes. By protecting AI systems, cybersecurity helps maintain trust in these technologies and prevents potential harm.",
+      "dimension": "Capacity \nBuilding",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Homeland Security and Technology",
+      "dimension": "Capacity \nBuilding",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: President’s Office",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: high Create a multistakeholder advisory council An advisory council comprising representatives from government, civil society, academia and the private sector should be established to provide insights, strategic guidance and recommendations on AI policy and regulation and to ensure transparency and accountability. Given the digital divide between the Greater Male' region and other islands, it will be critical that representatives from these islands are members of the advisory council. Also, persons with disabilities should be represented in the advisory council. The advisory council would facilitate dialogue among stakeholders, identify emerging AI trends and issues, and provide recommendations on how to address them. Additionally, the council could help ensure that AI policies align with Maldivian national values and priorities. It could also foster international collaboration and knowledge-sharing on AI governance.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: President’s Office",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: high 34 Establish an AI Centre of Excellence to foster collaborations and partnerships Maldives might consider establishing an AI Centre of Excellence to serve as a hub for innovation and research and development in AI. This centre would bring together experts from academia, industry and government to collaborate on AI projects and to drive innovation. The centre could learn from the existing Centre of Excellence for Public Safety67 and could be affiliated with Maldives National University. An AI Centre of Excellence would also provide training and capacity-building programmes, fostering a skilled workforce and promoting a culture of AI-driven innovation in Maldives. These activities could include partnerships with government entities and academic institutions to promote research and the sharing of best practices in AI. Moreover, an AI Centre of Excellence could host incubators, accelerators and co-working spaces for AI start-ups. International collaboration would be crucial for such a centre as international partnerships could enable functions that Maldives does not necessarily have the capacity or resources to undertake, such as auditing and testing. This would also allow the products of Maldives to align with international standards, paving the way for international market access.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Economic Development and Trade",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: medium Develop sector-specific AI task forces AI task forces should be formed within key sectors (e.g. healthcare, education, environment, finance and tourism) so that their experienced personnel can harness the full potential of AI by tailoring AI strategies to address the challenges and opportunities unique to their fields. These task forces could identify sector-specific AI applications, develop guidelines for responsible adoption and ensure that AI solutions are aligned with the sector’s goals and values. In healthcare, for example, AI-powered diagnostic tools can analyse medical images to help doctors detect diseases earlier and more accurately. In education, AI-driven adaptive learning systems can tailor educational content to individual students’ needs, abilities and learning styles. For the environment, AI-powered monitoring systems can analyse satellite imagery and sensor data to track rising sea-levels, predict coastal erosion and identify areas most vulnerable to climate change, enabling proactive conservation efforts. In finance, AI-based fraud-detection systems can analyse transaction patterns to identify and prevent fraudulent activities, reducing financial losses and protecting customers. In the tourism sector, AI-powered chatbots can provide personalized travel recommendations, offer real- time booking assistance and help visitors plan their trips to Maldives.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Line ministries",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: medium Preserve the cultural diversity and heritage of Maldives through AI A dedicated advisory board of experts within the current institutional framework should be created to focus on preserving the unique cultural identity and heritage of Maldives, using AI. As stated in 67 \u0007https://www.police.gov.mv/media/news/22730 35 the UNESCO Recommendation on the Ethics of Artificial Intelligence, ‘Member States are encouraged to leverage AI systems to preserve, promote and manage cultural heritage. This can be achieved by incorporating AI into educational programs and ensuring a participatory approach that involves institutions and the public. Additionally, Member States should assess the cultural impact of AI systems, particularly natural language processing applications, on human language and expression. This assessment should inform strategies that maximize the benefits of AI while addressing negative implications, such as the potential disappearance of endangered languages and cultural variations’ (UNESCO, 2022). This involves integrating local cultural content into AI training datasets to ensure that AI systems reflect and respect the cultural diversity of Maldives. This can be facilitated by community- driven AI projects that aim to document, preserve and promote local cultural practices and heritage, for which the participation of women, the elderly and people who live on islands beyond the Greater Male' region is essential.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Dhivehi Language, Culture and Heritage",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Education and Ministry of Higher Education, Labour and Skills Development",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: high 68 \u0007https://csti.gov.mv/ 36 Conduct public awareness campaigns on AI Campaigns should be launched to educate the public about AI, its benefits and its potential risks, fostering a culture of informed engagement with AI technologies, thereby tackling the prevailing negative perception of, or lack of knowledge about, AI in Maldives. These campaigns could include workshops, seminars and online resources to educate the public about AI’s capabilities, limitations and potential impacts on society. By promoting a nuanced understanding of AI, such campaigns can help alleviate concerns and misconceptions, fostering a more informed and balanced public discourse. Additionally, the campaigns can highlight the opportunities and benefits of AI, such as improved healthcare, education and preservation of cultural heritage, and environmental conservation, as well as economic growth, especially related to tourism. By promoting diversity and inclusion, such campaigns can also help create a more equitable and vibrant AI ecosystem in Maldives.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Youth Empowerment, Information and Arts",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: high Increase the number of STEM and AI graduates, especially females Science, technology, engineering and mathematics (STEM) and AI-related subjects should occupy an important place in schools from an early stage. This could spark students’ interest, including that of young girls, in these fields and prepare them for further studies. Scholarships and financial incentives could be offered to students pursuing STEM and AI-related degrees, making these fields more attractive and accessible. Partnerships with international universities and institutions could also provide opportunities for Maldivian students to study abroad and gain exposure to cutting-edge technologies. Moreover, the government could work with the private sector to provide internships, apprenticeships and job opportunities for STEM and AI graduates, ensuring that they are able to apply their skills and knowledge as part of the workforce. By creating a pipeline of opportunities, the government can encourage more students to pursue an education in STEM and AI-related fields, thus increasing the number of graduates in these areas. A particular focus should be on girls and women, given their strong performances in mathematics and interest in new technologies. This requires addressing and overcoming the stereotypes and barriers that women face in the field by featuring female role models and success stories, for example, thus inspiring and encouraging women to pursue careers in AI. Moreover, women’s participation in AI can also help address the gender biases that may be embedded in AI systems, ensuring that these technologies are fair, transparent and accountable. Another target group for education in STEM and AI-related subjects should be potential students from islands beyond the Greater Male' region. By increasing the participation of women and young students in STEM and AI-related subjects, Maldives can tap into a vast pool of talent, bringing diverse perspectives and ideas to the table. This",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Higher Education, Labour and Skills Development",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: high 37 Support and invest in research and development initiatives Funding and resources for AI research, development and infrastructure must be provided to stimulate innovation and encourage local solutions that address national challenges. This should include public-private partnerships and supporting start-ups. AI products should not only be consumed but also produced in Maldives, which requires the government to support the private sector, especially start-ups, in its efforts. Building more data centres within Maldives should also be facilitated. At the same time, AI research and development must take into account its impact on the environment and on the labour market. As such, the government should ensure that AI initiatives prioritize sustainability, job creation and upskilling programmes to mitigate potential negative impacts. This balanced approach will allow Maldives to harness the benefits of AI while protecting its unique environment and workforce. Overall, AI research and development in Maldives should be aligned with the Sustainable Development Goals (UN General Assembly, 2015).",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Economic Development and Trade and Ministry of Finance and Planning",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: medium Encourage lifelong learning in AI skills Lifelong learning initiatives that allow professionals to continuously update their skills in AI and related fields should be promoted, ensuring the workforce remains competitive and adaptable to technological advancements. The UNESCO Institute for Lifelong Learning provides guidance in this regard.69 Such initiatives can include workshops, training programmes and online courses that focus on emerging AI trends and technologies. Given opportunities to upskill and reskill, the workforce can stay abreast of the latest developments in AI, enabling people to innovate and adapt to changing industry needs. Additionally, partnerships with leaders of the private sector and academia can help ensure that these initiatives are tailored to the specific needs of the workforce. Lifelong learning initiatives can also be tailored to support professionals transitioning into AI-related fields, providing them with the necessary skills and knowledge to succeed. By fostering a culture of continuous learning, Maldives can develop a workforce that is agile, adaptable and equipped to thrive in an AI-driven global economy. Moreover, lifelong learning can help counter age discrimination in the workplace, enabling older professionals to continue contributing their expertise and experience. For this reason, it is essential to tailor lifelong learning initiatives to meet the unique needs and preferences of older learners, taking into account their prior knowledge, learning styles and career goals. By doing so, Maldives can ensure that its workforce remains inclusive and diverse, leveraging the skills and experience of professionals across all age groups.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "\u0007Responsible institution",
+      "text": "\u0007Responsible institution: Ministry of Higher Education, Labour and Skills Development",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "\u0007Priority",
+      "text": "\u0007Priority: low 69 \u0007https://www.uil.unesco.org/en/unesco-institute 38",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 28,
+  "page_count": 49,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "This masterplan is expected to serve as a key policy instrument guiding the adoption and implementation of AI technologies across the country.",
+        "Stakeholders have highlighted the importance of complementing this action-oriented roadmap with normative policies that provide regulatory guidance for AI development and deployment.",
+        "Several legislative proposals under consideration may also have implications for AI governance.9 These include the Digital Identification Bill, the Digital Services Bill and the Data Protection Bill.",
+        "These Bills are at various stages of drafting and review; their eventual passage could provide important foundations for AI regulation, particularly in areas concerning identity management, service delivery and data privacy.",
+        "These frameworks contribute indirectly to safeguarding fairness and equity in the context of AI.",
+        "Data protection and privacy laws According to the Global Cybersecurity Index 2020, published by the International Telecommunication Union (ITU) in 2021, Maldives was ranked 177th of 194 nations (ITU, 2021, p.",
+        "Meanwhile, a Data Protection Bill, accompanied by subsidiary regulations, is being developed as part of its current legislative agenda.",
+        "Further, some sectoral laws require data collection."
+      ],
+      "strengths": [
+        "In December 2024, Maldives enacted its first cybercrime legislation,11 taking a foundational step towards a more secure digital environment.",
+        "With respect to hate speech, Maldives ratified an amendment to its Penal Code in 2021 (Law no: 9/2014), which introduced offences pertaining to hate speech and corresponding legislative safeguards23 – marking significant progress in terms of accountability."
+      ],
+      "gaps": [
+        "Legal and regulatory dimension 9 \u0007https://majlis.gov.mv/en/20-parliament 10 \u0007https://www.finance.gov.mv/public/attachments/HXDYs60dHy72En3qMlnDAh5XDdQkhfCVG94RMFtD.pdf and https://mvlaw.gov.mv/storage/uploads/OnkAmezv/3skubr7n.pdf (both in Dhivehi) 11 \u0007https://presidency.gov.mv/Press/Article/32560 A",
+        "Currently, there is no dedicated AI regulation or soft law addressing the procurement of AI systems.",
+        "However, Chapter 10 of the Public Finance Regulation outlines overarching procurement principles applicable to public sector acquisitions.10 While these provisions may extend to AI procurement in the absence of specific legislation, there is a need for clarification and guidance on typologies and st",
+        "This underscores the urgent need for strengthened frameworks that ensure cybersecurity and data protection, especially in light of increasing digitalization.",
+        "As of now, the Bill remains unpublished, and key details are yet to be disclosed.",
+        "It should be noted, however, that only three countries in the Asian region, the Philippines, the Republic of Korea and Uzbekistan, have done so as yet.13 The Statistics Act of Maldives mandates the collection of data relevant to policy-making, including financial, social, demographic, environmental ",
+        "The Maldives Bureau of Statistics provides public access to data through interoperable formats such as CSV via a platform called Explorer14 and an additional data portal.15 However, sectoral data, such as those for tourism (available only in PDF format)16 and fisheries (available in MS Excel format ",
+        "The absence of a national policy or strategy for open data results in fragmented practices.",
+        "There is no dedicated policy or legislative framework specific to the procurement of AI systems.",
+        "In particular, there are currently no legal provisions requiring data users or data-sharing entities to notify individuals when their data are used, a lack that could be addressed under the forthcoming Digital Privacy Act or Data Protection Act."
+      ],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "The International Telecommunication Union (ITU’s) data for 2024 shows that 96.4 per cent of the urban population of Maldives and 75.2 per cent of its rural population uses the internet.",
+        "Similarly, there is no specific legal framework to enhance diversity in the AI workforce.",
+        "While the strategic action plan is expected to support progress in this area, it will operate more as a programmatic initiative than as formal policy.",
+        "These projects can be seen as efforts not only to preserve the language but also to increase the amount of Dhivehi text online, and thus increase the available training data for AI in Dhivehi.",
+        "Key omissions include accessibility requirements in AI procurement, testing for bias against persons with disabilities, accountability mechanisms for discriminatory AI systems, and benchmarks for accessibility compliance and employment of persons with disabilities in the AI sector.",
+        "The Maldives Association of Persons with Disabilities has highlighted the potential of AI as assistive technology for Maldivians living with disabilities.",
+        "• \u0007AI-driven real-time captioning and sign language interpretation to support people with hearing impairments.",
+        "As AI systems are deployed more widely, this commitment to green energy will play a role in reducing the environmental footprint of digital technologies."
+      ],
+      "strengths": [
+        "Maldives has enacted broader gender equality instruments, including the Gender Equality Act (Government of Maldives, 2016b) and the National Gender Equality Action Plan 2022–2026 (Government of Maldives, 2022a), which provide a foundation for future targeted measures in AI and technology.",
+        "Local start-ups such as Synetecs27 and Javaabu28 have developed Dhivehi text-to-speech and speech-to-text tools.29 The country’s Anti-Corruption Commission, too, has launched a speech-to-text app for Dhivehi.30 Moreover, the Mozilla Common Voice project31 includes Dhivehi datasets."
+      ],
+      "gaps": [
+        "According to the Facebook Gender Gap Index, the female-to-male ratio of Maldives for its gender gap in internet use was 0.967 in October 2024, among the highest globally.24 Internet penetration in Maldives also reveals noteworthy patterns.",
+        "Within South Asia, Sri Lanka has a little over half the percentage of Maldives in terms of overall users, with an even starker gap among women.",
+        "The percentage of women using the internet in Maldives slightly exceeds even that in Singapore.26 However, there is a discrepancy between the Facebook Gender Gap Index and the ITU’s statistics.",
+        "Despite high digital engagement among women, gender disparity remains pronounced in science, technology, engineering and mathematics (STEM) education.",
+        "At present, there is no dedicated policy or legislation aimed at reducing the digital socio-economic divide.",
+        "However, the aforementioned Maldives Creative Economy: Strategic Action Plan 2024–2028 aims to address digital literacy, income inequality and skilling/reskilling initiatives (Government of Maldives, 2024a).",
+        "26 \u0007https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx 27 \u0007https://synetecs.io/ 28 \u0007https://javaabu.com/ 29 \u0007https://en.sun.mv/93254 30 \u0007https://synetecs.io/blog/acc-launches-app-which-transcribes-dhivehi-speech-to-text 31 \u0007https://dhivehi.ai/docs/datasets/speech/ ### Page 22 14 Neverth",
+        "Digital content in other Maldivian dialects is virtually non-existent, further underscoring the need for language inclusivity in AI development.",
+        "Disability inclusion A notable gap in the national AI ecosystem is the absence of specific considerations for persons with disabilities.",
+        "Environmental and sustainability policies There are currently no dedicated policies addressing the environmental impact of AI systems in Maldives."
+      ],
+      "key_stats": [
+        {
+          "stat": "26200\nInstitution",
+          "context": "s (value) 0.62201 0.48730 0.43530 0.49310 0.23188 0.36220 0.32679 0.16190 0.29431 0.31153 0.24324 0.26200 Institutional framework 0.75 0.5 0.25 0 Technology E-participation Content provision Service p"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "In 2022, according to data from the Center for Security and Emerging Technology, Maldives contributed only seven scholarly publications on AI,39 that is about 0.00001 publications per capita.40 Scholarly excellence in AI may also be gauged from performance in Kaggle, a data science competition platf",
+        "Further, academic institutions are exploring the establishment of specialized AI departments or research centres, which may eventually include research on the ethical dimensions of AI.",
+        "The absence of a modern and comprehensive intellectual property law prevents Maldives from processing or granting patents for AI innovation.",
+        "Furthermore, government agencies have no formal mechanism to track the volume of AI-related code contributions (e.g.",
+        "GitHub commits), making it difficult to assess developer engagement in open-source AI ecosystems.",
+        "Education The educational response of Maldives to digitalization, including AI, has been shaped by recent history.",
+        "In practice, the use of AI for pedagogical purposes remains ad hoc, depending on individual initiative.",
+        "Educators who wish to use AI are expected to inform both students and the responsible ministry."
+      ],
+      "strengths": [
+        "Relevant government bodies, such as the National Centre for Information Technology and the recently established National Cyber Security Agency44 do not have dedicated centres or departments related to AI ethics, but do include AI ethics as a responsibility within their operations."
+      ],
+      "gaps": [
+        "However, Maldives does have several projects with research and development components, undertaken with the assistance of external partners.",
+        "There are currently no Kaggle Grandmasters from Maldives, reflecting the limited scale of AI-specific technical output from local talent.41 There has been no dedicated AI ethics conference organized in Maldives yet.",
+        "However, a Maldives AI Forum was convened in October 2024,42 hosted by the private company Oxiqa,43 where UNESCO presented the work done for the Maldives AI RAM.",
+        "However, dedicated departments for AI ethics are being set up, subject to funds and national budget provisions.",
+        "Presently, no binding policy framework governs the adoption of digital tools in schools, although teachers are granted discretion to use such tools based on their individual preferences.",
+        "However, a recent UNESCO study (UNESCO, 2024) presents a more nuanced picture.",
+        "According to this report on information and communication technology in education in Maldives, 53 per cent of schools reported insufficient internet speed, particularly during peak hours.",
+        "This issue is compounded by a marked digital divide between the Greater Male' region and the outer islands, with 70 per cent of schools in the outer islands lacking adequate technical support.",
+        "Nearly half the schools (48 per cent) lack computer labs, limiting students’ ability to engage directly with digital technologies.",
+        "Maldives lacks higher education programmes that cover both the technical and ethical aspects of AI comprehensively."
+      ],
+      "key_stats": [
+        {
+          "stat": "0000058 data centres",
+          "context": "run by communications companies Ooredoo (launched in 2023) and Dhiraagu.63 Therefore, there are 0.0000058 data centres per capita in Maldives. The nearest data centres outside Maldives are in Kochi, I"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Governing AI in Maldives The effective governance of AI in Maldives requires a strong and adaptive legal and policy foundation that upholds ethical standards while responding to the specific national context.",
+        "There are no AI-specific laws or guidelines in force.",
+        "Key enabling legislation like a Data Protection Bill, a Digital Services Bill and a Digital Identification Bill are under development.",
+        "Consultations underscored the importance of aligning AI regulations with international ethical standards, including transparency, fairness, human oversight and accountability, without creating overly burdensome restrictions that could impede innovation.",
+        "There is an opportunity to create a holistic regulatory framework that addresses ethical considerations for, and accountability of, AI technologies.",
+        "Maldives can adopt and adapt international best practices and standards in AI regulation, enhancing its global competitiveness and credibility.",
+        "Establishing regulations focused on ethical AI use can foster public trust in the AI sector.",
+        "Currently, the National Centre for Information Technology, under the Ministry of Homeland Security and Technology, is spearheading the AI masterplan initiative, with the Ministry of Economic Development contributing to certain components."
+      ],
+      "strengths": [
+        "Stakeholders emphasized that regulatory approaches should maintain a balance between enabling innovation and ensuring robust ethical safeguards.",
+        "The rapid evolution of AI technologies makes it difficult for regulations to keep up, leading to potentially outdated or ineffective policies.",
+        "There are no data protection laws that adequately address the unique challenges posed by AI, leading to potential privacy violations and public mistrust.",
+        "Opportunities • \u0007Development of a comprehensive AI masterplan for Maldives.",
+        "Opportunities • \u0007Development of comprehensive AI training programmes.",
+        "There is an opportunity to create structured training programmes that cater to various skill levels, from basic digital literacy to advanced AI competencies.",
+        "\u0007Encouraging collaboration Fostering collaborations between government institutions, civil society, academia and the private sector can create a more robust and supportive ecosystem for AI innovation.",
+        "This collaborative approach will help create a comprehensive and inclusive plan that addresses the unique needs and challenges of Maldives.",
+        "This also requires that Maldives’ Digital Services Bill and Data Protection Bill cover accessibility needs by ensuring that digital services and products based on AI systems are perceivable, operable, understandable, and robust for persons with disabilities.",
+        "This could lead to increased availability of Maldives-specific AI training data (in Dhivehi and including culturally specific datasets) through standardized open-source repositories, for example, while protecting data privacy with a comprehensive data protection law."
+      ],
+      "gaps": [
+        "Currently, Maldives lacks a national AI strategy, though an AI masterplan for 2025–2035 is being developed.",
+        "Stakeholders highlighted the urgent need to finalize these frameworks to establish clarity around data governance, privacy, and accountability for AI systems.",
+        "Notably, Maldives’ ranking of 177 out of 194 countries on the International Telecommunication Union's Global Cybersecurity Index underscores the need to strengthen its cybersecurity frameworks, particularly to manage AI-related risks.",
+        "Challenges • \u0007Limited expertise in AI regulation.",
+        "The Government of Maldives and regulatory bodies lack the specialized knowledge and expertise required to draft and implement AI regulations effectively.",
+        "A general lack of public understanding and awareness, or public misperceptions about the risks and opportunities of AI, can hinder the acceptance and effectiveness of regulatory measures.",
+        "Institutionalizing AI governance in Maldives Closely related to requisite legal frameworks is the need to strengthen institutional capacity and coordination for AI governance.",
+        "However, there is no dedicated multi-agency body or formal coordination mechanism overseeing AI activities across government and society.",
+        "Challenges • \u0007Lack of collaboration among agencies.",
+        "The lack of a structured approach towards engaging stakeholders from various sectors can result in missed opportunities for collaboration, input and building trust in AI policy-making."
+      ],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Given Maldives’ very low ranking in terms of cybersecurity, it is crucial to protect AI systems from vulnerabilities and threats, including against critical infrastructure.",
+        "This centre would bring together experts from academia, industry and government to collaborate on AI projects and to drive innovation.",
+        "The centre could learn from the existing Centre of Excellence for Public Safety67 and could be affiliated with Maldives National Unive ### Recommendation 14: \u0007Responsible institution \u0007Responsible institution: Ministry of Economic Development and Trade ### Recommendation 15: \u0007Priority \u0007Priority: medi",
+        "healthcare, education, environment, finance and tourism) so that their experienced personnel can harness the full potential of AI by tailoring AI strategies to address the challenges and opportunities unique to their fields.",
+        "AI products should not only be consumed but also produced in Maldives, which requires the government to support the private sector, especially start-ups, in its efforts.",
+        "Bui ### Recommendation 25: \u0007Responsible institution \u0007Responsible institution: Ministry of Economic Development and Trade and Ministry of Finance and Planning ### Recommendation 26: \u0007Priority \u0007Priority: medium Encourage lifelong learning in AI skills Lifelong learning initiatives that allow professio",
+        "The UNESCO Institute for Lifelong Learning provides guidance in this regard.69 Such initiatives can include workshops, training programmes and online courses that focus on emerging AI trends and technologies.",
+        "Our appreciation also extends to the members of the National Steering Committee as well as the ministries and government agencies whose active participation and insightful perspectives during the consultations and focus group interviews were pivotal in envisioning Maldives’ future priorities in the "
+      ],
+      "strengths": [
+        "To mitigate the risks of biased algorithms and security vulnerabilities, clear policies must be established to regulate the procurement of AI systems.",
+        "These policies should outline necessary criteria for purchasing AI systems, including requirement ### Recommendation 7: \u0007Responsible institution \u0007Responsible institution: Ministry of Finance and Planning ### Recommendation 8: \u0007Priority \u0007Priority: medium 33 Enhance cybersecurity regulations to protec",
+        "That is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted by 193 countries in 2021, to make sure AI delivers fair, sustainable and inclusive outcomes.",
+        "The RAM was launched in Maldives in September 2024 by the National Centre for Information Technology (NCIT), part of the country’s Ministry of Homeland Security and Technology, and UNESCO.",
+        "\u0007 Technical and infrastructural dimension This section explores Maldives’ progress towards building a robust technical and infrastructural foundation for AI.",
+        "Diagnosis of the national AI landscape The NCIT, under the Ministry of Homeland Security and Technology, is leading the development of an AI masterplan for 2025–2035, which will guide the adoption and implementation of AI technologies and aim to enhance existing sectors and initiatives by leveraging",
+        "• \u0007The country needs a comprehensive data protection law and improvements in cybersecurity urgently, as highlighted by its low cybersecurity ranking (177th of 194) in the International Telecommunication Union (ITU’s) Global Cybersecurity Index.",
+        "Developing a national multistakeholder roadmap Through comprehensive analysis involving desk research, stakeholder interviews and participation in the NCIT’s consultations, the RAM has developed a roadmap and a set of policy recommendations to steer Maldives towards a future where AI is harnessed in",
+        "\u0007Academia The Maldives National Skills Development Authority is leading the development of a national diploma in AI and data science."
+      ],
+      "gaps": [
+        "It is not acceptable that around one-third of the world’s population still lacks adequate internet access.",
+        "The Recommendation also sets out concrete policy actions that governments can draw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which has been the norm until now, is insufficient.",
+        "A gender gap of almost 30 percentage points favouring rural women is remarkably high.",
+        "• \u0007However, significant disparities persist in science, technology, engineering and mathematics (STEM) education, in which female participation remains extremely low.",
+        "However, the overall availability of open-source online content in Dhivehi remains limited because content often only exists in physical or scanned formats, hindering AI system training.",
+        "Scientific and educational dimension • \u0007Research and innovation in AI are limited, with few scholarly publications and no major academic centres focused on AI ethics.",
+        "However, sometimes schools are affected by connectivity issues and outdated devices, especially on islands beyond the Greater Male' region.",
+        "However, an educational programme that covers the equally important technical and ethical aspects of AI together does not exist currently.",
+        "• \u0007While labour market strategies addressing AI disruptions are not yet in place, the country’s Creative Economy: Strategic Action Plan 2024–2028 includes some elements of digital upskilling.",
+        "• \u0007Fixed broadband infrastructure and download speeds remain limited, particularly in outer islands."
+      ],
+      "key_stats": [
+        {
+          "stat": "24\n        INSTITUTION",
+          "context": "23 CHAPTER 7: DEVELOPING A NATIONAL MULTISTAKEHOLDER ROADMAP 24 GOVERNING AI IN MALDIVES 24 INSTITUTIONALIZING AI GOVERNANCE IN MALDIVES 25 BUILDING KNOWLEDGE AND COMPETENCIES IN MALDIVES 26"
+        },
+        {
+          "stat": "31\n        INSTITUTION",
+          "context": "EM IN MALDIVES 28 CONCLUSION 29 CHAPTER 8: POLICY RECOMMENDATIONS 30 REGULATION 31 INSTITUTIONAL FRAMEWORK 33 CAPACITY BUILDING 35 REFERENCES 38 ### Page 7 v Foreword We have offici"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "To facilitate the practical application of this Recommendation, UNESCO developed a Readiness Assessment Methodology (RAM) (UNESCO, 2023a).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Developing a national multistakeholder roadmap Through comprehensive analysis involving desk research, stakeholder interviews and participation in the NCIT’s consultations, the RAM has developed a roadmap and a set of policy recommendations to steer Maldives towards a future where AI is harnessed in a responsible and impactful manner, driving benefits across all sectors and industries.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Local start-ups such as Synetecs27 and Javaabu28 have developed Dhivehi text-to-speech and speech-to-text tools.29 The country’s Anti-Corruption Commission, too, has launched a speech-to-text app for Dhivehi.30 Moreover, the Mozilla Common Voice project31 includes Dhivehi datasets.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "As AI systems are deployed more widely, this commitment to green energy will play a role in reducing the environmental footprint of digital technologies.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Relevant government bodies, such as the National Centre for Information Technology and the recently established National Cyber Security Agency44 do not have dedicated centres or departments related to AI ethics, but do include AI ethics as a responsibility within their operations.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Once approved, following technical evaluation, sector council approval and line ministry endorsement, this programme will be implemented at Maldives Polytechnic and set a benchmark for similar qualifications.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "AI Publications",
+      "value": 1,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "Data protection and privacy laws According to the Global Cybersecurity Index 2020, published by the International Telecommunication Union (ITU) in 2021, Maldives was ranked 177th of 194 nations (ITU, 2021, p.",
+      "index_name": "Global Cybersecurity Index",
+      "rank": 177,
+      "year": 2020
+    },
+    {
+      "context": "### Page 16 8 Data sharing and accessibility In the biennial Open Data Inventory 2024/25, published by Open Data Watch, Maldives’ overall score was 52 out of 100 and it was ranked 111th of 197 countries.12 The country has not endorsed the Open Data Charter.",
+      "index_name": "Open Data Inventory",
+      "rank": 111,
+      "total_countries": 197,
+      "year": 2024
+    },
+    {
+      "context": "Maldives was ranked 87th of 193 countries in the OSI of 2024, scoring 0.622.",
+      "index_name": "OSI",
+      "rank": 87,
+      "score": 0.622,
+      "total_countries": 193,
+      "year": 2024
+    }
+  ]
+}

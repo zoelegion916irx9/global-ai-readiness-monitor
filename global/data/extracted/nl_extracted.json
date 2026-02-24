@@ -1,0 +1,934 @@
+{
+  "country_code": "NL",
+  "country_name": "LABOUR MARKETS",
+  "language": "en",
+  "metadata": {
+    "page_count": 96,
+    "creation_date": "D:20250328114921+01'00'",
+    "modification_date": "D:20250430160129+02'00'",
+    "country_name": "LABOUR MARKETS",
+    "language": "en"
+  },
+  "chapters": [
+    {
+      "chapter": 2,
+      "title": ". To provide an overview of the activities in the",
+      "start_page": 66
+    }
+  ],
+  "dimensions": {
+    "Legal and Regulatory": {
+      "chapter": 2,
+      "title": ". To provide an overview of the activities in the",
+      "start_page": 66
+    }
+  },
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY This section will examine the legal and regulatory aspects of Artificial Intelligence.",
+        "Key components of this framework include laws on AI governance, data protection and privacy, data sharing and accessibility, and freedom of information, among others.",
+        "For AI, this pertains to the AI Act, Digital Services Act, Digital Market Act and Data Act, while the older privacy legislation of the EU (GDPR) is highly relevant as well.",
+        "AI POLICY AN D REGULATION AI POLICY AND REGULATION Strategic Action Plan for Artificial Intelligence (SAPAI) In 2019, the Strategic Action Plan for Artificial Intelligence was published.",
+        "This plan describes the government's intentions to accelerate the development of AI in the Netherlands and to profile the Dutch activities internationally.",
+        "Track 1 focuses on capitalizing on societal and economic opportunities, highlighting AI’s ability to address societal challenges, enhance government efficiency in public tasks, and stimulate AI entrepreneurship.",
+        "The country offers excellent training for living with AI and developing talent for AI-related work.",
+        "Furthermore, the Netherlands enhances AI development through abundant usable data and boasts superior digital and intelligent connectivity."
+      ],
+      "strengths": [
+        "Establishing a robust regulatory framework is essential for ensuring the ethical use of AI systems.",
+        "Track 2 emphasises creating the right conditions, with the Netherlands leading in high-quality AI research and innovation in Europe.",
+        "Track 3 aims at strengthening foundations by ensuring the protection of public values and human rights, fostering trust in AI, maintaining open and competitive markets with robust consumer protection, and safeguarding the safety of citizens, businesses, and government entities.",
+        "There is an additional category for general-purpose AI, and in particular large-language models such as GPT, the model behind ChatGPT.55 ChatGPT was launched after the original Commission proposal and the additional provisions on general-purpose AI were introduced later during the negotiations betwe",
+        "In addition to the recently adopted European Union’s AI Act, this convention offers added value as the first global convention on AI regulation.",
+        "This methodology was adopted by the Committee on 28 November 2024.58 56 These AI-systems may also be categorized as high-risk AI systems which makes these obligations cumulative.",
+        "Together, the DMA and DSA represent a comprehensive approach to modernizing digital regulations, ensuring that both competition and safety are upheld in the rapidly evolving digital landscape.63 The DMA targets large online platforms, known as gatekeepers, to prevent them from abusing their dominant",
+        "33 service, content policies and recommender system transparency better protection of users' rights, robust content moderation systems and transparency reporting.",
+        "In recent years, the government established several communities of procurement professionals focusing on the procurement of AI-applications.",
+        "A Robust Governance for the AI Act: AI Office, AI Board, Scientific Panel, and National Authorities."
+      ],
+      "gaps": [
+        "It discusses AI developments in the Netherlands, the elements needed to further stimulate AI innovation, and safeguarding public interests in AI developments.",
+        "There are limited situations in which this right is not applicable (listed in paragraph 2 of Article 22).",
+        "But these conditions not automatically applicable to (other education institutions in) other Member States/EEA Countries, despite the uniform European legislative framework.",
+        "The letter suggested supporting enhanced collaboration at European level, to avoid the need for each Member State to devote a significant amount of time, expertise, and resources for negotiations with Big Tech firms in particular.",
+        "However, the development of certification schemes and vendor listings is being explored, especially in the context of the AI Act, which will likely require certification for high-risk AI systems.",
+        "The evaluation explored the work needed to ensure that the regulations work properly.",
+        "It concluded that there are different obstacles as many government organizations have trouble correctly implementing the Act: insufficient implementation is partly due to lacking capacity and a high burden to the workload; a lack of prioritization for information requests; best practices are not alw",
+        "According to this provision, “deployers of high-risk AI systems […] that make decisions or assist in making decisions related to natural persons shall inform the natural persons that they are subject to the use of the high-risk AI system.” This obligation applies to public (which certain legal excep",
+        "However, Article 86 of the AI Act provides the right to explanation of individual decision-making to “any affected person that is subject to a decision which is taken by the deployer on the basis of the output from a high-risk AI system”.",
+        "The Netherlands does not yet have a specific national law dedicated exclusively to monitoring, redress, and remedy mechanisms against harms caused by AI systems, as these are included in current sectoral laws that apply to the relation between natural persons on the one hand, and the organisations u"
+      ],
+      "key_stats": [
+        {
+          "stat": "ranked 16th in the",
+          "context": "30 DATA PROTECTION AND PRIVACY LAWS DATA PROTECTION AND PRIVACY LAWS The Netherlands is ranked 16th in the Global Cybersecurity Index 2020 by the International Telecommunication Union, placing 10th am"
+        },
+        {
+          "stat": "ranks 10th in the",
+          "context": "ttps://doi.org/10.1177/24551333241247670 32 DATA SHARING AND ACCESSIBILITY The Netherlands ranks 10th in the global Open Data Inventory (ODIN), which ‘assesses the coverage and openness of official st"
+        }
+      ],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "SOCIAL AND CULTURAL DIVERSITY, INCLUSION AN D EQUTY DIVERSITY, INCLUSION AND EQUALITY This section explores the social and cultural dimensions, which are essential for evaluating ethical aspects of AI system deployment.",
+        "These dimensions focus on preventing biases throughout the AI lifecycle and fostering a fair, inclusive AI ecosystem.",
+        "Key topics covered include the participation of women in science, technology, engineering, mathematics (STEM), and AI development, along with the integration of social and cultural diversity to promote ethical AI use.",
+        "Furthermore, this section examines public attitudes and trust in AI, and the emphasis on health, social well-being, and cultural considerations in AI solutions such as the use of AI for preserving cultural heritage.",
+        "Outside the scope of the suggested RAM indicators, we have also considered Dutch policies related to AI and the media in line with policy area 9 communication and information in the 2021 Recommendation on the ethics of AI.",
+        "The most recent Dutch policy document concerning gender and LGBTIQ+ equality policy is the Gender and LGBTIQ+ Equality Policy Plan 2022-2025.",
+        "The policy document also identified opportunities with algorithms: by running a large data set through the algorithm, it can be demonstrated that there is indeed systematic discrimination that can then also be counteracted, and when algorithms are built and used in the right way, they can counteract",
+        "The Dutch government recently sent the first literature study to the Dutch that explores the cross-section between AI and LGBTI+ emancipation to the Dutch parliament76."
+      ],
+      "strengths": [
+        "They collaborate with industry and government to develop AI solutions that are not only innovative but also ethically sound.",
+        "Digital well-being Education At the end of 2022, the European Council adopted conclusions on digital well-being in education.102 It invites Member States, depending on their national context, to integrate the well-being aspect into digital skills education and in the design of digital learning metho",
+        "On 7 June 2023, the European Commission published a Communication on the Comprehensive Approach to Mental Health.109 In both the Commission's integrated approach and the adopted Council conclusions,110 attention is paid to digitalisation and social media as a determinant of mental health.",
+        "UNICEF advocates strong legislation, both national and international, robust policies and adequate monitoring.113 A recent update of Dutch policies in this area was sent to Dutch parliament in December 2024.114 The EU has also launched the Better Internet for kids strategy115, which rests on three p",
+        "Media policy and AI In November 2023, the Steering Committee on Media and Information Society (CDMSI) of the Council of Europe adopted Guidelines on the responsible implementation of AI in journalism.119 Until the end 2025, an expert group is working under guidance of the CDMSI on the topic of the i"
+      ],
+      "gaps": [
+        "In terms of risks, one can think of an increase in (unseen) discrimination due to, for example, non- representative training data, black box effects, stereotypical ideas in the rules of the algorithm or a belief in the objectivity of algorithms that does not correspond to reality.",
+        "There are also exceptions allowed if devices need to be used for medical reasons, or disabilities.",
+        "Children’s rights online In the Letter to Parliament of 14 June 2023 on children's rights and digitalisation from the Minister for Digitalisation also on behalf of the State Secretary of Health, Welfare and Sport, the Dutch government has described in more details its vision and strategy regarding p",
+        "Pillar 2 deals with the skills, knowledge and support a child needs to feel safe on the internet and use it properly."
+      ],
+      "key_stats": [
+        {
+          "stat": "7% to",
+          "context": "and other study programmes.78 In vocational education, female participation in STEM has risen from 7% to 9% over the last ten years. For male students, it rose from 44% to 46%.79 In the same time peri",
+          "value": 7.0,
+          "unit": "%"
+        },
+        {
+          "stat": "9% over the last ten years",
+          "context": "her study programmes.78 In vocational education, female participation in STEM has risen from 7% to 9% over the last ten years. For male students, it rose from 44% to 46%.79 In the same time period, fe",
+          "value": 9.0,
+          "unit": "%"
+        },
+        {
+          "stat": "44% to",
+          "context": "icipation in STEM has risen from 7% to 9% over the last ten years. For male students, it rose from 44% to 46%.79 In the same time period, female students at universities rose from 25% to 27%, with mal",
+          "value": 44.0,
+          "unit": "%"
+        },
+        {
+          "stat": "25% to",
+          "context": "nts, it rose from 44% to 46%.79 In the same time period, female students at universities rose from 25% to 27%, with male students rising from 44% to 45%.80 To deal with the labour shortage in STEM and",
+          "value": 25.0,
+          "unit": "%"
+        },
+        {
+          "stat": "100 million eur",
+          "context": "directions and safeguard public values and interests, Dutch government has allocated in 2024 over 100 million euros for the first phase of CIIIC in the next three years, starting in 2025. . 46",
+          "value": 100000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "ranks 8th in the",
+          "context": "in all five indexes.94 Within the inclusive internet index 2022 of the Economist, the Netherlands ranks 8th in the overall rankings, with 3rd highest scores in availability, and 5th in readiness of th"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Since these components play a vital role in advancing AI, assessing them provides valuable insight into a country’s AI readiness.",
+        "The scientific dimension is evaluated through the nation’s research and innovation (R&I) performance, which includes metrics like R&D spending, research output, ethical AI research, and innovation in AI talent.",
+        "On the other hand, the educational dimension is measured by factors such as educational strategies, infrastructure, curriculum quality, attainment levels, and public accessibility to AI education.",
+        "The impact of AI on science and research and related policies has become relatively recently a topic of international policy interest124.",
+        "Within UNESCO, the opportunities and challenges at the intersection of open science and AI have recently been debated.125 The European Commission and its Member States including the Netherlands have become active in studying the impact of AI on research and innovation and developing a policy agenda ",
+        "Firstly, accelerating the adoption of AI by scientists, by creating essential enablers such as improved access to data, computational power, and talent.",
+        "In the context of the ERA policy agenda 2025-2027, the European Commission, EU Member States and stakeholders have jointly developed in March 2024 a set of guidelines to support the European research community in their responsible use of generative AI.130 These living guidelines provide simple and a",
+        "The Dutch Research Council (NWO) has recently set itself guidelines regarding the use of generative artificial intelligence (GAI) for 124 See OECD."
+      ],
+      "strengths": [
+        "Additionally, the European Research Council (ERC) grants support to investigation-driven frontier research across all fields based on scientific excellence, including top leading AI research.",
+        "Regarding more advanced technologies, such as AI- powered tools, the EU AI Act aims to tackle their increasing use in education.",
+        "In 2018, the online ‘Nationale AI Cursus’ was launched for the general public, which was aimed at increasing AI awareness.148 The course ‘Ethiek en AI’ was followed by a course focused on AI & ethics.149 In addition, courses related to AI and specific sectors (such as education and healthcare) were ",
+        "Its objective is to work on a resilient, enterprising, innovative and sustainable digital economy, in which everyone in the Netherlands can participate.",
+        "Consequently, the Netherlands’ has largely enjoyed a robust economy.",
+        "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/netherlands-advanced-building-a-future- labor-market-that-works#/ 53 Table 0.1: Key takeaways from the Selected Issues Report by the International Monetary Fund (2024).",
+        "The sharp rise of ASML – the now largest supplier for the semiconductor industry and sole supplier of lithography machines that are able to produce the most advanced chips – is a success story “made in the Netherlands” that was the fruit of years of careful investments and tedious research.163 Publi"
+      ],
+      "gaps": [
+        "While the EU’s AI Act has only a limited impact on science – the law contains exceptions for research – it will establish technical standards, ethical requirements that must be followed, and more extensive documentation and transparency regulations.",
+        "The Dutch government does not publicly own, provide, or directly subsidize digital tools for school management (e.g.",
+        "A number of public/cooperative organizations support individual education institutions with knowledge, expertise, basic ICT infrastructure and opportunities for joint procurement.144 Digital or AI literacy is currently not yet part of the mandatory curriculum for primary and secondary education in t",
+        "The Netherlands also supports initiatives that focus on improving access to digital devices and internet for people with limited means, in-person support for people that need help with digital government services, as well as initiatives that improve knowledge and understanding of the impact of new t",
+        "However, ongoing trends – such as an aging population, declining quality in education, and increasing prevalence of mental and physical health issues151 – are putting pressure on the labour market and the economy.",
+        "There is a significant gap between research and the creation of companies […].",
+        "This gap is often referred to as the ‘Valley of Death’ - many promising technologies fail due to a lack of funding.",
+        "Especially considering the decrease of new startups and the lack of Dutch investors in large financing rounds169.",
+        "168 https://www.tno.nl/en/newsroom/insights/2024/11/netherlands-excels-knowledge-lacks-drive/."
+      ],
+      "key_stats": [
+        {
+          "stat": "3% of GDP \nannually on R",
+          "context": "nd developments in the United States and Asia, European governments and firms should together spend 3% of GDP annually on R&D (Europe 2020 strategy objective). The EU objective of 3% was first mention",
+          "value": 3.0,
+          "unit": "%"
+        },
+        {
+          "stat": "3% was first mentioned in",
+          "context": "uld together spend 3% of GDP annually on R&D (Europe 2020 strategy objective). The EU objective of 3% was first mentioned in 2000, in the Lisbon Treaty. A decade later, the EU drafted the Europe 2020 ",
+          "value": 3.0,
+          "unit": "%"
+        },
+        {
+          "stat": "2.3% of the \nnational GDP in",
+          "context": "ccording to the OECD, the Netherlands has a gross expenditure in research and development (GERD) of 2.3% of the national GDP in 2021, which places it in the 10-20 range worldwide.132 Eurostat calculat",
+          "value": 2.3,
+          "unit": "%"
+        },
+        {
+          "stat": "0.82% of all \ngovernment budget allocat",
+          "context": "nal GDP in 2021, which places it in the 10-20 range worldwide.132 Eurostat calculated that in 2022, 0.82% of all government budget allocations were directed at R&D, which is slightly higher than the E",
+          "value": 0.82,
+          "unit": "%"
+        },
+        {
+          "stat": "1.64% to",
+          "context": ". The figure above shows that the R&D intensity over the entire period falls within a bandwidth of 1.64% to 2.32% of GDP, with a few higher and lower outliers. The total R&D investments can for some y",
+          "value": 1.64,
+          "unit": "%"
+        },
+        {
+          "stat": "2.32% of \nGDP",
+          "context": "gure above shows that the R&D intensity over the entire period falls within a bandwidth of 1.64% to 2.32% of GDP, with a few higher and lower outliers. The total R&D investments can for some years be ",
+          "value": 2.32,
+          "unit": "%"
+        },
+        {
+          "stat": "2.26% of GDP and",
+          "context": "ded by foreign firms and, in the public sector, the European Union. The overall figure for 2021 is 2.26% of GDP and 2.27% for 2022 (details not available). The Netherlands' public spending on R&D is m",
+          "value": 2.26,
+          "unit": "%"
+        },
+        {
+          "stat": "2.27% for",
+          "context": "rms and, in the public sector, the European Union. The overall figure for 2021 is 2.26% of GDP and 2.27% for 2022 (details not available). The Netherlands' public spending on R&D is more or less in th",
+          "value": 2.27,
+          "unit": "%"
+        },
+        {
+          "stat": "83% of the Dutch adult population hav",
+          "context": "ofessionals in how to use AI in a responsible and effective manner. Digital skills strategy With 83% of the Dutch adult population having at least basic digital skills in 2023, the Netherlands is the ",
+          "value": 83.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1.13% and",
+          "context": "rd.edu) 54 Based on the data, relative AI skill penetration and AI talent concentration amount to 1.13% and 0.61% respectively. Skill penetration refers to the prevalence of AI skills across occupatio",
+          "value": 1.13,
+          "unit": "%"
+        },
+        {
+          "stat": "0.61% respectively",
+          "context": "4 Based on the data, relative AI skill penetration and AI talent concentration amount to 1.13% and 0.61% respectively. Skill penetration refers to the prevalence of AI skills across occupation; talent",
+          "value": 0.61,
+          "unit": "%"
+        },
+        {
+          "stat": "0.5% \nof GDP",
+          "context": "Netherlands allocates a total budget (excluding private investments) estimated at EUR 4.9 billion (0.5% of GDP) to the digital transformation, it comes to no surprise that the Netherlands is well on t",
+          "value": 0.5,
+          "unit": "%"
+        },
+        {
+          "stat": "75% of investment go into ventures \nl",
+          "context": "od) accounted for around $1 billion, or more than half of all venture capital investments.166 Over 75% of investment go into ventures located in hubs of the provinces of North Holland, South Holland, ",
+          "value": 75.0,
+          "unit": "%"
+        },
+        {
+          "stat": "EUR 4.9 billion",
+          "context": "services. As the Netherlands allocates a total budget (excluding private investments) estimated at EUR 4.9 billion (0.5% of GDP) to the digital transformation, it comes to no surprise that the Netherl",
+          "value": 4900000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "EUR 45 million",
+          "context": "for AI, the annual government budget for AI research and innovation in that year was estimated at EUR 45 million. In 2019, this budget was EUR 64 million. In 2020, the Netherlands allocated an additio",
+          "value": 45000000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Economic Affairs (EZ), the Minister of Digitalisation (BZK), and the Minister of Justice and Security (JenV) are jointly responsible for the government-wide national AI policy including preparing negotiations for the Netherlands’ contribution to European or international AI regulations.",
+        "Other ministries provide input on AI related issues when these relate to their specific policy areas.",
+        "The Ministry of OCW, whose own competences include culture, media, education and science policies, is also the coordinating ministry regarding emancipation policy.",
+        "The Minister of Foreign Affairs (BZ) has an overall responsibility for the coordination of the Dutch positions in the European Union and global fora such as the United Nations, and is responsible for Dutch contributions and diplomacy with regard to global AI governance, AI in the military domain, an",
+        "These organisations provide their members with tools and information for the use of new technologies such as AI.",
+        "Provinces, municipalities and water authorities also have the freedom to support their own initiatives, as long as these comply with national and European regulation.",
+        "For example, the Association of Dutch Municipalities has written a position paper in which it calls for more attention to the process of implementation of the European Artificial Intelligence Act (AI Act, 2024) at the municipal level.12 The Association also published a report about the impact of the",
+        "https://vng.nl/publicaties/position-paper-kunstmatige-intelligentie 13 https://vng.nl/nieuws/3e-rapport-digital-decade-ai-verordening-gepubliceerd 17 In the currently being developed new National Digitalisation Strategy, specific efforts will be directed at collaboration between the different layers"
+      ],
+      "strengths": [
+        "Parliament In 2021, a new cross-cutting standing committee on Digital Affairs was established within the Netherlands’ House of Representatives.14 In 2024, a similar committee was established within the Netherlands’ Senate.15 The committee was established to support the Parliament in understanding al",
+        "In 2023, UNESCO’s Social and Human Sciences Sector, the European Commission and the RDI launched a project Supervising AI by Competent Authorities, financed through the European Commission’s Technical Support Instrument (TSI).",
+        "The most impactful collaboration is the Dutch AI Coalition (Nederlandse AI Coalitie, NL AIC).30 Set up in October 2019, on the initiative of VNO-NCW MKB- Nederland, EZK, TNO, Seedlink, Philips, Ahold Delhaize, IBM, and Topteam Dutch Digital Delta, the Coalition is a network of more than 500 public-p",
+        "Within the European Union, numerous policies in relation to digitalisation were adopted in the last decade (Table 0.2).",
+        "In 2023, The Netherlands made notable progress in basic digital skills, particularly with regards to strengthening knowledge of digitalisation and digital tools.",
+        "Table 0.2: Timeline of selected digitalisation regulations and policy initiatives adopted in the European Union.",
+        "Policy Description 2016 General Data Protection Regulation Replaced the Data Protection Directive (1995) and sets out comprehensive data protection rules to give EU citizens more control over their personal data and unify data protection regulations across the EU.",
+        "The GPAI and the OECD AIGO working party were recently integrated under the integrated Global Partnership on AI.35 This renewed integrated partnership has been established to promote cross-border cooperation between countries and experts.36 The Netherlands has participated in the OECD Global Strateg",
+        "This resolution was adopted on 6 November 2024.39 Netherlands is also working on setting up the Global Commission on Responsible use in the military domain.",
+        "Both nationally and internationally, the Dutch focus has been on stimulating innovation in (human-centric) AI and the promotion of ethical, trustworthy, and responsible use of AI with respect for fundamental rights and consumer protection, based on a well-developed legal framework."
+      ],
+      "gaps": [
+        "Examples include a research paper on algorithms and discrimination in the context of recruitment23, a position paper on the need for transparency with the use of algorithms by governments24, and an opinion on discrimination and exclusion caused by the use of AI in education.25 Advisory bodies Severa",
+        "By the end of 2025 all central government bodies need to have their high-risk AI systems (in the sense of the AI Act) registered in this central registry.",
+        "This prevents organisations from using algorithms of which its consequences are not yet clear.",
+        "These pilots show that FRAIA most often leaves a positive impression, despite possible prior scepticism.",
+        "However, participants sometimes found the process time- consuming, some questions less relevant, and had participants had difficulties with involving all the necessary roles."
+      ],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "TECHNICAL AND INFRASTRUCTURAL INFRASTRUCTURE AN D CONNECTIVITY INFRASTRUCTURE AND CONNECTIVITY This section will address the infrastructural and technical dimensions of AI.",
+        "These dimensions pertain to a country's capacity for developing and deploying AI solutions, including computing power, data centre availability, connectivity, and internet access.",
+        "Such elements are critical enablers for AI development, as they shape a country's ability to process information and support the necessary infrastructure for AI systems.",
+        "Figure 0.11: Infrastructure and access (per 100 inhabitants, 2022).181 Based on ITU data from 2022, the Netherlands has 118 mobile telephone subscriptions per 100 inhabitants, as well as 123 active mobile broadband subscriptions.",
+        "The Amsterdam Internet Exchange (AMS-IX),191 one of the world's largest data transport hubs, further enhances the Netherlands’ appeal for data centre operations.",
+        "The Netherlands is home to 81 data centres.",
+        "Table 0.11: Count of data centres in the Netherlands by province (2024) Province Data centres Province Data centres Drenthe 2 Overijssel 5 Flevoland 4 Utrecht 5 Friesland 2 Zeeland 1 Gelderland 3 Zuid Holland 8 Groningen 5 Noord Holland 26 187 See Brock, J.",
+        "https://www.dutchdatacenters.nl/publicaties/datacentergids-2024/ 63 Province Data centres Province Data centres Limburg 9 Noord Brabant 11 High-performance computers High-performance computing (HPC) in the Netherlands plays a vital role in advancing scientific research, innovation, and technological"
+      ],
+      "strengths": [
+        "The Netherlands excels in digital connectivity, with widespread high-speed internet access and a robust telecommunications infrastructure, making it a leader in technology adoption and innovation.",
+        "The leading position that the Netherlands has had for a long time is now under pressure, as observed for example by SURF and the Dutch Sea Cable coalition.190 Data centres Data centres in the Netherlands are a critical component of the country's digital infrastructure, contributing significantly to ",
+        "Strategically located within Europe, the Netherlands offers excellent connectivity to major markets, supported by a robust and extensive fibre-optic network.",
+        "The country is home to numerous data centres, including hyperscale facilities operated by leading tech companies such as Microsoft, Google, and Amazon.",
+        "Additionally, the Dutch government and private sector are committed to sustainable practices, with many data centres utilizing green energy sources and innovative cooling technologies to minimize environmental impact.",
+        "On 24 January 2024, the European Commission launched the AI Innovation Package, which included the concept of an AI factory194.",
+        "This achievement is largely due to the country's well-established and dynamic research and innovation ecosystem around AI as government, private companies, and higher-education institutions collaborate effectively.",
+        "The Netherlands is well aligned with the UNESCO Recommendation on the Ethics of AI as it established a supervising authority.",
+        "In summary, the Netherlands’ robust performance across all the dimensions can be attributed to the synergistic relationships developed over years of collaboration between government, industry, and educational institutions.",
+        "November 2022 Emancipatienota (Emancipation policy) 2022-2025 October 2022 Action Plan “Good Mental Health for All” November 2022 Dutch Digital Heritage Network June 2023 / December 2024 Letter to parliament on children’s rights and digitalisation November 2024 National Digital Heritage Strategy 202"
+      ],
+      "gaps": [
+        "However, as the internet expanded in the mid-to-late 1990s, more businesses recognized the value of investing in this infrastructure, helping the global internet to flourish.",
+        "These supercomputers provide researchers with the computational power needed to tackle complex problems and perform simulations that were previously impossible.",
+        "However, the Netherlands currently does not have a supercomputer powerful enough for generative AI.",
+        "Dutch researchers' need for computational capacity is growing faster than the available capacity in our country.",
+        "This is shown in the recent report Computational Needs for Accelerated Scientific Discovery193.",
+        "However, despite these efforts and activities, the stakeholder team flagged the overarching topic of civic engagement as weakly embedded in the Dutch AI policy.",
+        "Most funding comes from industry; second most, although decreasing overall, comes from the government.",
+        "However, as a consequence of announced budgetary cuts by the government, the Netherlands’ Stakeholder Team warned that these could negatively impact the Dutch level of education and the quality of academic research.",
+        "https://www.nrc.nl/nieuws/2024/10/25/landsgrenzen-zijn-in-de-digitale-wereld-achterhaald-silicon-valley-zit-in-je-broekzak- a4868449 70 However, the Netherlands’ Stakeholder Team advocated for further investments in both, data centres and high- performance computers."
+      ],
+      "key_stats": [
+        {
+          "stat": "99% of the country is covered by at l",
+          "context": "idth is reported at 118 per user, with an average fixed broadband download speed of 142 Mbit/s.183 99% of the country is covered by at least a 3G mobile network.184 The gender gaps in internet access ",
+          "value": 99.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4.1% and",
+          "context": "at least a 3G mobile network.184 The gender gaps in internet access and mobile access are low, at 4.1% and 2.1% respectively.185 According to OECD data, the difference between urban and rural access i",
+          "value": 4.1,
+          "unit": "%"
+        },
+        {
+          "stat": "2.1% respectively",
+          "context": "a 3G mobile network.184 The gender gaps in internet access and mobile access are low, at 4.1% and 2.1% respectively.185 According to OECD data, the difference between urban and rural access is also mi",
+          "value": 2.1,
+          "unit": "%"
+        },
+        {
+          "stat": "10% of submarine cable usage",
+          "context": "e become significant investors in new cables. Before 2012, these companies accounted for less than 10% of submarine cable usage, but this figure has since surged to over 66%.188 Against this backdrop,",
+          "value": 10.0,
+          "unit": "%"
+        },
+        {
+          "stat": "10% worldwide",
+          "context": "tistical Performance Indicator (SPI) overall score.200 As such, the Netherlands belongs to the top 10% worldwide. The SPI measures a country’s statistical performance around five pillars representing ",
+          "value": 10.0,
+          "unit": "%"
+        },
+        {
+          "stat": "190 \nData centres",
+          "context": "long time is now under pressure, as observed for example by SURF and the Dutch Sea Cable coalition.190 Data centres Data centres in the Netherlands are a critical component of the country's digital in"
+        },
+        {
+          "stat": "81 data centres",
+          "context": "and innovative cooling technologies to minimize environmental impact. The Netherlands is home to 81 data centres. They are located across the country (Table 1.11) with the province of Noord Holland ha"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "For example, the Netherlands ranks first in the 2024 Global Index on Responsible AI3, which analyses government frameworks, actions, non-state actors, human rights and AI, responsible AI capacities and responsible AI governance.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "It will be a way to ensure that existing policies can be implemented more quickly, that there is no duplication of efforts, and that tasks that need an impulse can be tackled more quickly.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The government provided a written reaction to this publication in October 2022.27 In 1986, the Dutch government founded an institute that was given the specific task to research the impact of technology on society, the Rathenau Institute.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "In 2023, UNESCO’s Social and Human Sciences Sector, the European Commission and the RDI launched a project Supervising AI by Competent Authorities, financed through the European Commission’s Technical Support Instrument (TSI).",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Ethical, trustworthy and responsible AI The Dutch government has developed a variety of non-binding tools for the public sector which are aimed at ensuring that the implementation of AI is done in a transparent and responsible manner.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "- Social scoring by governments - AI-based manipulation of human behaviour - Emotion recognition in workplace and education - Prohibited from being placed and deployed on the market 55 Helberger, N., & Diakopoulos, N.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Additionally, the Netherlands has implemented some provisions of the GDPR nationally in what is known as the Uitvoeringswet Algemene verordening gegevensbescherming.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "The strategy consists of two tracks: first to strengthen free and open public debate, and second to reduce online disinformation.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The policy document also identified opportunities with algorithms: by running a large data set through the algorithm, it can be demonstrated that there is indeed systematic discrimination that can then also be counteracted, and when algorithms are built and used in the right way, they can counteract people’s (unconscious) prejudices.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "National partners collaborate at the European level with Europeana, which has been awarded the tender for the deployment of a dataspace for cultural heritage.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "A curriculum reform, which will develop learning objectives on digital literacy, relating also to AI, is expected to be implemented in the summer of 2025.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In the working group, policymakers of all Member States discuss actions that could be implemented at the EU level to support education institutions and professionals in how to use AI in a responsible and effective manner.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "14 PhD students have been awarded funding during 2022/23.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Of the 87.3 million euros, NWO will award 25 million euros.177 The program funds a total of 170 PhD student in two cohorts (85 in the first five years, 85 in the last 5 years of the 10 year-program which started in 2020).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "However, as the internet expanded in the mid-to-late 1990s, more businesses recognized the value of investing in this infrastructure, helping the global internet to flourish.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "On the topic of AI, NEN created a standards committee ‘Artificial Intelligence & Big Data’.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The Netherlands is well aligned with the UNESCO Recommendation on the Ethics of AI as it established a supervising authority.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "It formulated national legislation, from data sharing to the freedom of information and it implemented measures for public accountability.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Respectively, these regulations are the first to systematically tackle the protection of personal data and stimulate the development of safe and responsible AI.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "It implemented policy fostering digital well-being in education, establishing the rights of children online, among others.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "March 2019 Ruimtelijke Strategie Datacenters 2022, 2023 Digital Economy Strategy 2024 Government-wide vision on generative AI of the Netherlands 2024 National Technology Strategy The Netherlands has built one of Europe’s most advanced infrastructure and connectivity networks.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "Hence, the recommendation of the Netherlands’ Stakeholder Team is first to consider sovereignty on all of the layers and second, to develop targeted regulatory efforts and policy initiatives that increase competitiveness and reduce dependencies.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "257 This was particularly recognized in the context of generative AI (Hendawy, 2024).",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 4.1,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "AI Publications",
+      "value": 22,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "30 DATA PROTECTION AND PRIVACY LAWS DATA PROTECTION AND PRIVACY LAWS The Netherlands is ranked 16th in the Global Cybersecurity Index 2020 by the International Telecommunication Union, placing 10th among the countries in the European region (Table 1.4), with an overall score of 97.05.59 Table 0.4: Global Cybersecurity Index for the region of Europe (2020).",
+      "index_name": "Global Cybersecurity Index",
+      "rank": 16,
+      "score": 97.05,
+      "year": 2020
+    },
+    {
+      "context": "Within the United Nations’ E-Government Indexes, the Netherlands scores above 0.9 (out of 1) in all five indexes.94 Within the inclusive internet index 2022 of the Economist, the Netherlands ranks 8th in the overall rankings, with 3rd highest scores in availability, and 5th in readiness of the public to use internet facilities.95 Figure 0.2: The Netherlands’ score on the UN E-Government Indexes (2022).",
+      "index_name": "inclusive internet index",
+      "rank": 8,
+      "year": 2022
+    }
+  ],
+  "executive_summary": "4 \nTable of Contents \n \nACKNOWLEDGEMENTS \n2 \nACRONYMS AND ABBREVIATIONS \n7 \nFOREWORD \n9 \nEXECUTIVE SUMMARY \n12 \nOVERVIEW OF THE DUTCH AI POLICY LANDSCAPE \n15 \nLEGAL AND REGULATORY \n26 \nAI POLICY AND REGULATION \n26 \nDATA PROTECTION AND PRIVACY LAWS \n30 \nPROCUREMENT LAWS AND POLICIES \n33 \nFREEDOM OF INFORMATION ACTS AND ACCESS TO KNOWLEDGE ACTS \n34 \nDUE PROCESS AND ACCOUNTABILITY \n34 \nONLINE SAFETY, INTEGRITY OF SPEECH, AND CYBERSECURITY \n35 \nPUBLIC SECTOR CAPACITY \n35 \nSOCIAL AND CULTURAL \n37 \nDIVERSITY, INCLUSION AND EQUTY \n37 \nDigital equity \n38 \nPUBLIC ENGAGEMENT AND TRUST \n38 \nENVIRONMENTAL AND SUSTAINABILITY POLICIES \n41 \nAI and healthcare \n41 \nDigital well-being \n42 \nCULTURAL HERITAGE AND MEDIA \n43 \nSCIENTIFIC AND EDUCATIONAL \n46 \nRESEARCH AND INNOVATION \n46 \nFunding of research and innovation \n47 \nThe role of higher education in scientific research \n49 \nEDUCATION \n50 \nECONOMIC \n52\n\n5 \nLABOUR MARKETS \n52 \nINTERMEDIATE CONSUMPTION \n54 \nINVESTMENTS AND OUTPUT \n55 \nPublic Investment \n55 \nPrivate Investment \n56 \nPublic-Private Investment \n58 \nEuropean dimension \n59 \nTECHNICAL AND INFRASTRUCTURAL \n61 \nINFRASTRUCTURE AND CONNECTIVITY \n61 \nInfrastructure \n61 \nHARMONIZED standards \n64 \nSTATISTICAL PERFORMANCE \n64 \nEVALUATION \n66 \nOVERVIEW OF STAKEHOLDER ENGAGEMENT PROCESS \n66 \nMAIN CHALLENGES IDENTIFIED THROUGH PREVIOUS CONSULTATIONS \n66 \nLaw and Regulation \n67 \nSociety and Culture \n67 \nScience and Education \n68 \nEconomy and Market \n69 \nTechnology and Infrastructure \n69 \nRECOMMENDATIONS \n71 \nLAWS AND REGULATION \n71 \nClearly delineate how to address the use of AI under the exclusions of the AI Act and take a \nleadership position on the topic of human rights \n71 \nGovernment response \n71 \nConsider sovereignty on all layers of the technology stack in order to develop targeted efforts that \nincrease competitiveness and reduce dependencies \n73 \nGovernment response \n74 \nINSTITUTIONAL FRAMEWORKS AND GOVERNANCE \n74 \nFormulate programs and initiatives for civic engagement in policymaking on AI \n74 \nGovernment response \n75 \nBuild on the government-wide vision on generative AI of the Netherlands and define best-practices \nrelated to sustainability in AI development and use \n76 \nGovernment response \n77 \nExplore the possibilities of establishing an advisory body of experts that monitors AI developments \nbeyond the AI Act \n77\n\n6 \nGovernment response \n78 \nPrioritise in the expansion of assessments and labs for responsible development of AI and in the \nproducing of new (general) tools \n79 \nGovernment response \n79 \nCAPACITY BUILDING \n80 \nInvest in computing power, both in terms of data centres and high-performance computers 80 \nGovernment response \n80 \nDevelop capacities to design policy that addresses digital and media literacy throughout all layers \nof society \n81 \nGovernment response \n82 \nContinue providing means to facilitate compliance with the AI Act and other regulations under the \nDigital Single Market \n82 \nGovernment response \n83 \nDevelop a coherent and unified strategy to retain and attract talent around AI \n83 \nGovernment response \n84 \nAppendix A – Approach \n94 \nAppendix B – Stakeholder team \n95\n\n7 \nACRONYMS AND ABBREVIATIONS \nALT-EDIC \nAlliance for Language Technologies - European Digital Infrastructure Consortium \nAP \nDutch Data Protection Authority (Autoriteit Persoonsgegevens) \nAI \nArtificial intelligence \nAR \nAugmented reality \nBZK \nMinistry of the Interior and Kingdom Relations (Ministerie van Binnenlandse Zaken en \nKoninkrijksrelaties) \nCAI \nCouncil of Europe Committee on AI \nCIIIC \nCreative Industries Immersive Impact Coalition \nDMA \nDigital Markets Act \nDPIA \nData Protection Impact Assessment \nDSA \nDigital Services Act \nEDIH \nEuropean Digital Innovation Hub \nELSA \nEthical, Legal and Societal Aspects AI Labs \nEU \nEuropean Union \nERC \nEuropean Research Council  \nEZ \nMinistry of Economic Affairs (Ministerie van Economische Zaken)  \nFRAIA \nDutch Fundamental Rights and Algorithm Impact Assessment (Impact Assessment Mensenrechten \nen Algoritmen) \nGDPR \nGeneral Data Protection Regulation \nGPAI \nGlobal Partnership for AI  \nHLAIB \nUnited Nations High-Level Advisory Body on AI \nHPC \nHigh performance computing \nIPO \nAssociation of Dutch Provinces (Interprovinciaal Overleg) \nLLM \nLarge language model \nML \nMachine learning \nMR \nMixed reality \nNDS \nNetherlands Digitalization Strategy \nNGF \nNational Growth Fund  \nNL AIC \nDutch AI Coalition\n\n8 \nNOLAI \nNational AI Lab for Education \nOCW \nMinistry of Education, Culture, and Research (Ministerie van Onderwijs, Cultuur en Wetenschap) \nODIN \nOpen Data Inventory \nOECD \nOrganization for Economic Co-operation and Development \nRAM \nReadiness Assessment Methodology \nRVO \nNetherlands Enterprise Agency (Rijksdienst voor Ondernemend Nederland) \nRDI \nAuthority for Digital Infrastructure (Rijksinspectie Digitale Infrastructuur) \nSAPAI \nStrategic Action Plan for Artificial Intelligence  \nSME \nSmall- and medium-size enterprises \nSTEM \nScience, Technology, Engineering, Mathematics \nTNO \nDutc",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Clearly delineate how to address the use of AI under the exclusions of the AI Act and take a leadership",
+      "text": "Clearly delineate how to address the use of AI under the exclusions of the AI Act and take a leadership position on the topic of human rights",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Under the AI Act, several sectoral exclusions are stipulated (defence and military, national security, scientific research",
+      "text": "Under the AI Act, several sectoral exclusions are stipulated (defence and military, national security, scientific research and development). Some sectors come with specific provisions (law enforcement, public security, and open-source development). The exclusions are, for example, for national security, “justified both by the fact that national security remains the sole responsibility of Member States in accordance with Article 4(2) TEU and by the specific nature and operational needs of national security activities and specific national rules applicable to those activities” (AI Act, 2024,",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Article 24). It is worthy to note that the exclusion does not apply to dual-use technologies (i.e. those also used outside",
+      "text": "Article 24). It is worthy to note that the exclusion does not apply to dual-use technologies (i.e. those also used outside of the national security context) and that there is no clear definition of national security provided. The exclusions were debated extensively, both during the negotiation phase of the AI Act and by human rights groups.210 The Netherlands’ Stakeholder Team also highlighted caveats and potential weaknesses caused by the exclusions. Stakeholders mentioned the lack of clarity on the scope of national security, the potentially blurry lines between national and public security, and the high-stakes at hand which need to be assessed on a case-by-case basis to meet the requirements of the European Charter of Fundamental Rights.211 The stakeholders argued that the Netherlands must clearly delineate how to address the use of AI under the exclusions of the AI Act and take a leadership position on the topic of human rights. Government response The Dutch government acknowledges the exception in the European AI Act for among others national security, military or defence purposes. However, the Dutch government emphasises the need for the responsible and lawful use of AI. 210 Refer to the joint analysis of leading digital, human rights and social justice groups entitled EU’s AI Act fails to set gold standard for human rights (2024). Amongst others, contributors include representatives from Amnesty International, Algorithm Watch, and Bits of Freedom 211 Powell, R. (2024). The EU AI Act: National Security Implications (Centre for Emerging Technology and Security: Explainer). The Alan Turing",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Institute. https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications",
+      "text": "Institute. https://cetas.turing.ac.uk/publications/eu-ai-act-national-security-implications 72 This means that use of AI for national security, defence or military purposes should also comply with existing rules and legislation, and notes that dual use technologies fall within the scope of the AI Act. The Dutch Intelligence and Security Services Act 2017 (Wet op de inlichtingen- en veiligheidsdiensten (Wiv) 2017) governs the lawful use of automated data-analysis, which includes algorithms and AI, by the Dutch General Intelligence and Security Service (Algemene Inlichtingen en Veiligheidsdienst, AIVD). The Wiv 2017 contains an explicit legal prohibition on promoting or taking measures against a person solely on the basis of results of automated data analysis. In all cases, there will be a human assessment. Furthermore, the law states that the processing of personal data solely on the grounds of a person's religion or belief, race, trade union membership, health and sexual life is not permitted. The Oversight Committee for the Intelligence and Security Services (Commissie van Toezicht op de Inlichtingen- en",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Veiligheidsdiensten, CTIVD) (retroactively) monitors the compliancy of the AIVD with the Wiv 2017. This includes",
+      "text": "Veiligheidsdiensten, CTIVD) (retroactively) monitors the compliancy of the AIVD with the Wiv 2017. This includes activities with the use of algorithms and AI. To address the issue of artificial intelligence in autonomous weapon systems, the Netherlands actively engages in the",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Group of Governmental Experts on Lethal Autonomous Weapon Systems (GGE LAWS) of the United Nations Office",
+      "text": "Group of Governmental Experts on Lethal Autonomous Weapon Systems (GGE LAWS) of the United Nations Office for Disarmament Affairs (UNODA) as well as other pertinent international fora and conferences. During the period of 2024–2026, the Dutch disarmament ambassador serves as Chair of the GGE LAWS. A central topic of discussion within the GGE LAWS is the application of international law, particularly international humanitarian law. The Netherlands often emphasizes the significance of international human rights law as a relevant legal framework for the potential development, deployment and use of weapon systems with autonomous capabilities and advocates for the inclusion of this topic in international discussions. Notably, the human rights legal framework imposes more stringent requirements on the use of deadly force in law enforcement contexts compared to the provisions of international humanitarian law governing combat operations. In 2023, the Netherlands’ government published a 2023-2027 strategy on data science and AI for defence.212 This",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Strategy prioritises investments in knowledge building in relation to ethical issues and meaningful human control, and",
+      "text": "Strategy prioritises investments in knowledge building in relation to ethical issues and meaningful human control, and aims to improve regulation and supervision on the use of algorithms within ethical and legal frameworks. In the context of AI for military purposes this is realised by adhering to NATO’s Principles of Responsible Use, as stipulated in the (revised) NATO AI Strategy213, the main principle in this context begin lawfulness (“AI applications will be developed and used in accordance with national and international law, including international humanitarian law and human rights law, as applicable”). In addition, to address the application of AI for defence and military purposes, the Netherlands has taken up an international leadership role by initiating the international discussion on responsible AI in the military domain. In 2023, the Netherlands hosted the Responsible AI in the Military domain (REAIM) Summit.214 As part of the summit’s outcomes, a Global Commission on Responsible AI in the Military Domain was launched by the Netherlands. In 2024, the",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Netherlands co-hosted the second REAIM Summit hosted by the Republic of Korea. The REAIM Blueprint for Action",
+      "text": "Netherlands co-hosted the second REAIM Summit hosted by the Republic of Korea. The REAIM Blueprint for Action affirmed the importance of international human rights law for the development, deployment and use of AI in the military domain.215",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Following a joint Call to Action that government representatives issued at REAIM 2023 in the Netherlands, in 2024 the",
+      "text": "Following a joint Call to Action that government representatives issued at REAIM 2023 in the Netherlands, in 2024 the Netherlands and the Republic of Korea tabled the United Nations Resolution on AI in the military domain and its 212 Defensie Strategie Data Science en AI 2023-2027 | Rapport | Rijksoverheid.nl 213 https://www.nato.int/docu/review/articles/2021/10/25/an-artificial-intelligence-strategy-for-nato/index.html. 214 https://voorlichting.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/evenementen/reaim 215 REAIM. 73 implications for international peace and security, that was supported by a very large majority of States in the UN",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "General Assembly.216 By endorsing this resolution States affirmed that international law, including the Charter of the",
+      "text": "General Assembly.216 By endorsing this resolution States affirmed that international law, including the Charter of the United Nations, international humanitarian law and international human rights law, applies to matters governed by it that occur throughout the life cycle. The purpose of the UN resolution is to ensure that this issue is discussed more often and in greater detail by all the countries in the world. In the coming years, the Netherlands will continue to play a leading role in advancing the international debate on responsible application of AI in the military domain.",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Consider sovereignty on all layers of the technology stack in order to develop targeted efforts that",
+      "text": "Consider sovereignty on all layers of the technology stack in order to develop targeted efforts that increase competitiveness and reduce dependencies In spite of significant regulatory efforts and governance initiatives on AI, the Netherlands’ Stakeholder Group suggested that efforts should take into consideration all layers of the technology stack model (Figure 0.1) in order to have an overarching approach to digital open strategic autonomy.217 Digital sovereignty leads to agency in deciding the norms and values that AI tools should abide by. While the impact of AI is currently addressed on an infrastructural and technological level, more attention should go towards the application layer upon which digital platforms operate. In many different sectors such as education, digital platforms of Big Tech companies are pushing out smaller players in the national market, leading to dependencies and vendor lock-ins, privacy issues and market deterioration.",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Figure 0.1: (Simplified) technology stack model (adapted from Stolwijk et al., 2024).",
+      "text": "Figure 0.1: (Simplified) technology stack model (adapted from Stolwijk et al., 2024). The ambiguity of regulating digital technologies has to do with their complexity and diversity. They involve multiple ingredients – data centres and graphic cards, networks and connectivity, data, and applications, and much more. In that context, it is worthwhile to consider complexity by means of a layered model.218 Once split into layers, it is possible 216 https://www.government.nl/latest/news/2023/02/16/reaim-2023-call-to-action 217 Stolwijk, C., Punter, M., Timmers, P., Rabbie, J., Regeczi, D., & Dalmolen, S. (2024). Towards a sovereign digital future – the Netherlands in Europe. TNO. 218 Sheikh, H. (2022). European Digital Sovereignty: A Layered Approach. Digital Society, 1(3), 25. https://doi.org/10.1007/s44206-022-00025- z User interfaces Applications Intelligence Data Soft and hard infrastructures Data sharing infrastructures Cloud and edge infrastructures Networks and connctivity (Micro)chips Resources 74 to identify dependencies and disentangle complexity from different perspectives.219 When focusing on (artificial) intelligence – one of the layers –, there are strong interlinkages to other layers such as chips, processing units, or cloud. The main conclusion to be drawn from this exercise for policy and regulation is that while national and European strategies to increase sovereignty and open autonomy show momentum, the scale in both ambition and financial terms is far below that of Chinese and American strategies. Hence, the recommendation of the Netherlands’",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Stakeholder Team is first to consider sovereignty on all of the layers and second, to develop targeted regulatory efforts",
+      "text": "Stakeholder Team is first to consider sovereignty on all of the layers and second, to develop targeted regulatory efforts and policy initiatives that increase competitiveness and reduce dependencies. Government response",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Digital sovereignty is an important topic for the Dutch government. In 2023, the Agenda on Digital Open Strategic",
+      "text": "Digital sovereignty is an important topic for the Dutch government. In 2023, the Agenda on Digital Open Strategic Autonomy (DOSA) was published.220 This agenda recognizes the increasing dependency on third countries for our digital technologies. The agenda has six stack levels: resources, hardware, physical infrastructure, soft infrastructure, data, and applications and services. On the basis of these stack levels, the agenda identifies several specific policy priorities: critical raw materials, quantum technology, photonics, semiconductors, network technology, open-source software, cloud, AI, cybersecurity, and office software. It also identifies more general priorities, such as competitiveness, effective policy and decision making, security policy, knowledge and skills, and international cooperation. With each priority, current and new (policy) initiatives are announced on the national and the EU level. In general, the Netherlands tries to keep digital sovereignty and open strategic autonomy on the EU-agenda, which is in line with the portfolio of the new EU Commissioner on Tech Sovereignty, Security and Democracy in 2024-2029, Ms. Henna Virkkunen. In the education sector, specific attention is directed at the implications of the EU Data Act and the Digital Services Act among others, on primary education and the digital applications used in it. The application of the General Data",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Protection Regulation (AVG) has already shown that EU regulation is an effective instrument to safeguard public values",
+      "text": "Protection Regulation (AVG) has already shown that EU regulation is an effective instrument to safeguard public values in education.221 The Dutch government has also recently mandated a study on alternatives for big tech platforms in education with a strong focus on public values such as privacy.222 The new Dutch Digitalisation Strategy (NDS) to be published in 2025 will continue to build on the work on safeguarding public values by the previous cabinet.223",
+      "dimension": "LAWS AND REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Formulate programs and initiatives for civic engagement in policymaking on AI",
+      "text": "Formulate programs and initiatives for civic engagement in policymaking on AI The Stakeholder Team flagged a general lack of civic engagement in AI policymaking. The core argument made is that policy developments often follows a top-down approach, where expert groups, industry representatives, and government bodies lead decision-making without substantial input from the broader public or civil society groups. Although initiatives such as the Dutch AI Coalition emphasize collaboration, they are often limited to those very stakeholders, rather than including a wide range of citizen perspectives. 219 Stolwijk, C., Punter, M., Timmers, P., Rabbie, J., Regeczi, D., & Dalmolen, S. (2024). Towards a sovereign digital future – the Netherlands in Europe. TNO. 220 Agenda Digitale Open Strategische Autonomie (overheid.nl) 221 SURF and SIVON have reached agreements with Google and Microsoft based on data protection impact assessments (DPIAs) to mitigate privacy risks for pupils, students and employees. 222 Kamerstuk 32034-54 223 Kamerstuk 26643-1231 75",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Without mechanisms to make these processes more inclusive and accessible, such as public consultations, educational",
+      "text": "Without mechanisms to make these processes more inclusive and accessible, such as public consultations, educational campaigns, or citizen assemblies on AI, there is a risk that AI policies will not adequately reflect the diverse concerns, values, and needs of Dutch society. This issue becomes of particular relevance in the case of AI being used for algorithmic-decision making.224 In response, the Stakeholder Team advised to formally integrate civic engagement programs and initiatives in the policy-making process around AI. Government response The Dutch government acknowledges the need to encourage social dialogue and cooperation at various levels in order to be able to respond to the fundamental challenges that AI poses. Ensuring safe and responsible development, use, and integration of AI, as well as maximizing the opportunities that AI offers, requires a coordinated effort from all levels of government, the private sector, technical community, academia and civil society. Together with local governments and implementation organizations, the Netherlands is exploring ways in which AI can support in making communication with citizens clearer and more inclusive. The vision on generative AI has been developed in close collaboration with all levels of government (including organisations responsible for implementing policies), businesses from several domains and sectors, academia and civil society. This cooperation remains essential in the future as well. This means actively involving several actors such as civilians, policy-makers from all levels of government, employers, businesses, entrepreneurs, scientists, employees and educators. It is essential that various actors have a voice in shaping the future where generative AI plays a role. The Dutch AI Coalition played a crucial role in fostering social dialogue, for example through the AI-Parade. This was an initiative where 35 libraries were visited across the Netherlands, where citizens could engage in debates, workshop",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Additionally, the Dutch government aims to raise awareness about AI. For example, through the program Digitaal",
+      "text": "Additionally, the Dutch government aims to raise awareness about AI. For example, through the program Digitaal Burgerschap (Digital Citizenship) of the Dutch Royal Library, libraries offer events and educational opportunities for citizens to learn about topics such as AI.225 Likewise, the Dutch government launched an educational campaign about digitalisation including on AI.226 The campaign was a collaboration between the government and DPG-media in which 400.000 citizens were reached. The DIGCOM monitor of the University of Amsterdam will measure, among other things, the knowledge and skills on",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "AI of citizens on behalf of the Dutch government. Through this monitor the Dutch government aims to keep track of",
+      "text": "AI of citizens on behalf of the Dutch government. Through this monitor the Dutch government aims to keep track of the current state of digital competences in the Netherlands. Alongside this monitor the Dutch government keeps track 224 Veenstra, A.-F., Timan, T., Bodea, G., Chideock, C. E., Georgieva, I. N., Lazo, C. B., & Theelen, M. A. H. (2021). AI: In search of the human dimension. TNO. https://publications.tno.nl/publication/34638227/KTvx9Y/veenstra-2021-ai.pdf 225 See Digitaal burgerschap. 226 Publicatie bewaargids 'Bewust online' | Publicatie | Rijksoverheid.nl. 76 of research and monitors that measure public sentiment and knowledge on AI, for example of the CBS227 and the",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "Several government bodies such as the municipality of Amsterdam, initiated initiatives to engage civil society. For",
+      "text": "Several government bodies such as the municipality of Amsterdam, initiated initiatives to engage civil society. For instance, to engage discussions amongst actors and collect feedback, the Dutch government organised dialogue sessions on AI systems-use in the public sector with civil society and public sector officials. In 2023, together with civic organizations, the Ministry of the Interior and Kingdom Relations also organized ethical dialogues amongst several actors from Dutch society on specific use-cases of generative AI, reflecting on both its opportunities and risks for society. At the end of 2023, the Rathenau Institute has published a report with an overview of opportunities, risks and ways to deal with generative AI, which it has presented to parliament.229",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "Build on the government-wide vision on generative AI of the Netherlands and define best-practices",
+      "text": "Build on the government-wide vision on generative AI of the Netherlands and define best-practices related to sustainability in AI development and use",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "Even before the sudden surge of interest in generative AI, scientists had already flagged the considerable carbon",
+      "text": "Even before the sudden surge of interest in generative AI, scientists had already flagged the considerable carbon footprint of AI. It is important to acknowledge that AI is destined to play a dual role. On the one hand, it can help to reduce the effects of the climate crisis – from optimising our energy grid to developing low-emission infrastructures.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "Yet, on the other hand, the carbon footprint of training AI models is considerable.231 Today, the “environmental impacts",
+      "text": "Yet, on the other hand, the carbon footprint of training AI models is considerable.231 Today, the “environmental impacts are expected to escalate considerably, with the global AI energy demand projected to exponentially increase to at least 10 times the current level and exceed the annual electricity consumption of a country like Belgium by 2026”.232 In addition to the high degree of carbon emissions and electricity use, AI is also associated with substantial water consumption, ‘both directly for onsite server cooling and indirectly for offsite electricity generation’.233 In response, the Netherlands’ Stakeholder Team have recommended to define best-practices related to sustainability and environmental considerations in the development and use of AI (ideally, beyond the requirements stipulated in the AI Act). One basis to do so, would be to leverage and build on the government wide vision on generative AI (2024) where measures to reduce negative environmental impacts are advocated for. The vision advocates to focus on the integration of energy-efficient training processes and delivery, with priority given to the use of renewable energy sources. 227 Centraal Bureau voor de Statistiek | CBS 228 AlgoSoc AI Opinion Monitor 229 https://www.rathenau.nl/nl/digitalisering/generatieve-ai 230 Overheid.nl | Consultatie Wet versterking waarborgfunctie Awb 231 See Dhar, P. (2020). The carbon impact of artificial intelligence. Nature Machine Intelligence, 2(8), 423–425. https://doi.org/10.1038/s42256-020-0219-9; and Strubell, E., Ganesh, A., & McCallum, A. (2020). Energy and Policy Considerations for Modern Deep Learning Research. Proceedings of the AAAI Conference on Artificial Intelligence, 34, Article 09. https://doi.org/10.1609/aaai.v34i09.7123 232 Ren, S., & Wierman, A. (2024, July 15). The Uneven Distribution of AI’s Environmental Impacts. Harvard Business Review. The Uneven",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "Distribution of AI’s Environmental Impacts",
+      "text": "Distribution of AI’s Environmental Impacts 233 Ibid. 77 It is also relevant to acknowledge the uneven distribution of AI’s environmental impacts. In its Recommendation on the",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "Ethics of Artificial Intelligence (UNESCO, 2021), UNESCO has advised against the use of AI if it may lead to",
+      "text": "Ethics of Artificial Intelligence (UNESCO, 2021), UNESCO has advised against the use of AI if it may lead to disproportionally negative impacts on the environment.234 Therefore, it was advised by the Netherlands’ Stakeholder",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "Team to make conscious evaluations should further investments be made into, for example, data centres or high-",
+      "text": "Team to make conscious evaluations should further investments be made into, for example, data centres or high- performance computers. Government response The Dutch government pays special attention to the impact of AI on sustainability and climate. The government recognises that (generative) AI can contribute to solving climate challenges, but so far it has only led to an increase in the ecological footprint. Therefore, the Netherlands believes it is essential to make these technologies more sustainable through more energy-efficient methods and promoting responsible and sustainable development and use. For the",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "Dutch government, sustainability is a key principle in the deployment of AI, meaning that this technology will not be",
+      "text": "Dutch government, sustainability is a key principle in the deployment of AI, meaning that this technology will not be used if it causes significant harm to people and the planet. In 2024, Utrecht University was asked to conduct a study concerning the environmental impact of the use of generative AI by the public sector. Results of this study are expected in the beginning of 2025.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "More in general, the Dutch government is also committed to a sustainable digital infrastructure and the sustainability",
+      "text": "More in general, the Dutch government is also committed to a sustainable digital infrastructure and the sustainability of other sectors through digitalisation. For this purpose, an Action Plan for Sustainable Digitalisation was drawn up in",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 29,
+      "title": "June 2024.235 The action plan contains 44 actions that relate to the sustainability of the digital infrastructure itself and",
+      "text": "June 2024.235 The action plan contains 44 actions that relate to the sustainability of the digital infrastructure itself and the opportunities that digitalisation offers for sustainability in other sectors. The Dutch digitalisation sector itself has been taking important steps towards sustainability for some time now, as described in the State of the Digital",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 30,
+      "title": "Infrastructure.236 The Dutch government is working with sustainable frontrunners in the “National Coalition for",
+      "text": "Infrastructure.236 The Dutch government is working with sustainable frontrunners in the “National Coalition for Sustainable Digitalisation” to use their experiences more broadly for all entrepreneurs.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 31,
+      "title": "Furthermore, the Energy and Sustainability working group of the NL AI Coalition will support the development of new",
+      "text": "Furthermore, the Energy and Sustainability working group of the NL AI Coalition will support the development of new AI solutions to challenges in the energy sector and around sustainability, and thus stimulate the Dutch economy.237",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 32,
+      "title": "Moreover, the Ministry of Economic Affairs has mandated Dialogic to research the energy- and water usage of AI. The",
+      "text": "Moreover, the Ministry of Economic Affairs has mandated Dialogic to research the energy- and water usage of AI. The goal is to analyse ways in which AI can be used in an energy-efficient manner. The study is expected to be published in May 2025. The Netherlands is also working with other EU Member States to exchange experiences around the dual transition of sustainability and digitalisation. A relevant fact is also that at EU level regulations in the field of circularity, recycling and reporting obligations for data centres are in place. The impact of these regulations will be monitored. Beyond the EU, the Netherlands advocates for linking sustainability more closely with digitalization in the UN World Summit on the",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 33,
+      "title": "Explore the possibilities of establishing an advisory body of experts that monitors AI developments",
+      "text": "Explore the possibilities of establishing an advisory body of experts that monitors AI developments beyond the AI Act 234 Beyond its exorbitant use of energy, AI is also associated with the consumption of large quantities of water (for server cooling and offsite electricity generation). In regions where there is already scarcity and the consequent risk for droughts are an important factor to consider (Hao, 2024). 235 Actieplan Duurzame Digitalisering | Rapport | Rijksoverheid.nl 236 Staat van de Digitale Infrastructuur | Rapport | Rijksoverheid.nl. 237 Energy and Sustainability • Nederlandse AI Coalitie (nlaic.com) 78 The dynamic nature of technological development is at odds with the nature of policy making, regulation and enforcement. In particular, this holds for AI.238 The technology needs robust governance and institutions that are apt at fulfilling the AI Act. Academics have brought this topic to attention.239 The Netherlands’ Stakeholder Team discussed the means to implement the Act by national and EU institutional bodies, and those established under the AI Act, such as the AI Office, and provided the recommendation of an additional structure – beyond those of the AI Act – by the establishment of an advisory body and expert group that continuously monitors developments in AI (including generative AI). That structure could provide guidance on technological developments as well as advise the government on the structural design of national bodies and the administrative capacities needed to enforce the AI Act. Government response",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 34,
+      "title": "Given the expected exponential growth that (generative) AI will undergo in the coming years, it is of significant",
+      "text": "Given the expected exponential growth that (generative) AI will undergo in the coming years, it is of significant importance for the Dutch government to closely monitor relevant developments. The Dutch government is, and will remain, in close contact with local governments, implementation organizations, knowledge institutions, commercial entities, public interest organizations, employers, employees, and citizens on this subject. Furthermore, the Netherlands will prioritize the implementation of the supervision and monitoring based on the AI Act.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 35,
+      "title": "Secondly, at the request of the House of Representatives, the Dutch government also explored the establishment of",
+      "text": "Secondly, at the request of the House of Representatives, the Dutch government also explored the establishment of an AI advisory body at the highest (Dutch) political level intensively. However, the installation of an AI advisory body advising the government is subject to stringent laws on such advisory bodies, requiring careful deliberation and formal procedures. Such bodies and the way they can and cannot operate may not fulfil the need expressed by parliament.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 36,
+      "title": "Additionally, because of the consequences for the labour market, both in terms of employment and the quality of",
+      "text": "Additionally, because of the consequences for the labour market, both in terms of employment and the quality of work, the government has asked its Social and Economic Council (Sociaal-Economische Raad, SER) to advise on the impact of AI on labour productivity, quantity, and quality of work. In other words, several institutes and advisory body are already in place when it comes to specific aspects of the implications of AI.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 37,
+      "title": "Thirdly, AI is developing at such a rapid and disruptive pace that it is necessary to look for new ways to translate",
+      "text": "Thirdly, AI is developing at such a rapid and disruptive pace that it is necessary to look for new ways to translate knowledge and research into effective policy and to connect researchers with policymakers and the parliament. The government has worked on and continues to work on ways to address this issue through the development of a ‘Science for policy’ approach. Policies developed solely on the basis of scientific knowledge are ‘evidence-based’; ‘evidence- informed’ policy is developed when scientific knowledge is combined with practical knowledge.240 The ‘science for policy’ approach is an important tool to not only stay up-to-date on AI developments, but also to bridge the gap between policy and research in general. This is also supported by the EU platform ‘Knowledge4Policy’ which provides a high-quality research database that can be used by policymakers.241 The new European Commission has announced to strengthen the uptake of AI in research at European level, by setting up a European AI Research Council. At the level of the UN, the Netherlands plays an active role in defining the modalities of the Independent International",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 38,
+      "title": "Scientific Panel on AI to promote scientific understanding.",
+      "text": "Scientific Panel on AI to promote scientific understanding. 238 Hacker, P. (2024). AI Regulation in Europe: From the AI Act to Future Regulatory Challenges. In I. Ajunwa & J. Adams-Prassl, Oxford",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 39,
+      "title": "Handbook of Algorithmic  Governance and the Law. Oxford University Press. http://arxiv.org/abs/2310.04072",
+      "text": "Handbook of Algorithmic Governance and the Law. Oxford University Press. http://arxiv.org/abs/2310.04072 239 Novelli, C., Hacker, P., Morley, J., Trondal, J., & Floridi, L. (2024). A Robust Governance for the AI Act: AI Office, AI Board, Scientific Panel, and National Authorities. European Journal of Risk Regulation, 1–25. https://doi.org/10.1017/err.2024.57 240 Kabinet presenteert visie op generatieve AI | Nieuwsbericht | Rijksoverheid.nl 241 Knowledge for policy (europa.eu) 79",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 40,
+      "title": "Prioritise in the expansion of assessments and labs for responsible development of AI and in the",
+      "text": "Prioritise in the expansion of assessments and labs for responsible development of AI and in the producing of new (general) tools The Netherlands’ Stakeholder Team flagged a discrepancy between the tools and assessments for the ethical / responsible / transparent development of AI and practice. Academics are well aware of the problematics with the panoply of existing guidelines, and the gap between ethics and practice. In a recent literature study, it was flagged that ethics in the context of AI guidelines is frequently not defined and rather vague, therefore making the application challenging at best, and contested at worst.242 Guidelines often lack agreement, both in terms of what the most important principles are and what their solutions are.243 As a result, one may observe a “gulf between ethical guidelines and practical implementation, a gap between principles and practice” that may maintain the status quo and an undesired outcome “business as usual”.244",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 41,
+      "title": "When turning to industry and business organisations, the symptoms are felt. Industry representatives within the",
+      "text": "When turning to industry and business organisations, the symptoms are felt. Industry representatives within the Stakeholder Team flagged the need for more assistance in the implementation of the guidelines (and regulations). In response to these observations, it was recommended to prioritise the penetration of assessments and labs for responsible development of AI over the producing of new (general) tools. Government response",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 42,
+      "title": "Citizens and businesses must be able to trust that the government establishes appropriate frameworks and rules for",
+      "text": "Citizens and businesses must be able to trust that the government establishes appropriate frameworks and rules for (generative) AI. In this regard, attention should be paid to how existing and upcoming legislation is capable of encouraging the development and use of AI in a safe and fair manner. Clear national, European (or international) frameworks can contribute to accelerating innovation. The European AI Act provides a solid foundation in this respect. In the coming years, practical tools and guidelines are expected to be published by both the national government, supervisory authorities and the European Commission. To facilitate both private companies and government bodies with practical advice concerning compliance with the AI",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 43,
+      "title": "Act, the Netherlands is in the process of establishing regulatory sandboxes. With these sandboxes, supervisory",
+      "text": "Act, the Netherlands is in the process of establishing regulatory sandboxes. With these sandboxes, supervisory authorities enter into a regulatory dialogue with participants to assist them with AI Act related questions on the development, testing or validation of (high risk) AI systems. Such measures will help increase legal certainty, thereby stimulating innovation, and increasing the development and use of responsible and safe AI. As for the public sector, in recent years, the Dutch government has provided policy aimed at the responsible development and use of algorithms and AI by government bodies, as well as fostering innovation of such technology. As mentioned in previous chapters, tools to help foster the responsible use of AI in the public sector include a fundamental rights and algorithms impact assessment for the early mapping of risks to fundamental rights in the use of algorithms and AI. To address the ‘panoply’ of guidelines and regulations, the Dutch government published an algorithm framework in 2024.245 This framework provides an overview of applicable laws and regulations, provides practical tools and measures to take to comply with laws and regulations, as well as examples and use cases.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 44,
+      "title": "Regarding the gap between ethical principles and practice, it should be mentioned that in the context of the UNESCO",
+      "text": "Regarding the gap between ethical principles and practice, it should be mentioned that in the context of the UNESCO Recommendation on ethics an AI, not only an instrument for readiness assessment has been developped, but also an 242 Franzke, A. S. (2022). An exploratory qualitative analysis of AI ethics guidelines. Journal of Information, Communication and Ethics in",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 45,
+      "title": "Society, 20(4), 401–423. https://doi.org/10.1108/JICES-12-2020-0125; and Krijger, J. (2022). Enter the metrics: Critical theory and",
+      "text": "Society, 20(4), 401–423. https://doi.org/10.1108/JICES-12-2020-0125; and Krijger, J. (2022). Enter the metrics: Critical theory and organizational operationalization of AI ethics. AI & Society, 37(4), 1427–1437. https://doi.org/10.1007/s00146-021-01256-3 243 Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature Machine Intelligence, 1(9), 389–399. https://doi.org/10.1038/s42256-019-0088-2 244 Munn, L. (2023). The uselessness of AI ethics. AI and Ethics, 3(3), 869–877. https://doi.org/10.1007/s43681-022-00209-w 245 Algoritmekader Algoritmes - Digitale Overheid 80 instrument for Ethical Impact Assessment (EIA).246 The EIA is initially intended to help public sector officials involved in the procurement of AI systems, furnishing them with the set of questions to ask in order to ensure that the AI systems they are purchasing are aligned with the ethical standards set out in the Recommendation. However, it can also be used by developers or others in the private sector and elsewhere to facilitate the ethical design, development and deployment of an AI system. Further debate and research at international level how ‘to close the gap’ seems recommendable. CAPACITY BUILDING",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 46,
+      "title": "Invest in computing power, both in terms of data centres and high-performance computers",
+      "text": "Invest in computing power, both in terms of data centres and high-performance computers",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 47,
+      "title": "However, one must acknowledge that with greater investments into infrastructure, the burden on the environment",
+      "text": "However, one must acknowledge that with greater investments into infrastructure, the burden on the environment also increases. As was discussed previously (reference), investments need to account for the environmental impact of",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 48,
+      "title": "AI. In the Netherlands, municipalities where Big Tech companies are located have raised concerns over their interest",
+      "text": "AI. In the Netherlands, municipalities where Big Tech companies are located have raised concerns over their interest in the region. The sentiment is shared that data centres are located strategically next to green energy wind parks to present users and investors with a sustainable and responsible image, even though these companies might be profiting unfairly from subsidised energy. This could lead to new inequalities as municipalities do not benefit from the green energy that is generated there locally.249 In response to these developments and trends, the Stakeholder Team recommended to commit a greater amount of resources into computing power, both in terms of data centres and high-performance computers. Government response A government that wants to be in control should be a government that, within the existing legal frameworks, can experiment with safe and responsible (generative) AI to help academia, the private sector and public organisations discover where risks and opportunities lie in specific applications. Against this background, the former Dutch 246 Ethical Impact Assessment | Global AI Ethics and Governance Observatory 247 Stolwijk, C., Punter, M., Timmers, P., Rabbie, J., Regeczi, D., & Dalmolen, S. (2024). Towards a sovereign digital future – the Netherlands in Europe. TNO. 248 Sastry, G. et al. (2024). Computing Power and the Governance of Artificial Intelligence. Centre for the Governance of AI. https://www.governance.ai/post/computing-power-and-the-governance-of-ai 249 Lammers, J., & Hettema, B. (2021, February 25). Amerikaanse techgiganten vestigen zich graag in de Nederlandse polder, waar ze profiteren van gesubsidieerde groene energie. EenVandaag. https://eenvandaag.avrotros.nl/item/amerikaanse-techgiganten-vestigen-zich- graag-in-de-nederlandse-polder-waar-ze-profiteren-van-gesubsidieerde-groene-energie/ 81 government announced it was to investigate the establishment of a public national AI testing facility for responsible generative AI in the N",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 49,
+      "title": "Strengthening the AI ecosystem is also high on the European political agenda. On 24 January 2024, the European",
+      "text": "Strengthening the AI ecosystem is also high on the European political agenda. On 24 January 2024, the European Commission launched the AI Innovation Package, which introduced the concept of an AI factory.252 The importance of investing in AI is also reflected in Mario Draghi's recently published report on the future of European competitiveness253, and the priorities of the new European Commission for the period 2024-2029.254 The Commission announced to ensure access to new, tailored supercomputing capacity for AI start-ups and industry through an “AI Factories initiative” in the first 100 days of its mandate. The European supercomputer innovation program 'European High Performance",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 50,
+      "title": "Computing Joint Undertaking' (EuroHPC JU) has organised a call for the co-financing of AI factories in Member States.",
+      "text": "Computing Joint Undertaking' (EuroHPC JU) has organised a call for the co-financing of AI factories in Member States. The Dutch government is currently exploring the options for participation, also urged by members of parliament255, while taking into consideration the effects on the landscape and energy- and water usage.256 Additionally, the regional economic and social benefit is being explored. Depending on available funding from several sources the Dutch government, together with Dutch stakeholders, intends to submit a proposal for an AI facility in the Netherlands before the third assessment deadline, which closes in early May.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 51,
+      "title": "Develop capacities to design policy that addresses digital and media literacy throughout all layers of",
+      "text": "Develop capacities to design policy that addresses digital and media literacy throughout all layers of society",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 52,
+      "title": "Digital literacy in marginalized communities remains a critical area for policy improvement, particularly in the age of",
+      "text": "Digital literacy in marginalized communities remains a critical area for policy improvement, particularly in the age of AI, where divides can exacerbate existing inequalities.257 As AI-driven technologies become increasingly embedded in education, healthcare, and employment, those lacking basic digital skills are at a greater disadvantage.258 For marginalized groups, limited access to digital infrastructure and literacy means they miss out on opportunities to leverage tools that can enhance learning, job prospects, and access to services. Without targeted policies to improve digital literacy and ensure equitable access to AI technologies, these communities risk being left further behind in a rapidly evolving digital economy. Addressing this gap is essential for ensuring that AI benefits are distributed inclusively, empowering all sectors of society and creating a stronger societal support base for the digital economy. The Netherlands’ Stakeholder Team flagged that digital literacy in the context of marginalized communities remains a policy area for improvement.259 In response, the stakeholders recommended to develop capacities to design policy that addresses digital literacy throughout all layers of society. To do so, civic engagement and the participation of civil society in policy making was proposed as valuable method to follow. 250 Kabinet presenteert visie op generatieve AI | Nieuwsbericht | Rijksoverheid.nl 251 Regeerprogramma (overheid.nl), page 122. 252 Commission launches AI innovation package (europa.eu) 253 EU competitiveness: Looking ahead - European Commission (europa.eu) 254 e6cd4328-673c-4e7a-8683-f63ffb2cf648_en (europa.eu) 255 Motie van het lid Kathmann (16/01/2025). 256 Kamerbrief verkenning mogelijkheden AI-faciliteit | Kamerstuk | Rijksoverheid.nl; Motie van het lid Kathmann (16/01/2025); Motie van het lid Vermeer (16/01/2025). 257 This was particularly recognized in the context of generative AI (Hendawy, 2024). 258 Gonzales, S. (2024, August 6).",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 53,
+      "title": "Technological developments, such as the development of generative AI, increase the production and dissemination of",
+      "text": "Technological developments, such as the development of generative AI, increase the production and dissemination of disinformation. Distinguishing between reliable, objective and factual news and disinformation is becoming increasingly confusing. In addition, AI technology can facilitate microtargeting, posing risks both to privacy and personal autonomy. This necessitates further efforts to increase media literacy among various target groups in order to prevent less digitally adept people from falling behind as well as protecting them from potentially negative effects of AI. In the Netherlands, the Dutch Network on Media Literacy helps foster media literacy among Dutch society, focussing on both resilience against risks and the opportunities AI offers. In the entire educational system, skills such as critical and structured thinking are becoming increasingly necessary. In this context, the reform of the curriculum for primary and secondary education is important. The new core educational objective on digital literacy as recently launched for primary and secondary education, considers four domains: 1) practical ICT skills, 2) media literacy, 3) digital information skills, 4) computational thinking. Students will acquire knowledge about digital technology, learn how to collaborate with them in a critical and (self)conscious manner, and assess the opportunities and risks involved in using them, which is all very relevant for AI. The AI Act lists a number of factors that weigh in when promoting AI literacy, but these need further fleshing out to provide sufficient guidance. In the context, the Dutch privacy authority has published a short guide to promote AI literacy within organizations that develop AI-systems.260 The Dutch government has an active policy to address disinformation and fake news, taking into account new possibilities based on AI. In its letter of 17 June 2024 it has reported its progress to Dutch parliament.261 Promoting media literacy of Dutch citizens ",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 54,
+      "title": "Continue providing means to facilitate compliance with the AI Act and other regulations under the",
+      "text": "Continue providing means to facilitate compliance with the AI Act and other regulations under the Digital Single Market",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 55,
+      "title": "Stakeholders from industry highlighted the lack of practical clarity in regulatory instruments related to AI-based services",
+      "text": "Stakeholders from industry highlighted the lack of practical clarity in regulatory instruments related to AI-based services and products. Most recently, this was iterated in the ministerial declaration of the D9+ Ministerial Meeting in",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 56,
+      "title": "Copenhagen where the group called on the next Commission “to prioritize the implementation of the newly adopted",
+      "text": "Copenhagen where the group called on the next Commission “to prioritize the implementation of the newly adopted legislation, and review the acquis of digital regulation focusing on its effectiveness, efficiency, coherence and the impact of cumulative digital regulation on innovation and competitiveness with a view to identify synergies, undue burdens and gaps in the Digital Single Market’s regulatory framework”.262 Similarly, the observation on facilitating regulatory compliance for industry was highlighted by a recent position paper by VNO-NCW and MKB-Nederland – two industry representative groups – to the members of the Netherlands Standing Committee for Digital Affairs. Specifically, the 260 Aan de slag met AI-geletterdheid | Autoriteit Persoonsgegevens 261 Kamerbrief over voortgang Rijksbrede strategie voor de effectieve aanpak van desinformatie en aankondiging nieuwe acties | Kamerstuk | Rijksoverheid.nl 262 D9+. (2024, September 27). D9+ Ministerial Meeting in Copenhagen, 27th of September 2024—Ministerial Declaration. D9+. https://cepa.org/article/the-danish-d9-answer-to-europes-digital-challenges-more-denmark/ 83 position paper calls for “a harmonized practical explanation of the complex legal rules is of great importance for promoting the development and application of AI. Standards play an important role in this. Supervisors have a role to support companies, large and small, preventively, and proactively in the practical application of the complex legal rules and thus contribute to limiting the high regulatory burden”.263 It is worthwhile to note that the European Union has taken action on this. Notably, by setting up procurement grants to develop “harmonised frameworks, tools and infrastructure at European level to support compliance with the AI Act that have been tested in practice by under-resourced SMEs and public authorities”.264 The Netherlands can play an important role here and one suggested approach is to assess how rules and regulations interplay",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 57,
+      "title": "December 2024, the Netherlands has addressed the theme of better regulation in the digital domain and proposed",
+      "text": "December 2024, the Netherlands has addressed the theme of better regulation in the digital domain and proposed to particularly discuss the burden for SMEs in next Council meetings. The Netherlands has also welcomed the announcement by the European Commission to prioritise an assessment that would identify whether the digital acquis – all agreed EU regulation in the digital domain - reflect the needs of SMEs. The Dutch government has called upon the European Commission to strictly enforce the evaluation clauses of the legislation under the digital rulebook.265 Additionally, the Dutch government has spoken out in favour of a review of the entire digital rulebook as a whole when all laws have been implemented. Through such a review, the effectiveness and interplay of the legislation can be mapped and improved. The Dutch government is working on establishing regulatory sandboxes for the AI Act. In 2024, a pilot was conducted to gather information on the practical aspects of operating a sandbox and to receive input from stakeholders. An important aspect of the AI Act sandbox is ‘regulatory learning’. According to this principle, the insights and learned lessons from regulatory sandboxes on the application of the AI Act should be shared broadly within the AI-ecosystem and with policy makers. An important point of attention for the Dutch government in the further implementation is how regulatory sandboxes can contribute to harmonised application of the AI Act.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 58,
+      "title": "Develop a coherent and unified strategy to retain and attract talent around AI",
+      "text": "Develop a coherent and unified strategy to retain and attract talent around AI For the Netherlands, attracting AI talent from abroad is particularly important due to the country's ambitions. While it boasts a strong educational system, the Stakeholder Team has observed that the demand for specialized AI skills exceeds the supply of homegrown talent. To maintain its competitive edge in the global AI race, the Netherlands needs to attract top-tier international talent to bridge these gaps. 263 VNO-NCW & MKB-Nederland. (2024, October 1). Position paper VNO-NCW en MKB-Nederland t.b.v. Rondetafelgesprek Normuitleg en toezicht Artificiële Intelligentie d.d. 10 oktober 2024 [Letter to Vaste Kamercommissie voor Digitale Zaken]. https://www.tweedekamer.nl/kamerstukken/detail?id=2024Z14920&did=2024D36398 264 Refer to “EU AI Innovation Accelerator preparatory action” EU Funding & Tenders Portal 265 Kamerbrief met geannoteerde agenda formele Telecomraad 21 mei 2024 | Kamerstuk | Rijksoverheid.nl 84",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 59,
+      "title": "Developing and retaining talent in the Netherlands is also a matter of ensuring diversity and inclusion, which is not yet",
+      "text": "Developing and retaining talent in the Netherlands is also a matter of ensuring diversity and inclusion, which is not yet fully integrated into the country's AI sector. Although the Netherlands is known for its open, multicultural society, there is still work to be done in creating diverse teams that represent a variety of backgrounds, perspectives, and experiences. This diversity is essential for addressing biases in AI models and ensuring that the technology benefits all sectors of society266. Furthermore, building inclusive talent pipelines that encourage participation from women, minorities, and underrepresented groups will be critical to both the ethical and practical development of AI technologies. The Dutch government and institutions have acknowledged this challenge and yet, the Stakeholder Team has advised for more deliberate efforts to integrate these diverse perspectives into AI development. To attract and nurture talent, the Netherlands could enhance its international collaborations to foster a more orchestrated effort in knowledge exchange. Dutch universities and research institutions already have strong ties to",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 60,
+      "title": "European and global partners267, but there is room for more structured and frequent exchanges of expertise.",
+      "text": "European and global partners267, but there is room for more structured and frequent exchanges of expertise. Strengthening collaborations with other hubs internationally and other parts of Europe can help the Netherlands remain at the forefront of AI advancements. Such exchanges—whether through academic partnerships, joint research initiatives, or cross-border innovation projects—will allow practitioners to continuously update their skills, learn from global best practices, and contribute to a shared global vision for AI development. In reflection to these observations, it was recommended that the Netherlands develop a coherent and unified strategy to retain and attract talent around AI. This ought to include plans on attracting foreign talent (both technical and non- technical), plans on diversity and inclusion, as well as knowledge exchanges. Government response The Dutch government is committed to developing and retaining AI talent, so that we can develop (generative) AI that meets European norms and values. This is also of added value for the digital open strategic autonomy of Europe.",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 61,
+      "title": "Through the Action Plan Green and Digital Jobs, the government is tackling the issue of labour market shortages in",
+      "text": "Through the Action Plan Green and Digital Jobs, the government is tackling the issue of labour market shortages in the climate and digital transition.268 The AINed program is an example of an initiative focused at the implementation of digital technology by businesses. In 2024, this cabinet also announced the National Strengthening Plan for Microchip-talent. This plan aims to train additional technical talent for the microchip industry as soon as possible. This is badly needed and urgent: up to and including 2030, the expectation is that there is a growth in the talent need of 38,000 additional technically trained people. To improve the location climate for the microchip industry in the Netherlands, there is more than 2 billion available from the central government. Specifically for the talent task, up to and including 2030, € 450 million is incidentally available and from 2031 € 80 million per year is structurally reserved.269 The Dutch government is also exploring the (necessary) investments in large-scale scientific and technological infrastructure (including supercomputers and computational power) at the national and EU level to be competitive in the field of LLMs (Large Language Models) and other forms of (generative) AI, which will attract and retain talent. 266 Georgieva, I., Lazo, C., Timan, T., & van Veenstra, A. F. (2022). From AI ethics principles to data science practice: A reflection and a gap analysis based on recent frameworks and practical experience. AI and Ethics, 2(4), 697–711. https://doi.org/10.1007/s43681-021-00127-3 267 OECD & European Commission. (2018). Overview of the higher education system in the Netherlands. In Supporting Entrepreneurship and Innovation in Higher Education in The Netherlands (pp. 25–48). OECD. https://doi.org/10.1787/9789264292048-7-en 268 Overzicht acties groene en digitale banen | Kamerstuk | Rijksoverheid.nl 269 Kamerbrief over voortgang Nationaal Versterkingsplan van Microchip-talent | Kamerstuk | Rijksoverheid.nl 85",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    },
+    {
+      "number": 62,
+      "title": "Lastly, through the EU Digital Decade goals, the Netherlands is committed to increase the amount of ICT-specialists",
+      "text": "Lastly, through the EU Digital Decade goals, the Netherlands is committed to increase the amount of ICT-specialists and to stimulate the use of AI in the business sector. 86",
+      "dimension": "INSTITUTIONAL FRAMEWORKS AND GOVERNANCE",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 62,
+  "page_count": 96
+}

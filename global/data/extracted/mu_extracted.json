@@ -1,0 +1,523 @@
+{
+  "country_code": "MU",
+  "country_name": "MAURITIUS",
+  "language": "en",
+  "metadata": {
+    "page_count": 40,
+    "creation_date": "D:20260217122827+01'00'",
+    "modification_date": "D:20260220112843+01'00'",
+    "country_name": "MAURITIUS",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "5\nTABLE OF CONTENTS\nACKNOWLEDGEMENTS\b\n2\nTABLE OF CONTENTS\b\n5\nACRONYMS AND ABBREVIATIONS\b\n7\nFOREWORD  \b\n8\nEXECUTIVE SUMMARY\b\n10\nDIAGNOSIS OF THE NATIONAL AI LANDSCAPE\b\n12\nGENERAL QUESTIONS\b\n12\nLEGAL AND REGULATORY \b\n14\nAI POLICY AND REGULATION\b\n14\nDATA PROTECTION AND PRIVACY LAWS\b\n14\nDATA SHARING AND ACCESSIBILITY \b\n15\nPROCUREMENT LAWS AND POLICIES \b\n15\nFREEDOM OF INFORMATION LAW\b\n15\nDUE PROCESS AND ACCOUNTABILITY\b\n15\nONLINE SAFETY AND INTEGRITY OF SPEECH\b\n16\nPUBLIC SECTOR CAPACITY \b\n16\nSOCIAL/CULTURAL\b\n17\nDIVERSITY, INCLUSION AND EQUALITY \b\n17\nPUBLIC ENGAGEMENT AND TRUST\b\n17\nENVIRONMENTAL AND SUSTAINABILITY POLICIES \b\n18\nHEALTH AND SOCIAL WELLBEING\b\n18\nCULTURE\b\n18\nSCIENTIFIC/EDUCATIONAL\b\n19\nRESEARCH AND INNOVATION \b\n19\nEDUCATION\b\n19\nTECHNICAL AND INFRASTRUCTURAL \b\n21\nINFRASTRUCTURE & CONNECTIVITY\b\n21\nCOMPUTING CAPABILITIES \b\n21\n\n6\nOVERVIEW OF IN-COUNTRY CONSULTATIONS \b\n22\nNCF MEETINGS\b\n22\nFIRST CONSULTATION      \t                                                             \t                                                               22\nSECOND CONSULTATION                                                                      \t\n                                       23\nTHIRD CONSULTATION\t\n                                                                           \t                                                        \t\n                                              \t                                                                                                                          25\nPOLICY RECOMMENDATIONS AND ROADMAPS FOR ACTION\b\n26\nA. REGULATORY FRAMEWORKS                                                                                                     \t\n27\n1.\t\nCONDUCT A NEEDS ASSESSMENT OF MAURITIUS’ AI LANDSCAPE IN LINE WITH THE \nRAPID AI EVOLUTION.\b\n27\n2.\t\nUPDATE THE NATIONAL AI STRATEGY\b\n27\nB. INSTITUTIONAL FRAMEWORKS                                                             \t                                            29\n3.\t\nEMPOWER STRATEGIC LEVEL EXECUTIVES TO BETTER UNDERSTAND THE \nPOTENTIALS AND IMPLICATIONS OF AI ADOPTION\b\n29\n4.\t\nENHANCE PUBLIC SECTOR COLLABORATION \b\n29\n5.\t\nMANAGE THE AI HYPE \b\n30\n6.\t\nFOSTER A CULTURE OF ETHICAL AI RESEARCH\b\n31\n7.\t\nTECHNOLOGY:  INITIATE AND IMPROVE POTENTIAL COLLABORATIONS      WITH THE \nMOST POWERFUL AI ORGANISATIONS GLOBALLY\b\n32\n8.\t\nSKILLSET: FUND AND IMPLEMENT NEW EDUCATION AND RESEARCH INITIATIVES ON \nAI\b\n32\n9.\t\nDATA: ADDRESS THE DATA GAP\b\n33\nCONCLUSION\b\n35\nSUMMARY OF THE NATIONAL AI STRATEGY OF 2018\b\n37\n\n7\nACRONYMS AND ABBREVIATIONS\nAI : Artificial intelligence\nBPO: Business Process Outsourcing\nCERT-MU: Computer Emergency Response Team of Mauritius\nCIO: Chief Information Officer\nDPA: Data Protection Act\nDPO: Data Protection Office\nGDP: Gross Domestic Product\nHEC: Higher Education Commission\nICT: Information and Communication Technology\nICTA: Information and Communication Technology Authority\nIT: Information Technology\nITU: International Telecommunication Union\nLLM: Large Language Model\nMDPA: Mauritius Digital Promotion Agency\nMETC: Mauritius Emerging Technologies Council\nMITCI: Ministry of Information Technology, Communication and Innovation\nMIoD: Mauritius Institute of Directors\nML: Machine Learning\nNCF: National Consultation Forum\nODC: Open Data Charter\nRAM: Readiness Assessment Methodology\nR&D: Research and Development\nSIDS: Small Island Developing States\nSLO: The State Law Office\nSTEM: Science, Technology, Engineering and Mathematics\nUNESCO: United Nations Educational, Scientific and cultural Organization\n\n8\nFOREWORD  \nWe have officially entered the Age of Artificial Intelligence. The world is now set to change at a pace not seen in decades, even \ncenturies. AI-based tools and applications make our lives easier, smoother, and richer. They help us move efficiently, get informed, \nget credit, get a job, and get our taxes done.\n \nBut in its current form, AI reproduces and amplifies many of the social challenges we face. It is not acceptable that around a third \nof the world’s population still lacks adequate internet access. Upstream, the AI industry is highly concentrated, with just two \ncountries – the United States and China – and a dozen companies accounting for a major share of the sector. This can lead only \nto greater inequality of outcomes – including gender disparities – downstream. Non-diverse AI teams, unrepresentative datasets, \nand opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or \nindividuals, children and young people, women, or entire democracies.\n \nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 \ncountries to make sure AI delivers fair, sustainable, and inclusive outcomes. The Recommendation is based on the protection and \npromotion of human rights, human dignity, and environmental sustainability, and these values are then translated into principles \nsuch as accountability, transparency, and pri",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "MITCI should collaborate with the Ministry of Gender to increase female participation in STEM-related areas and address biased AI outcomes, particularly as the development of AI algorithms is male dom",
+      "text": "MITCI should collaborate with the Ministry of Gender to increase female participation in STEM-related areas and address biased AI outcomes, particularly as the development of AI algorithms is male dominated. The many initiatives that are already in place should be continued. More emphasis on gender issues and incentives to increase gender parity, should be made to improve inclusivity of AI solutions in the short term.",
+      "dimension": "Social And Cultural",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Similar to the above, MITCI should look to harness the potential of AI in supporting assistive technologies for persons with disabilities to foster inclusive environments for learners with disabilitie",
+      "text": "Similar to the above, MITCI should look to harness the potential of AI in supporting assistive technologies for persons with disabilities to foster inclusive environments for learners with disabilities, including through better and easier accommodation and mobility solutions.",
+      "dimension": "Social And Cultural",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "MITCI should collaborate with the Ministry of Environment to develop a strategy for mitigating the adverse effects of AI on the environment and to investigate how AI might support initiatives to prese",
+      "text": "MITCI should collaborate with the Ministry of Environment to develop a strategy for mitigating the adverse effects of AI on the environment and to investigate how AI might support initiatives to preserve and protect the natural environment, including from a natural disaster risk reduction perspective, using AI to enhance preparedness, monitor, prevent,address , and respond to risks associated with climate change in a SIDS.",
+      "dimension": "Social And Cultural",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "The upcoming digital health bill should receive support from institutions such as METC to include more adequate provisions for digital emerging technologies including anticipation on issues of consent",
+      "text": "The upcoming digital health bill should receive support from institutions such as METC to include more adequate provisions for digital emerging technologies including anticipation on issues of consent, accountability, patient/doctor responsibility and ethical dilemmas concerning the use of AI to provide medical assistance.",
+      "dimension": "Social And Cultural",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "MITCI should collaborate with the Ministry of Culture to develop a strategy for using AI to help preserve local cultural heritages.",
+      "text": "MITCI should collaborate with the Ministry of Culture to develop a strategy for using AI to help preserve local cultural heritages. The challenges and opportunities brought about by AI in the cultural and creative industry sector should also be looked into closely, including dimensions pertaining to intellectual property and copyrights.",
+      "dimension": "Social And Cultural",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "The Ministry of Youth Empowerment, Sports and Recreation should prime itself for the increasingly relevant role that AI plays in the sports sector.",
+      "text": "The Ministry of Youth Empowerment, Sports and Recreation should prime itself for the increasingly relevant role that AI plays in the sports sector. Although this is generally ignored in current AI development discussions, key areas of AI relevance in Sports include sports science (e.g using computer vision to analyse player movement and enhance injury prevention actions), enhancing athletes performance through big data analytics of gaming strategies and performance trends, doping detection, sport equipment design, E-sports and gaming, and the sports betting industry. A good starting point is innovation (whether in adoption or creation of local solutions) and the preparedness to tackle the risks it poses – not the least of which is contextual adaptability in a sector that is heavily designed for maximising social human interactions. 29 Action 2a: Discuss policies and/or regulations as part of an updated national AI strategy. Time frame for this is estimated to be 3 months with the process to be driven by MITCI. Action 2b: Review sector-based progress of the existing strategy and propose corrective measures based on recent learnings. Redefine priority sectors as needed based upon the evolution of the Mauritian economy and the updated socioeconomic contexts highlighted above. Time frame to achieve this review is estimated to be 6 months and to be driven by the METC. B. INSTITUTIONAL FRAMEWORKS The NCF discussions noted that in light of the pervasive nature of AI technologies and the ever increasing risks that they pose, there is need for strategic and institutional leadership to boost public and private sector leaders’ capabilities to harness AI’s potential, strengthen collaboration between government ministries and agencies to deliver strategically on AI-related initiatives, manage the AI hype, and foster a support environment for ethical AI research. These recommendations are discussed in detail below: 3. EMPOWER STRATEGIC LEVEL EXECUTIVES TO BETTER UNDERSTAND THE PO",
+      "dimension": "Social And Cultural",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "AI research groups or institutions should embed experts in law, ethics and the social sciences in their organisations.",
+      "text": "AI research groups or institutions should embed experts in law, ethics and the social sciences in their organisations. Other measures such as joint undergraduate courses/degrees and multidisciplinary journal clubs, reading rooms, departmental seminars or conferences can further foster interdisciplinary thinking and collaboration.",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "AI research funding institutions such as the Mauritius Research and Innovation Council and HEC should evaluate grant proposals for their ethical and societal implications. Ethical review processes are",
+      "text": "AI research funding institutions such as the Mauritius Research and Innovation Council and HEC should evaluate grant proposals for their ethical and societal implications. Ethical review processes are starting to be implemented in some international AI conferences such as Neural Information Processing Systems 202440. For Mauritius to benefit from these measures, it must provide its AI researchers with access to the relevant training and best practices to properly prepare their submissions, as well as financial support to attend such events.",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Undergraduate and graduate computer science programs should mandate ethics courses or ethics components in AI and deep learning courses.",
+      "text": "Undergraduate and graduate computer science programs should mandate ethics courses or ethics components in AI and deep learning courses. Ethics components in graduate student committee meetings or theses could be introduced, and ethics checklists can be implemented for use at the beginning of a student project, followed by periodic check-ins. University administration or departments will need to provide resources and funding for some of these measures to be sustainable. 39 Gartner (2023, August 16). ‘Gartner Places Generative AI on the Peak of Inflated Expectations on the 2023 Hype Cycle for Emerging Technol- ogies’. https://www.gartner.com/en/newsroom/press-releases/2023-08-16-gartner-places-generative-ai-on-the-peak-of-inflated-expectations-on-the- 2023-hype-cycle-for-emerging-technologies 40 See Neurips (2023). 2023 Ethics Guidelines for Reviewers. https://nips.cc/Conferences/2023/EthicsGuidelinesForReviewers – which sets out guidelines for ethics review of paper submissions. The 2023 guideline were adopted and updated for the Neurips 2024 conference, with reflections on updates published here https://blog.neurips.cc/2023/12/09/reflections-on-the-neurips-2023-ethics-review-process/ 32 Action 6: Investigate promotion and implementation of measures to increase research culture in AI ethics. To be led by METC in collaboration with HEC and the tertiary education department of the Ministry of Education. The time frame is 1 year. C. Capacity building and Training The final cluster of recommendations is about improving Mauritius’ technical, infrastructure, and human capital capabilities in AI. Three areas of focus are recommended: technology, skillset, and the data gap. 7. TECHNOLOGY: INITIATE AND IMPROVE POTENTIAL COLLABORATIONS WITH THE MOST POWERFUL AI ORGANISATIONS GLOBALLY The local AI industry in Mauritius would benefit tremendously from collaboration with some of the world’s top AI companies through expertise sharing and technology transfer. As part of promoting ",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Review and enhance funding mechanisms.",
+      "text": "Review and enhance funding mechanisms. Current mechanisms for funding and incentivizing human capital development should be continually monitored and evaluated. Consider reassessing compensation structures for funding instruments that support advanced human capital development. This revision should facilitate international collaboration networks and prevent experts from returning without suitable academic or industry positions.",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "The government must increase expenditure on research.",
+      "text": "The government must increase expenditure on research. The private sector should also be encouraged to contribute more to research activities to benefit from innovative solutions. To begin, the government must allocate resources for industry-university collaboration to support domain-specific AI development, prioritise sectors highlighted in the updated AI strategy. More initiatives such as the collaborative public-private sectors research grants need to be devised and funded. Enhanced incentives must be discussed with partners from academia with the proposed interministerial workgroup, with a view to increasing the amount and quality of AI research outputs.",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Evaluate the Digital Transformation Strategy in Education.",
+      "text": "Evaluate the Digital Transformation Strategy in Education. Monitor and assess outcomes of the current Digital Transformation Strategy in Education to gauge its effectiveness and relevance in building human capital for AI. Based on these evaluations and lessons learned, consider the establishment of specific laws or policies related to the use of AI in the education system. 33",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Promote the development and integration of PhD holders into the industry.",
+      "text": "Promote the development and integration of PhD holders into the industry. This can be done by commissioning the Higher Education Commission (HEC) to design, pilot and implement measures such as establishing collaborative PhD programs with industry partners, offering funding for research internships in the industry, and tax incentives for companies hiring PhD holders.",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Incorporate AI and ethics awareness into school curricula.",
+      "text": "Incorporate AI and ethics awareness into school curricula. Recent curriculum transformations incorporating elements of computational thinking, critical thinking, programming, AI, and ethics are still optional and therefore not offered to all students. This report recommends initiating a comprehensive review process that not only identifies the curriculum components requiring modification and incorporation but also develops a plan for updating and providing teacher training to accommodate these changes.",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Support teacher training in AI use",
+      "text": "Support teacher training in AI use: The Ministry of Education has already started these discussions, through the ‘AI in Education’ project. The Ministry should scale such initiatives by developing support guides for all teachers in the use of AI and related tools. This ongoing support will be crucial in enhancing educators’ capabilities to integrate AI and related subjects into the school curriculum.",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Collect and maintain data for human capital development in AI, in collaboration with higher education institutions.",
+      "text": "Collect and maintain data for human capital development in AI, in collaboration with higher education institutions. This data should encompass metrics like enrollment and graduation rates, with a particular focus on identifying and addressing gender disparities. These statistics can be gathered and shared for research purposes through existing educational institutions, such as the HEC. Action 8: Implement the proposals set out above to close the AI skills gap. To be led by the Ministry of Education, with the support of MITCI, METC and MDPA. Time frame is 2 years. 9. DATA: ADDRESS THE DATA GAP Most AI applications, specifically ML and deep learning algorithms, rely critically upon data to produce targeted results. Inadequate, poor quality, and biased data are well-known challenges in building ethical AI systems. This issue is global but is compounded by peculiar factors in Mauritius. For example, while a significant number of datasets are available as part of the open dataset repository managed by the MDPA, the breadth of data available, usually government-based data, could be viewed as limited for purposes of advanced analytics. Hence, there is a need to augment or supplement with data from other sources, but data merging between different dataset technologies is a recurrent challenge that can inhibit creation of beneficial datasets. Furthermore, many organisations either do not have enough data or have data that is not available in machine-readable formats. Although e-government initiatives have begun, many private and public institutions have historically relied on paper-based data. Thus, for applications requiring long series data, converting paper-based data to digital formats will require substantial efforts and resources. Action 9: Improve capability to capture and generate datasets whilst promoting data engineering and improving data scientists’ skill sets. To be conducted by MDPA in collaboration with academic institutions. Timeframe is 1 year. 34 The table ",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 16,
+  "page_count": 40,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY AI POLICY AND REGULATION The 2018 AI strategy was driven by the Ministry of Finance and Economic Development and was proposed by a working group.",
+        "The strategy focused on proposing projects based on priority areas, taking a vertical approach toward AI strategy and potentially subsequent recommendations that could result in policies.",
+        "The strategy mentions and discusses briefly the impact of ethical considerations for the use of AI.",
+        "Similarly, the potential impact of AI upon human rights is touched upon in the section mentioning challenges with implementation of AI focusing mostly upon loss of jobs, but there are no dedicated, detailed and comprehensive discussions focusing on other critical aspects such as how human rights mig",
+        "The working group submitted a proposed strategy and recommended that implementation aspects be addressed by the Mauritius AI Council (MAIC).",
+        "Thus, the METC is the public body responsible for implementing sensible proposals regarding AI strategies for Mauritius.",
+        "In addition, Mauritius needs to conduct ethical impact assessments of AI- based tools and reflect on the most effective way to enforce monitoring and evaluation of any policy or regulations as part of any comprehensive strategy, regulations and policies.",
+        "DATA PROTECTION AND PRIVACY LAWS The International Telecommunication Union (ITU)’s 2020 Global Cybersecurity Index4 gives Mauritius a score of 96.89%, which places it on the 17th position globally and 1st in Africa."
+      ],
+      "strengths": [
+        "Mauritius has also adopted a National Cybersecurity Strategy 2023-26.",
+        "The DPA mirrors the GDPR and provides due protection to data users: data owners are provided mechanisms to control use of data; there is a comprehensive notice and consent framework; data privacy impact assessment is required for situations in which risks to data privacy might be high; data minimiza",
+        "HEALTH AND SOCIAL WELLBEING Though there have been mentions of e-health initiatives at various levels – including for example, the newly launched One Patient, One Record13 joint initiative by the Mauritius government and the UNDP which aims to digitise patient healthcare records and testing services"
+      ],
+      "gaps": [
+        "Although no formal and publicly available documented assessment of the strategy is yet available, there is a rethinking discussion to determine the relevance of the strategy to the current context of Mauritius, as elaborated in the preceding section.",
+        "One major challenge with the working group was that only one member could be said to have domain-specific expertise in terms of AI strategic thinking.",
+        "However, it contains no focused and dedicated section on policies and regulations that would promote ethical development and use of AI in Mauritius.",
+        "Mauritius has not yet implemented any binding AI regulations, soft law or policies, but at the level of the METC and Ministry of Information Technology, Communication and Innovation (MITCI), discussions have commenced about AI policies and even some regulations.",
+        "The results of the UNESCO Readiness Assessment Methodology (RAM) could prove to be a boon to the institution of policies or regulations, in that the RAM implies clearly that aspects of the Mauritius AI landscape such as budgetary concerns related to some AI strategy need to be addressed.",
+        "‘Mauritius: Data transfer provisions and the lack of data portability provisions’.",
+        "https://www.dentons.com/en/ insights/articles/2022/october/14/data-transfer-provisions-and-the-lack-of-data-portability-provisions#:~:text=Despite%20the%20various%20similari- ### Page 15 15 proposed and are awaiting feedback from the EC.",
+        "This provision on automated decision making captures crucial aspects of data privacy and data rights in AI development, although the DPA itself makes no explicit reference to AI.",
+        "Certain personal data rights in the DPA, for example, the rights to request the rectification and erasure of personal data, where such data is inaccurate, incomplete, or no longer needed for the intended purpose, would have significant implications for AI applications which rely on the processing of",
+        "However, a reported data sharing framework from 2016 that focuses on data sharing in public administrations with little attention to public/private sector needs and exchanges might need to be reviewed and evaluated."
+      ],
+      "key_stats": [
+        {
+          "stat": "2% higher for men in Mauritius",
+          "context": "ow compared to the global average (ITU latest data shows a gender gap in internet access, which is 2% higher for men in Mauritius, but still lower than the global gap of about 8%)9. In terms of access",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "75.5% of private households have access",
+          "context": "et, little rural/urban disparity is seen in Mauritius (Statistics Mauritius 2022 Census shows that 75.5% of private households have access to the internet in Urban areas compared to 74.6 % in rural ar",
+          "value": 75.5,
+          "unit": "%"
+        },
+        {
+          "stat": "74.6 % \nin rural areas",
+          "context": "ensus shows that 75.5% of private households have access to the internet in Urban areas compared to 74.6 % in rural areas)10. In terms of registration in tertiary-level educational courses related to ",
+          "value": 74.6,
+          "unit": "%"
+        },
+        {
+          "stat": "6.7% between men \nand women in STEM",
+          "context": "y increases as the level of education increases. For example, there is a gender difference of about 6.7% between men and women in STEM-focused doctoral studies in Mauritius10. In terms of projected em",
+          "value": 6.7,
+          "unit": "%"
+        },
+        {
+          "stat": "36.8 % in",
+          "context": "rust in AI technology” indicators. 8 According to the World Bank, Mauritius’ GINI coefficient was 36.8 % in 2017 (latest data), while multidimensional poverty was 0.4% as of the same period. See World",
+          "value": 36.8,
+          "unit": "%"
+        },
+        {
+          "stat": "0.4% as of the \nsame period",
+          "context": "k, Mauritius’ GINI coefficient was 36.8 % in 2017 (latest data), while multidimensional poverty was 0.4% as of the same period. See World Bank (2020, April). Poverty & Equity Brief - Sub-Saharan Afric",
+          "value": 0.4,
+          "unit": "%"
+        }
+      ],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Necessary responses include: • MITCI should collaborate with the Ministry of Gender to increase female participation in STEM-related areas and address biased AI outcomes, particularly as the development of AI algorithms is male dominated.",
+        "More emphasis on gender issues and incentives to increase gender parity, should be made to improve inclusivity of AI solutions in the short term.",
+        "• Similar to the above, MITCI should look to harness the potential of AI in supporting assistive technologies for persons with disabilities to foster inclusive environments for learners with disabilities, including through better and easier accommodation and mobility solutions.",
+        "• MITCI should collaborate with the Ministry of Environment to develop a strategy for mitigating the adverse effects of AI on the environment and to investigate how AI might support initiatives to preserve and protect the natural environment, including from a natural disaster risk reduction perspect",
+        "• The upcoming digital health bill should receive support from institutions such as METC to include more adequate provisions for digital emerging technologies including anticipation on issues of consent, accountability, patient/doctor responsibility and ethical dilemmas concerning the use of AI to p",
+        "• MITCI should collaborate with the Ministry of Culture to develop a strategy for using AI to help preserve local cultural heritages.",
+        "The challenges and opportunities brought about by AI in the cultural and creative industry sector should also be looked into closely, including dimensions pertaining to intellectual property and copyrights.",
+        "• The Ministry of Youth Empowerment, Sports and Recreation should prime itself for the increasingly relevant role that AI plays in the sports sector."
+      ],
+      "strengths": [
+        "Due to the innovative aspects of AI adoption and the fact that many organisations in Mauritius are more reactive instead of adhering to well-planned strategies, the capability to change and adopt new technology seems to be low.",
+        "The 2023 guideline were adopted and updated for the Neurips 2024 conference, with reflections on updates published here https://blog.neurips.cc/2023/12/09/reflections-on-the-neurips-2023-ethics-review-process/ ### Page 32 32 Action 6: Investigate promotion and implementation of measures to increase ",
+        "These stacks would be expected to be the leading methodology for setting up professional commercial AI applications and would be adopted by most AI development companies and developers.",
+        "Consider reassessing compensation structures for funding instruments that support advanced human capital development.",
+        "The private sector should also be encouraged to contribute more to research activities to benefit from innovative solutions.",
+        "This report recommends initiating a comprehensive review process that not only identifies the curriculum components requiring modification and incorporation but also develops a plan for updating and providing teacher training to accommodate these changes."
+      ],
+      "gaps": [
+        "Social and cultural dimensions Outside the legal frameworks, it is crucial for government agencies to take on actions that support the sociocultural, equality and inclusion aspects of AI development and use, including but not limited to gender equality, inclusion of PWDs, and the environmental impac",
+        "Although this is generally ignored in current AI development discussions, key areas of AI relevance in Sports include sports science (e.g using computer vision to analyse player movement and enhance injury prevention actions), enhancing athletes performance through big data analytics of gaming strat",
+        "INSTITUTIONAL FRAMEWORKS The NCF discussions noted that in light of the pervasive nature of AI technologies and the ever increasing risks that they pose, there is need for strategic and institutional leadership to boost public and private sector leaders’ capabilities to harness AI’s potential, stren",
+        "EMPOWER STRATEGIC LEVEL EXECUTIVES TO BETTER UNDERSTAND THE POTENTIALS AND IMPLICATIONS OF AI ADOPTION Without strategic leadership from both the public and private sectors on AI development and uptake, opportunities may be missed because of the fast pace of change and lack of expertise on AI adopti",
+        "The root of the issue is reticence within many government and private organisations to adopt AI due to a combination of lack of knowledge and confidence.",
+        "Top management does not need to know substantially about AI adoption at their level, but they need to rely upon tactical level managers to do so.",
+        "Hence, in 2024, reality should be kicking in with the ‘trough of disillusionment’ phase, marked by abandoned projects that were not diligently set up or planned and general lack of interest.",
+        "University administration or departments will need to provide resources and funding for some of these measures to be sustainable.",
+        "Three areas of focus are recommended: technology, skillset, and the data gap.",
+        "It is important to engage the local pool of AI experts to devise, crosscheck and evaluate existing capabilities, and where capacity is lacking, look to support from Big AI players on the continent."
+      ],
+      "key_stats": [
+        {
+          "stat": "2018 National AI strategy",
+          "context": "sible AI pursuits. The report’s diagnosis of the current national AI landscape, in particular, the 2018 National AI strategy reveals several challenges straddling the legal, regulatory, sociocultural,",
+          "year": "2018"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "To transition towards a more emerging tech economy, it is crucial to get a higher percentage of GDP focused on R&D in general with some significant portion focused on AI in the short term.",
+        "However, data from the OECD AI Policy Observatory15 shows that Mauritius’ leading institution, the University of Mauritius16, has produced about 629 AI-related publications from 2000 till 2023.",
+        "The Center for Security and Emerging Technology’s Country Activity Tracker17 on AI publications by country places Mauritius in the 16th position in Africa and 109th globally on AI publications This shows there is much to be improved on by providing more incentives for research and an easier patent p",
+        "Research and research enablers focused on ethical AI research are extremely minimal at this stage.",
+        "Regarding AI talent innovation output, though the number of AI researchers is unknown and therefore would warrant some official data capture, there are researchers whose main area of focus is AI.",
+        "This denotes that, compared to other countries, the amount of applied AI output is still very low.",
+        "The number of AI-based patents is also unknown but is estimated to be minimal.",
+        "EDUCATION With respect to education strategy connected with AI, the Mauritian government currently runs an Artificial Intelligence (AI) skills development support programme19 which aims to boost university students’ AI skills and to overall improve local capabilities in AI development."
+      ],
+      "strengths": [
+        "For context, other leading Sub-Saharan Africa AI countries, such as South Africa and Nigeria have had their leading institutions, the University of Pretoria and the University of Nigeria, produce about 5,650 and 1,158 AI-related publications, respectively."
+      ],
+      "gaps": [
+        "Data on research output focused on AI is limited.",
+        "While internet use might be more widespread (at 75.5%), a large proportion of this use is for social networking, suggesting that digital literacy remains quite limited in Mauritius.",
+        "Much still needs to be done with regards to integrating AI perspectives into education policies in Mauritius.",
+        "Although ICT and Engineering remain among the top 5 courses of choice for higher education enrolment in Mauritius, the percentage of students enrolling in science and technology-related courses generally has declined over the years, from 29.3 percent in 2015 to 25.1% in 202223.",
+        "Economic Data relative to AI specifics in the job market in terms of AI skill sets and talent concentration are limited, and AI is not considered to be a significant proportion of the local job market.",
+        "However, these ideas will benefit from some review to re-adjust to the current context.",
+        "There is a lack of data relative to the investment and output category as requested by the survey design."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.37% of GDP",
+          "context": "d relative to the world average, government R&D expenditure is low in Mauritius (in 2021, this was 0.37% of GDP, compared to the world average of 1.93)14. To transition towards a more emerging tech ec",
+          "value": 0.37,
+          "unit": "%"
+        },
+        {
+          "stat": "25.1% in",
+          "context": "and technology-related courses generally has declined over the years, from 29.3 percent in 2015 to 25.1% in 202223. One major concern is whether the country’s science and technology human capital is i",
+          "value": 25.1,
+          "unit": "%"
+        },
+        {
+          "stat": "9.9% of total trade in",
+          "context": "ctively26. Generally, high-tech export is equally low – the World Bank estimates this to be about 9.9% of total trade in 202227. Enhanced investment in R&D is important to upscale Mauritius’ innovatio",
+          "value": 9.9,
+          "unit": "%"
+        },
+        {
+          "stat": "0.07% in",
+          "context": ".org/Documents/2022/Acts/ITET%20Act.pdf 25 Business Expenditure on R&D as a percentage of GDP was 0.07% in 2019 (latest data). See Madhou, M., Moosun, S. B., & Nagowah, D. N. M. (2022). 26 Our World i",
+          "value": 0.07,
+          "unit": "%"
+        },
+        {
+          "stat": "$22 million",
+          "context": "sted outputs and solutions. Annual private investment in AI in Mauritius is estimated to be around $22 million as of 2021; compare this to South Africa and Egypt at $383 million and $69 million, respe",
+          "value": 22000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$383 million",
+          "context": "ritius is estimated to be around $22 million as of 2021; compare this to South Africa and Egypt at $383 million and $69 million, respectively26. Generally, high-tech export is equally low – the World ",
+          "value": 383000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$69 million",
+          "context": "ed to be around $22 million as of 2021; compare this to South Africa and Egypt at $383 million and $69 million, respectively26. Generally, high-tech export is equally low – the World Bank estimates th",
+          "value": 69000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "17\t\n Center",
+          "context": "Mauritius Institute of Edu- cation. See data source for a more detailed breakdown by institution. 17 Center for Security and Emerging Technology (n.d) Country Activity Tracker (CAT): Artificial Intell"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "From the operational perspective, the METC has been formed as one of the outcomes of the national AI strategy, and is expected to drive and collaborate on any type of emerging technology initiative.",
+        "From the technological perspective, the burst of LLMs has convinced the global society of the potential and importance of AI, whether in a substantiated or hyped way.",
+        "Amongst the main issues identified regarding AI regulations and policies for Mauritius are the following: • At the strategic level, a structure is needed that would act as an updated think tank examining the national AI strategy, as well as an operational structure for acting upon the recommendation",
+        "• Discussions with different bodies such as the Mauritius Chief Information Officer Association have revealed that leaders of both public and private sector organisations want to be guided to understand, comprehend and act upon the continuously developing AI ecosystem.",
+        "• Some of the expectations of AI could be unrealistic, so general awareness regarding what is possible with AI systems, particularly in light of cost and technology constraints, is needed.",
+        "Recommendation on the Ethics of Artificial Intelligence.",
+        "Mauritius Artificial Intelligence Strategy.",
+        "Currently, major developments in AI are driven by only a few companies."
+      ],
+      "strengths": [],
+      "gaps": [
+        "Due to all these changes, the discussions of priority/important sectors within the 2018 Strategy need to be reviewed and updated.",
+        "• Lack of AI and digital emerging technologies-specific skill-set is a general challenge.",
+        "Although some local initiatives have started, more impactful ones are required, which might require technology transfer and incentives to attract foreign talent.",
+        "https://ncb.govmu.org/ncb/strate- gicplans/MauritiusAIStrategy2018.pdf ### Page 13 13 • The pace of AI development is so staggering, that it is a challenge not only at the regulatory/ policy level but also for training/education and AI life cycles within organisations.",
+        "However, these companies learn from and acquire startups that have made significant technological breakthroughs.",
+        "Hence, the challenge is to get collaboration from BigTech while supporting and developing local solutions that can provide more customised solutions appropriate to the local and regional contexts.",
+        "• Machine learning (ML) and deep learning–based solutions would require data that needs to be prepared and processed through data engineering systems before being fed to algorithms.",
+        "The amount, provenance and general quality of these data needs to be organised in efficient open data systems.",
+        "• The ethical use of AI systems needs to permeate all levels of Mauritian society, from policy makers and AI development partners to the general public making use of AI systems.",
+        "Although Mauritius’s score is low, the country exceeds the average score of 5.8 in Africa."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranked 11th out of",
+          "context": "ed to a 0 -100 range with 100 representing the highest score. According to the Index, Mauritius is ranked 11th out of 40 countries assessed in Africa. The highest-ranked in Africa is South Africa with"
+        },
+        {
+          "stat": "2018 \nStrategy",
+          "context": "ed or hyped way. Due to all these changes, the discussions of priority/important sectors within the 2018 Strategy need to be reviewed and updated. Amongst the main issues identified regarding AI regul",
+          "year": "2018"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Latest data from the ITU28 shows that 75.5 % of Mauritians have access to the internet, compared to the Subsaharan African average of 37.1%, while 48.7 % of households own a computer – second only to Seychelles at 58.7 %.",
+        "COMPUTING CAPABILITIES Mauritius is a well-known data centre destination with around 10 data centres operated by about 5 local and international operators30.",
+        "Hence, access to cloud-based resources is satisfactory and is useful given the strict data protection laws.",
+        "The formulation of a policy taking into consideration AI-driven cloud computing delivery should be integrated within the overall upcoming AI national policies.",
+        "The performance in the sector of data management and governance is once more relatively good.",
+        "Many organisations have well invested in data management infrastructure, skill sets, compliance with regulations and quality of data processes.",
+        "There are no national data management policies, but such policies would not be expected as practices could be industry specific.",
+        "Hence, many organisations, such as those in the financial industry, adopt well known and respected data management guidelines issued by professional bodies in the industry."
+      ],
+      "strengths": [
+        "The number of stakeholders forming the forum was comprehensive in terms of coverage of all dimensions of the RAM survey and to be effective operationally in terms of depth of discussions and time devoted to reach decisions.",
+        "After a round table presentation from each stakeholder present, more details were provided by the country level expert to emphasise that the RAM survey is a comprehensive resource intended to inform national AI strategies by highlighting the institutional, technical, regulatory and ethical gaps in t",
+        "One word of caution related to the fact that AI regulations and/or policies should not be a deterrent to innovative practices.",
+        "The conclusion was that Mauritius has very robust data protection laws that are being actively monitored and reviewed to adapt to the dynamic nature of the technological world.",
+        "Mauritius is not currently involved in leading standardisation of AI and digital technologies, but this could change in the very near future.",
+        "The RAM was considered a comprehensive instrument and was thought to lay the basis for further positive work.",
+        "A timeline of execution must also be established."
+      ],
+      "gaps": [
+        "The average international bandwidth usage has also been on the rise, although this is nowhere near countries like Ghana, Kenya, and South Africa.",
+        "There are no concerning issues in terms of gender inclusivity in access to mobile phones or connectivity (latest ITU Data shows 69 and 66.5 percent access to internet among male and female Mauritian populations, respectively).29 Unfortunately, Mauritius is not yet involved in the process of standard",
+        "For the public sector, no documented data quality control processes exist, which represents an urgent need.",
+        "However, he pointed out that the discussions were not from the perspective of regulations and guidelines but benchmarked from success stories in other countries.",
+        "Most of the stakeholders were not aware of it, which is indicative of its limited diffusion within Mauritian society.",
+        "One of the known outcomes was the creation of the METC, but the feeling from the NCF was that the strategy needs to be reviewed and amended to reflect the current context from operational and technological perspectives.",
+        "The RAM survey was noted to be generic, such as the fact that actions that are in progress but not yet formalised could not be captured directly in the survey.",
+        "However, progress on data openness still remains quite limited, as evidenced by the Open Data Inventory 202231 score, in which Mauritius ranks 89th of 195 countries globally with a score of 52 a decline from its 2020 global rank of 67 and score of 57).",
+        "Thus, the NCF recommended that this framework be cross-checked and amended wherever necessary to adapt to the need for quality data to feed into possible AI systems.",
+        "However, the NCF recommended that the Act be amended to include more specific details relative to AI procurement, such as a list of certified AI vendors or guidelines to select 31 Open Data Watch (n.d)."
+      ],
+      "key_stats": [
+        {
+          "stat": "75.5 % of Mauritians have access to the",
+          "context": "basic digital equipment such as mobile phones or computers. Latest data from the ITU28 shows that 75.5 % of Mauritians have access to the internet, compared to the Subsaharan African average of 37.1%,",
+          "value": 75.5,
+          "unit": "%"
+        },
+        {
+          "stat": "48.7 % of households own a computer",
+          "context": "Mauritians have access to the internet, compared to the Subsaharan African average of 37.1%, while 48.7 % of households own a computer – second only to Seychelles at 58.7 %. The average international ",
+          "value": 48.7,
+          "unit": "%"
+        },
+        {
+          "stat": "17.41% of Male students enrolled in STEM",
+          "context": "latest available data from the Higher Education Commission shows that, for the 2017/2018 session, 17.41% of Male students enrolled in STEM courses, while this figure was only 11.1% for females33 – mos",
+          "value": 17.41,
+          "unit": "%"
+        },
+        {
+          "stat": "11.1% for females",
+          "context": "he 2017/2018 session, 17.41% of Male students enrolled in STEM courses, while this figure was only 11.1% for females33 – most of whom are generally more inclined to study non-STEM courses. Most stakeh",
+          "value": 11.1,
+          "unit": "%"
+        },
+        {
+          "stat": "25.1% in",
+          "context": "ogy-related courses at uni- versity level has declined over the years, from 29.3 percent in 2015 to 25.1% in 2022. See, Higher Education Commission, Government of Mauritius (2023). Participation in Te",
+          "value": 25.1,
+          "unit": "%"
+        },
+        {
+          "stat": "10 data centres",
+          "context": "gency (MDPA). COMPUTING CAPABILITIES Mauritius is a well-known data centre destination with around 10 data centres operated by about 5 local and international operators30. It occupies the 4th position"
+        },
+        {
+          "stat": "11 \ncentres",
+          "context": "s the 4th position on the continent, coming behind South Africa, Kenya and Nigeria, with 37, 12 and 11 centres, respectively. Hence, access to cloud-based resources is satisfactory and is useful given"
+        },
+        {
+          "stat": "30\t\n Data Centre",
+          "context": "p​ment​. https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx Accessed 13th May, 2024. 30 Data Centre Map (n.d). Africa Data Centers. https://www.datacentermap.com/africa/ . Accessed 13th M"
+        },
+        {
+          "stat": "11 data centres",
+          "context": "his is estimated to be about 120,000 people per data centre – compare with Nigeria, with estimated 11 data centres for about 200 million people, or South Africa with about 1.6 million people to each d"
+        },
+        {
+          "stat": "2018 National AI Strategy",
+          "context": "amic basis. 2. UPDATE THE NATIONAL AI STRATEGY The next important policy response is to update the 2018 National AI Strategy, based on recommendations given by the NCF. The 2018 National AI Strategy s",
+          "year": "2018"
+        },
+        {
+          "stat": "120,000 people",
+          "context": "10th May, 2024. 36 With a population of about 1.2 million people, this is estimated to be about 120,000 people per data centre – compare with Nigeria, with estimated 11 data centres for about 200 mill"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "Ethical review processes are starting to be implemented in some international AI conferences such as Neural Information Processing Systems 202440.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Ethics components in graduate student committee meetings or theses could be introduced, and ethics checklists can be implemented for use at the beginning of a student project, followed by periodic check-ins.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Mauritius has not yet implemented any binding AI regulations, soft law or policies, but at the level of the METC and Ministry of Information Technology, Communication and Innovation (MITCI), discussions have commenced about AI policies and even some regulations.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "However, there is no specific policy for procurement of AI systems that would contain, for example, a list of recognized AI systems suppliers.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Even though a national data sharing framework was devised in 2016, the stakeholders did not have a clear understanding of how it has been implemented and whether it has been reviewed and updated.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Even though no digital health policy had been implemented at the time of the survey, it was a matter of high importance with one regulation for digital health being prepared and targeted for 2024.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "On the legal and regulatory front, Mauritius has not yet implemented any binding AI regulations, soft law or policies, and while discussions have begun at the METC and the MITCI levels, current approaches focus too heavily on the economic prospects of AI, with very little discussions around ethics and broader societal inclusion.",
+      "dimension": "legal_regulatory"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 2.0,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "DATA PROTECTION AND PRIVACY LAWS The International Telecommunication Union (ITU)’s 2020 Global Cybersecurity Index4 gives Mauritius a score of 96.89%, which places it on the 17th position globally and 1st in Africa.",
+      "index_name": "Global Cybersecurity Index",
+      "score": 96.89,
+      "year": 2020
+    },
+    {
+      "context": "Data sharing and accessibility Mauritius scored 52 out of 100 in the Open Data Inventory7, which is almost on the median.",
+      "index_name": "Open Data Inventory",
+      "score": 52.0
+    },
+    {
+      "context": "PUBLIC ENGAGEMENT AND TRUST According to the UN’s E-Government Development Index (EGDI), Mauritius has a score of 0.63 on the online services index12, which denotes a relatively good level of services provision– far higher than the Africa average and somewhat higher than the global average.",
+      "index_name": "E-Government Development Index",
+      "score": 0.63
+    },
+    {
+      "context": "However, progress on data openness still remains quite limited, as evidenced by the Open Data Inventory 202231 score, in which Mauritius ranks 89th of 195 countries globally with a score of 52 a decline from its 2020 global rank of 67 and score of 57).",
+      "index_name": "Open Data Inventory",
+      "rank": 89,
+      "score": 52.0,
+      "total_countries": 195,
+      "year": 2022
+    }
+  ]
+}

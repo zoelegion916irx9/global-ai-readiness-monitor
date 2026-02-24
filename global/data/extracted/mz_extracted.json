@@ -1,0 +1,471 @@
+{
+  "country_code": "MZ",
+  "country_name": "MOZAMBIQUE ARTIFICIAL INTELLIGENCE READINESS ASSESSMENT REPORT",
+  "language": "en",
+  "metadata": {
+    "page_count": 45,
+    "creation_date": "D:20250203162000+02'00'",
+    "modification_date": "D:20250429195755+02'00'",
+    "country_name": "MOZAMBIQUE ARTIFICIAL INTELLIGENCE READINESS ASSESSMENT REPORT",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "5\nTABLE OF CONTENTS\nAcknowledgements\t\n2\nTable of contents\t 3\nAcronyms and abbreviations\t\n7\nExecutive summary\t\n8\nIntroduction\t\n13\n⇒\t\nDiagnosis of the national AI landscape\t\n13\n⇒ Methodology\t\n14\n⇒ Limitations\t\n14\n1.\t\nLEGAL AND REGULATORY FRAMEWORK\t\n16\nGuarantee of fundamental rights\t\n18\nData protection and privacy\t18\nAccess to information\t\n19\nHate and online speech\t\n20\n2.\t\nSOCIAL/CULTURAL\t22\nGender gap in Internet use\t 22\nRural/urban gap in Internet use\t\n24\nMale/female tertiary education graduates in STEM programs\t\n25\nDiversity statistics\t 29\nPublic engagement and trust\t\n29\nHealth and social wellbeing\t 30\nEnvironmental and sustainability policies\t\n30\nCulture – AI for the preservation of cultural heritage\t\n30\n3.\t\nSCIENTIFIC/EDUCATIONAL\t 32\nResearch and innovation expenditure\t32\nEthical AI research\t33\nAI talent innovation output\t 33\nEducation strategy\t35\nEducation infrastructure\t\n36\nCurriculum content\t\n37\nEducational attainment\t\n38\n4.\t\nECONOMIC\t\n39\nLabor markets\t\n39\nIntermediate consumption\t 42\nInvestments and output\t\n42\n5.\t\nTECHNICAL AND INFRASTRUCTURAL\t 45\nInfrastructure and connectivity\t\n45\nApplied standards\t47\nComputing capabilities\t\n47\nStatistical performance\t\n48\nROADMAP WITH MAIN POLICY RECOMMENDATIONS\t\n50\nRegulation\t\n50\nInstitutional framework\t\n52\nCapacity building\t 53\nREFERENCES\t\n57\nAnnexures\t\n58\nCONTENTS\nACKNOWLEDGMENT\b\n2\nTABLE OF CONTENTS\b\n5\nACRONYMS AND ABBREVIATIONS\b\n6\nEXECUTIVE SUMMARY\b\n7\nDIAGNOSIS OF THE NATIONAL AI LANDSCAPE\b\n10\nINTRODUCTION\b\n10\nMETHODOLOGY\b\n10\nLIMITATIONS\b\n11\nLEGAL AND REGULATORY FRAMEWORK\b\n12\nGUARANTEE OF FUNDAMENTAL RIGHTS\b\n13\nDATA PROTECTION AND PRIVACY\b\n 13\nACCESS TO INFORMATION\b\n14\nHATE AND ONLINE SPEECH\b\n14\nSOCIAL/CULTURAL\b\n16\nGENDER GAP IN INTERNET USE\b\n16\nRURAL/URBAN GAP IN INTERNET USE\b\n17\nMALE/FEMALE TERTIARY EDUCATION GRADUATES IN STEM PROGRAMS\b\n17\nDIVERSITY STATISTICS\b\n19\nPUBLIC ENGAGEMENT AND TRUST\b\n19\nHEALTH AND SOCIAL WELLBEING\b\n20\nENVIRONMENTAL AND SUSTAINABILITY POLICIES\b\n20\nCULTURE – AI FOR THE PRESERVATION OF CULTURAL HERITAGE\b\n20\nSCIENTIFIC/EDUCATIONAL\b\n22\nRESEARCH AND INNOVATION EXPENDITURE\b\n22\nETHICAL AI RESEARCH \b\n23\nAI TALENT INNOVATION OUTPUT \b\n23\nEDUCATION STRATEGY \b\n24\nEDUCATION INFRASTRUCTURE \b\n24\nCURRICULUM CONTENT\b\n25\nEDUCATIONAL ATTAINMENT\b\n26\nECONOMIC \b\n27\nLABOR MARKETS\b\n27\nINTERMEDIATE CONSUMPTION \b\n29\nINVESTMENTS AND OUTPUT \b\n29\nTECHNICAL AND INFRASTRUCTURAL \b\n31\nINFRASTRUCTURE AND CONNECTIVITY\b\n31\nAPPLIED STANDARDS\b\n32\nCOMPUTING CAPABILITIES \b\n32\nSTATISTICAL PERFORMANCE\b\n33\nROADMAP WITH MAIN POLICY RECOMMENDATIONS\b\n35\nREGULATION\b\n35\nINSTITUTIONAL FRAMEWORK\b\n36\nCAPACITY BUILDING\b\n36\nREFERENCES\b\n39\n\n6\nACRONYMS AND ABBREVIATIONS\nAI: Artificial Intelligence\nCEDSIF: Centre for the Development of Finance Information Systems\nCNSC: National Cyber Security Council\nGDP: Gross Domestic Product\nGERD: Gross Domestic Expenditure on Research and Development\nHEI:  Higher Education Institution\nICT: Information and Communication Technologies\nINAGE: Instituto Nacional de Governo Electrónico (Institute of Electronic Government)\nINCM: Instituto Nacional das Comunicações de Moçambique (National Communications Institute of Mozambique)\nINE: Instituto Nacional de Estatística (National Statistics Institute)\nINTIC: Instituto Nacional de Tecnologias de Informação e Comunicação (National Institute of Information and Communication \nTechnologies)\nITU: International Telecommunication Union\nMCTES: Ministério da Ciência, Tecnologia e Ensino Superior (Ministry of Science, Technology and Higher Education)\nMEF: Ministério da Economia e Finanças (Ministry of Economy and Finance)\nMoRENet: Mozambique Research and Education Network\nSNGRHE: Sistema Nacional de Gestão de Recursos Humanos do Estado (National System for the Management of State Human \nResources)\nSTEM: Science, Technology, Engineering, and Mathematics\nUEM: Eduardo Mondlane University\n\n7\nEXECUTIVE SUMMARY\nIn a landscape shaped by rapid technological advancements and the increasing presence of the digital realm, Mozambique \nstands at the nexus of harnessing the transformative power of artificial intelligence (AI) for societal progress. In collaboration \nwith UNESCO’s Regional Ooffice, this assessment rests at the intersection of technological evolution and ethical imperatives of AI. \nIt emerges as a beacon for Mozambique, not merely as a guide through the intricacies of AI adoption but as a visionary blueprint, \nplacing ethical considerations at its core.\nAccording to the UNESCO recommendations on the Ethics of AI,1 the use of AI systems should not exceed what is required to \nachieve a valid goal. Risks should be assessed to prevent potential hazards from such applications. Unwanted consequences \n(safety risks) and attack vulnerabilities (security risks) should be avoided and addressed by AI stakeholders. Technology must be \ndeveloped in a humanist manner, based on principles and human rights.\nIn Mozambique, as in many developing nations, the journey towards embracing AI unfolds against a backdrop of Internet \nconnectivity ch",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Enact a regulation for the Data Protection Act",
+      "text": "Enact a regulation for the Data Protection Act: • Currently (2024) in the approval phase, it is imperative that the Data Protection Act be accompanied by its own regulation, which will allow strict application of the law. The drafting of such a regulation must be collaborative since data protection involves different sensitivities and sectors. Responsible Institutions: MCTES Timeframe: 2024-2025",
+      "dimension": "Regulation",
+      "timeline": "2024-2025",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Adopt a national agenda on AI",
+      "text": "Adopt a national agenda on AI: • Mozambique must engage in a national debate that seeks to adopt an agenda on priorities to be followed in the field of AI and to define criteria for decisions on whether to adopt different services or technologies that have AI as a central tool. Responsible Institutions: MCTES Timeframe: 2024-2025",
+      "dimension": "Regulation",
+      "timeline": "2024-2025",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Foster integration of ethical principles in the realm of AI",
+      "text": "Foster integration of ethical principles in the realm of AI: • AI development must align with the country’s cultural values and norms. This approach promotes sensitivity to local perspectives, fostering technology that is respectful and inclusive of Mozambican cultural diversity. Integrating ethical principles involves mitigating biases and discriminatory practices in AI algorithms. Mozambique can strive for fairness in AI applications, avoiding the reinforcement of existing social inequalities and ensuring that AI systems treat all individuals equitably. Ethical integration involves actively engaging various stakeholders, including communities, experts, and organizations. This collaborative approach ensures that diverse perspectives are considered, making AI development more inclusive, reflective of societal needs, and less likely to unintentionally marginalize certain groups. In addition, the country’s 36 existing human rights standards form a vital normative foundation for AI ethics principles, including the role for the National Human Rights Commission of Mozambique. Responsible Institutions: MCTES, sectoral ministries, academia, private sector, and civil society organisations Timeframe: 2025-2026",
+      "dimension": "Regulation",
+      "timeline": "2025-2026",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Establish a governance structure for AI regulation",
+      "text": "Establish a governance structure for AI regulation: • A comprehensive framework should be developed that includes legal, ethical, and technical guidelines, ensuring responsible development, deployment, and usage of AI. This structure encompasses regulatory bodies, standards, and oversight mechanisms to address issues such as data privacy, algorithmic transparency, accountability, and fairness, providing a robust foundation for the ethical and effective integration of AI in various sectors within the country. Responsible Institutions: MCTES, sectoral ministries, academia, private sector, and civil society organisations Timeframe: 2025-2026",
+      "dimension": "Regulation",
+      "timeline": "2025-2026",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Establish a Data Protection Agency",
+      "text": "Establish a Data Protection Agency: A dedicated regulatory body with the authority to enforce and oversee data protection laws is needed to ensure responsible handling, processing, and safeguarding of personal information. This agency would play a crucial role in setting standards, investigating data breaches, and promoting a privacy-conscious culture, contributing to the protection of individuals’ rights in the digital landscape and fostering trust in data-driven technologies across the nation.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Responsible Institutions",
+      "text": "Responsible Institutions: MCTES, sectoral ministries Timeframe: 2025-2027 Enhance the gathering of data and statistics concerning the utilization of AI: Robust data and reliable statistics are essential for advancing ethical practices, as they enable comprehensive understanding of how AI technologies are employed across various sectors. This enhanced data collection fosters transparency, accountability, and informed decision-making, providing valuable insights into the ethical implications, societal impact, and potential biases associated with AI applications. These efforts can be accomplished by a new data regulator working in tandem with the National Statistics Bureau.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Responsible Institutions",
+      "text": "Responsible Institutions: MCTES, sectoral ministries, INTIC, National Communications Institute of Mozambique (INCM), Institute of Electronic Government (INAGE), National Statistics Institute (INE) Timeframe: 2025-2027 Develop AI strategies: Deliberate planning and implementation of comprehensive frameworks should be conducted to guide the development, deployment, and ethical use of AI. This strategic approach encompasses defining clear objectives, fostering innovation, and addressing ethical considerations to harness the transformative potential of AI for societal benefit, economic growth, and the advancement of Mozambique’s unique sociocultural context.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Promote skills training in AI",
+      "text": "Promote skills training in AI: • School curricula should be revised to include components of computational thinking, critical thinking, programming, AI, and ethics from an early age. A complete review process is needed that not only identifies curriculum components that need to 37 be changed or added but also creates a plan for updating and providing teacher training to accommodate these changes. Responsible Institutions: MCTES, sectoral ministries Timeframe: 2025-2027",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2027",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Reduce digital gender divides",
+      "text": "Reduce digital gender divides: • Concerted efforts will be needed to diminish disparities in opportunities and representation between genders. This involves implementing policies, educational initiatives, and awareness campaigns to create an inclusive environment that empowers women, addresses gender biases, and ensures equal participation and access to resources in all aspects of society, including the rapidly evolving field of AI. Responsible Institutions: MCTES, sectoral ministries Timeframe: 2025-2027",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2027",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Evaluate the impact of AI and automation on the workforce",
+      "text": "Evaluate the impact of AI and automation on the workforce: • A comprehensive examination should be conducted to understand how advancements in AI and automation affect employment, skills, and job dynamics. This evaluation aims to identify opportunities and challenges, inform strategic workforce planning, and guide the implementation of policies that promote a balanced integration of AI, ensuring that benefits are maximized and potential adverse effects on employment and the overall labour market are mitigated. Responsible Institutions: MCTES, sectoral ministries Timeframe: 2025-2027",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2027",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Strengthen the ability to guarantee intellectual property and copyright",
+      "text": "Strengthen the ability to guarantee intellectual property and copyright: • In the age of AI, fortifying the assurance of intellectual property and copyright demands a holistic strategy. Regulatory frameworks must dynamically adapt to technological shifts, delineating precise guidelines for the creation, ownership, and utilization of AI-generated content. Collaborative efforts between legal experts, tech innovators, and policymakers are indispensable in crafting nuanced legislation. Moreover, integrating AI itself is pivotal—implementing sophisticated algorithms for content tracking and authentication can effectively identify and safeguard intellectual property. Education and awareness initiatives play an equally crucial role in enlightening creators and users about the nuances of AI-generated content and cultivating a culture that respects intellectual property rights. In addition, international cooperation and global engagement are important factors. Responsible Institutions: MCTES, Ministry of Tourism and Culture, sectoral ministries, civil society organisations Timeframe: 2025-2027 Dimension Recommendation Timeframe Priority",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2027",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 11,
+  "page_count": 45,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "The legislative framework within which AI is placed is critical to ensuring ethical deployment of AI systems.",
+        "The legal and regulatory framework should contain effective methods for defending and enforcing citizens’ rights, as well as monitoring, mitigating, and compensating for any unanticipated negative results from the deployment of AI systems.",
+        "Among the legal framework’s examples are legislation governing AI, data protection and privacy, data exchange and accessibility, and freedom of information.",
+        "The Government of Mozambique gave the MCTES (and INTIC) the competence to define legal and regulatory instruments on AI.",
+        "For example, on November 22, 2022, INTIC released a draft Cybersecurity Law; the bill intends to ensure the security of persons and institutions, as well as the protection of digital networks, information systems, and vital infrastructures in cyberspace.",
+        "IIf implemented, the law would create the National Cyber Security Council, which would be chaired by the MCTES and would be responsible for ensuring the alignment of cybersecurity policies, strategies, and other guiding documents.",
+        "24/2019, of December 24, as amended by Law no.",
+        "DATA PROTECTION AND PRIVACY Electronic Transactions Law (Law 3/2017, of January 9) Under the Electronic Transactions Law, a person/entity responsible for processing electronic data must protect personal data against risks, losses, unauthorized access, destruction, use, modification, or disclosure."
+      ],
+      "strengths": [
+        "In general, the Constitution of Mozambique is a comprehensive tool that establishes a foundation for the defence of the essential and fundamental rights, including unrestricted access to information and knowledge, freedom of expression, and freedom of the press."
+      ],
+      "gaps": [
+        "Mozambique does not have specific legislation on AI but does have laws in place that relate to AI (Table 1).",
+        "Further, Article 71 of the Constitution identifies the need to legislate on access, generation, protection, and use of computerized personal data (either by public or private entities).",
+        "However, implementing legislation has not yet been approved.",
+        "Even in the absence of an ordinary or specific framework, many rights in Mozambique have been exercised based on the Constitution of the Republic.",
+        "Although the Electronic Transactions Law (in a separate chapter) handles personal data protection and the Constitution and other sector-specific legislation (e.g., labour law) address privacy and personal information, there is no general data protection law.",
+        "However, Mozambique has ratified the African Union Convention on Cyber Security and Personal Data Protection.",
+        "However, implementation is hindered by provisions that deter access to classified information.",
+        "Moreover, responses to requests for information from the state are limited, and courts have not provided remedies for arbitrary denial of information requests.",
+        "The law does not set out specific rules for taking down policies for online content such as hate speech but rather focuses on terrorism misinformation and disinformation.",
+        "Mozambique does not have legislation specifically focused on false news."
+      ],
+      "key_stats": [],
+      "regulations": [
+        {
+          "name": "Information Technology Policy",
+          "year": "2018",
+          "status": "enacted"
+        },
+        {
+          "name": "Information Law",
+          "year": "2014",
+          "status": "enacted"
+        },
+        {
+          "name": "Cybersecurity Law",
+          "year": "",
+          "status": "draft"
+        },
+        {
+          "name": "Social Communication Law",
+          "year": "",
+          "status": "draft"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "social and cultural diversity, public awareness, and values relevant to scaling up of ethical AI solutions.",
+        "First, if teams developing and deploying AI systems are homogeneous, AI systems may not sufficiently reflect the complexity and diversity of society, and outcomes generated by AI systems may contribute to amplification of structural bias.",
+        "Second, reflection on these factors will address attitudes towards AI technologies, including public acceptance.",
+        "This resource leverages online digital trace data from the Facebook Marketing Application Programming Interface (API) in combination with differ- ent development indicators from sources such as the World Bank and the United Nations (UN) to estimate global digital gender gaps (GG) in internet and mob",
+        "In addition to that, it is still premature to affirm whether Mozambique has a law or policy related to enhancing diversity in the AI workforce.",
+        "Recent data indicate14 that in 2023, a total of 265,517 students in the National Education System, specifically the 11th and 12th grades, chose the Science section, of whom 123,361 were female.",
+        "The data was shared by the Ministry of Education and Human Development at the report’s validation session.",
+        "This is the last available/accurate data."
+      ],
+      "strengths": [
+        "If it existed, such a law could place the country in a pioneering position in the southern African region.",
+        "Cloud Zero (2023 November 2006) “The Leading Countries Breaking Barriers For Women In STEM” Available at: https://www.cloudzero.com/blog/ women-in-stem/ 17.",
+        "For example, during the occurrence of Cyclones Idai and Kenneth in 2019, a lot of data and information that subsidised the inventorying and documentation of movable and immovable cultural heritage assets, as well as the production of the Post disaster Damage and Loss Assessment, was provided to the "
+      ],
+      "gaps": [
+        "GENDER GAP IN INTERNET USE According to the World Bank (2023), the gap in Internet usage between men and women in Mozambique, 9.2, is larger than the gap of the sub-Saharan Africa aggregate, 5.3.",
+        "There is no law or policy to reduce the digital socioeconomic or rural/urban gap in Mozambique.",
+        "ITU Internet Gender Gap – https://www.digitalgendergaps.org/, accessed on 31st December 2023.",
+        "C 1.00 0.90 0.80 0.70 ### Page 17 18 shows a positive trend in terms of reducing the gender gap.",
+        "Figure 3: World Bank – male/female tertiary education graduates in STEM programs15 The gap in adult literacy between men and women in Mozambique, 20.3, is larger than the gap of the Sub-Saharan Africa aggregate, 13.",
+        "However, the data do not provide specific reasons for different literacy rates but only highlight a gender-based disparity in Mozambique.",
+        "Mozambique has environmental protection policies, but the focus is not yet specific or directly linked to the field of AI.",
+        "CULTURE – AI FOR THE PRESERVATION OF CULTURAL HERITAGE Due to the lack of a specific legal framework in this area, it is important to note that in Mozambique, the use of AI to preserve and safeguard cultural heritage is still scattered and is the result of action by sectors with related interests, s",
+        "Isolated actions are taking place, but they have yet to be mapped out for the use of AI or associated tools such as applications that incorporate AI techniques.",
+        "This experience shows the increasingly clear need to take into account the realignment of the political and legal framework to enable an informed approach to the use of AI in the cultural sector."
+      ],
+      "key_stats": [
+        {
+          "stat": "62% of men were using the Internet",
+          "context": "net usage in Mozambique by sex to pay bills in 2022 – age 15+ (World Bank, 2023) Globally, in 2022, 62% of men were using the Internet, compared with 57% of women.8 In addition, according to data from",
+          "value": 62.0,
+          "unit": "%"
+        },
+        {
+          "stat": "57% of women",
+          "context": "2 – age 15+ (World Bank, 2023) Globally, in 2022, 62% of men were using the Internet, compared with 57% of women.8 In addition, according to data from the International Telecommunication Union (ITU) I",
+          "value": 57.0,
+          "unit": "%"
+        },
+        {
+          "stat": "20.7% \nSub",
+          "context": "phone or the internet to pay bills in the past year, by sex(% age 15+) Female • Male Mozambique 20.7% Sub-Saharan Africa 19.4% Low income 13.1% World 37.0% ### Page 16 17 Figure 2: ITU – Internet Ge",
+          "value": 20.7,
+          "unit": "%"
+        },
+        {
+          "stat": "19.4% \nLow income",
+          "context": "y bills in the past year, by sex(% age 15+) Female • Male Mozambique 20.7% Sub-Saharan Africa 19.4% Low income 13.1% World 37.0% ### Page 16 17 Figure 2: ITU – Internet Gender Gap in Mozambique (sourc",
+          "value": 19.4,
+          "unit": "%"
+        },
+        {
+          "stat": "13.1% \nWorld",
+          "context": "year, by sex(% age 15+) Female • Male Mozambique 20.7% Sub-Saharan Africa 19.4% Low income 13.1% World 37.0% ### Page 16 17 Figure 2: ITU – Internet Gender Gap in Mozambique (source: ITU Internet Gend",
+          "value": 13.1,
+          "unit": "%"
+        },
+        {
+          "stat": "50.9% female and",
+          "context": "portal,12 Mozambique’s population expanded by 902,000 (+2.8%) from 2022 to 2023. The population is 50.9% female and 49.1% male. At the beginning of 2023, 38.5% of Mozambique’s population resided in ur",
+          "value": 50.9,
+          "unit": "%"
+        },
+        {
+          "stat": "49.1% male",
+          "context": "que’s population expanded by 902,000 (+2.8%) from 2022 to 2023. The population is 50.9% female and 49.1% male. At the beginning of 2023, 38.5% of Mozambique’s population resided in urban regions; 61.5",
+          "value": 49.1,
+          "unit": "%"
+        },
+        {
+          "stat": "38.5% of Mozambique",
+          "context": "+2.8%) from 2022 to 2023. The population is 50.9% female and 49.1% male. At the beginning of 2023, 38.5% of Mozambique’s population resided in urban regions; 61.5% lived in rural areas. At the beginni",
+          "value": 38.5,
+          "unit": "%"
+        },
+        {
+          "stat": "61.5% lived in rural areas",
+          "context": "d 49.1% male. At the beginning of 2023, 38.5% of Mozambique’s population resided in urban regions; 61.5% lived in rural areas. At the beginning of 2023, Mozambique’s internet penetration rate was 20.7",
+          "value": 61.5,
+          "unit": "%"
+        },
+        {
+          "stat": "29% of tertiary education graduates a",
+          "context": "outhern African region. MALE/FEMALE TERTIARY EDUCATION GRADUATES IN STEM PROGRAMS In Mozambique, 29% of tertiary education graduates are enrolled in Science, Technology, Engineering and Mathematics (S",
+          "value": 29.0,
+          "unit": "%"
+        },
+        {
+          "stat": "18% of female students in higher educ",
+          "context": "s are enrolled in Science, Technology, Engineering and Mathematics (STEM) programs. Globally, only 18% of female students in higher education pursue STEM subjects, compared to 35% of male students.13 ",
+          "value": 18.0,
+          "unit": "%"
+        },
+        {
+          "stat": "35% of male students",
+          "context": "ograms. Globally, only 18% of female students in higher education pursue STEM subjects, compared to 35% of male students.13 There is a well-known gender disparity in STEM fields, with similar percenta",
+          "value": 35.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0% \nI",
+          "context": "w=bar&year=2018 Cobo Verde Rwanda Seychelles Madagasc ... Lesotho Burkina Faso Ghana Niger 0% I - 5% 10% 15% I I I 20% 25% 30% 35% I I I I 32% 31% 29% 25% 21% 20% 18% Adult li",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "15% \nI \nI \nI",
+          "context": "bo Verde Rwanda Seychelles Madagasc ... Lesotho Burkina Faso Ghana Niger 0% I - 5% 10% 15% I I I 20% 25% 30% 35% I I I I 32% 31% 29% 25% 21% 20% 18% Adult literacy rate, by sex(% of",
+          "value": 15.0,
+          "unit": "%"
+        },
+        {
+          "stat": "35% \nI \nI \nI \nI",
+          "context": "Madagasc ... Lesotho Burkina Faso Ghana Niger 0% I - 5% 10% 15% I I I 20% 25% 30% 35% I I I I 32% 31% 29% 25% 21% 20% 18% Adult literacy rate, by sex(% of people ages 15 and above) Femal",
+          "value": 35.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "SCIENTIFIC/EDUCATIONAL This dimension aims to assess the level of research and development (R&D) related to AI in a country, including the number of AI-related publications and patents and the number of AI researchers and engineers involved in R&D.",
+        "It also considers AI ethics research, e.g., the number of publications focusing on the ethics of AI.",
+        "The educational dimension could include availability of educational opportunities for students such as AI-related degree programs, life-long education programs for AI developers, and education opportunities for the public.",
+        "Apart from the educational opportunities, the dimension will examine the numbers of students (graduates), professionals, and the public in AI or ICT-related disciplines.",
+        "(2021) Report “Mapping Research and Innovation in Mozambique” https://unesdoc.unesco.org/ark:/48223/pf0000375478 3,000 0.50 0.45 2,500 0.40 cc r=- '.2: 2,000 (].) 0 0.35 °o -,:, -,:, Ul (].) ,a ~ 1,500 6 030 * • 0 E 0.25 8 0 0 0.20 o cc 1,000 0 cc 0.15 500 0.10 0.05 0 0 2010 2017 •DBIC • BDIDcomo%do",
+        "AI TALENT INNOVATION OUTPUT Available data did not reveal the number of AI and AI-related publications per capita in Mozambique.25 In general, sub-Saharan Africa is underrepresented in the field, since only South Africa has available statistics in the continent (Figure 8).",
+        "AI publications from OpenAlex and Scopus.",
+        "Available at: https://oecd.ai/en/data?selectedArea=ai-research 29."
+      ],
+      "strengths": [
+        "In 2022, the government, in partnership with UNESCO, launched the Report on Mapping Research and Innovation in Mozambique.22 It shows the evolution of GERD and GERD-GDP23 from 2010 to 2017 (Figure 7).",
+        "UEM, with an enrolment rate of 30,000 students, remains the leading HEI."
+      ],
+      "gaps": [
+        "Figure 8: OECD AI – AI research publications vs GDP per capita by country, region, in time (OpenAlex, 2023) Although Figure 8 does not highlight anything specific to Mozambique, data collected via the Eduardo Mondlane University (UEM) monograph repository26 and using the keyword “artificial intellig",
+        "However, there is probably more research work that has been done but that is not deposited on this platform, given that the MCTES27 has published various addresses of the official scientific repositories of higher education institutions.",
+        "EDUCATION INFRASTRUCTURE Mozambique does not have any specific laws or policies outlining guidelines for the application of AI in the education sector, particularly concerning the training of educators and professors in teaching AI and technology ethics."
+      ],
+      "key_stats": [
+        {
+          "stat": "7.3% of the Mozambican population",
+          "context": "students enrolled in higher education in 2018 was 213,930, which reflects a participation rate of 7.3% of the Mozambican population. Women accounted for 45% of total enrolment, with 34% of students in",
+          "value": 7.3,
+          "unit": "%"
+        },
+        {
+          "stat": "45% of total enrolment",
+          "context": "930, which reflects a participation rate of 7.3% of the Mozambican population. Women accounted for 45% of total enrolment, with 34% of students in natural sciences and 24% in engineering. These levels",
+          "value": 45.0,
+          "unit": "%"
+        },
+        {
+          "stat": "34% of students in natural \nsciences",
+          "context": "pation rate of 7.3% of the Mozambican population. Women accounted for 45% of total enrolment, with 34% of students in natural sciences and 24% in engineering. These levels are slightly below the globa",
+          "value": 34.0,
+          "unit": "%"
+        },
+        {
+          "stat": "24% in engineering",
+          "context": "pulation. Women accounted for 45% of total enrolment, with 34% of students in natural sciences and 24% in engineering. These levels are slightly below the global average of 35%. UEM, with an enrolment",
+          "value": 24.0,
+          "unit": "%"
+        },
+        {
+          "stat": "106 institutions",
+          "context": "buntuNet Alliance for Education and Research Networks. MoRENet provides high-bandwidth Internet to 106 institutions and is in the process of expanding the network to other institutions nationwide. The"
+        },
+        {
+          "stat": "30,000 students",
+          "context": "neering. These levels are slightly below the global average of 35%. UEM, with an enrolment rate of 30,000 students, remains the leading HEI. No data are publicly available on the percentage of ICT gra"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "ECONOMIC This dimension aims to address the size and strength of the supply side of the AI ecosystem in the country, which is important for the ability to develop AI solutions reflecting the particular needs and conditions of the given country and its population.",
+        "It examines the size of the technology sector, including the number of companies that develop or deploy AI systems and their employees.",
+        "It will also address the amount of public and private investment in the field of AI.",
+        "The percentage of professionals working as data science specialists is not available for 2024..",
+        "There is no data on talent concentration in AI in Mozambique, but performance in the Network Readiness Index36 shows the following: Figure 11: Network Readiness Index (2023)37 38.",
+        "The following table shows the rankings of Mozambique from 2020 to 2023, noting that data availability and changes to the GII model framework influence year-on-year comparisons of the GII rankings."
+      ],
+      "strengths": [
+        "Available at: https://www.globalgovernmentforum.com/east-asian-governments-surge-in-ai- readiness-see-global-rankings-in-full/ ### Page 27 28 Figure 10: Researchers and other staff, by R&D area (MCTES/UNESCO, 2021)35 No institution created by the government has been designated to attend to the prepa"
+      ],
+      "gaps": [
+        "LABOR MARKETS Although no specific data are available on the percentage of job postings that require AI-related skills in Mozambique, the Relative AI Readiness Index is available.34 In 2022 – the last year with available data – Mozambique occupied position 150 (out of 160).",
+        "However, although it is not immediately apparent from the contents of Table 4, Mozambique has been a fertile market for the development of various initiatives that take advantage of AI for their development.",
+        "However, MCTES would likely be the key provider of the required information."
+      ],
+      "key_stats": [
+        {
+          "stat": "USD2.3 million",
+          "context": "Accurate data are available with respect to high-tech exports from Mozambique, which were equal to USD2.3 million in 2020– down by 48 percentage points from the year before–yielding an indicator rank ",
+          "value": 2300000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "ranked 128th in innovation",
+          "context": "ozambique performs better in innovation outputs than innovation inputs in 2023, but in that year it ranked 128th in innovation inputs, lower than both 2021 and 2020. Figure 12: The seven GII pillar ra"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "TECHNICAL AND INFRASTRUCTURAL The technical and infrastructural dimension reflects the idea that without the relevant infrastructure, AI development and the implementation of AI-based solutions cannot be scaled up throughout a country.",
+        "Among other things, the dimension will assess Internet connectivity and access, availability of data centres, cloud computing capabilities, and supercomputers.",
+        "Figure 14: ITU – Mozambique Data (2022)43 According to Kepios,44 Internet users in Mozambique climbed by 848,000 (+14.0%) between 2022 and 2023.",
+        "APPLIED STANDARDS Regarding the country’s participation in standardising the technical and ethical aspects of AI and digital technologies, Mozambique is not part of any initiative as of early 2024.",
+        "COMPUTING CAPABILITIES Regarding computing capacity, there are eight (8) data centres in the country.",
+        "Access to electricity (% of population), World Bank https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS, accessed on 1st January 2024.",
+        "(World Bank, 2023).56 The score measures the quality and availability of data products produced by a country’s statistical office.",
+        "Mozambique’s SPI score has experienced fluctuations over the period, but it has generally shown an upward trend, suggesting improvements in data product quality."
+      ],
+      "strengths": [
+        "According to Ookla data,45 the median mobile Internet connection speed in Mozambique improved by 5.01 Mbps (+35.5%) in the 12 months leading up to the beginning of 2023.",
+        "Raxio Moçambique52 – Africa’s leading carrier-neutral data operator – also plans to start operating its data centre in 2024."
+      ],
+      "gaps": [
+        "Thus, Mozambique needs to improve on this aspect of its infrastructure in order to improve its readiness for widespread AI use.",
+        "The last two data centres are not yet operational."
+      ],
+      "key_stats": [
+        {
+          "stat": "7.5% of the total population",
+          "context": "etration at 20.7%. In January 2023, Mozambique had 2.50 million social media users, accounting for 7.5% of the total population. In early 2023, Mozambique had 16.72 million active cellular mobile conn",
+          "value": 7.5,
+          "unit": "%"
+        },
+        {
+          "stat": "50.0% of the entire population",
+          "context": ". In early 2023, Mozambique had 16.72 million active cellular mobile connections, which equated to 50.0% of the entire population. Figure 14: ITU – Mozambique Data (2022)43 According to Kepios,44 Inte",
+          "value": 50.0,
+          "unit": "%"
+        },
+        {
+          "stat": "79.3% of the population was offline at",
+          "context": "earlier, 26.50 million Mozambicans did not access the Internet at the start of 2023, meaning that 79.3% of the population was offline at that time. The average cellular Internet connection speed is 19",
+          "value": 79.3,
+          "unit": "%"
+        },
+        {
+          "stat": "17.4% \nTarget is considered met if at",
+          "context": "QLimited '- Satisfactory No data 4jAdvanced Progress Score Target• 100 ■ 17 70 79 Value 17.4% Target is considered met if at least 95% of individuals use the Internet 0.704 Internet use gender parity ",
+          "value": 17.4,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of individuals use the \nInternet",
+          "context": "ed Progress Score Target• 100 ■ 17 70 79 Value 17.4% Target is considered met if at least 95% of individuals use the Internet 0.704 Internet use gender parity Mobile phone use gender parity 0.792 Mobi",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "31.5% of population has access to elect",
+          "context": "e use gender parity 0.792 Mobile phone ownership gender p.irity ### Page 31 32 In Mozambique, 31.5% of population has access to electricity46 and according to the Speedtest Global Index,47 the 2023 Mo",
+          "value": 31.5,
+          "unit": "%"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "In a 2021 resolution,4 the government expressed its ambition to create a safe and resilient cyberspace for Mozambique.5 The implementation strategy includes 25 projects to be implemented by 2025 through a governance framework coordinated by a multisectoral council called the National Cyber Security Council (CNSC).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Finally, if current applications with elements that incorporate AI techniques, such as analysis, localisation, recommendations, and other services implemented on the basis of learning algorithms, are taken into account, there appears to be a government vision for the use of emerging technologies, including AI.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "However, the Mozambique Research and Education Network (MoRENet),28 implemented by the Ministry of Education and Human Development (under the National Strategy for Education 2020 – 2029) and the Ministry of Science, Technology and Higher Education, was established in 2005 as part of the IT Policy Implementation Strategy.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "However, in 2022, the government, through the MCTES, launched a project called “One Computer per Higher Education Student.’’29 Implemented by the MCTES in partnership with public and private higher education institutions (HEIs) that teach courses in STEM, the initiative funds access to a laptop for students enrolled in these courses who lack financial resources, to facilitate and promote their participation in teaching, learning, and research processes.",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 20.7,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "PUBLIC ENGAGEMENT AND TRUST Mozambique scored 163 on the Online Service Index,17 and it is ranked 173 in the E-Participation Index.18 The trust in government 19.",
+      "index_name": "Online Service Index",
+      "rank": 173,
+      "score": 163.0
+    },
+    {
+      "context": "The statistical confidence interval for the ranking of Mozambique in the GII 2023 is between ranks 123 and 131.",
+      "index_name": "GII",
+      "rank": 123,
+      "year": 2023
+    },
+    {
+      "context": "Year GII Innovation inputs Innovation outputs 2020 124 122 125 2021 122 122 118 2022 123 123 119 2023 126 128 124 Table 5: Rankings for Mozambique (2020–2023) – WIPO 202339 Mozambique performs better in innovation outputs than innovation inputs in 2023, but in that year it ranked 128th in innovation inputs, lower than both 2021 and 2020.",
+      "index_name": "GII",
+      "rank": 128,
+      "year": 2020
+    }
+  ]
+}

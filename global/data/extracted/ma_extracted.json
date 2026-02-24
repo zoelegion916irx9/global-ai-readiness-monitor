@@ -1,0 +1,451 @@
+{
+  "country_code": "MA",
+  "country_name": "MAROC",
+  "language": "fr",
+  "metadata": {
+    "page_count": 65,
+    "creation_date": "D:20240328092926+01'00'",
+    "modification_date": "D:20260125150330+01'00'",
+    "country_name": "MAROC",
+    "language": "fr",
+    "translated": true,
+    "original_language": "fr",
+    "translation_note": "Auto-translated from French by AI"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "Table of Contents\nAcknowledgements\nAcronyms and Abbreviations\nForeword\nExecutive Summary\nChapter I - AI Ecosystem in Morocco\nGovernment policies and initiatives in AI\nChapter II - Legal and Regulatory Dimension\nChapter III - Social and Cultural Dimension\nChapter IV - Scientific, Research and Educational Dimension\nChapter V - Economic Dimension\nChapter VI - Technical and Infrastructural Dimension\nRecommendations and Conclusion\n\nMorocco has been proactively engaging with AI governance and development. The country adopted UNESCO's Recommendation on the Ethics of Artificial Intelligence and has been part of the UNESCO pilot project for AI readiness assessment. Morocco's AI landscape shows significant potential with established infrastructure, growing research output, and government commitment to digital transformation through the Digital Morocco 2030 strategy. However, challenges remain in areas including regulatory adaptation, workforce development, gender digital divide, and ensuring ethical AI deployment across all sectors.",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Apply normative provisions for adaptation to emerging phenomena in the age of AI",
+      "text": "Apply normative provisions for adaptation to emerging phenomena in the age of AI. It is now established that AI technologies are evolving rapidly, requiring constant regulatory adaptation to address new challenges.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Ensure respect for the principles of responsible AI development and use. To ensu",
+      "text": "Ensure respect for the principles of responsible AI development and use. To ensure respect for the principles of a responsible development and ethical use of AI, it is recommended to strengthen the legal and institutional framework.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Ensure the role of monitoring and awareness-raising to strengthen the robustness",
+      "text": "Ensure the role of monitoring and awareness-raising to strengthen the robustness of the national AI ecosystem. It is recommended to establish monitoring and awareness mechanisms to strengthen the AI ecosystem.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Ensure responsible development practices, as well as accountability mechanisms i",
+      "text": "Ensure responsible development practices, as well as accountability mechanisms in case of harm caused by AI systems.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Capitalize on the vision proposed by the expected 2030 digital strategy to accel",
+      "text": "Capitalize on the vision proposed by the expected 2030 digital strategy to accelerate the development, deployment and adoption of AI in the country.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Strengthen and consolidate open data governance. Within the framework of the cou",
+      "text": "Strengthen and consolidate open data governance. Within the framework of the country's strategic approach aimed at consolidating open data governance.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Ensure that AI systems are fed with quality datasets, contextualized and adapted",
+      "text": "Ensure that AI systems are fed with quality datasets, contextualized and adapted to local reality and the specific needs of the population.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Encourage and promote the development of international cooperation. Given the in",
+      "text": "Encourage and promote the development of international cooperation. Given the international dimension of the subject, it is recommended to strengthen international cooperation in AI.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Invest in a modern educational environment by concentrating substantial resource",
+      "text": "Invest in a modern educational environment by concentrating substantial resources and adequate infrastructure for AI education.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Encourage investments in inclusive and multidisciplinary research and innovation",
+      "text": "Encourage investments in inclusive and multidisciplinary research and innovation in AI. It is recommended to increase funding for AI research and promote multidisciplinary approaches.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Improve the capacities of all stakeholders throughout life to strengthen trust i",
+      "text": "Improve the capacities of all stakeholders throughout life to strengthen trust in AI and prepare the workforce for the future.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Stimulate and support public-private partnerships. Stimulating innovation foster",
+      "text": "Stimulate and support public-private partnerships. Stimulating innovation fosters the creation of a dynamic ecosystem conducive to the development and deployment of ethical AI solutions.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Monitor the impacts and raise awareness of AI risks to harness its potential for",
+      "text": "Monitor the impacts and raise awareness of AI risks to harness its potential for the benefit of society and the economy.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Invest in digital health by leveraging national orientations and achievements. I",
+      "text": "Invest in digital health by leveraging national orientations and achievements. It seems appropriate to prioritize the use of AI in the health sector.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Promote high social impact use cases. The Recommendation on the Ethics of AI adv",
+      "text": "Promote high social impact use cases. The Recommendation on the Ethics of AI advocates for a number of measures to promote beneficial use of AI for society.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Implement support policies for culture, heritage, and environmental impact asses",
+      "text": "Implement support policies for culture, heritage, and environmental impact assessment.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Promote sustainable approaches in the use of AI in agriculture and energy. It is",
+      "text": "Promote sustainable approaches in the use of AI in agriculture and energy. It is recommended to use AI to support sustainable agriculture and energy efficiency.",
+      "language": "en",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 17,
+  "page_count": 65,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Morocco's digital and data regulatory framework includes consumer protection legislation, data protection laws, and cybersecurity regulations that can be applied to AI.",
+        "As an example, at the time of writing this report, Europe has released its regulatory act (AI Act) which appears to be a potential model for other countries.",
+        "A global discussion took place in November in Great Britain as part of the AI Safety Summit, bringing together various countries to discuss AI governance.",
+        "This is a document where signatory countries commit to continuing to work and discuss the governance and safety of AI systems.",
+        "Morocco does not have codified laws or legislative frameworks specifically governing AI.",
+        "Several laws can potentially apply to AI, particularly those addressing issues of data protection, consumer rights, and intellectual property.",
+        "AI industry actors must assume their responsibility, especially when handling personal data and making decisions that affect individuals' lives.",
+        "Currently, risk assessment and regulatory oversight are largely carried out through existing mechanisms that were not specifically designed for AI."
+      ],
+      "strengths": [
+        "According to the Global Cyberlaw Tracker, Morocco has established laws to regulate electronic transactions and combat cybercrime.",
+        "It has established protective legislation for personal data (Law No. 09-08 on Personal Data Protection (Loi n° 09-08 relative à la protection des données à caractère personnel)).",
+        "The General Directorate of Local Authorities (DGCT) has set up an open data portal allowing access to data from various sectors.",
+        "Morocco has established legal provisions, including dahirs, decrees and orders, covering various aspects of digital governance.",
+        "In this regard, Morocco has implemented numerous initiatives leading to improved digital governance and AI readiness.",
+        "ADD has set up a national e-learning platform called Academia Raqmya which offers a wide range of digital training courses."
+      ],
+      "gaps": [
+        "In this regard, the ITU report on AI highlighted that developing countries would be less well equipped to manage the complex data governance challenges posed by AI."
+      ],
+      "key_stats": [
+        {
+          "stat": "17 % du PIB au Maroc",
+          "context": "égies pour les marchés publics Selon l’ICPC et l’OCDE, les marchés publics représentent entre 15 et 17 % du PIB au Maroc, constituant ainsi une part significative des dépenses publiques (ICPC et OCDE,",
+          "value": 17.0,
+          "unit": "%"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "Law No. 09-08 of 2009 on Personal Data Protection (Loi n° 09-08 de 2009)",
+          "year": "2009",
+          "status": "enacted"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "SOCIAL AND CULTURAL DIMENSION - Diversity, Inclusion and Equality: AI has the power to transform our lives in many positive ways, but it also carries risks of reinforcing existing biases and inequalities.",
+        "The impact can be multiplied in the context of AI, where biased training data can lead to discriminatory outcomes.",
+        "Public Engagement and Trust: The question of public trust in AI is crucial for its adoption and ethical deployment in Morocco.",
+        "It is important to note that in Morocco, AI is not widely known among the general public and awareness campaigns are needed.",
+        "The measurement of Moroccan citizens' trust in AI is not available, indicating a gap in understanding public perceptions.",
+        "It is essential to note that this strategy aims to leverage digital technologies for development while ensuring ethical considerations.",
+        "The document mentions AI technologies in several places, indicating growing government awareness of AI's importance.",
+        "Thus, the country recognizes the value of digitization and digital practices for the conservation and promotion of its cultural heritage."
+      ],
+      "strengths": [
+        "In 2019, like several other countries, Morocco launched an electronic portal listing 7,000 open datasets for public access."
+      ],
+      "gaps": [
+        "Although the gender gap persists in the digital domain in general, as highlighted by various reports, efforts are being made to address this disparity.",
+        "Internet usage gap between women and men remains significant and needs targeted intervention."
+      ],
+      "key_stats": [
+        {
+          "stat": "00%\nEquipement en\nt",
+          "context": "6,40% 88% 96,70% 89,50% 33,80% 91,80% 0,50% 2,40% 7,40% 3,80% 0,00% 20,00% 40,00% 60,00% 80,00% 100,00% Equipement en téléphonie mobile Equipement en smartphones Equipement en ordinateurs et/ou tablet",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "14%\nSource",
+          "context": "s femmes ingénieures au Maroc 2018 Maroc France Etats-Unis Canada Japon 42,20% 26,10% 20,40% 19,70% 14% Source : adaptée des données de l’OCDE Des efforts sont déployés et des initiatives diversifiées",
+          "value": 14.0,
+          "unit": "%"
+        },
+        {
+          "stat": "2 % des filles en math",
+          "context": "nc intérêt aux mathématiques et aux sciences en général. En 2018, une enquête révélait que : • 45,2 % des filles en mathématiques et en sciences, contre 40,4 % des garçons, s’attendent à travailler en",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4 % des gar",
+          "context": "n 2018, une enquête révélait que : • 45,2 % des filles en mathématiques et en sciences, contre 40,4 % des garçons, s’attendent à travailler en tant que professionnelles dans le domaine de l’ingénierie",
+          "value": 4.0,
+          "unit": "%"
+        },
+        {
+          "stat": "2 % et fait",
+          "context": "l’horizon de leurs 30 ans ; • la proportion de femmes parmi les diplômés en ingénierie est de 42,2 % et fait à remarquer est que la disparité entre filles et garçons en sciences est au profit des fill",
+          "value": 2.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Number of scientific publications on AI in North African countries shows Morocco leading the region with significant research output.",
+        "Only one substantial program in recent years has specifically focused on AI research and development.",
+        "The International Center for Artificial Intelligence of Morocco – 'AI Movement', designated as a UNESCO Category 2 Center, represents a major achievement.",
+        "It aims to promote, within UNESCO's areas of competence and particularly in artificial intelligence, research, capacity building, and international cooperation.",
+        "The Center is called upon to play an important role in promoting AI and becoming a center of excellence for AI research and applications in Africa.",
+        "According to the OECD, the number of AI research publications increased from 89 in 2010 to significant levels, showing strong growth in AI research.",
+        "It should also be noted, according to Open Alex, that AI research publications relative to the country's total research output have been growing steadily.",
+        "Preparing a generation of researchers capable of conducting theoretical research and piloting applied AI projects is a priority for Morocco's scientific ecosystem."
+      ],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [
+        {
+          "stat": "6 % a",
+          "context": "e scientifique et technique constitue un véritable enjeu à relever. En 2022, un budget global de 1,6 % a été consacré aux programmes de recherche scientifique et technique. Il en est de même pour les ",
+          "value": 6.0,
+          "unit": "%"
+        },
+        {
+          "stat": "75 % du Produit Int",
+          "context": "la recherche et le développement (R&D) du secteur public demeurent modérés, représentant environ 0,75 % du Produit Intérieur Brut (PIB). On retiendra qu’un seul programme conséquent a concerné ces der",
+          "value": 75.0,
+          "unit": "%"
+        },
+        {
+          "stat": "72 % des boursiers rel",
+          "context": "ses existent, mais aucune donnée sur une attention particulière portée à l’IA. On y soulignera que 72 % des boursiers relèvent des domaines des Sciences exactes et naturelles, notamment en Sciences de",
+          "value": 72.0,
+          "unit": "%"
+        },
+        {
+          "stat": "8 % de l",
+          "context": "onomie, des Finances et de la Réforme de l’Administration anticipe qu’à l’horizon 2035, environ 34,8 % de l’emploi national marocain pourrait être touché par une automatisation probable et importante ",
+          "value": 8.0,
+          "unit": "%"
+        },
+        {
+          "stat": "34\t Centre",
+          "context": "masters-en-intelligence-artificielle/ 33 http://ensao.ump.ma/fr/cycle-ingenieur-genie-informatique 34 Centre interactif digital de Bengurir, Agence de Développement Digital https://add.gov.ma/centre-i"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "ECONOMIC DIMENSION - Labor Market: The repercussions of AI on the labor market are at the heart of global discussions about the future of work.",
+        "Undeniably, AI promises to improve productivity and efficiency of work processes, while creating new types of jobs and economic opportunities.",
+        "However, concerns regarding AI skills development can be noted, particularly the need for specialized training programs.",
+        "However, it remains difficult to assess the links between production in the information technology sectors and the adoption of AI technologies.",
+        "Investment and Production: According to the AI Index Report (2023) from Stanford Institute, total AI investment globally has grown significantly.",
+        "At the local level, OECD data for evaluating total AI venture capital investments in Morocco are limited.",
+        "The study covered the number of programs identified in 18 universities (12 public and 6 private) offering AI-related education.",
+        "The Global Innovation Index 2022, which distinguishes economies based on their innovation capabilities, ranks Morocco among the top performers in Africa."
+      ],
+      "strengths": [
+        "This deficit can be explained by a significant movement of young engineers departing abroad, representing a brain drain challenge for the country.",
+        "In September 2023, internet was widely adopted in Morocco, with a penetration rate of 106.8%."
+      ],
+      "gaps": [],
+      "key_stats": [
+        {
+          "stat": "60 % \ndes emplois actuels comprennen",
+          "context": "ploi, comme le suggèrent plusieurs études. Le cabinet de conseil McKinsey36 estime par exemple, que 60 % des emplois actuels comprennent des activités potentiellement automatisables dans les 20 à 40 p",
+          "value": 60.0,
+          "unit": "%"
+        },
+        {
+          "stat": "14 % des emplois sont menac",
+          "context": "ntiellement automatisables dans les 20 à 40 prochaines années. De même, l’OCDE (2019) rapporte que 14 % des emplois sont menacés par le processus d’automatisation dans les pays membres. Dans une enquê",
+          "value": 14.0,
+          "unit": "%"
+        },
+        {
+          "stat": "86 % souhaitent b",
+          "context": "s membres. Dans une enquête37 réalisée en 2023 par Le Boston Consulting Group sur 12.900 employés, 86 % souhaitent bénéficier d’une formation pour pouvoir adapter leurs qualifications aux transformati",
+          "value": 86.0,
+          "unit": "%"
+        },
+        {
+          "stat": "00%\nsept",
+          "context": "99,76% 97,01% 97,19% 98,90% 106,80% 92,00% 94,00% 96,00% 98,00% 100,00% 102,00% 104,00% 106,00% 108,00% sept-22 oct-22 nov-22 déc-22 janv-23 févr-23 mars-23 avr-23 mai-23 juin-23 juil-23 août-23 sept-",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4% des m",
+          "context": "-23 juin-23 juil-23 août-23 sept-23 Source ANRT Nous noterons que l’ANRT (2023) nous apprend que 87,4% des ménages marocains disposent d’une connexion à Internet, que la quasi-totalité des ménages pos",
+          "value": 4.0,
+          "unit": "%"
+        },
+        {
+          "stat": "00%\nEquipement des\nm",
+          "context": "0% 100% 94% 82,70% 91,60% 99,90% 84,70% 48,10% 77,30% 0,00% 20,00% 40,00% 60,00% 80,00% 100,00% 120,00% Equipement des ménages en mobile Equipement des ménages en smartphones Equipement des ménages en",
+          "value": 0.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Benchmark based on the Oxford Insights Government AI Readiness Index 2023 ranking, where Morocco shows competitive positioning in Africa.",
+        "Number of scientific publications on AI in North African countries demonstrates Morocco's research leadership in the region.",
+        "Total AI investments in Morocco by sector show concentration in telecommunications and financial services.",
+        "Number of AI-specialized companies in Africa, with Morocco hosting a significant share of the continent's AI startups.",
+        "This Recommendation, unique of its kind, aims to provide States with a normative framework for AI while respecting human rights and fundamental freedoms.",
+        "One year later, the country joined this UNESCO pilot project to enable the assessment of its AI readiness state.",
+        "This method allowed a comprehensive diagnosis of Morocco's AI landscape, indicating the potential for significant growth and development.",
+        "Through this strategic choice, the country commits to establishing an AI governance framework aligned with international best practices."
+      ],
+      "strengths": [
+        "193 UNESCO countries adopted in November 2021 the Recommendation on the Ethics of Artificial Intelligence, marking a historic milestone.",
+        "The EU AI Act was adopted in December 2023, providing a potential regulatory model for Morocco.",
+        "Regarding privacy, it is important to note that Morocco has established a personal data protection law (Law No. 09-08) with an independent oversight authority.",
+        "In terms of public capacity building, the country has implemented a comprehensive policy for digital literacy and AI awareness.",
+        "Nevertheless, we note that the gender gap in the digital domain remains significant and requires targeted interventions.",
+        "Regarding training, the country has established a master plan, the Emergency Plan and Morocco Digital 2030 strategy, integrating AI education.",
+        "INFRASTRUCTURE ACHIEVEMENTS TO STRENGTHEN: Morocco has experienced remarkable progress in connectivity, with high internet penetration and expanding broadband access."
+      ],
+      "gaps": [
+        "However, data protection remains a complex and crucial challenge requiring continuous improvement of the regulatory framework.",
+        "Furthermore, a gap exists in training dedicated to AI ethics or anthropological and sociological perspectives of AI."
+      ],
+      "key_stats": [
+        {
+          "stat": "2 % en",
+          "context": "ines scientifiques, techniques et d’ingénierie au Maroc, avec un taux de féminisation atteignant 42,2 % en 2018, un des plus élevés au monde. Cependant, la RAM souligne que l’écart entre les sexes per",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "42 % des filles ont",
+          "context": "e féminisation est enregistré dans les filières scientifiques et techniques. Par exemple, en 2018, 42 % des filles ont été diplômées en ingénierie (OCDE, 2018). On note aussi l’absence d’écart signifi",
+          "value": 42.0,
+          "unit": "%"
+        },
+        {
+          "stat": "28 % pour les femmes et",
+          "context": "ourcentage d’hommes et de femmes dans les programmes de STIM de l’enseignement supérieur est de 20,28 % pour les femmes et 17,75 % pour les hommes (OCDE, 2018). Nous noterons néanmoins que l’écart ent",
+          "value": 28.0,
+          "unit": "%"
+        },
+        {
+          "stat": "75 % pour les hommes",
+          "context": "emmes dans les programmes de STIM de l’enseignement supérieur est de 20,28 % pour les femmes et 17,75 % pour les hommes (OCDE, 2018). Nous noterons néanmoins que l’écart entre les sexes dans le domain",
+          "value": 75.0,
+          "unit": "%"
+        },
+        {
+          "stat": "75 % \ndu produit int",
+          "context": "ses publiques en recherche et développement (R&D) restent relativement modestes, ne dépassant pas 0,75 % du produit intérieur brut (PIB), principalement alimenté par le secteur public. En 2022, seulem",
+          "value": 75.0,
+          "unit": "%"
+        },
+        {
+          "stat": "6 % du budget total du minist",
+          "context": "u produit intérieur brut (PIB), principalement alimenté par le secteur public. En 2022, seulement 1,6 % du budget total du ministère de l’Enseignement Supérieur, de la Recherche et de l’Innovation a é",
+          "value": 6.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4% pour l",
+          "context": "n l’ANRT, le taux de pénétration d’Internet dans les deux zones urbaines et rurales s’établit à 87,4% pour l’année 2022. Le taux d’équipement en téléphonie mobile est de 96% et il est égal entre les g",
+          "value": 4.0,
+          "unit": "%"
+        },
+        {
+          "stat": "96% et il est",
+          "context": "s et rurales s’établit à 87,4% pour l’année 2022. Le taux d’équipement en téléphonie mobile est de 96% et il est égal entre les genres. L’écart entre les genres relatifs à l’utilisation de l’Internet ",
+          "value": 96.0,
+          "unit": "%"
+        },
+        {
+          "stat": "8 % de l",
+          "context": "020, le Ministère de l’Économie, des Finances et de la Réforme de l’Administration prévoyait que 34,8 % de l’emploi national marocain aurait une forte probabilité d’automatisation dans la quinzaine d’",
+          "value": 8.0,
+          "unit": "%"
+        },
+        {
+          "stat": "86 % souhaitent b",
+          "context": "différentes. Dans une enquête réalisée en 2023 par Le Boston Consulting Group sur 12.900 employés, 86 % souhaitent bénéficier d’une formation pour pouvoir adapter leurs qualifications aux transformati",
+          "value": 86.0,
+          "unit": "%"
+        },
+        {
+          "stat": "23%\nDes dipl",
+          "context": "94 pays) GISRE 4 Cyberlois 1 Plateforme d’interopérabilité GISRE 1 Portail de données ouvertes 27,23% Des diplômes en STIM 2022 2 Écoles d’enseignement supérieur dédiées exclusivement à l’IA 1 Institu",
+          "value": 23.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4%\nTaux de p",
+          "context": "National de recherche en IA 1123 Publications en IA en 2022 1 Super calculateur et 5 Datacenters 87,4% Taux de pénétration d’Internet 2022 103,42% Taux de pénétration d’Internet trimestriel (Fin décem",
+          "value": 4.0,
+          "unit": "%"
+        },
+        {
+          "stat": "42%\nTaux de p",
+          "context": "s en IA en 2022 1 Super calculateur et 5 Datacenters 87,4% Taux de pénétration d’Internet 2022 103,42% Taux de pénétration d’Internet trimestriel (Fin décembre 2023) 38,3 Millions d’abonnés à Internet",
+          "value": 42.0,
+          "unit": "%"
+        }
+      ]
+    }
+  },
+  "achievements": [],
+  "key_numbers": [
+    {
+      "label": "AI Publications",
+      "value": 1123,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": []
+}

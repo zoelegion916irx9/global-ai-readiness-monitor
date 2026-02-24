@@ -1,0 +1,306 @@
+[
+  {
+    "country_code": "AG",
+    "country_name": "AG",
+    "language": "en",
+    "recommendation_count": 34,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "BD",
+    "country_name": "BD",
+    "language": "en",
+    "recommendation_count": 52,
+    "chapter_count": 10,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "BR",
+    "country_name": "BR",
+    "language": "en",
+    "recommendation_count": 21,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "BW",
+    "country_name": "BW",
+    "language": "en",
+    "recommendation_count": 9,
+    "chapter_count": 1,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "CL",
+    "country_name": "CL",
+    "language": "en",
+    "recommendation_count": 35,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "CU",
+    "country_name": "CU",
+    "language": "en",
+    "recommendation_count": 48,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "CW",
+    "country_name": "CW",
+    "language": "en",
+    "recommendation_count": 14,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "DO",
+    "country_name": "DO",
+    "language": "en",
+    "recommendation_count": 15,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "EC",
+    "country_name": "EC",
+    "language": "en",
+    "recommendation_count": 39,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "EG",
+    "country_name": "EG",
+    "language": "en",
+    "recommendation_count": 27,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "GA",
+    "country_name": "GA",
+    "language": "fr",
+    "recommendation_count": 3,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "ID",
+    "country_name": "ID",
+    "language": "en",
+    "recommendation_count": 37,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "IN",
+    "country_name": "IN",
+    "language": "en",
+    "recommendation_count": 8,
+    "chapter_count": 9,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "JM",
+    "country_name": "JM",
+    "language": "en",
+    "recommendation_count": 21,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "KE",
+    "country_name": "KE",
+    "language": "en",
+    "recommendation_count": 20,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "KH",
+    "country_name": "KH",
+    "language": "en",
+    "recommendation_count": 17,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "LA",
+    "country_name": "LA",
+    "language": "en",
+    "recommendation_count": 35,
+    "chapter_count": 1,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "MA",
+    "country_name": "MA",
+    "language": "fr",
+    "recommendation_count": 17,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "MU",
+    "country_name": "MU",
+    "language": "en",
+    "recommendation_count": 16,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "MV",
+    "country_name": "MV",
+    "language": "en",
+    "recommendation_count": 28,
+    "chapter_count": 9,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "MX",
+    "country_name": "MX",
+    "language": "en",
+    "recommendation_count": 38,
+    "chapter_count": 2,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "MY",
+    "country_name": "MY",
+    "language": "en",
+    "recommendation_count": 14,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "MZ",
+    "country_name": "MZ",
+    "language": "en",
+    "recommendation_count": 11,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "NA",
+    "country_name": "NA",
+    "language": "en",
+    "recommendation_count": 16,
+    "chapter_count": 1,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "NL",
+    "country_name": "NL",
+    "language": "en",
+    "recommendation_count": 62,
+    "chapter_count": 1,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "PE",
+    "country_name": "PE",
+    "language": "en",
+    "recommendation_count": 23,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "PH",
+    "country_name": "PH",
+    "language": "en",
+    "recommendation_count": 7,
+    "chapter_count": 5,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "SA",
+    "country_name": "SA",
+    "language": "en",
+    "recommendation_count": 22,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "SN",
+    "country_name": "SN",
+    "language": "fr",
+    "recommendation_count": 56,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "ST",
+    "country_name": "ST",
+    "language": "pt",
+    "recommendation_count": 10,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "TD",
+    "country_name": "TD",
+    "language": "fr",
+    "recommendation_count": 14,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "TH",
+    "country_name": "TH",
+    "language": "en",
+    "recommendation_count": 22,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "TL",
+    "country_name": "TL",
+    "language": "en",
+    "recommendation_count": 0,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "TZ",
+    "country_name": "TZ",
+    "language": "en",
+    "recommendation_count": 5,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "UY",
+    "country_name": "UY",
+    "language": "en",
+    "recommendation_count": 16,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "VN",
+    "country_name": "VN",
+    "language": "en",
+    "recommendation_count": 116,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "ZA",
+    "country_name": "ZA",
+    "language": "en",
+    "recommendation_count": 27,
+    "chapter_count": 0,
+    "has_executive_summary": false
+  },
+  {
+    "country_code": "ZW",
+    "country_name": "ZW",
+    "language": "en",
+    "recommendation_count": 40,
+    "chapter_count": 6,
+    "has_executive_summary": false
+  }
+]

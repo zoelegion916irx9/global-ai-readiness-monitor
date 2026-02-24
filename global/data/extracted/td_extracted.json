@@ -1,0 +1,275 @@
+{
+  "country_code": "TD",
+  "country_name": "TCHAD",
+  "language": "fr",
+  "metadata": {
+    "page_count": 81,
+    "creation_date": "D:20251028160159+01'00'",
+    "modification_date": "D:20251028160943+01'00'",
+    "country_name": "TCHAD",
+    "language": "fr",
+    "translated": true,
+    "original_language": "fr",
+    "translation_note": "Auto-translated from French by AI"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "Chad's AI readiness assessment, conducted with UNESCO support, reveals that the country is at a very early stage of AI development and adoption. The assessment covers five key dimensions: legal/regulatory, social/cultural, scientific/educational, economic, and technological/infrastructural.\n\nThe legal framework does not yet include specific provisions for AI governance, though existing laws on digital regulation and data protection provide a partial foundation. The social and cultural dimension highlights significant challenges including limited digital literacy, gender gaps in technology access, and low public awareness of AI technologies.\n\nIn the scientific and educational sphere, Chad faces considerable challenges with limited research infrastructure, few AI-specialized programs, and a need for substantial investment in STEM education. The economic dimension reveals a nascent digital economy with minimal AI adoption in the private sector.\n\nThe technological and infrastructural assessment shows significant gaps in connectivity, computing infrastructure, and data availability. However, the government's commitment to digital transformation and adherence to UNESCO's Recommendation on AI Ethics provides a foundation for future development.\n\nThe committee recommends establishing a comprehensive normative framework for AI, strengthening digital infrastructure, investing in education and human capital development, promoting international cooperation, and ensuring inclusive and ethical AI deployment.",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Establish a comprehensive normative framework capable of guiding all processes o",
+      "text": "Establish a comprehensive normative framework capable of guiding all processes of AI deployment, development, and use. Steering bodies: MCENDA, MJGSDH, in partnership with relevant institutions.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Strengthen and adapt the legal arsenal regulating cyberspace for efficient AI go",
+      "text": "Strengthen and adapt the legal arsenal regulating cyberspace for efficient AI governance. Steering bodies: MCENDA, MJGSDH, in partnership with relevant institutions.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Establish an inter-ministerial commission coordinated by MCENDA to ensure cohesi",
+      "text": "Establish an inter-ministerial commission coordinated by MCENDA to ensure cohesion, collaboration, and consultation between different stakeholders in AI development.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Develop a national strategy that bridges digital inequalities, strengthens techn",
+      "text": "Develop a national strategy that bridges digital inequalities, strengthens technological sovereignty, and promotes responsible AI governance.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Establish international cooperation frameworks in the field of AI for developmen",
+      "text": "Establish international cooperation frameworks in the field of AI for development. Steering bodies: MCENDA, MFBEPCI, ANSICE, and relevant agencies.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Ensure a national open data policy guaranteeing the availability, standardizatio",
+      "text": "Ensure a national open data policy guaranteeing the availability, standardization, and interoperability of data. Steering bodies: relevant ministries and agencies.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Ensure a sustainable and responsible approach to AI development to preserve the ",
+      "text": "Ensure a sustainable and responsible approach to AI development to preserve the environment and avoid disproportionate impacts.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Advocate for the adoption of AI systems for a circular economy and practices pro",
+      "text": "Advocate for the adoption of AI systems for a circular economy and practices promoting sustainable production methods in agriculture. Steering bodies: relevant ministries.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Support national cultural policies integrating AI to promote the country's cultu",
+      "text": "Support national cultural policies integrating AI to promote the country's cultural knowledge and practices. Steering bodies: relevant cultural ministries.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Capitalize on the e-health strategy for more inclusive services and improved pop",
+      "text": "Capitalize on the e-health strategy for more inclusive services and improved population health conditions. Steering bodies: health-related ministries.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Work to ensure that the potential of digital technologies and artificial intelli",
+      "text": "Work to ensure that the potential of digital technologies and artificial intelligence is mobilized to contribute to gender equality. Steering bodies: relevant ministries.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Increase opportunities for girls and women to participate in science, technology",
+      "text": "Increase opportunities for girls and women to participate in science, technology, engineering, and mathematics (STEM). Steering bodies: relevant education ministries.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Improve and adapt education to the needs of modern society and the digital econo",
+      "text": "Improve and adapt education to the needs of modern society and the digital economy. Steering bodies: MCENDA, MESRSFP, MENPC.",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Ensure the establishment of acculturation, support, and preparation mechanisms f",
+      "text": "Ensure the establishment of acculturation, support, and preparation mechanisms for workers facing changes induced by AI. Steering bodies: relevant ministries.",
+      "language": "en",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 14,
+  "page_count": 81,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "The legal/regulatory dimension is essential for addressing institutional and human capacities necessary for implementing the Recommendation in Member States and confronting societal changes caused by AI.",
+        "Chad does not yet have a specific legal framework for AI, but several existing laws on digital governance and data protection provide a partial foundation.",
+        "The legal framework for cybersecurity and electronic transactions needs to be strengthened and adapted to address AI-specific challenges.",
+        "There is a need to develop specific regulations for AI procurement, deployment, and oversight in both public and private sectors.",
+        "Current data protection regulations need to be updated to address the unique challenges posed by AI systems processing personal data.",
+        "The country's participation in international AI governance frameworks remains limited and needs strengthening.",
+        "Mechanisms for monitoring, remediation, and recourse in case of harm caused by AI systems are not yet established.",
+        "The regulatory approach should balance innovation promotion with protection of fundamental rights and ethical considerations."
+      ],
+      "strengths": [
+        "Chad has adopted UNESCO's Recommendation on the Ethics of Artificial Intelligence, demonstrating commitment to ethical AI governance.",
+        "The government has established a National Technical Committee for AI to coordinate readiness assessment and policy development."
+      ],
+      "gaps": [
+        "There is no specific legislation or comprehensive regulatory framework for AI governance in the country."
+      ],
+      "key_stats": [
+        {
+          "stat": "13 % de la population a acc",
+          "context": "pour soutenir la croissance économique du pays. Selon les données de la Banque mondiale seulement 13 % de la population a accès à Internet en 2023, d’où l’engagement du pays au profit d’une améliorati",
+          "value": 13.0,
+          "unit": "%"
+        }
+      ],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "The social and cultural dimension examines factors conducive to ethical AI development, including diversity, inclusion, and public awareness.",
+        "Significant gender disparities exist in digital access and skills, which could be exacerbated by AI deployment without targeted interventions.",
+        "Public awareness of AI technologies remains very limited, requiring comprehensive sensitization campaigns.",
+        "Cultural and linguistic diversity needs to be considered in AI development to ensure relevance and inclusivity.",
+        "Social acceptance of AI technologies requires building trust through transparent governance and demonstrated benefits.",
+        "Youth engagement in technology and digital skills is growing but needs to be accelerated and expanded.",
+        "Civil society participation in AI governance discussions is minimal and needs to be strengthened.",
+        "Traditional knowledge systems and cultural practices should be integrated into AI development approaches."
+      ],
+      "strengths": [],
+      "gaps": [
+        "Pourcentage de la population hors ligne au Tchad entre 2022 et 2024 Source: Digital Gender Gap ### Page 38 38 Le Tchad ne dispose pas d’une loi qui porte spécifiquement sur la réduction de l’digital gap entre les genres."
+      ],
+      "key_stats": [
+        {
+          "stat": "68 % de la population \nmondiale",
+          "context": "ns. Diversité, inclusion et égalité L'UIT estimait qu'environ 5,5 milliards de personnes, soit 68 % de la population mondiale, utiliseraient Internet en 2024. Cela représentait une augmentation par ra",
+          "value": 68.0,
+          "unit": "%"
+        },
+        {
+          "stat": "53 % enregistr",
+          "context": "tion mondiale, utiliseraient Internet en 2024. Cela représentait une augmentation par rapport aux 53 % enregistrés en 2019. (Statistiques des TIC de l'UIT-D. UIT., s.d.). Néanmoins, ces chiffres sont ",
+          "value": 53.0,
+          "unit": "%"
+        },
+        {
+          "stat": "10 % de la population a acc",
+          "context": "est considéré comme médiocre avec un indice d’accès numérique de 0,1. L’indice montre que moins de 10 % de la population a accès aux TIC, et surtout plus de 70 % de la population est rurale (…) Seules",
+          "value": 10.0,
+          "unit": "%"
+        },
+        {
+          "stat": "70 % de la \npopulation est rurale",
+          "context": "que de 0,1. L’indice montre que moins de 10 % de la population a accès aux TIC, et surtout plus de 70 % de la population est rurale (…) Seules 6 % des zones rurales disposent d'une certaine forme de c",
+          "value": 70.0,
+          "unit": "%"
+        },
+        {
+          "stat": "6 % des zones rurales disposent d",
+          "context": "% de la population a accès aux TIC, et surtout plus de 70 % de la population est rurale (…) Seules 6 % des zones rurales disposent d'une certaine forme de connectivité numérique » (p. 12). Les niveaux",
+          "value": 6.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "The scientific and educational landscape for AI in Chad is at a very early stage with limited research infrastructure.",
+        "AI-specific educational programs are virtually nonexistent, requiring significant investment in curriculum development.",
+        "Research output in AI is extremely limited, with few publications and minimal international collaboration.",
+        "STEM education needs substantial strengthening as a foundation for AI skills development.",
+        "Teacher training programs need to incorporate digital literacy and AI awareness components."
+      ],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "The economic dimension reveals a nascent digital economy with limited AI adoption in productive sectors.",
+        "The labor market is largely unprepared for AI-driven transformation, requiring workforce development programs.",
+        "Private sector investment in AI is minimal, with few startups or companies developing AI solutions.",
+        "The informal economy, which constitutes a significant portion of economic activity, has yet to benefit from AI technologies.",
+        "Agriculture, a key economic sector, presents significant opportunities for AI-driven productivity improvements."
+      ],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [
+        {
+          "stat": "14 % des emplois sont consid",
+          "context": "marché du travail est l’une des principales préoccupations et sources d’inquiétude. Selon l’OCDE, 14 % des emplois sont considérés comme étant fortement menacés par le processus d’automatisation dans ",
+          "value": 14.0,
+          "unit": "%"
+        },
+        {
+          "stat": "80 \n% de la population active du pay",
+          "context": "### Page 43 43 aux problématiques spécifiques des Tchadiens. Le secteur agricole emploie quelque 80 % de la population active du pays. L'agriculture représente ainsi un important vivier d’emplois, mob",
+          "value": 80.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "The technological and infrastructural dimension reveals significant gaps in connectivity and computing resources.",
+        "Internet penetration remains low, particularly in rural areas, limiting the potential for AI deployment.",
+        "Electricity access is unreliable in many areas, creating fundamental infrastructure challenges for digital services.",
+        "Computing infrastructure including data centers and cloud services is very limited.",
+        "Mobile network coverage is expanding but remains insufficient for widespread AI application deployment.",
+        "Data availability and quality are major constraints for AI development."
+      ],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [
+        {
+          "stat": "7 % des m",
+          "context": "rein majeur au développement de l’IA. Il a été possible de souligner à ce propos, qu’uniquement 11,7 % des ménages ont accès à l’électricité en 2022 selon la Banque mondiale (2023). Cette situation po",
+          "value": 7.0,
+          "unit": "%"
+        },
+        {
+          "stat": "2 % \nd",
+          "context": "s TIC (IUT, 2024, p.4). Il est important de souligner que le même rapport indique qu’uniquement 12,2 % d’individus ont accès à internet quand pas plus de 4,7 de ménages bénéficient d’une connexion Int",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "$170 million",
+          "context": "prouvé un financement de l’Association Internationale de Développement (IDA) d’un montant de $170 millions pour soutenir le Tchad dans l’amélioration de la connectivité multimodale et la logistique, a",
+          "value": 170000000.0,
+          "unit": "USD"
+        }
+      ]
+    }
+  },
+  "achievements": [],
+  "key_numbers": [],
+  "rankings_indices": []
+}

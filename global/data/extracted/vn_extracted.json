@@ -1,0 +1,1778 @@
+{
+  "country_code": "VN",
+  "country_name": "VIET NAM",
+  "language": "en",
+  "metadata": {
+    "page_count": 104,
+    "creation_date": "D:20251217124427+07'00'",
+    "modification_date": "D:20251218102749+01'00'",
+    "country_name": "VIET NAM",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Political Priorities and Strategies Viet Nam has demonstrated its strong determination to orient the development of AI through the promulgation of the National Strategy on Research, Development, and Application of Artificial Intelligence by 2030 under Decision No.",
+        "This Strategy sets out the strategic objective of positioning Viet Nam among the top four ASEAN countries and the world’s top 50 in AI research, development, and application by 2030, reflecting a long-term vision and ambition to harness AI as a key driver of economic growth and innovation.",
+        "In February 2024, the Ministry of Science and Technology reported the results of the three-year implementation of the National AI Strategy, based on consolidated assessments from ministries, sectors, and localities during the implementation process.",
+        "The report highlighted several constraints and their causes, while outlining directions and key tasks for the coming period, including the continued review and improvement of institutions and policies on AI.",
+        "Recently, the Politburo has promulgated several strategic resolutions on science and technology, law-making and enforcement, and private sector development, which directly introduce a number of new and groundbreaking policies to foster AI development in Viet Nam.",
+        "57-NQ/TW, issued on 22 December 2024 relates to breakthroughs in science, technology, innovation, and national digital transformation, emphasized a higher objective compared to previous strategies, namely, the orientation that by 2030 Viet Nam will be among the top three countries in Southeast Asia ",
+        "In the meantime, Viet Nam has been actively researching and developing relevant legal provisions, most notably the promulgation of the Law on the Digital Technology Industry in June 2025 (effective as of 1 January, 2026), which includes a dedicated chapter stipulating the principles for developing, ",
+        "1290/QD-BKHCN on 11 June 2024, providing guidance on a number of principles for the research and development of responsible AI systems."
+      ],
+      "strengths": [
+        "Viet Nam is currently in the process of formulating a comprehensive, binding law on AI.",
+        "DATA PROTECTION AND PRIVACY LAWS Viet Nam has established a comprehensive legal framework for the protection of personal data and privacy.",
+        "13/2023/ND-CP on 17 April 2023, which came into effect on 1 July 2023, establishing a comprehensive legal framework for personal data protection.",
+        "On 26 June 2025, the National Assembly of Viet Nam enacted the Law on Personal Data Protection – PDPL (which will officially take effect on 1 January 2026) 2.1 Principles and Rights of Data Subjects (Article 4) Building on the approach of Decree 13/2023/ND-CP, the Law on Personal Data Protection aff",
+        "The National Data Portal (data.gov.vn) has been established as a platform providing open datasets, allowing citizens and organizations, including researchers, to access and use the data for both commercial and non-commercial purposes.",
+        "FREEDOM OF INFORMATION ACTS/ACCESS TO KNOWLEDGE ACTS Viet Nam has the Law on Access to Information, which was adopted by the National Assembly on 6 April 2016.",
+        "These legal instruments have established a relatively systematic legal framework to determine the conditions giving rise to liability, the entities responsible for compensation, the extent of such compensation, and so forth.",
+        "ONLINE SAFETY AND INTEGRITY OF SPEECH As mentioned under section 2.2 of this report, Viet Nam has established a comprehensive legal framework for cybersecurity, which covers both online safety and integrity of speech."
+      ],
+      "gaps": [
+        "Ethical Aspect of AI Development The 2021 National AI Strategy does not specifically address ethical aspects related to the research, development, and application of AI.",
+        "However, the issuance by the Ministry of Science and Technology of Decision No.",
+        "Article 19 permits processing without consent only in defined urgent, legal, or public interest cases, subject to oversight and risk management.",
+        "PROCUREMENT LAWS AND POLICIES Currently, Viet Nam has not yet put in place laws or policies specifically related to the procurement of AI systems or products/services containing AI components.",
+        "Procedures for procuring AI goods are currently not defined by any specific regulations, and the application is limited to general regulations governing the procurement of software in the public sector.",
+        "Viet Nam also does not yet have an official public list of certified AI-related suppliers.",
+        "However, reputed ISO certification organizations in Viet Nam, such as Vinacontrol CE, Bureau Veritas Certification, and TÜV NORD Viet Nam, often provide certifications related to quality management systems and technology, including high-tech products such as AI.",
+        "However, the right to access information may be restricted in certain cases related to national security, social order, public morality, and public health.",
+        "However, such requests must comply with certain principles, including: • Regarding the type of information that can be requested: The law stipulates that the requested information must fall within the scope of information that state agencies are obliged either to disclose or provide upon request.",
+        "• Individuals, agencies, and organizations have the right to request the court to protect their legitimate rights and interests; the court shall not refuse to accept civil cases for lack of applicable legal provisions."
+      ],
+      "key_stats": [
+        {
+          "stat": "100% of officials",
+          "context": "Transformation Human Resources by 2025, with orientation toward 2030,” the target by 2025 is that 100% of officials, civil servants, public employees, and workers in state agencies, state-owned corpor",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "ranking 80th out of",
+          "context": "al frameworks. According to the Open Data Inventory (ODIN) 2022/23, Viet Nam scored a total of 55, ranking 80th out of 195 countries, with specific scores of 50 for data coverage and 58 for data openn"
+        },
+        {
+          "stat": "2021 National AI Strategy",
+          "context": "ghts and dignity; 8) user support; and 9) accountability. 1.2. Ethical Aspect of AI Development The 2021 National AI Strategy does not specifically address ethical aspects related to the research, dev",
+          "year": "2021"
+        }
+      ],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Retrieved from https://asiapacific.unwomen.org/sites/default/files/Field%20Office%20ESEAsia/Docs/ Publications/2021/10/vn-CGEP_Full-report_Tieng-Viet-ss.pdf 7 ITU Vietnam Connectivity Individuals using the Internet by Gender and Location, 2023, Retrieved from https://datahub.itu.int/data/?e=VNM 8 Un",
+        "DIVERSITY, INCLUSION, AND EQUALITY Ethical AI must be designed and governed in ways that prevent bias, ensure equal opportunity, and include the perspectives of marginalized groups.",
+        "Data from 2018 showed that 56.3% of men used the internet compared to 46% of women; these rates were roughly equal among men and women under the age of 25.6 According to survey data from 2020–2021, women’s internet usage rate was 70%, while men’s was 78%.",
+        "Nguyen Duc Toan – Viet Nam Women’s Academy) 14 Policy Dialogue: Gender Equality in Digital Transformation in Viet Nam – Opportunities and Challenges, co-organized by the United Nations in Viet Nam, the Ministry of Labour, Invalids and Social Affairs, and the Viet Nam National Committee for the Advan",
+        "Retrieved at https:// vietnam.un.org/en/221691-policy-dialogue-%E2%80%9Cgender-equality-digital-transformation-viet-nam-opportunities-and 15 See https://en.vietnamplus.vn/invest-in-women-accelerate-progress-un-officials-post282607.vnp 16 See https://en.vietnamplus.vn/invest-in-women-accelerate-progr",
+        "From a legal perspective, the general principle of gender equality has been clearly and consistently recognized in the 2013 Constitution and the 2006 Law on Gender Equality, and it has also been mainstreamed into laws related to the fields of science and technology, information and communications, a",
+        "From a strategic and policy perspective, Viet Nam has issued and implemented strategies and policies on gender equality, digital transformation, and the digital economy.",
+        "The 2006 Law on Information Technology addressed the State’s policies on the application and development of information technology, including incentive policies for organizations and individuals engaged in IT application and development in agriculture; rural areas; remote, border, and island regions"
+      ],
+      "strengths": [
+        "Specifically, 36.5% of university graduates in STEM fields are female, while 63.5% are male.15 At the Hanoi University of Science and Technology, a leading institution for STEM education, over 78% of students are male, while only 22% are female.16 In Viet Nam, gender gaps become particularly pronoun",
+        "According to the most recent statistics, approximately 45% of researchers in Viet Nam are women, ranking among the highest in Asia,19 and this is higher than in several advanced Asian economies such as Japan: 17%; Republic of Korea: 20–25%; China: 28% in 2022.",
+        "The 2006 Law on Gender Equality and the National Gender Equality Strategy for the 2021–2030 period have established a general legal and policy framework for gender equality across all sectors, including science and technology.",
+        "In addition, Viet Nam has adopted and implemented the 2021–2025 National Target Programmes, including the National Target Programme on Sustainable Poverty Reduction and the National Target Programme on New Rural Development.",
+        "Digital Health Policy Viet Nam has made significant progress in formulating and implementing digital health policies."
+      ],
+      "gaps": [
+        "Retrieved at https://www.quanlynhanuoc.vn/2024/12/12/tang-cuong-binh-dang-gioi-trong-dao-tao-nguon-nhan-luc-cong- nghe-so/ 10 GSMA, The Mobile Gender Gap Report 2024, p.14.",
+        "However, without deliberate inclusion, AI risks reinforcing existing inequalities in access, outcomes, and participation.",
+        "Additionally, there remains a rural-urban divide in internet usage, though considerable efforts are underway to narrow this gap.",
+        "Digital Gender Gap Access to Internet and Technology In 2018, the average rate of internet use among men was higher than that of women.",
+        "However, the gap in Internet access between urban and rural areas remains significant.",
+        "However, the number of women working in software development remains very low; most women in the technology sector are primarily employed in other roles such as testing, marketing, sales, administration, and human resources, rather than in technical positions like software development.",
+        "However, the number of female scientists is significantly higher than the global average.",
+        "Although the proportion of men and women at the college/university level is nearly equal, gender disparities begin to emerge clearly at higher scientific levels and in academic positions.",
+        "In 2017, women accounted for 49% of masters degrees.17 However, in 2019, women holding doctoral degrees accounted for 28% of all doctoral degree holders, slightly higher than the rate reported a decade earlier, in 2010, when it was 17%.18 p.154; The research project “Gender Gap in Digital Technology",
+        "However, several other strategies and national programmes related to the Fourth Industrial Revolution,21 the digital economy and digital society,22 and national digital transformation23 have not addressed gender issues within their strategies, solutions, and actions related to innovation, science an"
+      ],
+      "key_stats": [
+        {
+          "stat": "56.3% \nof men used the internet compared",
+          "context": "he average rate of internet use among men was higher than that of women. Data from 2018 showed that 56.3% of men used the internet compared to 46% of women; these rates were roughly equal among men an",
+          "value": 56.3,
+          "unit": "%"
+        },
+        {
+          "stat": "46% of women",
+          "context": "s higher than that of women. Data from 2018 showed that 56.3% of men used the internet compared to 46% of women; these rates were roughly equal among men and women under the age of 25.6 According to s",
+          "value": 46.0,
+          "unit": "%"
+        },
+        {
+          "stat": "75.9% for women \nand",
+          "context": "2023, the proportion of individuals using the internet continued to rise for both genders, reaching 75.9% for women and 80.3% for men.7 In Viet Nam, the gender gap in internet access narrowed from 10.",
+          "value": 75.9,
+          "unit": "%"
+        },
+        {
+          "stat": "80.3% for men",
+          "context": "of individuals using the internet continued to rise for both genders, reaching 75.9% for women and 80.3% for men.7 In Viet Nam, the gender gap in internet access narrowed from 10.3% in 2018 to 4.4% in",
+          "value": 80.3,
+          "unit": "%"
+        },
+        {
+          "stat": "10.3% in",
+          "context": "75.9% for women and 80.3% for men.7 In Viet Nam, the gender gap in internet access narrowed from 10.3% in 2018 to 4.4% in 2023, and when considering age, the rate of internet used among men and women ",
+          "value": 10.3,
+          "unit": "%"
+        },
+        {
+          "stat": "4.4% in",
+          "context": "and 80.3% for men.7 In Viet Nam, the gender gap in internet access narrowed from 10.3% in 2018 to 4.4% in 2023, and when considering age, the rate of internet used among men and women under 25 is roug",
+          "value": 4.4,
+          "unit": "%"
+        },
+        {
+          "stat": "87% for women",
+          "context": "d women under 25 is roughly equal.8 Additionally, the corresponding smartphone ownership rates are 87% for women, lower than the 93% for men.9 Compared with the gender gap in Internet access in low- a",
+          "value": 87.0,
+          "unit": "%"
+        },
+        {
+          "stat": "93% for men",
+          "context": "ual.8 Additionally, the corresponding smartphone ownership rates are 87% for women, lower than the 93% for men.9 Compared with the gender gap in Internet access in low- and middle-income countries, wh",
+          "value": 93.0,
+          "unit": "%"
+        },
+        {
+          "stat": "84.7% in urban areas and",
+          "context": "t. According to ITU’s 2023 report on Viet Nam, the proportion of individuals using the Internet is 84.7% in urban areas and 74% in rural areas.11 According to the results of the 2020–2021 Statistical ",
+          "value": 84.7,
+          "unit": "%"
+        },
+        {
+          "stat": "74% in rural areas",
+          "context": "3 report on Viet Nam, the proportion of individuals using the Internet is 84.7% in urban areas and 74% in rural areas.11 According to the results of the 2020–2021 Statistical Survey on Sustainable Dev",
+          "value": 74.0,
+          "unit": "%"
+        },
+        {
+          "stat": "94.3% of women and",
+          "context": "phone usage rates among women and men aged 15–49 in Viet Nam are almost equal and at a high level: 94.3% of women and 94.2% of men own a mobile phone, and 96.8% of women and 97% of men use a mobile ph",
+          "value": 94.3,
+          "unit": "%"
+        },
+        {
+          "stat": "94.2% \nof men own a mobile phone",
+          "context": "among women and men aged 15–49 in Viet Nam are almost equal and at a high level: 94.3% of women and 94.2% of men own a mobile phone, and 96.8% of women and 97% of men use a mobile phone.12 However, wo",
+          "value": 94.2,
+          "unit": "%"
+        },
+        {
+          "stat": "96.8% of women and",
+          "context": "Nam are almost equal and at a high level: 94.3% of women and 94.2% of men own a mobile phone, and 96.8% of women and 97% of men use a mobile phone.12 However, women still face many limitations in acce",
+          "value": 96.8,
+          "unit": "%"
+        },
+        {
+          "stat": "97% of men use a mobile phone",
+          "context": "al and at a high level: 94.3% of women and 94.2% of men own a mobile phone, and 96.8% of women and 97% of men use a mobile phone.12 However, women still face many limitations in accessing digital tech",
+          "value": 97.0,
+          "unit": "%"
+        },
+        {
+          "stat": "80.3%\nFemale\nMale\nGender\nConnectivit",
+          "context": "Readiness Assessment Report Figure 2: Proportion of individuals with Internet access in 2023 75.9% 80.3% Female Male Gender Connectivity Use Individuals using the Internet % 2023 74% 84.7% Rural Urban",
+          "value": 80.3,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "National Strategy and Policies on AI Development Viet Nam has recognized early on the importance of AI and has promulgated the National Strategy on Research, Development, and Application of AI by 2030.",
+        "In addition, the Strategy mandates the creation of 50 open shared datasets for AI research and development; the establishment of a legal framework for AI; the development of an AI ecosystem (including networks of startups and research communities); and the promotion of international cooperation in A",
+        "Alongside the National AI Strategy, the Government is also implementing related programmes such as the National Digital Transformation Programme and the National Strategy on the Fourth Industrial Revolution, in which AI is regarded as a foundational technology.",
+        "These policies demonstrate that Viet Nam is pursuing an approach that encompasses infrastructure, data, human resources, legal frameworks, and the startup ecosystem.",
+        "Ethical considerations on the impacts of AI require an approach that integrates and analyses the technological, sociocultural, anthropological, psychological, and even political dimensions of AI adoption.",
+        "Research Output The number of AI publications from Viet Nam has been growing rapidly, reflecting the dynamism of the research community.",
+        "However, in terms of overall output, per capita rate, and especially quality and average impact, Viet Nam still needs to make significant efforts to catch up with advanced countries.",
+        "Continued strategic investment, with a focus on quality and human resource development, is key to ensuring the sustainable growth of the AI sector in Viet Nam."
+      ],
+      "strengths": [
+        "This demonstrates a strong commitment to prioritizing resources and institutional frameworks for technological development.",
+        "The Strategy outlines a wide range of major tasks and targets: establishing 10 reputed AI brands in the region; developing 3 national centres for big data and high-performance computing and building a connected network of these centres; establishing 3 leading AI innovation centres, with at least 1 r",
+        "Notably, VinAI Research (under Vingroup) has, within only a few years, produced more than 100 publications at leading AI venues in machine learning, computer vision, and natural language processing.",
+        "The National AI Strategy by 2030, adopted in early 2021, did not specifically address the role of AI ethics.",
+        "In the academic sphere, many major universities have established key AI research centres and groups.",
+        "Notably, Hanoi University of Science and Technology (HUST) launched the International Research Centre for Artificial Intelligence (BK.AI) in 2020, with the ambition of becoming a national leader in AI research and training.",
+        "Similarly, Viet Nam National University, Ho Chi Minh City (VNU-HCM) established the John von Neumann Institute (JVN) for advanced studies in AI, alongside AI laboratories in its member institutions such as the University of Technology and the University of Science.",
+        "Particularly, the Viet Nam Academy of Science and Technology (VAST) has founded the Advanced Centre for Artificial Intelligence with the aim of promoting interdisciplinary research and training highly skilled AI professionals.",
+        "The most prominent example is VinAI Research (under Vingroup), which was founded in 2019 and rapidly entered the Top 20 leading AI research companies worldwide in 2022 (ranked 20th) – the only representative from Southeast Asia on the list.73 VinAI focuses on machine learning, computer vision, and N",
+        "FPT established the Quy Nhon AI Research Centre (Binh Dinh Province), in partnership with Mila (Canada), with the ambition of building Viet Nam’s largest AI hub."
+      ],
+      "gaps": [
+        "Particularly, the requirement that at least 15% of the science and technology budget be dedicated to research on strategic technologies such as AI, big data, and high-performance computing underscores a clear orientation toward fostering technological self-reliance and enhancing national competitive",
+        "However, according to aggregated figures, total national expenditure on R&D (gross domestic expenditure on R&D—GERD) in 2021 was approximately 0.42% of GDP, with a significant increase from the private sector, accounting for 43.84% of total R&D expenditure, compared with 12% in 2015.62 Despite this ",
+        "Viet Nam needs to increase targeted investment in key areas such as Natural Sciences, Social and Human Sciences, and Engineering in order to achieve sustainable socio-economic development goals, strengthen technological autonomy, and promote interdisciplinary research in the era of AI.",
+        "However, what is missing so far in all these strategies and programmes is the consideration of interdisciplinary research on AI development and adoption, whereby scientific communities are incentivized and encouraged to collaborate in research programmes across scientific disciplines, especially bri",
+        "Innovation Output Although there has been a significant increase, the total number of patents granted to Viet Nam-based entities per capita remains very low, which implies that the number of AI-related patents is correspondingly low.",
+        "Precisely determining the number of AI-specific patents granted to organizations or individuals in Viet Nam is a major challenge, and currently there are no official, publicly available statistics categorized specifically by AI technology in Viet Nam.",
+        "However, some indirect data exist: in 2023, the number of patents granted to Vietnamese inventors more than doubled compared to the preceding year, reaching 315 patents.",
+        "Research on Ethics of AI Ethics and responsibility in AI have begun to receive attention in Viet Nam in recent years; however, this field remains relatively new.",
+        "The absence of clear guidance on issues such as privacy, bias, and accountability in the initial stage raised concerns that AI development could pose risks to society if not properly directed.69 Recognizing this gap, steps have been taken to promote Responsible AI, with the most notable milestone be",
+        "Here again, there is a glaring gap in the field of interdisciplinary research placing the ethical dimensions of AI adoption and development at the centre of scientific research and deliberation."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.42% of GDP",
+          "context": "al expenditure on research and development (R&D) in 2021 reached VND 36,066 billion, equivalent to 0.42% of GDP. The ratio of R&D expenditure to GDP decreased from 0.53% in 2019 to 0.42% primarily bec",
+          "value": 0.42,
+          "unit": "%"
+        },
+        {
+          "stat": "0.53% in",
+          "context": "VND 36,066 billion, equivalent to 0.42% of GDP. The ratio of R&D expenditure to GDP decreased from 0.53% in 2019 to 0.42% primarily because, starting in 2021, the scale of Viet Nam’s GDP was revised u",
+          "value": 0.53,
+          "unit": "%"
+        },
+        {
+          "stat": "0.42% primarily because",
+          "context": "n, equivalent to 0.42% of GDP. The ratio of R&D expenditure to GDP decreased from 0.53% in 2019 to 0.42% primarily because, starting in 2021, the scale of Viet Nam’s GDP was revised upward by 25.4%.59",
+          "value": 0.42,
+          "unit": "%"
+        },
+        {
+          "stat": "1.5% of GDP",
+          "context": "ets the following targets: By 2025, investment in science and technology is expected to reach 1.2%–1.5% of GDP, of which R&D expenditure accounts for 0.8%–1% of GDP, with contributions from the social",
+          "value": 1.5,
+          "unit": "%"
+        },
+        {
+          "stat": "1% of GDP",
+          "context": "e and technology is expected to reach 1.2%–1.5% of GDP, of which R&D expenditure accounts for 0.8%–1% of GDP, with contributions from the social sector reaching 60%–65%. By 2030, total investment is t",
+          "value": 1.0,
+          "unit": "%"
+        },
+        {
+          "stat": "2% of GDP",
+          "context": "butions from the social sector reaching 60%–65%. By 2030, total investment is to be raised to 1.5%–2% of GDP, R&D expenditure to 1%–1.2% of GDP, and social contributions to 65%–70%.60 Resolution No. 5",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1.2% of GDP",
+          "context": "aching 60%–65%. By 2030, total investment is to be raised to 1.5%–2% of GDP, R&D expenditure to 1%–1.2% of GDP, and social contributions to 65%–70%.60 Resolution No. 57-NQ/TW sets the target that by 2",
+          "value": 1.2,
+          "unit": "%"
+        },
+        {
+          "stat": "60% \ncoming from social sources",
+          "context": "n No. 57-NQ/TW sets the target that by 2030, investment in R&D will reach 2% of GDP, with more than 60% coming from social sources, and at least 3% of the annual state budget allocated to science, tec",
+          "value": 60.0,
+          "unit": "%"
+        },
+        {
+          "stat": "3% of the annual state budget alloca",
+          "context": "nvestment in R&D will reach 2% of GDP, with more than 60% coming from social sources, and at least 3% of the annual state budget allocated to science, technology, innovation, and digital transformatio",
+          "value": 3.0,
+          "unit": "%"
+        },
+        {
+          "stat": "15% of the science and technology bud",
+          "context": "nstitutional frameworks for technological development. Particularly, the requirement that at least 15% of the science and technology budget be dedicated to research on strategic technologies such as A",
+          "value": 15.0,
+          "unit": "%"
+        },
+        {
+          "stat": "43.84% of total R",
+          "context": "as approximately 0.42% of GDP, with a significant increase from the private sector, accounting for 43.84% of total R&D expenditure, compared with 12% in 2015.62 Despite this growth, Viet Nam’s investm",
+          "value": 43.84,
+          "unit": "%"
+        },
+        {
+          "stat": "12% in",
+          "context": "nt increase from the private sector, accounting for 43.84% of total R&D expenditure, compared with 12% in 2015.62 Despite this growth, Viet Nam’s investment in R&D remains far below the global average",
+          "value": 12.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1.25% of GDP",
+          "context": "2015.62 Despite this growth, Viet Nam’s investment in R&D remains far below the global average of 1.25% of GDP, and far below. countries such as the Republic of Korea and Israel which invest more than",
+          "value": 1.25,
+          "unit": "%"
+        },
+        {
+          "stat": "4% of GDP in R",
+          "context": "% of GDP, and far below. countries such as the Republic of Korea and Israel which invest more than 4% of GDP in R&D. Viet Nam needs to increase targeted investment in key areas such as Natural Science",
+          "value": 4.0,
+          "unit": "%"
+        },
+        {
+          "stat": "8.59% of the total patents issued in Vi",
+          "context": "s and also represents the highest share of patents granted to Vietnamese nationals, accounting for 8.59% of the total patents issued in Viet Nam. By comparison, the average for the period 2016–2020 wa",
+          "value": 8.59,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "economic structure and promoting digital transformation, thereby facilitating data sharing and utilization in research and development.",
+        "142/QD-TTg dated 2 February 2024 approving the National Data Strategy by 2030.",
+        "1901/BTTTTVCL dated 16 May 2024 from the Ministry of Information and Communications providing guidance on the implementation of the National Data Strategy.",
+        "The amount of enterprise data available for AI and shared for community use remains rudimentary and scarce135, 136.",
+        "This allows lecturers, students, and trainees in data science and AI to access the platform for research, teaching, and training purposes.",
+        "Nguyen Anh Tuan – Deputy Director General, Department of Information Technology Industry, Ministry of Science and Technology, on 10 March 2025 144 https://mic.gov.vn/so-lieu-phat-trien-linh-vuc-vien-thong-nam-2023-197240110083214636.htm 145 ITU, World Connectivity Active mobile-broadband subscriptio",
+        "APPLIED STANDARDS Standardization of AI and Digital Technologies 2.1.",
+        "Other national standards related to AI 5.1 TCVN 13902:2023 ISO/IEC 22989:2022 Information technology – AI Concepts and terminology 5.2 TCVN 13903:2023 ISO/IEC TR 24028:2020 Information technology –AI– Overview of trustworthiness in AI 5.3 TCVN 14199-1:2024 Artificial intelligence – Lifecycle process"
+      ],
+      "strengths": [
+        "Viet Nam has Adopted Several International Technical Standards from ISO/IEC Table 6: International technical standards applied in Viet Nam 1.",
+        "The Government of Viet Nam has established a National Data Centre, where the data housed serves as the core foundation, acting as a comprehensive data repository and a central hub connecting the data of ministries, sectors, and local authorities."
+      ],
+      "gaps": [
+        "However, the platform currently hosts just over 1,600 records."
+      ],
+      "key_stats": [
+        {
+          "stat": "10% compared to the same period in",
+          "context": "h 2025 ### Page 67 68 Viet Nam - Artificial Intelligence Readiness Assessment Report 2024,143 up 10% compared to the same period in 2023,144 and exceeded than the global average rate of 94.6 subscript",
+          "value": 10.0,
+          "unit": "%"
+        },
+        {
+          "stat": "31.9% compared to the same period in",
+          "context": "023.146 As of October 2023, Viet Nam’s fixed broadband speed reached 104.08 Mbit/s, an increase of 31.9% compared to the same period in 2022, ranking 41st out of 181 countries and territories. Mobile ",
+          "value": 31.9,
+          "unit": "%"
+        },
+        {
+          "stat": "13.78% from the same period in",
+          "context": "ountries and territories. Mobile broadband Internet speed in October 2023 reached 44.92 Mbit/s, up 13.78% from the same period in 2022, ranking 57th out of 181 countries and territories.147 According ",
+          "value": 13.78,
+          "unit": "%"
+        },
+        {
+          "stat": "85% in",
+          "context": "proportion of households using fiber-optic connections has also increased over the years, reaching 85% in 2024.153 Currently, 3,551 villages still lack fiber-optic coverage, and 761 villages experienc",
+          "value": 85.0,
+          "unit": "%"
+        },
+        {
+          "stat": "93.6% and",
+          "context": "ing years. Urban areas have a higher rate of households using Internet compared to rural areas, at 93.6% and 84% respectively.155 One of the reasons for the high rate of household Internet usage is th",
+          "value": 93.6,
+          "unit": "%"
+        },
+        {
+          "stat": "84% respectively",
+          "context": "Urban areas have a higher rate of households using Internet compared to rural areas, at 93.6% and 84% respectively.155 One of the reasons for the high rate of household Internet usage is that 100% of ",
+          "value": 84.0,
+          "unit": "%"
+        },
+        {
+          "stat": "100% of communes nationwide have elect",
+          "context": "and 84% respectively.155 One of the reasons for the high rate of household Internet usage is that 100% of communes nationwide have electricity, rural household electrification reaches 99.6%,156 and ov",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "99% of Viet Nam",
+          "context": "ide have electricity, rural household electrification reaches 99.6%,156 and overall, approximately 99% of Viet Nam’s population has access to electricity.157 Figure 18: Household fiber-optic adoption ",
+          "value": 99.0,
+          "unit": "%"
+        },
+        {
+          "stat": "93.6%\n\t\nSource",
+          "context": "rate Location Connectivity Access Rural Urban Households with internet access at home % 2023 84% 93.6% Source : Ministry of Information and Communications 2024 Source : Data Hub, ITU, 2023 The proport",
+          "value": 93.6,
+          "unit": "%"
+        },
+        {
+          "stat": "67.6% globally",
+          "context": "ub, ITU, 2023 The proportion of individuals using the Internet in Viet Nam is 78.1%,158 compared to 67.6% globally.159 150 https://www.anninhthudo.vn/den-thang-9-2024-khong-con-thue-bao-2g-only-tren-m",
+          "value": 67.6,
+          "unit": "%"
+        },
+        {
+          "stat": "33% market share",
+          "context": "n Strategy, Amazon Web Services (AWS) currently leads the cloud services market in Viet Nam with a 33% market share, followed by Microsoft Azure (21%) and Google Cloud (21%). Other foreign providers a",
+          "value": 33.0,
+          "unit": "%"
+        },
+        {
+          "stat": "3% of the market",
+          "context": "are, followed by Microsoft Azure (21%) and Google Cloud (21%). Other foreign providers account for 3% of the market. The remaining 22% belongs to domestic providers, with Viettel holding 25%, CMC 15%,",
+          "value": 3.0,
+          "unit": "%"
+        },
+        {
+          "stat": "22% belongs to domestic \nproviders",
+          "context": "(21%) and Google Cloud (21%). Other foreign providers account for 3% of the market. The remaining 22% belongs to domestic providers, with Viettel holding 25%, CMC 15%, FPT 12%, VNPT 10%, and VC Corp 6",
+          "value": 22.0,
+          "unit": "%"
+        },
+        {
+          "stat": "13 data centres",
+          "context": "et data centre with 170 racks in Ha Noi; and implemented a cloud computing ecosystem comprising of 13 data centres with 9,000 racks and covering a total floor area of 60,000 m².162 In October 2023, VN"
+        },
+        {
+          "stat": "2025 Data Centre",
+          "context": "vn/dua-trung-tam-du-lieu-quoc-gia-vao-hoat-dong- tu-ngay-19-8-2389911.html 174 Cushman & Wakefield, 2025 Data Centre Construction Cost Report, https://www.cushmanwakefield.com/vi-vn/vietnam/insights/a"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "AI-based tools and applications make our lives easier, smoother, and richer.",
+        "But in its current form, AI reproduces and amplifies many of the social challenges we face.",
+        "Upstream, the AI industry is highly concentrated, with just two countries – the United States and China – and a dozen companies accounting for a major share of the sector.",
+        "Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children and young people, women, or entire democracies.",
+        "We need capable governments that are well equipped, in terms of competencies, institutions, and laws, to frame responsible AI development and protect the rule of law online, and public and private developers who are accountable for putting human rights and fundamental freedoms – not profits or geopo",
+        "The Readiness Assessment Methodology (RAM) is a diagnostic tool intended to assist Member States in upholding their commitment to the Recommendation by helping them understand how prepared they are to implement AI ethically and responsibly for all their citizens.",
+        "By highlighting any institutional, regulatory, or data gaps and obstacles, it enables UNESCO to tailor support for governments to fill those gaps to ensure an ethical AI ecosystem aligned with the Recommendation.",
+        "Its recommendations aim to support the Government in strengthening the National AI Strategy, ensuring that innovation is pursued in alignment with ethics, human rights, and sustainable development."
+      ],
+      "strengths": [
+        "That is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 countries to make sure AI delivers fair, sustainable, and inclusive outcomes.",
+        "This assessment provides a comprehensive overview of Viet Nam’s capacities, opportunities, and challenges in advancing responsible AI.",
+        "The report highlights the strong commitment of the Government of Viet Nam to promoting AI and digital transformation as a key driver of economic progress, in support of the country’s ambition to become a high-income, developed nation by 2045.",
+        "In response to these challenges, 193 UNESCO Member States adopted the Recommendation on the Ethics of AI in 2021, establishing the first global standard to help countries harness the benefits of AI while mitigating its associated risks.",
+        "Viet Nam launched its RAM in August 2024 under the leadership and guidance of the Ministry of Science and Technology (MST).",
+        "While a comprehensive AI legal framework is still under development, the country already has strong legislation in related areas such as data protection, privacy, cybersecurity, open data, and public accountability, providing a solid foundation for responsible AI development.",
+        "In digital health, AI applications have advanced rapidly in areas such as diagnostics, telemedicine, and health data systems.",
+        "Key drivers of this research growth include VinAI (Viet Nam’s leading AI company, part of Vingroup), major technical universities, and leading private enterprises in information technology and AI.",
+        "A clear policy framework has been established to support the integration of AI and digital technologies into education, notably reflected in Circular No.",
+        "Key challenges include robust analysis and sense-making of the future of education in the era of AI, ensuring effective policy implementation, bridging the digital divide, pioneering interdisciplinary research and teaching, enhancing teacher capacity, and developing practical guidelines for the ethi"
+      ],
+      "gaps": [
+        "It is not acceptable that around a third of the world’s population still lacks adequate internet access.",
+        "The Recommendation also sets out concrete policy actions that governments can draw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which has until now remained the norm, is insufficient.",
+        "These include the absence of dedicated AI laws and binding mechanisms to operationalize responsible AI principles, as well as the lack of a unified coordinating body for AI governance.",
+        "In the context of digital transformation and improving the science and technology framework, we need to continue promoting international cooperation, building capacity, and developing a strong AI ecosystem to seize opportunities and effectively manage the challenges of the digital era.",
+        "However, to realize this vision, we need broader and deeper international cooperation and learn from global best practices.",
+        "However, it also raises serious ethical concerns.",
+        "The National AI Strategy (2021) sets out objectives for digital infrastructure, economic growth, and public sector innovation but does not include ethical provisions.",
+        "However, these principles are advisory in nature and not legally binding.",
+        "While this is a positive development, these principles have yet to be embedded across the legal and policy landscape.",
+        "As AI systems grow more complex and influential, the need for a dedicated and enforceable ethical AI framework becomes increasingly urgent."
+      ],
+      "key_stats": [
+        {
+          "stat": "37% of the science and technology wor",
+          "context": ". However, substantial disparities remain, particularly in rural and remote areas. Women represent 37% of the science and technology workforce, higher than the global average of 25%, but only a few oc",
+          "value": 37.0,
+          "unit": "%"
+        },
+        {
+          "stat": "36.5% of STEM graduates are women",
+          "context": "workforce, higher than the global average of 25%, but only a few occupy core technical roles. Only 36.5% of STEM graduates are women, and fewer than 11% of women study information technology. This edu",
+          "value": 36.5,
+          "unit": "%"
+        },
+        {
+          "stat": "11% of women study \ninformation techn",
+          "context": "but only a few occupy core technical roles. Only 36.5% of STEM graduates are women, and fewer than 11% of women study information technology. This educational gap limits women’s access to digital empl",
+          "value": 11.0,
+          "unit": "%"
+        },
+        {
+          "stat": "96% of villages connected to fiber",
+          "context": "lose the gender gap in the digital sector. Digital infrastructure in rural areas has expanded, with 96% of villages connected to fiber-optic internet and 99% covered by mobile networks as of 2024. How",
+          "value": 96.0,
+          "unit": "%"
+        },
+        {
+          "stat": "99% covered \nby mobile networks as",
+          "context": "rastructure in rural areas has expanded, with 96% of villages connected to fiber-optic internet and 99% covered by mobile networks as of 2024. However, the proportion of individuals using the Internet",
+          "value": 99.0,
+          "unit": "%"
+        },
+        {
+          "stat": "74% in rural areas",
+          "context": "24. However, the proportion of individuals using the Internet in urban areas is 84.7%, compared to 74% in rural areas. National programmes including the Digital Transformation Program, New Rural Devel",
+          "value": 74.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.42% of GDP in",
+          "context": "fic and Educational Dimension Viet Nam’s investment in research and development (R&D) accounted for 0.42% of GDP in 2021, significantly lower than the global average of 1.25%. The country has set a na",
+          "value": 0.42,
+          "unit": "%"
+        },
+        {
+          "stat": "1.2% of GDP by",
+          "context": "the global average of 1.25%. The country has set a national target to increase R&D expenditure to 1-1.2% of GDP by 2030, with an increasing contribution from the private sector. AI-related research ha",
+          "value": 1.2,
+          "unit": "%"
+        },
+        {
+          "stat": "18.3% of GDP in",
+          "context": "ls and remote areas. Economic Dimension Viet Nam’s digital economy is growing rapidly, contributing 18.3% of GDP in 2024 with total revenue of approximately VND 3.88 quadrillion (around USD 152 billio",
+          "value": 18.3,
+          "unit": "%"
+        },
+        {
+          "stat": "4.2% of all ICT job postings in",
+          "context": "ectors such as finance, healthcare, logistics, and manufacturing, with AI engineers accounting for 4.2% of all ICT job postings in 2024. However, the supply of AI skilled workers remains limited. Viet",
+          "value": 4.2,
+          "unit": "%"
+        },
+        {
+          "stat": "30% of their IT budgets to AI",
+          "context": "AI relevant expenditure is also increasing, with nearly half of surveyed enterprises allocating 10-30% of their IT budgets to AI. While many AI services still rely on foreign technologies, domestic en",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "36% of total trade",
+          "context": "eloping localized solutions tailored to domestic needs. High-tech exports now account for more than 36% of total trade, reflecting Viet Nam’s transition toward a knowledge- based and innovation-driven",
+          "value": 36.0,
+          "unit": "%"
+        },
+        {
+          "stat": "87% of government agencies providing",
+          "context": "Southeast Asia. Open data initiatives have accelerated, with over 10 million records published and 87% of government agencies providing open data. However, most corporate data is siloed, used only for",
+          "value": 87.0,
+          "unit": "%"
+        },
+        {
+          "stat": "78.1% of the population",
+          "context": "pment of a shared, integrated national data infrastructure. Internet access is widespread, covering 78.1% of the population, well above the global average of 67.6%. Mobile network coverage reaches 99.",
+          "value": 78.1,
+          "unit": "%"
+        },
+        {
+          "stat": "99.8% of the population",
+          "context": "g 78.1% of the population, well above the global average of 67.6%. Mobile network coverage reaches 99.8% of the population, and both fixed and mobile broadband subscription rates exceed global benchma",
+          "value": 99.8,
+          "unit": "%"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "DATA PROTECTION AND PRIVACY LAWS Viet Nam has established a comprehensive legal framework for the protection of personal data and privacy.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Privacy rights are recognized and enshrined in the 2013 Constitution, the 2015 Civil Code, and various specialized laws such as the 2015 Law on Cyber Information Security, the 2018 Law on Cybersecurity, the Law on Medical Examination and Treatment, the Law on Children, the Law on Education, the Law on Insurance Business, and the Law on Credit Institutions, among others.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Although Viet Nam has not officially adopted the International Open Data Charter, it has established a basic legal framework for national data sharing through the 2024 Law on Data (effective from 1 July 2025).",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "These legal instruments have established a relatively systematic legal framework to determine the conditions giving rise to liability, the entities responsible for compensation, the extent of such compensation, and so forth.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "ONLINE SAFETY AND INTEGRITY OF SPEECH As mentioned under section 2.2 of this report, Viet Nam has established a comprehensive legal framework for cybersecurity, which covers both online safety and integrity of speech.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "From a legal perspective, the general principle of gender equality has been clearly and consistently recognized in the 2013 Constitution and the 2006 Law on Gender Equality, and it has also been mainstreamed into laws related to the fields of science and technology, information and communications, and electronic transactions, such as the 2008 Law on High Technology, the 2013 Law on Science and Technology, the 2023 Law on Electronic Transactions, and the 2023 Law on Telecommunications.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "From a strategic and policy perspective, Viet Nam has issued and implemented strategies and policies on gender equality, digital transformation, and the digital economy.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "The 2006 Law on Gender Equality and the National Gender Equality Strategy for the 2021–2030 period have established a general legal and policy framework for gender equality across all sectors, including science and technology.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "In addition, Viet Nam has adopted and implemented the 2021–2025 National Target Programmes, including the National Target Programme on Sustainable Poverty Reduction and the National Target Programme on New Rural Development.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Large, labelled datasets in ethnic minority languages for specific AI tasks such as machine translation, speech recognition, or sentiment analysis are very limited.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Environmental impact assessment is required only when AI is associated with projects or infrastructure that fall within the statutory scope of assessment, not because of AI per se, but due to the accompanying activities or projects in which AI is deployed.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "AI Technologies in Digital Health Policy Viet Nam’s digital health policy has recognized and incorporated AI into the orientation for the development of the health sector.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "National Strategy and Policies on AI Development Viet Nam has recognized early on the importance of AI and has promulgated the National Strategy on Research, Development, and Application of AI by 2030.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Particularly, the Viet Nam Academy of Science and Technology (VAST) has founded the Advanced Centre for Artificial Intelligence with the aim of promoting interdisciplinary research and training highly skilled AI professionals.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Within the corporate sector, several AI research and development organizations in Viet Nam have reached regional scale and recognition.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The most prominent example is VinAI Research (under Vingroup), which was founded in 2019 and rapidly entered the Top 20 leading AI research companies worldwide in 2022 (ranked 20th) – the only representative from Southeast Asia on the list.73 VinAI focuses on machine learning, computer vision, and NLP, and has published extensively at the world’s premier AI conferences, thereby making a significant contribution to elevating Viet Nam’s global standing in AI research.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "In addition, Viet Nam’s AI startup ecosystem has been vibrant, with notable players such as Zalo AI (VNG) – recognized for its speech recognition systems and research presented at PRICAI 2021 – as well as VAIS (a speech recognition startup), AIOZ, and Earable AI.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Comprehensive connected AI ecosystem: By 2030, a Vietnamese educational AI ecosystem is expected to connect students, teachers, schools, and parents through intelligent platforms, with widely deployed AI applications “Make in Viet Nam” (student support chatbots, AI tutors, teaching assistants, competency assessment systems, lesson recommendations, etc.).",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Master’s and doctoral programmes in AI have also begun to be implemented at several key institutes and universities.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Public Access to AI Education In order to build the future AI workforce and enhance public understanding of AI, Viet Nam has implemented several initiatives on universal AI literacy.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Currently, 61.2% of enterprises have implemented or are implementing AI in their business operations to varying degrees, and 46.25% of enterprises in Viet Nam consider recruiting AI specialists a priority in 2025.101,102 97 Pham, H.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "As of 2023, 165 universities nationwide have implemented training programmes in Information and Communication Technology (ICT/IT).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "128 Ministry of Information and Communications, Announcement of the list of national digital platforms implemented by ministries and sectors nationwide, Retrieved from https://mst.gov.vn/bo-tttt-cong-bo-danh-sach-cac-nen-tang-so-quoc-gia-do-cac-bo-nganh-trien-khai-tren-toan- quoc-197240716094042464.htm?, dated 16 July 2024.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Data Viet Nam’s National Strategy for AI Research, Development, and Application by 2030 identifies the construction of data and computing infrastructure for AI research, development, and application as one of five key strategic directions, with data infrastructure built from shared open databases and labelled datasets to support AI development.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "However, the amount of data specifically available for AI applications remains very limited.126 Viet Nam has also established the National Data Exchange Platform (NDXP) to aggregate digital platforms publicly released by ministries and sectors, with updates regularly published on the National Digital Transformation Portal.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 78.1,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.42,
+      "unit": "% GDP",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Companies",
+      "value": 500,
+      "unit": "count",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 134,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "executive_summary": "6\nViet Nam  - Artificial Intelligence Readiness Assessment Report\nACKNOWLEDGEMENTS............................................................................................................................................5\nTABLE OF CONTENTS...............................................................................................................................................6\nACRONYMS AND ABBREVIATIONS........................................................................................................................8\nFOREWORD..............................................................................................................................................................10\nMESSAGE FROM THE DEPUTY MINISTER.............................................................................................................12\nEXECUTIVE SUMMARY............................................................................................................................................13\nSECTION I: DIAGNOSIS OF THE NATIONAL AI LANDSCAPE...............................................................................18\nVIET NAM’S AI POLICY JOURNEY.............................................................................................................................................................18\nLANDSCAPE OF AI GOVERNANCE..........................................................................................................................................................10\nLEGAL AND REGULATORY DIMENSION.................................................................................................................................................21\n1. AI POLICY AND REGULATION.......................................................................................................................................................21\n2. DATA PROTECTION AND PRIVACY LAWS................................................................................................................................. 23\n3. DATA SHARING AND ACCESSIBILITY.......................................................................................................................................... 24\n4. PROCUREMENT LAWS AND POLICIES...................................................................................................................................... 25\n5. FREEDOM OF INFORMATION ACTS/ACCESS TO KNOWLEDGE ACTS............................................................................. 25\n6. DUE PROCESS AND ACCOUNTABILITY..................................................................................................................................... 26\n7. ONLINE SAFETY AND INTEGRITY OF SPEECH........................................................................................................................ 27\n8. PUBLIC SECTOR CAPACITY........................................................................................................................................................... 29\nSOCIAL AND CULTURAL DIMENSION.................................................................................................................................................... 30\n1. DIVERSITY, INCLUSION, AND EQUALITY................................................................................................................................... 30\n2. PUBLIC ENGAGEMENT AND TRUST........................................................................................................................................... 38\n3. ENVIRONMENTAL AND SUSTAINABILITY POLICIES............................................................................................................... 39\n4. HEALTH AND SOCIAL WELL-BEING........................................................................................................................................... 40\n5. CULTURE............................................................................................................................................................................................ 43\nSCIENTIFIC AND EDUCATIONAL DIMENSION..................................................................................................................................... 46\n1. RESEARCH AND INNOVATION..................................................................................................................................................... 46\n2. EDUCATION...................................................................................................................................................................................... 50\nECONOMIC DIMENSION........................................................................................................................................................................... 57\n1. OVERVIEW......................................................................................................................................................",
+  "recommendations": [
+    {
+      "number": "1.1",
+      "title": "Review and strengthen AI-related laws and regulations",
+      "text": "Review and strengthen AI-related laws and regulations 2025–2026 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.2",
+      "title": "Adopt regulatory sandboxes approach",
+      "text": "Adopt regulatory sandboxes approach 2026–2027 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.3",
+      "title": "Develop public procurement policies for AI integrating",
+      "text": "Develop public procurement policies for AI integrating AI Ethics 2025–2028 Medium",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.4",
+      "title": "Establish technical and ethical standards for AI",
+      "text": "Establish technical and ethical standards for AI 2025–2030 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.1",
+      "title": "Amend the National AI Strategy to integrate AI Ethics",
+      "text": "Amend the National AI Strategy to integrate AI Ethics 2025–2026 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.2",
+      "title": "Establish a National AI Ethics Committee",
+      "text": "Establish a National AI Ethics Committee 2025–2027 Medium",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.3",
+      "title": "Track the economic and social impacts of AI systems",
+      "text": "Track the economic and social impacts of AI systems 2025–2028 Medium",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.4",
+      "title": "Enhance Data Sharing and Data Governance",
+      "text": "Enhance Data Sharing and Data Governance 2025–2027 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.5",
+      "title": "Promote the adoption of best practices for ethical AI",
+      "text": "Promote the adoption of best practices for ethical AI use 2025–2030 Medium",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.1",
+      "title": "Raising Public Awareness on AI Ethics",
+      "text": "Raising Public Awareness on AI Ethics 2025–2030 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.2",
+      "title": "Provide AI Ethics Literacy Training for Public Sector",
+      "text": "Provide AI Ethics Literacy Training for Public Sector Personnel 2025–2030 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.3",
+      "title": "Integrate AI Ethics into education and training",
+      "text": "Integrate AI Ethics into education and training 2025–2030 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.4",
+      "title": "Attract and Develop AI Talents with solid understanding",
+      "text": "Attract and Develop AI Talents with solid understanding of AI Ethics 2026–2028 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.5",
+      "title": "Develop and Implement National AI Reskilling and",
+      "text": "Develop and Implement National AI Reskilling and Upskilling Programmes 2025–2027 Medium",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.6",
+      "title": "Reform STEM and STEAM education curricula and",
+      "text": "Reform STEM and STEAM education curricula and pedagogy, and promote them for disadvantaged groups 2025–2030 Medium",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.1",
+      "title": "Build and Upgrade Large-Scale Data Centres",
+      "text": "Build and Upgrade Large-Scale Data Centres 2025–2030 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.2",
+      "title": "Establish Centres of Excellence in Strategic Technology",
+      "text": "Establish Centres of Excellence in Strategic Technology Areas to Promote AI Data Development and Sharing, integrating AI Ethics 2026–2028 Medium",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.1",
+      "title": "Develop and Pilot AI Technology in the Culture Sector",
+      "text": "Develop and Pilot AI Technology in the Culture Sector 2025-2028 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.2",
+      "title": "Promote Community Participation in AI",
+      "text": "Promote Community Participation in AI 2025–2030 High",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.3",
+      "title": "Support Indigenous Language",
+      "text": "Support Indigenous Language 2025–2030 Medium",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "6.1",
+      "title": "Support AI Startups integrating AI Ethics",
+      "text": "Support AI Startups integrating AI Ethics 2025–2030 High 18 Viet Nam - Artificial Intelligence Readiness Assessment Report VIET NAM’S AI POLICY JOURNEY Viet Nam has taken initial steps to establish several policy orientations to support and promote the country’s capacity for AI research, development, and application. This journey began with the following key milestones: • Resolution No. 52-NQ/TW issued by the Politburo in 2019, on guidelines and policies to proactively participate in the Fourth Industrial Revolution. This Resolution identifies AI as one of six priority technology groups. The State will provide support mainly through institutional innovation and improvement, the creation of a favourable business environment, investment in infrastructure, human resource development, science and technology development, and public procurement. • On the basis of Resolution No. 52-NQ/TW, the Prime Minister successively issued Decision No. 2289/QD-TTg dated 31 December 2020 (promulgating the National Strategy on the Fourth Industrial Revolution to 2030) and Decision No. 127/QD-TTg dated 26 January 2021 (promulgating the National Strategy on Research, Development, and Application of Artificial Intelligence to 2030). • Decision No. 127/QD-TTg sets the goal that by 2030 Viet Nam will become a centre of innovation and the development of strong AI application solutions. This Decision assigns responsibilities to 15 ministries, one ministerial-level agency, and one government agency, with the MST serving as the focal point to lead the organization, implementation, and consolidation of the Strategy’s implementation progress. In addition to Decision No. 127/QD-TTg on the overarching Strategy, policies on building digital data and digital human resources to serve AI development have also been addressed in a series of other policy decisions, such as Decision No. 749/QD-TTg of the Prime Minister dated 3 June 2020 approving the “National Digital Transformation Programme to 2025, with O",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.1",
+      "title": "Principles and Rights of Data Subjects (Article 4)",
+      "text": "Principles and Rights of Data Subjects (Article 4) Building on the approach of Decree 13/2023/ND-CP, the Law on Personal Data Protection affirms the principle of granting data subjects’ control over their own data, i.e., the persons to whom the personal information pertains. These rights are specified in Article 4 of the Law on Personal Data Protection and include the right to be informed about how their data is collected, processed, and used; the right to consent or refuse, and to withdraw consent for the processing of personal data; the right to access, correct, or request correction of personal data; and the right to request the provision, deletion, or restriction of personal data processing.",
+      "dimension": "Data Protection And Privacy Laws",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.2",
+      "title": "Sensitive Data Protection (Article 26,31,38)",
+      "text": "Sensitive Data Protection (Article 26,31,38) The Law on Personal Data Protection also distinguishes between basic personal data and sensitive personal data, emphasizing that sensitive personal data relates to an individual’s privacy and, if infringed, would directly affect the rights and legitimate interests of agencies, organizations, or individuals, as listed in the government-issued catalogue. Sensitive data protection is subject to stricter safeguards. It requires explicit consent and additional protective measures due to its greater potential impact if misused.",
+      "dimension": "Data Protection And Privacy Laws",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.3",
+      "title": "Consent Mechanism (Article 9 and Article 16 and 19)",
+      "text": "Consent Mechanism (Article 9 and Article 16 and 19) Article 9 of the Law on Personal Data Protection requires organizations collecting personal data to obtain permission from the data subject to process their personal data. The law further stipulates that the consent of the data subject is only valid if it is given voluntarily and with full knowledge of (i) the type of personal data to be processed and the purpose of such processing, (ii) the data controller or the data controller and processor, and (iii) the rights and obligations of the data subject. At the same time, the data subject’s consent must be expressed clearly and explicitly, in a tangible form that can be printed or recorded in writing, including in electronic or verifiable formats. Article 16 limits disclosure to specific, lawful purposes, requiring accuracy, controlled access, and safeguards against unauthorized use. Article 19 permits processing without consent only in defined urgent, legal, or public interest cases, subject to oversight and risk management.",
+      "dimension": "Data Protection And Privacy Laws",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.4",
+      "title": "Responsibilities of Data Controllers and Processors (Article 37)",
+      "text": "Responsibilities of Data Controllers and Processors (Article 37) The Law on Personal Data Protection clearly stipulates the obligations and responsibilities of the data controller and the data processor. It emphasizes that the data controller, in the capacity of an agency, organization, or individual, who 2 International Telecommunication Union, Global Cybersecurity Index, 2024, Retrieved from https://www.itu.int/epublications/publication/global- cybersecurity-index-2024 24 Viet Nam - Artificial Intelligence Readiness Assessment Report determines the purposes and means of processing personal data, must ensure the rights of the data subjects, be liable to the data subjects for any damages caused by the personal data processing, and prevent unauthorized personal data collection from its systems, devices, and services (Clause 1, Article 37). For agencies, organizations, or individuals performing personal data processing at the request of the data controller or the data controller and processor under a contract, Clause 2, Article 37 of the Law on Personal Data Protection stipulates that the data processor may only receive personal data after entering into an agreement or contract on personal data processing with the data controller or the data controller and processor, and must process personal data strictly in accordance with the terms of the signed agreement or contract.",
+      "dimension": "Data Protection And Privacy Laws",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.5",
+      "title": "Impact Assessments (Article 24)",
+      "text": "Impact Assessments (Article 24) The Law on Personal Data Protection also prescribes procedures for conducting impact assessments on personal data processing as well as on the transfer of personal data abroad, assigning the Government the responsibility to provide detailed regulations on the required documentation, conditions, and procedural steps for carrying out these impact assessments.",
+      "dimension": "Data Protection And Privacy Laws",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.6",
+      "title": "Enforcement Mechanism (Article 33, 35,36, 4 and 8)",
+      "text": "Enforcement Mechanism (Article 33, 35,36, 4 and 8) Article 33 of the Law on Personal Data Protection defines the personal data protection force, which includes the specialized personal data protection agency under the Ministry of Public Security; internal personal data protection units and personnel within agencies and organizations; organizations and individuals providing personal data protection services; and organizations and individuals mobilized to participate in personal data protection. Among these, the Ministry of Public Security is designated as the focal agency responsible to the Government for state management of personal data protection. In addition, article 4(1)(đ) grants data subjects the right to seek compensation for damages. Article 8 provides enforcement mechanisms, including administrative fines, criminal liability, and mandatory compensation.",
+      "dimension": "Data Protection And Privacy Laws",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.7",
+      "title": "Public vs. Private Sector Standards",
+      "text": "Public vs. Private Sector Standards The PDPL applies the same standards to all entities but allows specific exemptions for public authorities. For example, Article 19(1)(c) permits processing without consent to serve state agency operations, while Articles 19(1)(a)–(b) grant broader grounds for processing in matters of national security, public order, and emergencies.",
+      "dimension": "Data Protection And Privacy Laws",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "19.74",
+      "title": "20",
+      "text": "20 Building Evolving Establishing Advancing Role-modelling Areas of Relative Strength Area of Potential Growth Tier Performance T1: Role-modelling Capacity Development Measures Cybersecurity Commitment 20 Legal Measures 15 10 5 0 Cooperation Measures Technical Measures Organizationa Measures Capacity Development Measures Source: Global Cybersecurity Index 2024, ITU Viet Nam does not yet have specific regulations on the impact of AI on social networks, such as transparency, harmful content, fake news, or hate speech. However, the Ministry of Information and Communications issued the Code of Conduct on Social Networks under Decision No. 874/QĐ-BTTTT dated 17 June 2021, which includes rules such as: refraining from using hate speech, inciting violence, or discriminating based on region, gender, or religion; not posting content that violates the law that insults the honor or dignity of others, thereby affecting the lawful rights and interests of organizations or individuals; avoiding offensive language or violations of public morals; not spreading false or misleading information; 29 Viet Nam - Artificial Intelligence Readiness Assessment Report and refraining from illegal advertising or business activities that provoke public outrage or disrupt social order. The Secretariat of the Central Committee of the Communist Party issued Regulation No. 85-QD/TW on 7 October 2022 regarding the establishment and use of personal online pages by Party members and officials on the Internet and social networks. The Central Propaganda Commission issued Guidance No. 99-HD/BTGTW to provide detailed instructions for implementing Regulation No. 85-QD/TW. Viet Nam has not conducted an official assessment of the implementation of the Code of Conduct on Social Networks. Reports indicate that uncivil conduct on social networks remains widespread. According to the 2020 Digital Civility Index Report published by Microsoft 5, Viet Nam was among the five countries with the lowest level of civility ",
+      "dimension": "Online Safety And Integrity Of Speech",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "41.66",
+      "title": "25.13",
+      "text": "25.13",
+      "dimension": "Diversity, Inclusion, And Equality",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "45.2",
+      "title": "42.81",
+      "text": "42.81 2013",
+      "dimension": "Diversity, Inclusion, And Equality",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "45.12",
+      "title": "29.66",
+      "text": "29.66",
+      "dimension": "Diversity, Inclusion, And Equality",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "51.99",
+      "title": "43.42",
+      "text": "43.42 2015",
+      "dimension": "Diversity, Inclusion, And Equality",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "44.79",
+      "title": "28.2",
+      "text": "28.2",
+      "dimension": "Diversity, Inclusion, And Equality",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "49.02",
+      "title": "45.13",
+      "text": "45.13 Source: Science and Technology Report, 2017, Ministry of Science and Technology Law and Policy To Reduce The Digital Gender Gaps Although gender considerations are integrated into certain general policies and regulations, Viet Nam still lacks a dedicated policy framework aimed at narrowing the gender gap in the digital sector. From a legal perspective, the general principle of gender equality has been clearly and consistently recognized in the 2013 Constitution and the 2006 Law on Gender Equality, and it has also been mainstreamed into laws related to the fields of science and technology, information and communications, and electronic transactions, such as the 2008 Law on High Technology, the 2013 Law on Science and Technology, the 2023 Law on Electronic Transactions, and the 2023 Law on Telecommunications. The principle of equal access to technology has been explicitly acknowledged. 19 https://tuoitre.vn/ti-le-nha-khoa-hoc-nu-o-viet-nam-cao-hon-nhieu-nuoc-phat-trien-20250828180058957. htm?gidzl=66OI0WOuftaTU1O20Y6ZVnnw6m4OTQDz2YeMLKHphdmA9Hi562ggVWOb7GOLBwXz1YGU1ZKgRe1C1ZYhVW 20 Youth Newspaper, March 2025, Retrieved from https://tuoitre.vn/ti-le-nha-khoa-hoc-nu-o-viet-nam-cao-hon-nhieu-nuoc-phat- trien-20250828180058957.htm?gidzl=Hm2y0Ye_Vaf27hW2BYbvJqOUl0Wn9Nf7Nnli3JGiVajP5-fHP2We5ruKwbnbVIWH3a6w36LP3_T_AZzoJG 33 Viet Nam - Artificial Intelligence Readiness Assessment Report Notably, the 2025 Law on Science and Technology directly addresses strategic orientations for the development of science, technology, and innovation linked to the goal of “sustainable and inclusive development.” This can be regarded as a significant provision aimed at promoting diversity and equality in general and narrowing the gender gap in science and technology development while ensuring gender equality in particular. From a strategic and policy perspective, Viet Nam has issued and implemented strategies and policies on gender equality, digital transformation, and the digital econom",
+      "dimension": "Diversity, Inclusion, And Equality",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.2",
+      "title": "0.4",
+      "text": "0.4",
+      "dimension": "Public Engagement And Trust",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.6",
+      "title": "0.8",
+      "text": "0.8 2022 2024",
+      "dimension": "Public Engagement And Trust",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.1834",
+      "title": "0.6484",
+      "text": "0.6484",
+      "dimension": "Public Engagement And Trust",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.70811",
+      "title": "Source: E-Government Knowledgebase, UN",
+      "text": "Source: E-Government Knowledgebase, UN Viet Nam scored 0.0172, ranking 123rd on the E-Participation Index in the United Nations’ first assessment in 2003. This index then increased to 0.12698, ranking 63rd in 2005, reached 0.522, ranking 16th in 2008, before dropping again to 0.08, ranking 110th in 2010 and 101st in 2012. Subsequently, the score increased to 0.49, ranking 65th in 2014, and 0.69, ranking 43rd in 2016. From 2018 to 2024, the index fluctuated between 0.6 and 0.7, with rankings ranging from 70th to 72nd.39 38 See https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/189-Viet-Nam/dataYear/2024 39 See https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/189-Viet-Nam/dataYear/2024 39 Viet Nam - Artificial Intelligence Readiness Assessment Report Figure 6: Increase in Viet Nam’s E-Participation Index Relative to Asia and the World, According to United Nations Statistics Source: E-Government Knowledgebase, UN Regarding the level of trust of information on government websites and apps, in a survey “Inclusive Internet Index” in 2022, commissioned by Meta and conducted by Economist Impact which aims to assess how well countries enable inclusive access to and productive use of the internet, Viet Nam ranked 46th globally and 11th in Asia in the Relevance category, largely due to the availability of local language content. Across all pillars, the Relevance pillar had the highest index thanks to progress in open data policies and the value of digital finance.40 According to the “Digital in the Time of Covid” report by Tufts University (US) in 2020, Viet Nam ranked 3rd in the Attitude pillar among the evaluated countries and territories. The Attitude pillar assesses users’ trust in the digital environment, specifically regarding confidence in government direction, guidance, and data protection.41 Currently, there is no study in Viet Nam evaluating users’ level of trust in AI and digital technologies in general. However,",
+      "dimension": "Public Engagement And Trust",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "124.31",
+      "title": "-",
+      "text": "- 2021 44,133",
+      "dimension": "Overview",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "140.01",
+      "title": "32",
+      "text": "32 2022 46,000",
+      "dimension": "Overview",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "135.11",
+      "title": "29",
+      "text": "29 2023 47,000",
+      "dimension": "Overview",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "138.67",
+      "title": "30",
+      "text": "30 2024 54,500",
+      "dimension": "Overview",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "151.86",
+      "title": "32",
+      "text": "32 Source: Ministry of Information and Communications (2024) Recent studies indicate that Viet Nam is actively promoting digital transformation and the development of AI across various sectors. However, this process continues to face numerous challenges, particularly concerning technological infrastructure, human resource capacity, and the readiness of enterprises, as detailed below: Viet Nam possesses considerable potential for AI development but is confronted with a severe shortage of skilled personnel – only approximately 0.05% of the workforce is employed in this field.93 Furthermore, the readiness of enterprises for digital transformation remains at a moderate level, due to limitations in technological infrastructure, human resource capacity, and supportive policies.94 AI in the era of Industry 4.0 innovation plays a critical role; however, the level of AI adoption among enterprises remains low and uneven.95 Digital transformation has a clear impact on local economic growth: a 1% increase in the digital readiness index can boost GRDP by 0.84%.96 Nevertheless, Viet Nam is still at an early stage of AI development and lags behind many countries in 58 Viet Nam - Artificial Intelligence Readiness Assessment Report the Southeast Asian region in terms of investment, legal frameworks, and applied research.97 A survey of 500 SMEs across seven key economic regions indicates that digital transformation and AI contribute to improved business performance. However, small enterprises continue to face obstacles in accessing technology due to high costs and a shortage of specialized human resources.98",
+      "dimension": "Overview",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.2",
+      "title": "AI Skill Penetration",
+      "text": "AI Skill Penetration AI Skill Penetration in IT Workforce Viet Nam ranks within the top 10% of the Asia-Pacific region and 54th globally in technology skills.103 Based on survey data regarding the proportion of IT engineer positions within the IT workforce, the number of employees working as AI engineers is approximately 23,425 (according to data published by the Ministry of Information and Communications in 2024, the total IT workforce is 1,232,869, and the Vietnamworks report (2025) indicates that 1.9% of the IT workforce hold AI engineer positions). Additionally, the professional qualifications of IT personnel are impressive, with 86% of Viet Nam’s IT workforce holding a university or college degree, of which around 7.5% hold a master’s degree.104 However, the number of highly specialized AI professionals in Viet Nam remains scarce, with roughly 5,000 AI engineers, 7,000 AI specialists, and personnel in approximately 500 AI startups.105,106 Compared to current labour market demand, the number of professionals with AI expertise remains significantly insufficient. Viet Nam faces a substantial shortage of IT personnel, estimated at approximately 150,000 to 200,000 IT engineers annually during the 2022–2025 period.107 This shortage is evident in the labour market, as AI engineers are among the most difficult IT positions for enterprises to recruit.108 The scarcity has led to higher salaries for AI personnel compared to the general IT workforce. The average salary for IT personnel is VND 43.7 million per month.109 Among enterprises, 43.7% are willing to pay AI personnel 10–20% more than other IT positions, while 18.4% are willing to pay 20–50% higher salaries for AI personnel.110 Figure 8: IT workforce demand and shortage in Viet Nam, 2022–2025 530,000 550,000 650,000 700,000 150,000 150,000 170,000 200,000 2022 2023 2024 2025 IT workforce demand and shortage in Viet Nam, 2022–2025 Demand Shortage Source: TopDev, 2025 The shortage is being partially offset by the numb",
+      "dimension": "Labour Markets",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "33.2",
+      "title": "25.7",
+      "text": "25.7",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "37.3",
+      "title": "35.1",
+      "text": "35.1",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "36.1",
+      "title": "0",
+      "text": "0 5 10 15 20 25 30 35 40 2019 2020 2021 2022 2023 2024 2025 High-tech exports as a share of total trade (%) Source: WIPO, Global Innovation Index (GII), 2020–2024 121 WIPO, Global Innovation Index (GII) 2024. 122 This figure is significantly lower compared to other countries in the region, such as Thailand (1.1%), Singapore (1.9%), China (2.19%), and South Korea (4.8%). 123 https://www.globenewswire.com/news-release/2024/11/18/2982803/0/en/Vietnam-AI-in-Retail-Market-to-Worth-Over-US-637-32-Million-By- 2032-Strong-Private-and-Government-Investment-to-Flourish-Market-Growth-Potential-Says-Astute-Analytica.html 124 Leading Vietnamese technology corporation FPT has launched a project to invest in the construction of a USD 200 million AI facility. Based on financial report analyses of leading Vietnamese IT companies such as FPT, CMC, Viettel, and VNG, these enterprises allocate approximately 8–10% of their pre-tax profits to R&D investment. In addition, AI-focused start-ups reinvest 40–60% of their profits into R&D. 125 The Viet Nam Investment Support Fund will provide up to 50% of the initial investment costs for R&D projects in the semiconductor and AI sectors that meet specific criteria. Retrieved from https://vietnamlawmagazine.vn/decree-designed-to-facilitate-semiconductor-and-ai-research- and-development-73726.html 63 Viet Nam - Artificial Intelligence Readiness Assessment Report Table 5: Viet Nam’s Innovation Indicators, 2020–2024 Year GII Ranking Gross Expenditure on R&D (% of GDP, GERD) GERD Financed by Business (%) IT Service Exports as a Share of Total Trade (%) 2020 42",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.4",
+      "title": "64.1",
+      "text": "64.1",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.1",
+      "title": "2021",
+      "text": "2021 44",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.4",
+      "title": "64.1",
+      "text": "64.1",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.1",
+      "title": "2022",
+      "text": "2022 48",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.4",
+      "title": "64.1",
+      "text": "64.1",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.3",
+      "title": "2023",
+      "text": "2023 46",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.4",
+      "title": "64.1",
+      "text": "64.1",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.3",
+      "title": "2024",
+      "text": "2024 44",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.4",
+      "title": "64.1",
+      "text": "64.1",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.6",
+      "title": "Source: WIPO, Global Innovation Index (GII), 2020–2024",
+      "text": "Source: WIPO, Global Innovation Index (GII), 2020–2024 64 Viet Nam - Artificial Intelligence Readiness Assessment Report TECHNICAL AND INFRASTRUCTURAL DIMENSION 126 Statistics on the amount of data on the National Data Portal as of 4 July 2024. https://data.gov.vn/SitePages/Index.aspx - /details-chart 127 Ministry of Information and Communications. The Report on 2024 Implementation Review and 2025 Directions and Tasks, dated 29 December 2024, p.31. 128 Ministry of Information and Communications, Announcement of the list of national digital platforms implemented by ministries and sectors nationwide, Retrieved from https://mst.gov.vn/bo-tttt-cong-bo-danh-sach-cac-nen-tang-so-quoc-gia-do-cac-bo-nganh-trien-khai-tren-toan- quoc-197240716094042464.htm?, dated 16 July 2024. 129 List of data-sharing services provided on the National Data Exchange Platform (NDXP), Retrieved from https://dx.gov.vn/danh-muc-cac-doch-vu- chia-se-du-lieu-duoc-cung-cap-tren-nen-tang-tich-hop-chia-se-du-lieu-ndxp-1742293458268.htm, dated 18 March 2025.",
+      "dimension": "Investment And Output",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "182.5",
+      "title": "858.8",
+      "text": "858.8",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "647.0",
+      "title": "1013.1",
+      "text": "1013.1 2021 2022 2023 2024 Transactions on the NDXP platform (million transactions) Source : Ministry of Information and Communications, The Report on 2024 Implementation Review and 2025 Directions and Tasks Viet Nam is promoting measures to enhance the construction and sharing of data, creating an important foundation for the development of AI applications, such as integration with information systems and national databases on population, business registration, and insurance. In early 2024, the Prime Minister approved the National Data Strategy by 2030,130 and the Ministry of Information and Communications (formerly) issued guiding documents,131 affirming the role of data in transforming the economic structure and promoting digital transformation, thereby facilitating data sharing and utilization in research and development. By the end of 2024, the rate of open data provision by state agencies reached 87%, and the proportion of ministries, sectors, and local authorities issuing catalogues of shared databases reached 90%.132 Ministries, sectors, and local authorities have implemented the development of specialized databases and promoted IT applications in areas such as national defense and security (to control border entry and exit at checkpoints), intelligent traffic management, logistics optimization, finance and banking (to support tax procedures or monitor stock transactions, conduct biometric verification for remote digital signatures), industrial production (to automate manufacturing processes), and smart city construction. Figure 13: Number of ministries, sectors, and local authorities issuing Open Data Lists 46 21 6 8 54 75 6 9 % 63 % 87 % 0 10 20 30 40 50 60 70 80 90 100 2021 2022 2023 2024 Number of ministries, sectors, and provinces that have issued open-data lists and plans During the year Total Ratio issued open data lists Total/ issued during the year Rate of open data provision Source: Ministry of Information and Communications, The Report on 2024 Imp",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "106.4",
+      "title": "million,137 giving Viet Nam a smartphone-to-mobile user ratio higher than the international average.138 The number",
+      "text": "million,137 giving Viet Nam a smartphone-to-mobile user ratio higher than the international average.138 The number of fixed-line subscriptions reached 2,644,023 by December 2024, equivalent to 2.6 subscriptions per 100 inhabitants.139 In 133 Examples: Viettel Chatbot, VNG Chatbot, Vingroup’s ViGPT – Vietnamese version of ChatGPT, Viettel Cyberbot Platform, Viettel Data Analytics Platform (Viettel1), VNPT eKYC, vnSocial, vnFace (VNPT2), C-OCR, C-CHATBOT (CMC3), VisionAI; SoundAI (FPT4); digital banking platforms for automated customer transactions (autobank). 134 Examples: Vietnam Oil and Gas Group (PVN) used drones for surveying and mapping and sensors for detecting defects; Vietnam Electricity (EVN) with technical grid and power management systems; Vietnam Airlines with the open data platform Skywise. 135 In 2021, the VinBigdata Research Institute (Vingroup) launched a medical image data sharing portal for the community, providing a dataset of 18,000 labelled chest X-ray images via the Github platform to support research and the development of applications for diagnosing certain conditions such as spinal and cranial diseases, Retrieved from .https://vinbigdata.org/newpresses/ung-dung-ai-de-giai-bai-toan-y-te-ben-vung/ 136 In 2023, the Ministry of Science and Technology announced the “Openscience.vn Platform for Managing and Sharing Common-use R&D Data,” enabling the domestic research community to contribute and share datasets. This allows lecturers, students, and trainees in data science and AI to access the platform for research, teaching, and training purposes. However, the platform currently hosts just over 1,600 records. Retrieved from https://openscience.vn/ 137 Interview with Mr. Nguyen Anh Tuan – Deputy Director General, Department of Information Technology Industry, Ministry of Science and Technology, on 10 March 2025. 138 Telecommunications development data for 2023, Retrieved from https://mst.gov.vn/so-lieu-phat-trien-linh-vuc-vien-thong- nam-2023-1972401",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.31",
+      "title": "subscriptions per 100 inhabitants.140",
+      "text": "subscriptions per 100 inhabitants.140 Figure 15: Number of fixed-line vs mobile subscriptions",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.2",
+      "title": "3.1",
+      "text": "3.1",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.4",
+      "title": "2.3",
+      "text": "2.3",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.6",
+      "title": "123.6",
+      "text": "123.6",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "122.7",
+      "title": "127.2",
+      "text": "127.2",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "124.1",
+      "title": "118.6",
+      "text": "118.6 2020 2021 2022 2023 2024 Number of fixed-line and mobile subscriptions (million subs) Number of fixed-line (million subs) Mobile subscriptions (million subs) Source : Ministry of Science and Technology Figure 16: Number of mobile subscriptions using smartphones",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "94.7",
+      "title": "100.1",
+      "text": "100.1",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "106.4",
+      "title": "127.2",
+      "text": "127.2",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "124.1",
+      "title": "118.6",
+      "text": "118.6 74.5% 80.7% 89.7% 50% 55% 60% 65% 70% 75% 80% 85% 90% 95% 0 20 40 60 80 100 120 140 4 2 0 2 3 2 0 2 2 2 0 2 Mobile subscriptions Number of mobile subscriptions using smartphones (million subs) Number of mobile subscriptions (million subs) Source : Ministry of Science and Technology The number of fixed and mobile broadband Internet subscriptions in Viet Nam continued to grow steadily between 2020 and 2024,141 reaching 23.9 million fixed broadband subscriptions and 101.3 million mobile broadband by December",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2024.142",
+      "title": "The mobile broadband subscription rate in Viet Nam reached 101.2 subscriptions per 100 inhabitants at the end of",
+      "text": "The mobile broadband subscription rate in Viet Nam reached 101.2 subscriptions per 100 inhabitants at the end of 140 https://www.ceicdata.com/en/indicator/vietnam/number-of-subscriber-fixed-line 141 Compiled from multiple sources: Vietnam Telecommunications Authority, Retrieved from https://vnta.gov.vn/thongke/Trang/dulieuthongke. aspx?csrt=17704229688519384497#, Ministry of Science and Technology. https://mst.gov.vn/so-lieu-phat-trien-linh-vuc-vien-thong- nam-2023-197240110083214636.htm and Interview Mr. Nguyen Anh Tuan – Deputy Director General, Department of Information Technology Industry, Ministry of Science and Technology, on 10 March 2025 142 Interview with Mr. Nguyen Anh Tuan – Deputy Director General, Department of Information Technology Industry, Ministry of Science and Technology, on 10 March 2025 68 Viet Nam - Artificial Intelligence Readiness Assessment Report 2024,143 up 10% compared to the same period in 2023,144 and exceeded than the global average rate of 94.6 subscriptions per 100 inhabitants.145 Figure 17: Fixed broadband and mobile broadband Internet subscriptions",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "16.7",
+      "title": "19.3",
+      "text": "19.3",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "21.1",
+      "title": "22.8",
+      "text": "22.8",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "23.9",
+      "title": "69.7",
+      "text": "69.7",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "71.2",
+      "title": "83.4",
+      "text": "83.4",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "87.3",
+      "title": "101.3",
+      "text": "101.3 15.7% 9.2% 7.8%",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.2",
+      "title": "2.2%",
+      "text": "2.2% 17.2% 4.6% 16.0%",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.0",
+      "title": "20.0",
+      "text": "20.0",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "40.0",
+      "title": "60.0",
+      "text": "60.0",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "80.0",
+      "title": "100.0",
+      "text": "100.0",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.0",
+      "title": "5.0%",
+      "text": "5.0% 10.0% 15.0% 20.0% 2020 2021 2022 2023 2024 Fixed broadband and mobile broadband Internet subscriptions Total number of fixed broadband (million subs) Total number of mobile broadband subs (million subs) (phone and datacard) % increased of fixed broadband % increased of mobile broadband Source : Ministry of Science and Technology Viet Nam improved the mobile information frequency spectrum in 2024, reaching 640 MHz and ranking 4th out of 10 in ASEAN, up five places compared to 2023.146 As of October 2023, Viet Nam’s fixed broadband speed reached 104.08 Mbit/s, an increase of 31.9% compared to the same period in 2022, ranking 41st out of 181 countries and territories. Mobile broadband Internet speed in October 2023 reached 44.92 Mbit/s, up 13.78% from the same period in 2022, ranking 57th out of 181 countries and territories.147 According to ITU’s 2023 report on Viet Nam, domestic mobile broadband Internet traffic was 125 GB per subscription, while fixed broadband Internet traffic reached 3.79 TB per subscription.148 Among provinces, Da Nang continues to lead in mobile broadband Internet speed with 117.31 Mbps, while Hai Phong recorded the fastest fixed broadband network speed at 251.96 Mbps.149 The Ministry of Information and Communications issued Official Letter No. 3095/BTTTT-CTS on 31 July 2023, announcing the frequency planning for 900/1800/2100 MHz bands. Since September 2024, the 2G system has been phased out. The 2G network has only been maintained to support voice and SMS services for users of non-VoLTE 3G and 4G devices until 143 Interview with Mr. Nguyen Anh Tuan – Deputy Director General, Department of Information Technology Industry, Ministry of Science and Technology, on 10 March 2025 144 https://mic.gov.vn/so-lieu-phat-trien-linh-vuc-vien-thong-nam-2023-197240110083214636.htm 145 ITU, World Connectivity Active mobile-broadband subscriptions 2024, Retrieved from https://datahub.itu.int/data/ 146 Ministry of Information and Communications. The Report ",
+      "dimension": "Statistics On The Amount Of Data On The National \nData Portal",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.1",
+      "title": "TCVN 8695-1:2023 (ISO/IEC 20000-",
+      "text": "TCVN 8695-1:2023 (ISO/IEC 20000- 1:2018) Information technology – Service management – Part 1: Service management system requirements (ICS: 35.020, 03.080.99)",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.2",
+      "title": "TCVN 8695-2:2023 (ISO/IEC 20000-",
+      "text": "TCVN 8695-2:2023 (ISO/IEC 20000- 2:2018) Information technology – Service management – Part 2: Guidance on the application (previous version: TCVN 8695- 1:2011 ISO/IEC 20000-1:2005)",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.1",
+      "title": "TCVN ISO/IEC 27001:2019 (ISO/IEC",
+      "text": "TCVN ISO/IEC 27001:2019 (ISO/IEC 27001:2013) Information technology – Security techniques – Information security management systems – Requirements (ICS: 13.100.70)",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.1",
+      "title": "TCVN ISO 14001:2015 (ISO 14001:2015)",
+      "text": "TCVN ISO 14001:2015 (ISO 14001:2015) Environmental management systems – Requirements and guidance for use (ICS: 13.020.10)",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.1",
+      "title": "TCVN ISO 9001:2015 (ISO 9001:2015)",
+      "text": "TCVN ISO 9001:2015 (ISO 9001:2015) Quality management systems – Requirements",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.1",
+      "title": "TCVN 13902:2023 ISO/IEC 22989:2022",
+      "text": "TCVN 13902:2023 ISO/IEC 22989:2022 Information technology – AI Concepts and terminology",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.2",
+      "title": "TCVN 13903:2023 ISO/IEC TR 24028:2020",
+      "text": "TCVN 13903:2023 ISO/IEC TR 24028:2020 Information technology –AI– Overview of trustworthiness in AI",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.3",
+      "title": "TCVN 14199-1:2024",
+      "text": "TCVN 14199-1:2024 Artificial intelligence – Lifecycle processes and quality requirements – Part 1: Meta quality model",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.4",
+      "title": "TCVN 14199-2:2024 –",
+      "text": "TCVN 14199-2:2024 – Artificial intelligence – Lifecycle processes and quality requirements – Part 2: Robustness 2.2. Viet Nam is also Drafting or Adopting Additional National Standards Table 7: Drafted or adoped national standards in Viet Nam 1 TCVN ISO 45001 Occupational health and safety management systems (equivalent to the international standard ISO 45001:2018. 2 ISO/IEC TR 24372:2021 IT – Artificial intelligence – Overview of computational approaches for AI systems 3 ISO/IEC 23053:2022 Framework for machine learning (ML)-based AI systems 4 ISO/IEC TR 24029-1:2021 Artificial intelligence – Assessment of the robustness of neural networks – Part 1: Overview 71 Viet Nam - Artificial Intelligence Readiness Assessment Report 5 ISO/IEC 24668:2022 IT – AI – Process management framework for big data analytics 6 ISO/IEC TR 24386:2022 IT – AI – Overview of ethical and societal concerns 7 ISO/IEC 38507:2022 IT – AI – Governance of AI use in organizations 8 ISO/IEC TS 4213:2022 IT – AI – Assessment of the classification performance of machine learning",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.3",
+      "title": "AI Ethical Standards",
+      "text": "AI Ethical Standards Although Viet Nam does not yet have a specific AI ethics standard comparable to IEEE 7000, the country has joined international initiatives such as UNESCO’s Recommendation on the Ethics of AI and issued a national guideline on responsible AI research and development160 in June 2024.",
+      "dimension": "Applied Standards",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "69.43",
+      "title": "Data products",
+      "text": "Data products Captures accuracy, timeliness, frequency, comparability, and levels of disaggregation of statistical products",
+      "dimension": "Statistical Performance",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "89.44",
+      "title": "Data sources",
+      "text": "Data sources Captures whether data collection goes beyond typical censuses and surveys, including administrative and geospatial data, as well as data generated by private firms and citizens",
+      "dimension": "Statistical Performance",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "52.60",
+      "title": "Data infrastructure",
+      "text": "Data infrastructure Captures development of governance, legislation, and standards, in addition to the skills, partnerships, and necessary funding capabilities to deliver useful and widely used data products and services 50 SPI Overall Score",
+      "dimension": "Statistical Performance",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "72.29",
+      "title": "in 2025–2026 with a design capacity of 240 kW and will cooperate with NVIDIA to develop AI data centre infrastructure, integrating nearly 800",
+      "text": "in 2025–2026 with a design capacity of 240 kW and will cooperate with NVIDIA to develop AI data centre infrastructure, integrating nearly 800 supercomputers and 6,000 GPU cards.https://www.viettelidc.com.vn/tin-tuc/viettel-khai-truong-trung-tam-du-lieu-lon-nhat-viet-nam-trien-khai- cong-nghe-xanh-san-sang-cho-phat-trien-ai and https://vneconomy.vn/lan-song-dau-tu-vao-trung-tam-du-lieu-tai-viet-nam.htm 182 The 2024 Law on Data; the 2023 Law on Telecommunications. 183 The Race to Build Trillion-VND Data Centres in Viet Nam: https://vjst.vn/cuoc-dua-xay-trung-tam-du-lieu-ngan-ty-tai-viet-nam-67532.html dated 7 November 2024. 184 Interview with Mr. Nguyen Anh Tuan – Deputy Director General, Department of Information Technology Industry, Ministry of Science and Technology, on 10 March 2025. 74 Viet Nam - Artificial Intelligence Readiness Assessment Report Figure 20: 2023 Statistical Performance Source: World Bank The statistical performance index of Viet Nam has reflected significant improvements driven by the recent enactment and implementation of policy and legal frameworks on data infrastructure. 75 Viet Nam - Artificial Intelligence Readiness Assessment Report SECTION II TOWARDS A NATIONAL MULTI-STAKEHOLDER APPROACH",
+      "dimension": "Statistical Performance",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.1",
+      "title": "Review and strengthen AI-related laws and regulations",
+      "text": "Review and strengthen AI-related laws and regulations 2025–2026 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.2",
+      "title": "Adopt regulatory sandboxes approach",
+      "text": "Adopt regulatory sandboxes approach 2026–2027 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.3",
+      "title": "Develop public procurement policies for AI integrating",
+      "text": "Develop public procurement policies for AI integrating AI Ethics 2025–2028 Medium",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.4",
+      "title": "Establish technical and ethical standards for AI",
+      "text": "Establish technical and ethical standards for AI 2025–2030 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.1",
+      "title": "Amend the National AI Strategy to integrate AI Ethics",
+      "text": "Amend the National AI Strategy to integrate AI Ethics 2025–2026 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.2",
+      "title": "Establish a National AI Ethics Committee",
+      "text": "Establish a National AI Ethics Committee 2025–2027 Medium",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.3",
+      "title": "Track the economic and social impacts of AI systems",
+      "text": "Track the economic and social impacts of AI systems 2025–2028 Medium",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.4",
+      "title": "Enhance Data Sharing and Data Governance",
+      "text": "Enhance Data Sharing and Data Governance 2025–2027 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.5",
+      "title": "Promote the adoption of best practices for ethical AI",
+      "text": "Promote the adoption of best practices for ethical AI use 2025–2030 Medium",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.1",
+      "title": "Raise Public Awareness on AI Ethics",
+      "text": "Raise Public Awareness on AI Ethics 2025–2030 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.2",
+      "title": "Provide AI Ethics Literacy Training for Public Sector",
+      "text": "Provide AI Ethics Literacy Training for Public Sector Personnel 2025–2030 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.3",
+      "title": "Integrate AI Ethics into education and training",
+      "text": "Integrate AI Ethics into education and training 2025–2030 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.4",
+      "title": "Attract and Develop AI Talents with solid understanding",
+      "text": "Attract and Develop AI Talents with solid understanding of AI Ethics 2026–2028 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.5",
+      "title": "Develop and Implement National AI Reskilling and",
+      "text": "Develop and Implement National AI Reskilling and Upskilling Programmes 2025–2027 Medium",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.6",
+      "title": "Reform STEM and STEAM education curricula and",
+      "text": "Reform STEM and STEAM education curricula and pedagogy, and promote them for disadvantaged groups 2025–2030 Medium",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.1",
+      "title": "Build and Upgrade Large-Scale Data Centres",
+      "text": "Build and Upgrade Large-Scale Data Centres 2025–2030 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.2",
+      "title": "Establish Centers of Excellence in Strategic Technology",
+      "text": "Establish Centers of Excellence in Strategic Technology Areas to Promote AI Data Development and Sharing, integrating AI Ethics 2026–2028 Medium",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.1",
+      "title": "Develop and Pilot AI Technology in the Culture Sector",
+      "text": "Develop and Pilot AI Technology in the Culture Sector 2025-2028 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.2",
+      "title": "Promote Community Participation in AI",
+      "text": "Promote Community Participation in AI 2025–2030 High",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.3",
+      "title": "Support Indigenous Language",
+      "text": "Support Indigenous Language 2025–2030 Medium",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "6.1",
+      "title": "Support AI Startups integrating AI Ethics",
+      "text": "Support AI Startups integrating AI Ethics 2025–2030 High 90 Viet Nam - Artificial Intelligence Readiness Assessment Report LIST OF TABLES Number Name Page Table 1 Global Cybersecurity Index 2024 28 Table 2 The proportion of research women by academic degree and academic title 32 Table 3 Summary table of universities offering AI-related training 55 Table 4 Current growth and contributions of the digital technology industry to the economy 57 Table 5 Viet Nam’s Innovation Indicators, 2020–2024 63 Table 6 International technical standards applied in Viet Nam 70 Table 7 Drafted or adoped national standards in Viet Nam 70, 71 Table 8 2023 Statistical Performance 73 ANNEX: LIST OF TABLES AND FIGURES 91 Viet Nam - Artificial Intelligence Readiness Assessment Report LIST OF FIGURES Number Name Page Figure 1: Viet Nam Country Profile, Global Cybersecurity Index 2024 28 Figure 2 Proportion of individuals with Internet access in 2023 31 Figure 3 The increase in the proportion of women holding doctoral degrees from 2010 to 2019 32 Figure 4 Household Internet Access Rate in 2023 34 Figure 5 Increase in the Online Service Index 38 Figure 6 Increase in Viet Nam’s E-Participation Index Relative to Asia and the World, According to United Nations Statistics 39 Figure 7 Recruitment Rate of Top IT Positions by Enterprises 58 Figure 8 IT workforce demand and shortage in Viet Nam, 2022–2025 59 Figure 9 Global ranking of Viet Nam Government’s AI readiness, 2021–2024 62 Figure 10 High-tech exports as a share of total trade 62 Figure 11 Statistics on the amount of data on the National Data Portal 64 Figure 12 Transactions on the NDXP platform 65 Figure 13 Number of ministries, sectors, and local authorities issuing Open Data Lists 65 Figure 14 Number of Ministries, sector, and local authorities issuing catalogues of shared databases 66 Figure 15 Number of fixed-line vs mobile subscriptions 67 Figure 16 Number of mobile subscriptions using smartphones 67 Figure 17 Fixed broadband and mobile b",
+      "dimension": "Summary Table Of Recommendations",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 116,
+  "page_count": 104,
+  "rankings_indices": [
+    {
+      "context": "In 2024, the country was ranked for the first time in the “Very High” category of the UN E-Government Development Index , ranked 71st globally and 5th in Southeast Asia.",
+      "index_name": "E-Government Development Index",
+      "rank": 71,
+      "year": 2024
+    },
+    {
+      "context": "Recognizing these efforts, in 2024, Viet Nam was among 46 countries classified in Group 1 (role-modelling) in the International Telecommunication Union’s (ITU) Global Cybersecurity Index, with the legal measures indicator for ensuring cybersecurity achieving a perfect score of 20/202.",
+      "index_name": "Global Cybersecurity Index",
+      "score": 20.0,
+      "total_countries": 46,
+      "year": 2024
+    },
+    {
+      "context": "According to the Open Data Inventory (ODIN) 2022/23, Viet Nam scored a total of 55, ranking 80th out of 195 countries, with specific scores of 50 for data coverage and 58 for data openness3.",
+      "index_name": "Open Data Inventory",
+      "rank": 80,
+      "total_countries": 195,
+      "year": 2022
+    },
+    {
+      "context": "By 2022, Viet Nam’s online service index reached 0.6484 and continued to rise to 0.70811 in 2024, ranking 71st out of 193 countries.38 Figure 5: Increase in the Online Service Index Online Service Index 2003 2022 2024 2003 0 0.2 0.4 0.6 0.8 2022 2024 0.1834 0.6484 0.70811 Source: E-Government Knowledgebase, UN Viet Nam scored 0.0172, ranking 123rd on the E-Participation Index in the United Nations’ first assessment in 2003.",
+      "index_name": "online service index",
+      "rank": 71,
+      "score": 0.0172,
+      "total_countries": 193,
+      "year": 2022
+    },
+    {
+      "context": "Viet Nam ranked 51st out of 193 in the Government AI Readiness Index 2024, in which ethics and regulation were among the key evaluation criteria.71 According to currently available public information, in Viet Nam there is no research centre, academic faculty within universities, or research institutes specialized in researching AI ethics specifically.",
+      "index_name": "Government AI Readiness Index",
+      "rank": 51,
+      "year": 2024
+    },
+    {
+      "context": "Funding from leading IT corporations also plays a crucial role.124 In addition, the Vietnamese government has implemented various initiatives and funding programmes to promote AI development.125 Regarding output indicators for investment in innovation, according to the Global Innovation Index (GII) 2024, Viet Nam ranked 44th in innovation, up two places from 2023 and four places from 2022.",
+      "index_name": "Global Innovation Index",
+      "rank": 44,
+      "year": 2024
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "country_code": "ST",
+  "country_name": "AGER",
+  "language": "pt",
+  "metadata": {
+    "page_count": 35,
+    "creation_date": "D:20250617150141Z",
+    "modification_date": "D:20250806094505+02'00'",
+    "country_name": "AGER",
+    "language": "pt",
+    "translated": true,
+    "original_language": "pt",
+    "translation_note": "Auto-translated from Portuguese by AI"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Update of Law No. 07/2017 – Law on the Organization and Functioning of the National Personal Data Protection Agency (Actualização da Lei n.º 07/2017)",
+      "text": "Update of Law No. 07/2017 – Law on the Organization and Functioning of the National Personal Data Protection Agency (Actualização da Lei n.º 07/2017)",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Update of Decree-Law 19/2008, which creates INIC (Actualização do Decreto-Lei 19/2008)",
+      "text": "Update of Decree-Law 19/2008, which creates INIC (Actualização do Decreto-Lei 19/2008)",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Update of Resolution No. 35/2020 of the Council of Ministers, adopting the National Digital Governance Strategy (Actualização da Resolução n.º 35/2020)",
+      "text": "Update of Resolution No. 35/2020 of the Council of Ministers, adopting the National Digital Governance Strategy (Actualização da Resolução n.º 35/2020)",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Strengthening the capacity of the National Statistics Institute (INE)",
+      "text": "Strengthening the capacity of the National Statistics Institute (INE)",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Update of the Educational Policy Charter (CPE) (Actualização da Carta de Política Educativa)",
+      "text": "Update of the Educational Policy Charter (CPE) (Actualização da Carta de Política Educativa)",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Organization of a seminar on AI development and Ethics",
+      "text": "Organization of a seminar on AI development and Ethics",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Creation of personal data protection and AI ethics professionals",
+      "text": "Creation of personal data protection and AI ethics professionals",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Improvement of the telecommunications ecosystem",
+      "text": "Improvement of the telecommunications ecosystem",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Adoption of a radio and television information and awareness program",
+      "text": "Adoption of a radio and television information and awareness program",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Approval of the National AI Strategy Law (Aprovação da Lei da Estratégia Nacional de IA)",
+      "text": "Approval of the National AI Strategy Law (Aprovação da Lei da Estratégia Nacional de IA)",
+      "dimension": "REGULATION AND INSTITUTIONAL FRAMEWORK",
+      "language": "en",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 10,
+  "page_count": 35,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 28.0,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    }
+  ],
+  "rankings_indices": []
+}

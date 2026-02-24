@@ -1,0 +1,572 @@
+{
+  "country_code": "ZA",
+  "country_name": "SOUTH AFRICA",
+  "language": "en",
+  "metadata": {
+    "page_count": 43,
+    "creation_date": "D:20250319164525Z",
+    "modification_date": "D:20250501015917+02'00'",
+    "country_name": "SOUTH AFRICA",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "TABLE OF CONTENTS \nAcknowledgements \n1 \nList of Figures \n3 \nAcronyms \n4 \nExecutive Summary \n5 \nBackground: UNESCO RAM Tool \n6 \nSouth Africa’s Artificial Intelligence Landscape \n7 \nAssessment of South Africa’s AI Landscape Using the RAM Dimensions \n11 \n1. \nLegal and Regulatory \n11 \nRecommendations \n14 \n2. \nSocial/Cultural \n15 \nRecommendations \n19 \n3. \nScientific/educational \n20 \nRecommendations \n26 \n4. \nEconomic \n27 \nRecommendations \n29 \n5. \nTechnical and infrastructural \n30 \nRecommendations \n32 \nRoadmap with main policy recommendations \n34 \nConclusion \n37 \nReferences \n39 \nAnnexure: South Africa’s Key AI Policy & Regulatory Overview \n44 \nAnnexure: Terms of Reference for the National Stakeholder Teams \n46 \nTABLE OF CONTENTS \nACKNOWLEDGEMENTS \n2 \nTABLE OF CONTENTS \n4 \nACRONYMS AND ABBREVIATIONS \n7 \nLIST OF FIGURES \n5 \nFOREWARD \n9 \nEXECUTIVE SUMMARY \n9 \nDIAGNOSIS OF THE NATIONAL AI LANDSCAPE \n11 \nASSESSMENT OF SOUTH AFRICA’S AI LANDSCAPE USING THE RAM DIMENSIONS \n14 \nLEGAL AND REGULATORY \n14 \nRECOMMENDATIONS \n16 \nSOCIAL AND CULTURAL \n17 \nENVIRONMENTAL AND SUSTAINABILITY POLICIES RECOMMENDATIONS \n20 \nSCIENTIFIC/EDUCATIONAL \n22 \nRECOMMENDATIONS \n26 \nECONOMIC \n27 \nRECOMMENDATIONS \n28 \nTECHNICAL AND INFRASTRUCTURAL \n29 \nRECOMMENDATIONS \n31 \nROADMAP WITH MAIN POLICY RECOMMENDATIONS \n32 \nCONCLUSION \n34 \nREFERENCES \n35 \nANNEXURE: SOUTH AFRICA’S KEY AI POLICY & REGULATORY OVERVIEW \n39 \nANNEXURE: TERMS OF REFERENCE FOR THE NATIONAL STAKEHOLDER TEAMS \n41\n\n5 \n \nLIST OF FIGURES \n \n \n \nFigure 1: Key structures for AI governance. \nFigure 2: South Africa’s Score in the Global Data Barometer. \nFigure 3: Internet access levels for South African women (2022). \nFigure 4: Household internet access by sex (2022). \nFigure 5: Gross domestic expenditure on research and development (GERD) as a share of GDP in South Africa (2020-2022) \nFigure 6: Global Gender Gap Report: Education and Skills (South Africa). \nFigure 7: South Africa AI Research metrics. \nFigure 8: South African patents granted by technology (2010-2022). \nFigure 9: South African population percentage using the internet. \nFigure 10: World Digital Competitiveness Ranking: Infrastructure assessment. \nFigure 11: World Bank Statistical Performance Indicator: Data Sources 2022.\n\n6 \n \nACRONYMS AND ABBREVIATIONS \n \n \n \nAI \nArtificial Intelligence \nCCSA \nCompetition Commission South Africa \nCIPIT \nCentre for Intellectual Property and Information Technology Law \nDCDT \nDepartment of Communications and Digital Technologies \nECTA \nElectronic Communications and Transactions Act \ne- WASA \ne-Waste Association of South Africa \nFSCA \nFinancial Sector Conduct Authority \nGDP \nGross Domestic Expenditure \nGERD \nGross Domestic Expenditure on Research & Development \nIMD \nInstitute of Management and Development \nIO \nInformation Officer \nIR \nInformation Regulator \nNLP \nNatural Language Processing \nPC4IR \nPresidential Commission on the Fourth Industrial Revolution \nOECD \nOrganisation for Economic Cooperation and Development \nPEPUDA \nPromotion of Equality and Prevention of Unfair Discrimination Act \nPOPIA \nProtection of Personal Information Act \nRAM \nReadiness Assessment Methodology \nRDI \nResearch, Development and Innovation \nRIA \nResearch ICT Africa \nR&D \nResearch and Development \nSABC \nSouth African Broadcasting Corporation \nSTEM \nScience, Technology, Engineering and Mathematics \nUNESCO \nUnited Nations Educational, Scientific and Cultural Organization\n\n7 \n \nFOREWORD \n \n \n \n \n \n \n \n \n \n \nWe have officially entered the Age of Artificial Intelligence. The world is now set to change at a pace not seen in decades, even \ncenturies. AI-based tools and applications make our lives easier, smoother, and richer. They help us move efficiently, get informed, \nget credit, get a job, and get our taxes done. \n \n \nBut in its current form, AI reproduces and amplifies many of the social challenges we face. It is not acceptable that around a third of \nthe world’s population still lacks adequate internet access. Upstream, the AI industry is highly concentrated, with just two \ncountries – the United States and China – and a dozen companies accounting for a major share of the sector. This can lead only \nto greater inequality of outcomes – including gender disparities – downstream. Non-diverse AI teams, unrepresentative datasets, and \nopaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or \nindividuals, children and young people, women, or entire democracies. \n \n \nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 \ncountries to make sure AI delivers fair, sustainable, and inclusive outcomes. The Recommendation is based on the protection \nand promotion of human rights, human dignity, and environmental sustainability, and these values are then translated into \nprinciples such as accountability, transparency, and privacy. The Recommendation also sets out concrete policy actions that \ngovernments c",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Review of existing laws & development of new governance measures geared towards responsible and ethical AI.",
+      "text": "Review of existing laws & development of new governance measures geared towards responsible and ethical AI. This would include determining an appropriate mix of incentives and regulations for supporting the responsible development and use of AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Implement sector-specific policy and legislation, both as an opportunity for policy experimentation and learning in certain fields (to inform...",
+      "text": "Implement sector-specific policy and legislation, both as an opportunity for policy experimentation and learning in certain fields (to inform cross-cutting or longer-term legislation) and the need for coherence and alignment.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Regulatory measures aimed at establishing mechanisms for oversight, liability, compensation, and recourse against damages caused by AI systems.",
+      "text": "Regulatory measures aimed at establishing mechanisms for oversight, liability, compensation, and recourse against damages caused by AI systems. This includes considering where adaptive policy and soft law approaches have been successful in South Africa and may be more appropriate, such as common law, regulatory sandboxes and policy foresight.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Develop guidelines for the public sector on the use of emerging AI-based services and tools, such as generative AI.",
+      "text": "Develop guidelines for the public sector on the use of emerging AI-based services and tools, such as generative AI. This should reinforce the importance of personal data protection as a starting point for trustworthy adoption. Expand these guidelines and implement stronger directives on these and other AI governance areas including procurement, development and operation, and wider responsible data management practices.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Effective regulatory and policy frameworks governing the design, development, procurement and use of AI systems/ products/services across public and private sectors.",
+      "text": "Effective regulatory and policy frameworks governing the design, development, procurement and use of AI systems/ products/services across public and private sectors. Measures which extend to addressing ethical and responsible data systems and processing.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Transversal policies addressing human rights protections against the negative impacts of AI (discrimination against wellbeing of all, especially marginalised groups).",
+      "text": "Transversal policies addressing human rights protections against the negative impacts of AI (discrimination against wellbeing of all, especially marginalised groups).",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Enactment of cybersecurity standards, and legal safeguards for high-risk AI.",
+      "text": "Enactment of cybersecurity standards, and legal safeguards for high-risk AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Establishment of oversight and implementation mechanisms for all regulatory areas relating to AI.",
+      "text": "Establishment of oversight and implementation mechanisms for all regulatory areas relating to AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Enactment of cybersecurity standards, and legal safeguards for high-risk AI.",
+      "text": "Enactment of cybersecurity standards, and legal safeguards for high-risk AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Establishment of oversight and implementation mechanisms for all regulatory areas relating to AI.",
+      "text": "Establishment of oversight and implementation mechanisms for all regulatory areas relating to AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Development of measures which enable and safeguard AI use in the public sector.",
+      "text": "Development of measures which enable and safeguard AI use in the public sector.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Coordination of AI work done by existing regulators in the country.",
+      "text": "Coordination of AI work done by existing regulators in the country.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Advancement of infrastructure supporting inclusive and trustworthy access and use of digital technologies and services.",
+      "text": "Advancement of infrastructure supporting inclusive and trustworthy access and use of digital technologies and services.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Establishment of oversight and implementation mechanisms for all regulatory areas relating to AI.",
+      "text": "Establishment of oversight and implementation mechanisms for all regulatory areas relating to AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Creation of AI offices across various institutions tasked with assessing the role of AI and existing regulations across relevant sectors.",
+      "text": "Creation of AI offices across various institutions tasked with assessing the role of AI and existing regulations across relevant sectors.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Adoption of the circular economy approach to encourage sustainable use of AI.",
+      "text": "Adoption of the circular economy approach to encourage sustainable use of AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Determine and implement incentive regimes that support growth in the local AI developers and user ecosystem.",
+      "text": "Determine and implement incentive regimes that support growth in the local AI developers and user ecosystem.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Enhancement of the capacity of the Information Regulator and other regulatory bodies, in the interim, until the establishment of an AI regulator.",
+      "text": "Enhancement of the capacity of the Information Regulator and other regulatory bodies, in the interim, until the establishment of an AI regulator.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Expand awareness and training programmes related to personal data protection, algorithms and AI with targeted content for different groups, such as for developers, public sector users, and children.",
+      "text": "Expand awareness and training programmes related to personal data protection, algorithms and AI with targeted content for different groups, such as for developers, public sector users, and children. 33",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Creating technical AI-services for enabling and safeguarding AI use in the public sector, including the expansion and encouragement of investments into public research digital infrastructure.",
+      "text": "Creating technical AI-services for enabling and safeguarding AI use in the public sector, including the expansion and encouragement of investments into public research digital infrastructure.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Assess the capacity and mandate of existing regulatory entities to determine their role and potential resourcing needs to support the enforcement of AI regulations and associated procedures.",
+      "text": "Assess the capacity and mandate of existing regulatory entities to determine their role and potential resourcing needs to support the enforcement of AI regulations and associated procedures. This includes oversight, liability, compensation and recourse for potential harms.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Concretise collaboration and partnerships on AI ethics across all sectors within the country, and across the region to attract and retain AI-skills.",
+      "text": "Concretise collaboration and partnerships on AI ethics across all sectors within the country, and across the region to attract and retain AI-skills.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Prioritisation of capacity development for various levels of government (policy makers), legislature (to enable an informed, ethical AI legal and...",
+      "text": "Prioritisation of capacity development for various levels of government (policy makers), legislature (to enable an informed, ethical AI legal and regulatory framework development), and academia (to support R&D initiatives/partnerships, ensure robust under- and postgraduate training platforms)",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Multi-stakeholder initiatives to assess the role of AI on South African societies (equality, inclusivity, gender, culture, indigenous knowledge, health and social well-being, etc).",
+      "text": "Multi-stakeholder initiatives to assess the role of AI on South African societies (equality, inclusivity, gender, culture, indigenous knowledge, health and social well-being, etc). This includes awareness campaigns and publication of AI-related documents in indigenous languages.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Review capacity development measures to help educators, and the advancement of educational programmes that promotes public awareness, literacy and advances digital age skills at all levels.",
+      "text": "Review capacity development measures to help educators, and the advancement of educational programmes that promotes public awareness, literacy and advances digital age skills at all levels.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Capacity building with a particular focus on ensuring active leadership and involvement of women in digital and AI services.",
+      "text": "Capacity building with a particular focus on ensuring active leadership and involvement of women in digital and AI services.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Increase the growth of digital skills, industry activity and AI development to enhance adequate economic growth.",
+      "text": "Increase the growth of digital skills, industry activity and AI development to enhance adequate economic growth. 34 CONCLUSION South Africa’s commitment to fostering an inclusive and participatory environment for the ethical and responsible development of AI is evident through the comprehensive roadmap provided by the PC4IR and related policy and legislative documents. The country’s strategic policy recommendations and supporting actions encompass crucial aspects such as regulation, creation of an enabling institutional and organisational framework, and capacity building initiatives, all directed at addressing the multifaceted challenges and opportunities presented by the burgeoning use and rapid spread of AI technology. The regulatory framework outlined emphasises the development of policies that prioritise ethical and responsible data systems and processing. Some of the existing Acts, such as POPIA and PEPUDA, uphold and emphasise rights-based protections and ethical AI practices, along with establishing cybersecurity standards and legal safeguards for high-risk AI applications. This reflects an intentional and holistic approach to governance of AI use and application. Additionally, the creation of oversight and implementation mechanisms ensures a robust regulatory environment, fostering trust and accountability in the AI ecosystem. The existence of a functional policy and institutional framework underscores the importance of an independent regulator for AI or the assignment of AI officers within existing institutions, such as the Information Regulator. This collaborative approach across regulators, institutions, and organs aims to enhance the overall effectiveness of responsible AI practices. The emphasis on capacity building, including measures to enable and safeguard AI use in the public sector, highlights a commitment to developing expertise and fostering responsible AI practices at every level. The emphasis on gender inclusivity in AI leadership and involveme",
+      "dimension": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 27,
+  "page_count": 43,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY The existence of a legal and regulatory framework is the foundation for the ethical development and deployment of fair and responsible AI systems.",
+        "According to the UNESCO Recommendation, this means regulatory frameworks which place responsibility and accountability with natural or legal persons while excluding AI systems from having legal personality.",
+        "It is anticipated that creation of an AI strategy and subsequent regulations will soon be implemented in the country.",
+        "A key piece of legislation is the Protection of Personal Information Act, 2013 (POPIA) and related regulations, which govern data protection, privacy, accessibility, and processing (including automatic) of personal information.",
+        "The Act establishes the office of a data protection office (Information Regulator/”IR”) with a specific mandate.",
+        "• Requests for correction or deletion of personal data.",
+        "• The way consent is requested for processing personal data.",
+        "In addition, the Electronic Communications and Transactions Act, 2002 (ECTA) also governs the use, storage, sharing and abuse of electronic data."
+      ],
+      "strengths": [
+        "The Cybercrimes Act, 2020, recently enacted, aims to establish new data-related offenses, impose sanctions, criminalize the dissemination of harmful messages, and expand the powers of law enforcement agencies in combating cybercrimes.",
+        "The bill is in response to the increasing incidents of discrimination especially on online platforms, leading to disinformation, creation of echo chambers, cyberbullying, doxing and harassment.",
+        "Existing foundational regulatory frameworks such as the Smart Africa ‘AI Blueprint for Africa’ and the African Union (AU) Data Policy framework are the only stopgaps until more comprehensive AI regulations are implemented.",
+        "Apart from the POPI Act section 71, which prohibits decisions based solely on automated decision-making systems, and PAIA provisions enabling access to information, there are no comprehensive legal obligations to disclose whether an AI system is being developed, deployed, or disseminated responsibly"
+      ],
+      "gaps": [
+        "The lack of national legislative regulations or government initiative to regulate AI has prompted collaboration between other sectors to move the work around managing regulation of AI and data forward.",
+        "This does not disregard existing principles, frameworks, and policies that already guide the development and use of AI/ automated decision-making systems in the country.",
+        "Although POPIA is primarily geared towards data privacy, the Act provides useful mechanisms to restrict AI systems in: • The processing of personal data.",
+        "The Act does not expressly mention ‘data,’ but given that its purpose is accountability and transparency of information, it is a useful framework in the implementation of the UNESCO Recommendation.",
+        "This freedom does not extend to propaganda for war, incitement of violence, hate speech based on race, gender, ethnicity, or religion.",
+        "The digital government skills programme also includes a regular digital skills audit to guide the digital skills training and online learning, as well as actions for including these competencies in pay progression policies.9 South Africa does not currently have specific regulatory frameworks address"
+      ],
+      "key_stats": [
+        {
+          "stat": "Ranked 59th in the",
+          "context": "and abuse of electronic data. Parts of the ECTA have since been replaced by portions of the POPIA. Ranked 59th in the 2020 Global Cybersecurity Index, and 8th in the African region, South Africa has p"
+        },
+        {
+          "stat": "ranked 85th out of",
+          "context": "s harmonised security measures and shared best practices. In terms of open data, South Africa is ranked 85th out of 195 countries and a global score of 34 in the Global Data Barometer. In terms of dat"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "The Cybercrimes Act",
+          "year": "2020",
+          "status": "enacted"
+        },
+        {
+          "name": "national AI policy framework",
+          "year": "",
+          "status": "draft"
+        },
+        {
+          "name": "National Data and Cloud Policy",
+          "year": "",
+          "status": "draft"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "The risk of AI perpetuating exclusion/discrimination based on structural bias and socioeconomic status must be tackled from the development of frameworks to address AI use, especially with automated decision making.",
+        "Through the National Broadband Policy (SA Connect)10, the government aims to provide universal broadband access, having targeted a threshold of 90% coverage by 2020 and 100% by 2030.",
+        "This policy focuses on expanding high-speed networks to critical public institutions such as schools, clinics, and government offices.",
+        "This is strongly linked with their high perceived understanding of AI, as 78% of the surveyed population in the country believed they have a good understanding of what AI is.",
+        "Health and wellbeing are identified as key priority areas for policy action especially in improving healthcare services.",
+        "The National Health Digital Strategy 2019-2024, as the most recent and relevant to AI, aims to enhance digital healthcare services for all stakeholders.",
+        "This report calls for data science capabilities relying on AI, big data, and predictive analytics to support the digital health ecosystem.",
+        "Since the Covid-19 pandemic South Africa has incorporated digital tools/solutions to help through telemedicine and/or mobile health for patient care, AI-based tools for reproductive health and disease diagnoses, and management of patient records through the Health Patient Registration System (HPRS) "
+      ],
+      "strengths": [
+        "These established principles and frameworks are particularly useful in monitoring the sustainable use of AI, specifically in the use of impact assessments."
+      ],
+      "gaps": [
+        "South Africa ranked 20 (out of 148 countries) in the 2023 World Bank Gender Gap Index, particularly in relation to economic participation and opportunities.",
+        "However actualised access is still affected by issues of awareness, financial access, digital literacy and dealing with structural inequalities.",
+        "Although these hubs play a key role in building community, they face challenges to ensure sustainable operations in the long run14 as well as funding limitations and socio- economic disparities persist.",
+        "However, the survey importantly notes that online adults in the country tend to be more urban, educated, and/or affluent than the demographic and may not necessarily reflect the experiences of the population as a whole.18 The country’s trust in the technology sector had also increased by 7 percentag",
+        "These legal instruments may not expressly mention AI, but they do address the need for sustainable standards/practices, appointment of environmental regulatory agencies, the adoption of the circular economy approach, and collaborations with organisations such as the e-Waste Association of South Afri",
+        "This document identifies the need to incorporate digital technologies like AI tools, as part of innovation for sustainable health services.",
+        "Furthermore, even with a diverse culture and 12 official languages, there is limited data on available AI systems (chatbots) dealing with local languages.",
+        "There is also very limited research funding directed towards digital development of local languages."
+      ],
+      "key_stats": [
+        {
+          "stat": "31.4% in the country",
+          "context": "y is still a lived reality especially in the digital divide. In 2022, female unemployment stood at 31.4% in the country. In 2021, 42.1% of the 18 million households were headed by women. The risk of A",
+          "value": 31.4,
+          "unit": "%"
+        },
+        {
+          "stat": "42.1% of the",
+          "context": "cially in the digital divide. In 2022, female unemployment stood at 31.4% in the country. In 2021, 42.1% of the 18 million households were headed by women. The risk of AI perpetuating exclusion/discri",
+          "value": 42.1,
+          "unit": "%"
+        },
+        {
+          "stat": "90% coverage by",
+          "context": "nect)10, the government aims to provide universal broadband access, having targeted a threshold of 90% coverage by 2020 and 100% by 2030. This policy focuses on expanding high-speed networks to critic",
+          "value": 90.0,
+          "unit": "%"
+        },
+        {
+          "stat": "100% by",
+          "context": "aims to provide universal broadband access, having targeted a threshold of 90% coverage by 2020 and 100% by 2030. This policy focuses on expanding high-speed networks to critical public institutions s",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "57% South Africans agree that prod",
+          "context": "nd e-health.17 According to a global opinion survey conducted in 2022 on the expectations of AI, 57% South Africans agree that products and services using AI have more benefits than drawbacks, which i",
+          "value": 57.0,
+          "unit": "%"
+        },
+        {
+          "stat": "78% of the surveyed population in the",
+          "context": "global country average. This is strongly linked with their high perceived understanding of AI, as 78% of the surveyed population in the country believed they have a good understanding of what AI is. H",
+          "value": 78.0,
+          "unit": "%"
+        },
+        {
+          "stat": "85% from January",
+          "context": "whole.18 The country’s trust in the technology sector had also increased by 7 percentage points to 85% from January 2022 to October 202219, notably preceding the public release of ChatGPT, which may h",
+          "value": 85.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "SCIENTIFIC/EDUCATIONAL This dimension aims to assess the level of research and development related to AI in a country, including the number of AI- related publications and patents, and the number of AI researchers and engineers involved in R&D.",
+        "It will also investigate AI ethics research, e.g., reflecting the number of publications focusing on the ethics of AI.",
+        "This dimension has seen the most progress in terms of AI application and execution in the country.",
+        "In a recent PricewaterhouseCoopers’ survey of South African higher education institutions, up to 66% of respondents acknowledged that AI will play a role in curriculum development and assessments in the future.",
+        "The country’s educational plans to enhance science, technology and innovation, set the country up in this regard and detailed in the following documents: • 2016 National Integrated ICT Policy.",
+        "Additionally, South African universities are already developing strategies (AI literacy, ethical integration, rigour and integrity, collaborative sharing) to integrate AI in a responsible manner.",
+        "One of the identified priority areas is ‘ethics related to AI and increasing the capacity of the state’.",
+        "This report details relevant data in South African research, innovation and development which includes AI."
+      ],
+      "strengths": [
+        "Additionally, it was recently announced that a Presidential PhD Initiative fund would be established to promote research and development in the areas of science and technology including AI research, advanced biotechnology and next-generation mining.",
+        "The Intergovernmental Fintech Working Group (IFWG), including National Treasury amongst others, launched a regulatory sandbox during 2020 and has been testing a range of products and services with private sector financial service providers to determine the potential impact and regulatory treatment o",
+        "• Prioritisation of capacity development for various levels of government (policy makers), legislature (to enable an informed, ethical AI legal and regulatory framework development), and academia (to support R&D initiatives/partnerships, ensure robust under- and postgraduate training platforms)."
+      ],
+      "gaps": [
+        "A key plan towards the implementation of growth of science and innovation as per the 2019 White Paper is the 2022-2032 Decadal Plan which identifies the need to invest in research towards addressing the effects of disruptive technologies like AI in the public sector.",
+        "Figure 6: Global Gender Gap Report: Education and Skills (South Africa) Source: World Economic Forum, Global Gender Gap Report, 2023 ### Page 25 25 Research publications in AI have seen a steady increase since 2012, reaching a peak of 699 articles in 2021.",
+        "However, much of these patent applications (83.5%) were by non-resident applicants, meaning that more needs to be done to increase the number of resident applications.",
+        "Figure 8: South African patents granted by technology (2010-2022) Source: WIPO IP Statistics Data Center, South African Patents granted by technology, 2023 OUTPUT ### Page 26 26 The education sector is at the forefront of AI research development and care needs to be taken to ensure that the integrat",
+        "Whilst a limited number of current tests are relevant to the use of algorithms and AI, it is likely that the demand for testing in this field would increase.",
+        "• Implement sector-specific policy and legislation, both as an opportunity for policy experimentation and learning in certain fields (to inform cross-cutting or longer-term legislation) and the need for coherence and alignment.",
+        "• Government must ensure that legislation that protects workers rights across the board to ensure AI technology does not unfairly displace human workers (similar to e.g., the recent G20 Rio de Janeiro Leaders’ Declaration)21."
+      ],
+      "key_stats": [
+        {
+          "stat": "66% of respondents acknowledged that",
+          "context": ". In a recent PricewaterhouseCoopers’ survey of South African higher education institutions, up to 66% of respondents acknowledged that AI will play a role in curriculum development and assessments in",
+          "value": 66.0,
+          "unit": "%"
+        },
+        {
+          "stat": "185% growth of AI",
+          "context": "rticles in 2021. Many these publications come from South African universities. A key factor is the 185% growth of AI-related publications coming from the country over the past decade. Articles Article",
+          "value": 185.0,
+          "unit": "%"
+        },
+        {
+          "stat": "$2.35 billion",
+          "context": "public and private investment in the field of AI. It is predicted that the AI market will reach $2.35 billion in 2023. This is bolstered by the South African ICT and Digital Economy Master Plan Draft,",
+          "value": 2350000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD3.7 billion",
+          "context": "ial Intelligence Plan indicates strong ambitions to expand the AI market, targeting ZAR70 billion (USD3.7 billion) in government, local, and foreign direct investment in AI by 2030, with 100-300 AI st",
+          "value": 3700000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "300 AI startups",
+          "context": "llion (USD3.7 billion) in government, local, and foreign direct investment in AI by 2030, with 100-300 AI startups and 5000 AI experts in the country.20 The Competition Commission South Africa (CCSA) "
+        },
+        {
+          "stat": "Ranked 86 in the",
+          "context": "he main beneficiaries of this funding were tertiary institutions and national science councils. Ranked 86 in the Coursera Global Skills report, South Africa shows potential for growth in the areas of "
+        },
+        {
+          "stat": "ranked 24th in the",
+          "context": "y can build on its existing strengths to impact AI use across sectors. Furthermore, the country is ranked 24th in the Economic Complexity Index (Technology) which assesses the productive economic capa"
+        },
+        {
+          "stat": "2020 strategy",
+          "context": "on Science, Technology and Innovation. • 2020 National Digital and Future Skills Strategy. The 2020 strategy focuses on outlining strategic goals which incorporate the use of digital literacy and flue",
+          "year": "2020"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "ECONOMIC 27 RECOMMENDATIONS 28 TECHNICAL AND INFRASTRUCTURAL 29 RECOMMENDATIONS 31 ROADMAP WITH MAIN POLICY RECOMMENDATIONS 32 CONCLUSION 34 REFERENCES 35 ANNEXURE: SOUTH AFRICA’S KEY AI POLICY & REGULATORY OVERVIEW 39 ANNEXURE: TERMS OF REFERENCE FOR THE NATIONAL STAKEHOLDER TEAMS 41 ### Page 5 5 L",
+        "Figure 2: South Africa’s Score in the Global Data Barometer.",
+        "Figure 7: South Africa AI Research metrics.",
+        "Figure 11: World Bank Statistical Performance Indicator: Data Sources 2022.",
+        "AI-based tools and applications make our lives easier, smoother, and richer.",
+        "But in its current form, AI reproduces and amplifies many of the social challenges we face.",
+        "Upstream, the AI industry is highly concentrated, with just two countries – the United States and China – and a dozen companies accounting for a major share of the sector.",
+        "Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children and young people, women, or entire democracies."
+      ],
+      "strengths": [
+        "That is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 countries to make sure AI delivers fair, sustainable, and inclusive outcomes.",
+        "The presidency has also established an interdepartmental working group to develop a comprehensive strategy and implementation roadmap for developing South Africa’s digital public infrastructure, focusing on digital ID, digital payment and data exchange systems.",
+        "In 2021 the UNESCO Recommendation on the Ethics of Artificial Intelligence (AI) was adopted by the 193 Member States of the Organization.",
+        "first step in developing the National AI Policy aims to promote the integration of Artificial Intelligence technologies to drive economic growth, enhance societal well-being, and position South Africa as a leader in AI innovation.” It goes on to emphasize that “the policy framework’s primary objecti",
+        "Concurrently, regulatory measures for accountability and effective oversight mechanisms for redress should be established against AI-related harms.",
+        "Establish a platform for advanced manufacturing and new materials • Implement state-led initiatives aimed at advancing manufacturing, through new 4IR technologies."
+      ],
+      "gaps": [
+        "Figure 5: Gross domestic expenditure on research and development (GERD) as a share of GDP in South Africa (2020-2022) Figure 6: Global Gender Gap Report: Education and Skills (South Africa).",
+        "It is not acceptable that around a third of the world’s population still lacks adequate internet access.",
+        "The Recommendation also sets out concrete policy actions that governments can draw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which has until now remained the norm, is insufficient.",
+        "The South Africa Artificial Intelligence Readiness Assessment Report found that although South Africa has yet to publish a national AI strategy, the government utilises ICT-focused policies and strategies to leverage AI technologies for building a digital economy.",
+        "There are also critical resource constraints hindering the integration of AI systems for public services, knowledge and skills gaps hampering the ability to meet the needs of the labour market, and limited awareness from the public on how to responsibly harness the opportunities offered by AI.",
+        "Additionally, the lack of access to representative data, which intersects with the structural inequalities within the country, has the potential to further marginalize vulnerable populations.",
+        "However, much work is being done towards developing an ethical and value-laden document.",
+        "The South African report provides an overview of the work done in AI thus far and suggests a path forward that reflects the priorities of the country in terms of the specific institutions that need to be built or enhanced to implement the Recommendation.",
+        "The present report finds that although South Africa is a regional leader in the availability of the internet, and the countries’ online population has expressed more optimistic outlooks on the role of AI, the structural inequalities within the country may constrain marginalised populations’ ability ",
+        "Despite the governments’ efforts to create various programs for accessible connectivity, these initiatives have faced institutional obstacles and corruption, which have posed significant challenges for addressing the needs of vulnerable populations."
+      ],
+      "key_stats": [
+        {
+          "stat": "78.6% of South Africans have some form",
+          "context": "astructure, making it a conducive space to establish and enact a national AI strategy. As of 2023, 78.6% of South Africans have some form of access to the internet, largely driven by mobile phone acce",
+          "value": 78.6,
+          "unit": "%"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "TECHNICAL AND INFRASTRUCTURAL The technical and infrastructural dimension reflects the idea that without the relevant infrastructure, AI development and the implementation of AI-based solutions cannot be scaled up throughout the country.",
+        "These are resources used to enable data collection and use, accessibility, and digital integrations in the provision of goods and services.",
+        "However, barriers still exist with only 15% of the population having basic ICT skills and 5% with advanced ICT skills (ITU, 2021).",
+        "Three key documents stand out, the National Integrated ICT Policy White Paper, the Re-Imagined Industrial Strategy (RIS), and an assessment on South Africa’s digital readiness for the 4IR by the NPC.",
+        "The draft National Data and Cloud Computing policy has objectives relevant to AI.",
+        "Some objectives include universal access to broadband connectivity; access to cloud and data services; implement measures to ensure the security of cloud infrastructure; promote data sovereignty and security with respect to South African data; and ensuring that the government has increased capacity ",
+        "According to the Data Centre Map, South Africa has 32 data centres across major metropolitans with the most being in the Gauteng province.",
+        "The SPI indicates that South Africa performed well across data sources as indicated in the figure below."
+      ],
+      "strengths": [],
+      "gaps": [
+        "A lack of appropriate skills affects access to the full benefits of technological advancements as is reflected in the table below by the World Digital Competitiveness Ranking by the Institute of Management and Development (IMD).",
+        "These documents discuss the need for digital transformation policies and revised ICT developments strategies across sectors.",
+        "However, South Africa’s highest score, 87.6 out of 100 in data products, was in assessment of the availability of data for the UN SDGs."
+      ],
+      "key_stats": [
+        {
+          "stat": "20% countries",
+          "context": "out of 100 on the World Bank’s Statistical Performance Indicator (SPI), making it amongst the top 20% countries, and the country has seen steady growth since 2019. Figure 9: South African population p",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "77% of households have internet acces",
+          "context": "the internet Source: South Africa: Individuals using the internet, 2022 ITU In 2022, an estimated 77% of households have internet access overall, with 62% in rural areas and 84% in urban areas. Howeve",
+          "value": 77.0,
+          "unit": "%"
+        },
+        {
+          "stat": "62% in rural areas and",
+          "context": "the internet, 2022 ITU In 2022, an estimated 77% of households have internet access overall, with 62% in rural areas and 84% in urban areas. However, barriers still exist with only 15% of the populati",
+          "value": 62.0,
+          "unit": "%"
+        },
+        {
+          "stat": "84% in urban areas",
+          "context": "In 2022, an estimated 77% of households have internet access overall, with 62% in rural areas and 84% in urban areas. However, barriers still exist with only 15% of the population having basic ICT ski",
+          "value": 84.0,
+          "unit": "%"
+        },
+        {
+          "stat": "15% of the population having basic IC",
+          "context": "s overall, with 62% in rural areas and 84% in urban areas. However, barriers still exist with only 15% of the population having basic ICT skills and 5% with advanced ICT skills (ITU, 2021). A lack of ",
+          "value": 15.0,
+          "unit": "%"
+        },
+        {
+          "stat": "5% with advanced ICT skills",
+          "context": "n areas. However, barriers still exist with only 15% of the population having basic ICT skills and 5% with advanced ICT skills (ITU, 2021). A lack of appropriate skills affects access to the full bene",
+          "value": 5.0,
+          "unit": "%"
+        },
+        {
+          "stat": "32 data centres",
+          "context": "ed capacity to deliver data and cloud services. According to the Data Centre Map, South Africa has 32 data centres across major metropolitans with the most being in the Gauteng province. The SPI indic"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "It is anticipated that creation of an AI strategy and subsequent regulations will soon be implemented in the country.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Apart from the POPI Act section 71, which prohibits decisions based solely on automated decision-making systems, and PAIA provisions enabling access to information, there are no comprehensive legal obligations to disclose whether an AI system is being developed, deployed, or disseminated responsibly and/or their recourse to action should it be determined otherwise.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "• Signed partnerships between the National Youth Development Agency and private-sector technology companies to provide digital training for youth.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Regarding infrastructure concerns related to the digital divide, the South African government has implemented various initiatives to address ICT infrastructure backlogs and bridge the digital divide.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "South Africa’s Draft National Artificial Intelligence Plan indicates strong ambitions to expand the AI market, targeting ZAR70 billion (USD3.7 billion) in government, local, and foreign direct investment in AI by 2030, with 100-300 AI startups and 5000 AI experts in the country.20 The Competition Commission South Africa (CCSA) has been playing an important role with respect to the digital economy, and how AI and algorithms are implemented by local and global firms.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "The Intergovernmental Fintech Working Group (IFWG), including National Treasury amongst others, launched a regulatory sandbox during 2020 and has been testing a range of products and services with private sector financial service providers to determine the potential impact and regulatory treatment of novel technology use cases.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 62.0,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "AI Companies",
+      "value": 300,
+      "unit": "count",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 25,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "Ranked 59th in the 2020 Global Cybersecurity Index, and 8th in the African region, South Africa has performed well in creating cooperative measures through bilateral agreements geared towards harmonised security measures and shared best practices.",
+      "index_name": "Global Cybersecurity Index",
+      "rank": 59,
+      "year": 2020
+    },
+    {
+      "context": "In terms of open data, South Africa is ranked 85th out of 195 countries and a global score of 34 in the Global Data Barometer.",
+      "index_name": "Global Data Barometer",
+      "rank": 85,
+      "score": 34.0,
+      "total_countries": 195
+    },
+    {
+      "context": "Ranked 86 in the Coursera Global Skills report, South Africa shows potential for growth in the areas of technology and data science, especially when coupled with the existing interests in business and entrepreneurial skills.",
+      "index_name": "Coursera Global Skills report",
+      "rank": 86
+    }
+  ]
+}

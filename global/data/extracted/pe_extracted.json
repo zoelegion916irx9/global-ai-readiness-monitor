@@ -1,0 +1,246 @@
+{
+  "country_code": "PE",
+  "country_name": "PE",
+  "language": "es",
+  "metadata": {
+    "page_count": 95,
+    "creation_date": "D:20250805123837-06'00'",
+    "modification_date": "D:20250807091538+02'00'",
+    "language": "en",
+    "translated": true,
+    "original_language": "es",
+    "translation_note": "Auto-translated from Spanish by AI"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [],
+  "key_numbers": [],
+  "rankings_indices": [],
+  "executive_summary": "",
+  "recommendations": [
+    {
+      "number": "1.1",
+      "title": "Incorporate human rights considerations into AI governance. The growth of AI ado",
+      "text": "Incorporate human rights considerations into AI governance. The growth of AI adoption in Peru brings significant opportunities but also challenges that require a rights-based approach to governance.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.2",
+      "title": "Participatory design, substantive approach, and corresponding approval of the AI",
+      "text": "Participatory design, substantive approach, and corresponding approval of the AI Law Regulations. During 2024, the SGTD has published two draft versions for public consultation.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.3",
+      "title": "Update Competency 28 of the National Basic Education Curriculum. Competency 28 o",
+      "text": "Update Competency 28 of the National Basic Education Curriculum. Competency 28 of the National Basic Education Curriculum focuses on responsible interaction in digital environments.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.4",
+      "title": "Develop a comprehensive national AI strategy that aligns with Peru's development",
+      "text": "Develop a comprehensive national AI strategy that aligns with Peru's development priorities and international frameworks.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.5",
+      "title": "Strengthen institutional capacity for AI governance through training and resourc",
+      "text": "Strengthen institutional capacity for AI governance through training and resource allocation across government agencies.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.6",
+      "title": "Promote AI research and innovation through increased funding and support for aca",
+      "text": "Promote AI research and innovation through increased funding and support for academic institutions.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.7",
+      "title": "Develop AI-focused training programs to build a skilled workforce capable of dev",
+      "text": "Develop AI-focused training programs to build a skilled workforce capable of developing and deploying AI solutions.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.8",
+      "title": "Establish mechanisms for assessing and mitigating AI risks including algorithmic",
+      "text": "Establish mechanisms for assessing and mitigating AI risks including algorithmic bias and discrimination.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.9",
+      "title": "Promote the inclusion of women, indigenous communities, and marginalized groups ",
+      "text": "Promote the inclusion of women, indigenous communities, and marginalized groups in AI development and governance.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.10",
+      "title": "Invest in digital infrastructure to ensure equitable access to AI technologies a",
+      "text": "Invest in digital infrastructure to ensure equitable access to AI technologies across urban and rural areas.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.11",
+      "title": "Develop data governance frameworks that ensure quality, privacy, and security of",
+      "text": "Develop data governance frameworks that ensure quality, privacy, and security of data used in AI systems.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.12",
+      "title": "Foster public-private partnerships to accelerate AI adoption in key sectors such",
+      "text": "Foster public-private partnerships to accelerate AI adoption in key sectors such as health, agriculture, and education.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.13",
+      "title": "Promote transparency and accountability in AI systems used by government and the",
+      "text": "Promote transparency and accountability in AI systems used by government and the private sector.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.14",
+      "title": "Develop guidelines for ethical AI procurement in the public sector.",
+      "text": "Develop guidelines for ethical AI procurement in the public sector.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.15",
+      "title": "Support the creation of AI innovation ecosystems including startups, incubators,",
+      "text": "Support the creation of AI innovation ecosystems including startups, incubators, and accelerators.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.16",
+      "title": "Establish international cooperation frameworks for AI knowledge sharing and capa",
+      "text": "Establish international cooperation frameworks for AI knowledge sharing and capacity building.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.1",
+      "title": "Promote AI applications that preserve and promote Peru's cultural and linguistic",
+      "text": "Promote AI applications that preserve and promote Peru's cultural and linguistic diversity.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.2",
+      "title": "Develop frameworks for AI impact assessment in environmental and social contexts",
+      "text": "Develop frameworks for AI impact assessment in environmental and social contexts.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.3",
+      "title": "Strengthen cybersecurity measures to protect AI systems and data from threats.",
+      "text": "Strengthen cybersecurity measures to protect AI systems and data from threats.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.4",
+      "title": "Promote AI literacy and awareness among the general public through education and",
+      "text": "Promote AI literacy and awareness among the general public through education and outreach programs.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "3.1",
+      "title": "Develop regulatory sandboxes for AI experimentation in controlled environments.",
+      "text": "Develop regulatory sandboxes for AI experimentation in controlled environments.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "3.2",
+      "title": "Support the development of AI solutions for climate change adaptation and disast",
+      "text": "Support the development of AI solutions for climate change adaptation and disaster preparedness.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "3.3",
+      "title": "Establish monitoring and evaluation mechanisms to assess the impact of AI polici",
+      "text": "Establish monitoring and evaluation mechanisms to assess the impact of AI policies and initiatives.",
+      "dimension": "",
+      "start_page": 0,
+      "language": "en"
+    }
+  ],
+  "recommendation_count": 23,
+  "page_count": 95
+}

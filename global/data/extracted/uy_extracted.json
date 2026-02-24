@@ -1,0 +1,794 @@
+{
+  "country_code": "UY",
+  "country_name": "URUGUAY",
+  "language": "en",
+  "metadata": {
+    "page_count": 54,
+    "creation_date": "D:20241007123708-07'00'",
+    "modification_date": "D:20250430175832+02'00'",
+    "country_name": "URUGUAY",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY AI POLICY AND REGULATION The law 20.212 of November 2023 included in its articles 74 and 75 specific provisions for the governance and regulatory capacity of AI in the country.",
+        "Article 74 entrusts AGESIC with the task of designing and developing a National data and Artificial Intelligence Strategy based on international standards, for the public and private spheres and emphasizing that matters concerning personal data processing are mandated by the existing Law 18.331 to b",
+        "Article 75 mandates AGESIC with the development of regulatory sandboxes to promote innovation in AI and data environments, with a multistakeholder emphasis.",
+        "Without these, AI regulation in Uruguay today has no mechanisms for ex-ante regulatory approaches on AI systems.",
+        "Other complementary policies and legislations bolster the regulatory framework concerning AI in Uruguay.",
+        "Law 18.331 (2008) on Personal Data Protection stands as a key pillar, providing guidelines for the collection, storage, and use of personal information, crucial in the AI normative context.",
+        "In terms of policies, Uruguay’s Digital Policy and the Uruguay Digital Agenda 2021-2025, ratified by Decree 134/021 (2021), offer a general framework for the country’s digital transformation, covering aspects that may indirectly impact AI regulation.",
+        "Also, the International Cooperation Policy of Uruguay for Sustainable Development 2030, endorsed by Decree 243/019 (2019), acknowledges the challenges arising from the swift evolution of AI and its impact on various socioeconomic aspects."
+      ],
+      "strengths": [
+        "Furthermore, Uruguay has delineated a roadmap for AI through the implementation of the AI Strategy for Digital Government, established by AGESIC and unveiled in September 2020 following a public consultation process.",
+        "The AI Strategy for Digital Government has experienced significant progress in its implementation since its inception.",
+        "This iterative process of engagement and inclusion of diverse perspectives reflects the commitment to engaging with and considering input from various stakeholders, ensuring a comprehensive and inclusive approach in shaping the strategy (AGESIC, 2023d).",
+        "Since 2008 the country has enacted Law 18.331 for the protection of personal data.",
+        "Law 18.331 is a comprehensive instrument that enabled the country to achieve adequacy status with the European Union (2012/484/EU).",
+        "Institutionally, Uruguay’s responsible entity for data protection is the URCDP (Regulatory and Control Unit of Personal Data), established by Law 18.33 which operates with technical autonomy.",
+        "It annually collects statistical information related to compliance with formal obligations established in the law, such as database registrations, appointment of data protection delegates, etc (AGESIC, 2022f).",
+        "The URCDP’s powers are comprehensive, serving both advisory and supervisory roles (URCDP, n.d.a).",
+        "In tandem, the URCDP crafted a comprehensive Guide for Data Protection Impact Assessment (URCDP, 2020a), further augmenting the law’s application and practical implementation (AGESIC, n.d.c).",
+        "GOVERNMENT OPEN DATA Uruguay has established governmental open data policies through the National Open Data Strategy (AGESIC, 2022a)."
+      ],
+      "gaps": [
+        "These are significant developments to overcome existing shortcomings to the current regulatory governance scenario of Uruguay on AI, where accountability regimes linked to these technologies are yet to be developed, and the laws are essential for those developments.",
+        "However, the assessment of its effectiveness has been limited by the absence of specific impact indicators.",
+        "This is reflected in the lack of data or reports measuring the progress or achievements attained through the strategy’s implementation.",
+        "However, there are no budget allocations foreseen for the implementation of the Strategy in other state agencies, which calls for an area of opportunity.",
+        "IMPACT ASSESSMENT The current AI Strategy’s text does not include this requirement.",
+        "However, by incorporating the principles of personal data protection (Article 12 of Law 18.331, 2008) into the ‘Privacy by Design’ principle of the strategy, there is also an obligation for impact assessment regarding data protection when there is automated processing for profiling purposes.",
+        "While this law does not expressly stipulate indemnification procedures, recourse to provisions concerning damages in the Civil Code stands applicable in instances of infringement.",
+        "However, there are exceptions specified in articles 24, 25, and 26 of Law 18.331 (2008) regarding the creation, modification, or deletion of databases within certain public entities.",
+        "However, currently there is no information regarding the evaluation of the effectiveness of Uruguay’s national data exchange framework.",
+        "However, there has not been an evaluation of the effectiveness of Uruguay’s governmental open data policies."
+      ],
+      "key_stats": [
+        {
+          "stat": "20% of them being directly incorporat",
+          "context": "vil society, as well as input from individual citizens. All queries and inputs were addressed, with 20% of them being directly incorporated into the final text of the AI Strategy. This iterative proce",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "68% response rate i",
+          "context": "tics capture responses from the organizations that responded to the self-assessment questionnaire (68% response rate i.e. 169 organizations) and not the total universe of bodies that are comprised (25",
+          "value": 68.0,
+          "unit": "%"
+        },
+        {
+          "stat": "ranks 55th globally",
+          "context": "featured in the Comparitech Cybersecurity Index employed by UNESCO’s RAM as a global benchmark, it ranks 55th globally according to National Cyber Security Index (NCSI). According to the latest region"
+        },
+        {
+          "stat": "ranks 71 out of",
+          "context": "s instruments that uphold this protection. ### Page 19 18 DATA SHARING AND ACCESSIBILITY Uruguay ranks 71 out of 195 countries in the Open Data Inventory (ODIN, 2023) classification. This index assess"
+        }
+      ],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "It encourages multistakeholder governance through consultative processes that are central to several public policy instruments in AI and other digital policies.",
+        "There are regulations, such as Law 19.691 (2018), focusing on promoting employment for people with disabilities which is also general and not exclusive to AI.",
+        "The General Education Law (Law 18.437, 2009) has provisions for educational inclusion and diversity.",
+        "There are no indigenous languages used in the country, and the presence of linguistic minorities through variations of Spanish with Portuguese specifically in the northern department of Artigas (Chargoñia, 2007) is not captured in online content nor in the training of AI systems.",
+        "Regarding the Electronic Participation Index (EPI) – which evaluates the extent to which a government provides information to its constituents, involves citizens in policy design, and empowers citizens in decision-making processes– the country scored 0.50 points in 2022, occupying the 61st position.",
+        "Uruguay’s case is not included in the IPSOS measurement on trust in AI and technology (IPSOS, 2022), nor do other relevant sources emerge for the national case (EDELMAN, 2022).",
+        "The media tends to have a more favorable stance toward the benefits of AI, while social media users are more skeptical and critical.",
+        "Nevertheless, when considering the sub-region grouping Chile, Argentina, and Uruguay, positive or neutral sentiments are far more prevalent than in other sub-regions and negative perceptions towards AI are the lowest in the region according to this study (ILIA, 2023)."
+      ],
+      "strengths": [
+        "Uruguay has a general regulation aimed at promoting diversity and inclusion in the workplace, the Comprehensive Law for Transgender Persons (Law 19.684, 2018), which is not specific for AI.",
+        "The Interinstitutional Forum for Women in Science, Innovation, and Technology (MIMCIT) was established in 2016 and remains dedicated to coordinating efforts, raising awareness, and conducting studies and publications on the matter in the country.",
+        "In relation to the Sustainable Development Goals (SDGs), Uruguay launched in 2022 a new bond into the global market indexed to climate change indicators (IDB, 2022)."
+      ],
+      "gaps": [
+        "SOCIAL AND CULTURAL DIVERSITY, INCLUSION AND EQUALITY The gender gap in internet usage in Uruguay shows that more women use the internet than men.",
+        "There are no measurements comparing the digital divide gap between urban and rural areas in Uruguay.",
+        "The Survey of Information and Communication Technologies Usage (EUTIC) measures the gap between Montevideo and the rest of the country (smaller urban areas inland and the rural environment, all grouped together).",
+        "This gap between Montevideo and other areas stands at 7%, with the capital having 95% access to internet (fixed or mobile) from home compared to 88% in the rest of the country (AGESIC, 2023a).",
+        "The implementation of these policies has significantly impacted the reduction of the digital gap, as observed in the survey EUTIC (AGESIC, 2023a).",
+        "In the 2023 Global Gender Gap Index, composed by four dimensions: Economic Participation and Opportunity, Educational Attainment, Health and Survival, and Political Empowerment Uruguay ranks 67th and has improved 5 places compared to the 2022 edition.",
+        "Figura 1 Figura 2 ### Page 23 22 The proportion of girls and boys studying sciences or mathematics and aspiring to work as professionals in STEM fields by the age of 30 shows that 47% of boys and 31.3% of girls have expressed their intention to work in this area, a gap of almost 15% according to the",
+        "Yet the gap between both groups’ performance is much lower, in PISA tests in science, where boys scored 428 points, while girls scored 424 (OECD, 2019).",
+        "While the country does not have a specific policy aimed at reducing the digital gender gap, it has over 20 years of sustained public policies on digital technologies for development with a long-standing commitment and consistency.",
+        "The implementation of these policies has significantly impacted the reduction of the digital gap, as observed in the survey EUTIC (AGESIC, 2023a)."
+      ],
+      "key_stats": [
+        {
+          "stat": "91% of women used the internet compar",
+          "context": "sage in Uruguay shows that more women use the internet than men. In the last three months of 2022, 91% of women used the internet compared to 89% of men. Similarly, 84% of women used the internet in t",
+          "value": 91.0,
+          "unit": "%"
+        },
+        {
+          "stat": "89% of men",
+          "context": "he internet than men. In the last three months of 2022, 91% of women used the internet compared to 89% of men. Similarly, 84% of women used the internet in the last month of 2022 versus 81% of men (AG",
+          "value": 89.0,
+          "unit": "%"
+        },
+        {
+          "stat": "84% of women used the internet in the",
+          "context": "n the last three months of 2022, 91% of women used the internet compared to 89% of men. Similarly, 84% of women used the internet in the last month of 2022 versus 81% of men (AGESIC, 2023a) (Fig. 1). ",
+          "value": 84.0,
+          "unit": "%"
+        },
+        {
+          "stat": "81% of men",
+          "context": "compared to 89% of men. Similarly, 84% of women used the internet in the last month of 2022 versus 81% of men (AGESIC, 2023a) (Fig. 1). There are no measurements comparing the digital divide gap betwe",
+          "value": 81.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% access to internet",
+          "context": "ouped together). This gap between Montevideo and other areas stands at 7%, with the capital having 95% access to internet (fixed or mobile) from home compared to 88% in the rest of the country (AGESIC",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "88% in the rest of the country",
+          "context": "ands at 7%, with the capital having 95% access to internet (fixed or mobile) from home compared to 88% in the rest of the country (AGESIC, 2023a). The Uruguayan state-owned telecommunications company,",
+          "value": 88.0,
+          "unit": "%"
+        },
+        {
+          "stat": "91% of households have some form of I",
+          "context": ", 2023a). From 2023 it ranks first in the region for download mobile Internet speed (Ookla, 2023), 91% of households have some form of Internet access – fixed or mobile, and 83% of inhabitants use it ",
+          "value": 91.0,
+          "unit": "%"
+        },
+        {
+          "stat": "83% \nof inhabitants use it on a daily",
+          "context": "net speed (Ookla, 2023), 91% of households have some form of Internet access – fixed or mobile, and 83% of inhabitants use it on a daily basis (AGESIC, 2023a). The percentage of men and women graduati",
+          "value": 83.0,
+          "unit": "%"
+        },
+        {
+          "stat": "45% for women and",
+          "context": "ating from higher education in STEM (science, technology, engineering, and mathematics) courses is 45% for women and 55% for men (World Bank, 2019). In the 2023 Global Gender Gap Index, composed by fo",
+          "value": 45.0,
+          "unit": "%"
+        },
+        {
+          "stat": "55% for men",
+          "context": "education in STEM (science, technology, engineering, and mathematics) courses is 45% for women and 55% for men (World Bank, 2019). In the 2023 Global Gender Gap Index, composed by four dimensions: Eco",
+          "value": 55.0,
+          "unit": "%"
+        },
+        {
+          "stat": "47% of boys and",
+          "context": "es or mathematics and aspiring to work as professionals in STEM fields by the age of 30 shows that 47% of boys and 31.3% of girls have expressed their intention to work in this area, a gap of almost 1",
+          "value": 47.0,
+          "unit": "%"
+        },
+        {
+          "stat": "31.3% of girls have expressed their int",
+          "context": "s and aspiring to work as professionals in STEM fields by the age of 30 shows that 47% of boys and 31.3% of girls have expressed their intention to work in this area, a gap of almost 15% according to ",
+          "value": 31.3,
+          "unit": "%"
+        },
+        {
+          "stat": "15% according \nto the",
+          "context": "47% of boys and 31.3% of girls have expressed their intention to work in this area, a gap of almost 15% according to the 2018 Pisa Report. Yet the gap between both groups’ performance is much lower, i",
+          "value": 15.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of the population had \nat least o",
+          "context": "strengthen health policies was the creation of a National Electronic Health Record (HCEN). By 2022, 95% of the population had at least one electronic record in the system, andin 2023, a summary of a c",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4 billion dollars",
+          "context": "vices to the domestic market or the region. Additionally, in June 2023, the government announced a 4 billion dollars investment for a green hydrogen plant and renewable energies (Uruguay XXI, 2023a). ",
+          "value": 4000000000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Through the Fiscal Credit instrument for companies engaging in R&D activities, in 2022, the Ministry of Economy and Finance allocated an amount of UYU 140,000,000 (approximately 3.6 million US dollars) granted under Law 19.739, which empowers the Executive Branch to grant fiscal credit to private la",
+        "RESEARCH OUTPUT The number of publications on AI and related topics amounted to 200 in 2023 (OECD.AI, 2023a).",
+        "This is nearly half the amount of Latvia, a country with a similar GDP and half the population of Uruguay, and is a third of Slovenia’s output, with a similar GDP and 35% less inhabitants, but it is nearly three times the total production of AI publications from Panama.",
+        "Systematic data regarding the number of per capita FAccT (Fairness, Accountability, and Transparency in AI) publications is unavailable.",
+        "There is no consolidated information on research centers that address AI issues.",
+        "ETHICAL AI RESEARCH Uruguay has hosted the KHIPU conference (Latin American Meeting on AI) for three consecutive years, serving as a non-profit platform aimed at fostering a community of stakeholders beyond AI system developers within the region.",
+        "The March 2023 edition developed the Montevideo Declaration on Artificial Intelligence, shedding light not only on the potential for development, but also on the associated risks of these technological tools (Marroquín et al., 2023).",
+        "Alongside AGESIC’s ongoing activities (which encompass more national-level initiatives), other events are organized, such as those orchestrated by URCDP, featuring guest speakers in the ‘Coffee Talks’ series engaging in discussions on AI concerning personal data protection and gender (URCDP, n.d.)."
+      ],
+      "strengths": [
+        "More recently, Ceibal launched in October 2023 a Framework for the teaching of artificial intelligence (Ceibal, 2023) for primary and middle education.",
+        "Regarding tertiary education programs that offer one or more modules on AI, a Ministry of Industry and Energy report ‘Uruguay Transforma’ (MIEM, 2019), identified 101 courses encompassing ‘advanced technologies’ (robotics, Artificial Intelligence, cloud computing, Internet of Things, 3D printing, an",
+        "Universities such as the Catholic University of Uruguay (UCU, n.d) and the University of Montevideo (UM, n.d.) supplement engineering programs with subjects comprehensive to a university student’s core education, encompassing ethics, deontology, and philosophical anthropology.",
+        "These programs promote the training and active participation of students leading projects in their educational center, aiming to address a problem related to their digital well-being.",
+        "The INEFOP, a public institute established in 2008, is primarily responsible for implementing professional training policies and enhancing employment for workers in the country.",
+        "In 2018-2019, a prospective report was conducted with support from ECLAC regarding automation and its employment impact in Uruguay, yet significant progress in this area has not been observed (OPP, 2019)."
+      ],
+      "gaps": [
+        "However, Uruguay does not have an estimation of public credits dedicated to research and development in AI.",
+        "Concerning research on AI ethics, the OECD.AI platform does not differentiate or specify research focused on AI Ethics, making it challenging to quantify the number of per capita publications solely dedicated to AI ethics within that dataset.",
+        "However, data on the number of AI patents granted per capita is currently unavailable.",
+        "However, there is a need for an assessment on the effectiveness of these policies, as it has not yet been conducted.",
+        "However, the effectiveness of this strategy has not been evaluated."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.62% of GDP",
+          "context": "AND INNOVATION R&D EXPENDITURE Uruguay’s expenditure on research and development (R&D) in 2022 was 0.62% of GDP, equivalent to 439 million dollars, and that of Science and Technology Activities which ",
+          "value": 0.62,
+          "unit": "%"
+        },
+        {
+          "stat": "0.96% of the GDP",
+          "context": "and that of Science and Technology Activities which includes R&D encompassed 680 million dollars (0.96% of the GDP) (ANII, 2024; PRISMA, 2024). Compared with the global highest scorers in R&D investme",
+          "value": 0.96,
+          "unit": "%"
+        },
+        {
+          "stat": "35% less inhabitants",
+          "context": "DP and half the population of Uruguay, and is a third of Slovenia’s output, with a similar GDP and 35% less inhabitants, but it is nearly three times the total production of AI publications from Panam",
+          "value": 35.0,
+          "unit": "%"
+        },
+        {
+          "stat": "3.6% of \nthe total",
+          "context": "with 0,22 per working age people (Ferres et al, 2023). Though only 787 people in the IT workforce (3.6% of the total) have AI skills, Uruguay is still the country with the highest proportion of AI ski",
+          "value": 3.6,
+          "unit": "%"
+        },
+        {
+          "stat": "87% rated the \ntechnical AI course",
+          "context": "es”, specifically focused on AI ethics (AGESIC. 2023c). Participant feedback surveys indicated that 87% rated the technical AI courses as Very Good to Excellent. Additionally, the National Administrat",
+          "value": 87.0,
+          "unit": "%"
+        },
+        {
+          "stat": "16% for undergraduate programs in",
+          "context": "percentage of graduates in ICT (Information and Communication Technology) in higher education was 16% for undergraduate programs in 2021. Notably, this rate increases to 49% for postgraduate programs ",
+          "value": 16.0,
+          "unit": "%"
+        },
+        {
+          "stat": "49% for postgraduate programs",
+          "context": "y) in higher education was 16% for undergraduate programs in 2021. Notably, this rate increases to 49% for postgraduate programs (CUTIa, 2023). Uruguay ranks 72nd in Data Science according to Coursera",
+          "value": 49.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.8% of its total trade and securing t",
+          "context": "erty Global Innovation Index, Uruguay shows a moderate presence in high-tech exports, constituting 0.8% of its total trade and securing the 75th position worldwide. However, the country significantly ",
+          "value": 0.8,
+          "unit": "%"
+        },
+        {
+          "stat": "7.9% of its total trade and holding an",
+          "context": "worldwide. However, the country significantly excels in the export of ICT services, accounting for 7.9% of its total trade and holding an impressive 7th position globally in this sector (WIPO, 2023, p",
+          "value": 7.9,
+          "unit": "%"
+        },
+        {
+          "stat": "3.3% of the country",
+          "context": "r (WIPO, 2023, p. 207). The output of the IT sector in Uruguay, mainly export driven, represented 3.3% of the country’s GDP, according to the Uruguay IT chamber CUTI. There is no available data on bus",
+          "value": 3.3,
+          "unit": "%"
+        },
+        {
+          "stat": "439 million dollars",
+          "context": "URE Uruguay’s expenditure on research and development (R&D) in 2022 was 0.62% of GDP, equivalent to 439 million dollars, and that of Science and Technology Activities which includes R&D encompassed 68",
+          "value": 439000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "680 million dollars",
+          "context": "439 million dollars, and that of Science and Technology Activities which includes R&D encompassed 680 million dollars (0.96% of the GDP) (ANII, 2024; PRISMA, 2024). Compared with the global highest sc",
+          "value": 680000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "ranks 72nd in Data",
+          "context": "rams in 2021. Notably, this rate increases to 49% for postgraduate programs (CUTIa, 2023). Uruguay ranks 72nd in Data Science according to Coursera’s World Skills Report 2022 (Coursera, 2023), highlig"
+        },
+        {
+          "stat": "1,000 students",
+          "context": "mong other aspects. This initiative involves 79 educational centers, impacting a community of over 1,000 students (Ceibal. n.d.a.). EDUCATIONAL ATTAINMENT Between 2019 and 2022, 1,543 public servants "
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "It is no wonder that so many governments, institutions and stakeholders across the world are claiming a different set of norms to steer the development of AI to improve humanity, distribute its benefits and lay proper guardrails for the many risks and challenges that it poses.",
+        "Different sectors, organizations and independent voices today seek to dispute a narrative about unfettered innovation that is no longer acceptable nor sustainable, which has been super-charged by the massive adoption of generative AI tools over the last couple of years.",
+        "UNESCO has a firm commitment to the role of ethics in the steering of AI systems.",
+        "It recognizes AI’s value in driving innovation in key sectors such as health, agriculture, education and science, among others.",
+        "Ever since we started with the process of the UNESCO Recommendation on the Ethics of AI, approved in November 2021 during the General Assembly by 193 countries we have been engaged in an open discussion about AI innovation within the boundaries of ethics.",
+        "The RAM is an invaluable tool that supports countries in the detection of gaps, omissions, challenges and opportunities to develop ethical policies concerning AI.",
+        "In 2023 Uruguay started a revision of its existing AI strategy, based on UNESCO’s RAM.",
+        "The country has also embarked on a revision of its existing AI framework, which includes revisiting its current sectoral policies, and institutional capacity to address the risks and benefits of AI, incorporating the RAM as a key tool in this exercise."
+      ],
+      "strengths": [
+        "It has been adopted in more than 60 countries as of 2024, and Uruguay was one of the first to join this exercise.",
+        "Uruguay was a leading country in the region to consolidate a national AI strategy, which was first published in 2020.",
+        "Significantly, the country has also embarked on the design of its first comprehensive national data strategy aligned with the AI strategy revision, which showcases a holistic vision that is essential to develop ethical and policy robust frameworks.",
+        "A law passed in Parliament in October 2023 ratifies AGESIC (Agency for Electronic Government, and Information and Knowledge Society) as responsible for both the AI and national data governance strategies, a milestone in the recognition of the central role of both these issues for the country, and ho",
+        "In support of this new approach, a law that was passed in October 2023 entrusts AGESIC with the responsibility of designing, developing, implementing, and overseeing comprehensive AI and Data Strategies.",
+        "Uruguay’s robust data protection legislation, comprising laws on personal data protection and privacy, sets a high standard for data handling and user rights.",
+        "Regarding human capital, Uruguay has shown considerable progress in developing public sector capacity for AI, with AGESIC leading training programs for public officials.",
+        "Concurrently, the country’s digital infrastructure stands out regionally, marked by robust connectivity and a significant data center presence.",
+        "• Regulation for Contracting and Procurement of AI Systems: Aligned with Uruguay’s commitment to transparency and the strategic vision of its AI policy, it is imperative to establish a comprehensive policy and guidelines for the procurement of AI systems within the State.",
+        "In late 2023 and early 2024, large technology companies have adopted standards of self-regulation to provide watermarking systems for various forms of AI-generated content."
+      ],
+      "gaps": [
+        "This is of crucial importance in a present state of expansion of AI and the need to spur the role of governments in the steering of AI and the consolidation of strong and diverse national ecosystems around this theme.",
+        "The explicit recognition of digital gender divide indicators needs to be further developed to better design and direct policies to address these gaps in the workforce, as well as in university enrollment and graduation figures, consistent with the UNESCO Recommendation on the Ethics of AI (2021).",
+        "DIAGNOSIS OF THE NATIONAL AI LANDSCAPE Uruguay is committed to the implementation of the UNESCO Recommendation on the Ethics of AI as part of the need to update its current AI strategy that is in force since 2020.",
+        "The current ongoing revision of the AI Strategy showcases Uruguay’s dynamic approach to AI that focuses on institutionalization, governance, respect for human rights and the need to tailor the strategy to meet the country’s vision as a powerhouse for innovation, economic growth, and legal safeguards",
+        "However, the evolving nature of AI technologies poses challenges in establishing legally binding standards and norms beyond the scope of the government, since the current strategy’s scope is limited to the public sector.",
+        "However, the effectiveness of these policies and the national data exchange framework is yet to be evaluated.",
+        "However, the effectiveness of AI-related laws in this domain remains unclear and more specific work could be accomplished.",
+        "However, this is changing to reflect Uruguay’s commitment to sustainable practices.",
+        "Despite these advancements, there is a need for a more focused emphasis on the role of AI within this strategy.",
+        "Although it currently lacks a dedicated policy for AI in cultural heritage preservation, there is interest in its potential applications."
+      ],
+      "key_stats": [
+        {
+          "stat": "100% of all educational establishments",
+          "context": "with initiatives like the Ibirapitá Plan and Ceibal Plan, fostering digital inclusion and reaching 100% of all educational establishments with connection to the Internet. This is a relevant milestone ",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "90% \nof them with high",
+          "context": "ital inclusion and reaching 100% of all educational establishments with connection to the Internet, 90% of them with high-speed access. Internet access in households across the country continues to gr",
+          "value": 90.0,
+          "unit": "%"
+        },
+        {
+          "stat": "91% have some form of Internet con",
+          "context": "f them with high-speed access. Internet access in households across the country continues to grow: 91% have some form of Internet connection, compared to 88% in 2019. Regarding Internet usage, 90% of ",
+          "value": 91.0,
+          "unit": "%"
+        },
+        {
+          "stat": "88% in",
+          "context": "eholds across the country continues to grow: 91% have some form of Internet connection, compared to 88% in 2019. Regarding Internet usage, 90% of people aged 14 and older are users, and 83% use the In",
+          "value": 88.0,
+          "unit": "%"
+        },
+        {
+          "stat": "90% of people aged",
+          "context": "row: 91% have some form of Internet connection, compared to 88% in 2019. Regarding Internet usage, 90% of people aged 14 and older are users, and 83% use the Internet daily1 Moreover, Uruguay is a rec",
+          "value": 90.0,
+          "unit": "%"
+        },
+        {
+          "stat": "83% use the Internet daily",
+          "context": "compared to 88% in 2019. Regarding Internet usage, 90% of people aged 14 and older are users, and 83% use the Internet daily1 Moreover, Uruguay is a recognized regional leader in renewable energy usag",
+          "value": 83.0,
+          "unit": "%"
+        },
+        {
+          "stat": "60% of the \nworkforce will need to in",
+          "context": "e, though some private sector intelligence estimates consider that 62,000 jobs will be affected and 60% of the workforce will need to incorporate some AI training (Ámbito Financiero, 2023). While prof",
+          "value": 60.0,
+          "unit": "%"
+        },
+        {
+          "stat": "13\nInstitution",
+          "context": "e digital citizenship programs and campaigns, is essential to address these concerns. ### Page 14 13 Institutional framework • Creating a Unit for the Development of the National AI Strategy within AG"
+        },
+        {
+          "stat": "24,000 people",
+          "context": "ruguay XXI 2023d). The IT sector in Uruguay comprises some 530 enterprises employing approximately 24,000 people. If micro-enterprises are included, employment amounts to 27,400 persons (Uruguay XXI 2"
+        },
+        {
+          "stat": "62,000 jobs",
+          "context": "impact on labor is not available, though some private sector intelligence estimates consider that 62,000 jobs will be affected and 60% of the workforce will need to incorporate some AI training (Ámbit"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "TECHNICAL AND INFRASTRUCTURAL INFRASTRUCTURE AND CONNECTIVITY Uruguay has approached the development of its digital infrastructure as a sustained policy priority since its first digital agenda in 2007 (which is now in its 5th edition) (Rosso Risso, 2024).",
+        "Digital infrastructure from a government policy approach has been conceived at the network, hardware, and platform level with sustained and incremental approach across the different governments.",
+        "Interoperability in digital identity platforms and services, as well as the development of the digital public health record are exemplars of digital public infrastructure at the data level.",
+        "APPLIED STANDARDS There is no systematized data for participation from the country in AI related standardization bodies.",
+        "Google’s project for the data center is situated in the Parque de las Ciencias free zone, where companies benefit from incentives that include exoneration of many different taxes (Parque de las Ciencias, n.d.).",
+        "Microsoft, on the other hand, has developed a cloud infrastructure specifically designed around AI and the Internet of Things with the installation of a dedicated lab, the fourth of its kind in the world (Uruguay XXI, 2022b).",
+        "This has significant impact on the experimentation and testing phases of several local SMEs and research groups which have been relying on this cloud infrastructure (authors’ own interviews); b) There’s a policy concerning cloud usage for public administration and management promoted by AGESIC (2022",
+        "In terms of data product scores, the total score is 69, while for data sources, it is 64."
+      ],
+      "strengths": [
+        "AGESIC was responsible for the first and current Uruguayan AI strategy and is leading its revision.",
+        "Evaluating comprehensive educational reforms, particularly in coordination with ANEP, the Ministry of Education and Culture, the Ministry of Work and INEFOP, becomes imperative.",
+        "This discourse highlighted the complexities involved in balancing the innovative potential of AI with the ethical responsibility of safeguarding sensitive data.",
+        "A considerable number of participants expressed alignment with the regulatory model for AI established by the European Union, the EU AI Act, citing its structured approach based on risk levels as a potential guiding framework for Uruguay’s AI regulations."
+      ],
+      "gaps": [
+        "In terms of internet access, the EUTIC highlights a marginal gender gap: 89% for men and 91% for women.",
+        "Specific data about the gender gap in mobile telephony remains unavailable.",
+        "Moreover, the EUTIC survey does not specifically distinguish rural areas, but rather differentiates the capital city, Montevideo, housing roughly half of the nation’s population, and the rest of the country, referred to as ‘Interior’.",
+        "Of these data centers, 8 function as colocation data centers, while one (Banco República’s ‘CPD Casa Central’) does not.",
+        "Uruguay does not have a specific policy solely dedicated to AI-based cloud computing.",
+        "However, no assessment of the effectiveness of such policy has been carried out.",
+        "However, in data infrastructure, the score is notably lower at a total of 20 (World Bank, n.d.).",
+        "However, there is no overarching data governance framework in the sense of a general guideline.",
+        "Beyond a purely institutional dimension, participants also emphasized the need for extensive cross-sector collaboration, highlighting challenges posed by siloed approaches within and between the public and private domains.",
+        "This new strategic approach implies a broadening of the scope needed to address challenges and unmet needs."
+      ],
+      "key_stats": [
+        {
+          "stat": "72% of households had access to fixed",
+          "context": "cellular subscription (ITU, 2022), while the national EUTIC survey of the same year indicated that 72% of households had access to fixed broadband. About 89% of the Uruguayan population aged 14 and ab",
+          "value": 72.0,
+          "unit": "%"
+        },
+        {
+          "stat": "89% of the Uruguayan \npopulation aged",
+          "context": "EUTIC survey of the same year indicated that 72% of households had access to fixed broadband. About 89% of the Uruguayan population aged 14 and above has access to the internet via mobile broadband (A",
+          "value": 89.0,
+          "unit": "%"
+        },
+        {
+          "stat": "90.07% actively using the internet",
+          "context": "dTest. n.d.). Uruguay exhibits significant internet penetration within its population, with around 90.07% actively using the internet (AGESIC, 2023a) The country has 95% coverage in 3G networks and 94",
+          "value": 90.07,
+          "unit": "%"
+        },
+        {
+          "stat": "95% coverage in",
+          "context": "thin its population, with around 90.07% actively using the internet (AGESIC, 2023a) The country has 95% coverage in 3G networks and 94% in 4G networks, ensuring extensive mobile network availability (",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "94% in",
+          "context": "90.07% actively using the internet (AGESIC, 2023a) The country has 95% coverage in 3G networks and 94% in 4G networks, ensuring extensive mobile network availability (ITU, 2022). Concerning 5G, which ",
+          "value": 94.0,
+          "unit": "%"
+        },
+        {
+          "stat": "25% of its population will be covered",
+          "context": "ilability (ITU, 2022). Concerning 5G, which already has commercial networks in operation, in 2025, 25% of its population will be covered by 5G and 99% by 2030 (GSMA, 2023). 100% of the population has ",
+          "value": 25.0,
+          "unit": "%"
+        },
+        {
+          "stat": "99% \nby",
+          "context": "eady has commercial networks in operation, in 2025, 25% of its population will be covered by 5G and 99% by 2030 (GSMA, 2023). 100% of the population has access to electricity, as reported by the World",
+          "value": 99.0,
+          "unit": "%"
+        },
+        {
+          "stat": "100% of the population has access to e",
+          "context": "s in operation, in 2025, 25% of its population will be covered by 5G and 99% by 2030 (GSMA, 2023). 100% of the population has access to electricity, as reported by the World Bank (2023). In terms of i",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "89% for men and",
+          "context": "by the World Bank (2023). In terms of internet access, the EUTIC highlights a marginal gender gap: 89% for men and 91% for women. Specific data about the gender gap in mobile telephony remains unavail",
+          "value": 89.0,
+          "unit": "%"
+        },
+        {
+          "stat": "91% for women",
+          "context": "k (2023). In terms of internet access, the EUTIC highlights a marginal gender gap: 89% for men and 91% for women. Specific data about the gender gap in mobile telephony remains unavailable. Moreover, ",
+          "value": 91.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of households benefit from intern",
+          "context": "’ category includes not only rural areas but also other cities outside the capital. In Montevideo, 95% of households benefit from internet connectivity, while in the Interior regions, this figure stan",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "ranks 19th in a",
+          "context": "ort capacity of local firms. 3 In the Global Responsible AI Index, published in June 2024, Uruguay ranks 19th in a global list of 138 countries, with a total score of 44.09 out of 100. The Index sets "
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "It has been adopted in more than 60 countries as of 2024, and Uruguay was one of the first to join this exercise.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "During 2023 a public, open, and multistakeholder approach was implemented to get feedback, insights, and advice for the development of the new AI strategy in the country.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "A law passed in Parliament in October 2023 ratifies AGESIC (Agency for Electronic Government, and Information and Knowledge Society) as responsible for both the AI and national data governance strategies, a milestone in the recognition of the central role of both these issues for the country, and how data and AI are interdependent and rely on comprehensive policy-making to successfully address its opportunities and challenges.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Regarding Internet usage, 90% of people aged 14 and older are users, and 83% use the Internet daily1 Moreover, Uruguay is a recognized regional leader in renewable energy usage and is evolving its approach towards integrating environmental sustainability in its AI strategy.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "BUDGET Within AGESIC, resources are allocated for the review process of the AI Strategy and the development of the Observatory for AI usage in the State, as well as within the URCDP and other policies and tools deployed by this agency.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This is expected to change with the recognition of the national Law 20.2012 of 2023, on the role of AGESIC for the future strategy that will encompass both the public and the private sectors.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "However, efforts are underway to explore alternatives and identify regional best practices, such as those that are being implemented by Chile.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In addition to government efforts, Civil Society Organizations (CAINFO) and Universities (UCU) with the ITAeL (Online Active Transparency Index) have implemented annual transparency reporting mechanisms linked to the Right of Access to Public Information Law 18.381 (CAINFO, 2022).",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "The Uruguayan state-owned telecommunications company, ANTEL, has deployed both LTE and FTTH; this last one in towns with up to 5,000 inhabitants.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "From 2023 it ranks first in the region for download mobile Internet speed (Ookla, 2023), 91% of households have some form of Internet access – fixed or mobile, and 83% of inhabitants use it on a daily basis (AGESIC, 2023a).",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "Over these two decades several measures have been implemented to ensure connectivity and internet access for households and individuals.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "The 2023 XI Illustration Award, co-organized by the Ministry of Education and Culture (MEC) and the Uruguayan Film and Audiovisual Agency (ACAU), is an example where the use of AI was enabled as one of the competing techniques (MEC, 2023a, p.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "CURRICULUM CONTENT There are specific initiatives implemented by institutions such as Ceibal, incorporating AI as a subject matter in education and promoting relevant content through their platforms (Ceibal, 2022a).",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "“Uruguay has developed a digital platform (DP) which defines and implements standards and solutions for the development of the digital transformation of government agencies.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Microsoft, on the other hand, has developed a cloud infrastructure specifically designed around AI and the Internet of Things with the installation of a dedicated lab, the fourth of its kind in the world (Uruguay XXI, 2022b).",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "In 2021, the Transparency and Access to Information Index was implemented to measure transparency levels (INTAI, 2021).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "As already mentioned at the beginning of this report, this law assigns the AGESIC with the task of designing and developing a national data and artificial intelligence strategy based on international standards and founded on principles such as equity, non- discrimination, accountability, transparency, audit, and safe innovation, respecting human dignity, the democratic system, and the republican form of government.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Instead, a coordinated approach with a multi-level, multi-actor approach is essential as well as learning from the initiatives and policies implemented in countries like Canada, the European Union, the United Kingdom, and China.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "These guidelines should apply not only to domestic operations but also consider the global footprint of technologies deployed, including those using infrastructures based outside Uruguay.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "This should cover a range of organizations, from start-ups and SMEs to well- established national and international companies.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Additionally, establishing awards for AI developments is another promising avenue.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "These awards, potentially in collaboration with international organizations, could provide both recognition and incentives for companies in Uruguay that are innovating responsibly with AI.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Emphasizing responsible innovation in these awards will encourage companies to integrate ethical considerations and human rights into their AI products.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Uptime Institute Awards in Uruguay.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 83.0,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.62,
+      "unit": "% GDP",
+      "dimension": "economic"
+    }
+  ],
+  "executive_summary": "3\nTable of Contents\nAcronyms and Abbreviations\t\n6\nForeword\t\n8\nExecutive Summary\t\n10\nI-Diagnosis Of The National AI Landscape\t\n14\n   Legal And Regulatory \t\n15\nAI Policy and Regulation\t\n15\nData Protection and Privacy Laws\t\n17\nData sharing and accessibility\t\n18\nProcurement Laws and Policies \t\n19\nFreedom of Information Acts/Access to Knowledge Acts\t\n19\nDue Process and Accountability\t\n19\nOnline Safety and Integrity of Speech\t\n20\nPublic Sector Capacity \t\n20\n   Social And Cultural\t\n21\nDiversity, Inclusion and Equality\t\n21\nPublic Engagement and Trust\t\n23\nEnvironmental and Sustainability Policies \t\n23\nHealth and Social Wellbeing\t\n24\nCulture\t\n24\n\nScientific And Educational\t\n25\nResearch and Innovation \t\n25\nR&D expenditure\t\n25\nResearch output\t\n25\nEthical AI research\t\n25\nAI talent innovation output\t\n25\nEducation\t\n26\nEducation strategy\t\n26\nEducation infrastructure\t\n26\nCurriculum content\t\n26\nEducational attainment\t\n27\nPublic access to AI education\t\n27\n   Economic \t\n28\nLabour Markets\t\n28\nIntermediate Consumption \t\n28\nInvestments and Output \t\n28\n   Technical And Infrastructural \t\n29\nInfrastructure and Connectivity\t\n29\nApplied Standards\t\n29\nComputing Capabilities \t\n30\nStatistical Performance\t\n30\nII-Developing A National AI Multi‑Stakeholder Roadmap\t\n31\nMain AI actors in the country\t\n31\nGovernance\t\n32\nEducation\t\n33\nData management and regulation \t\n34\nInfrastructure\t\n34\nInternational Participation\t\n35\n\n5\nStrategic Sector Support\t\n35\nDigital capacity\t\n36\nIII-Main Policy Recommendations\t\n37\nRegulation\t\n37\nAI Sandbox regulation \t\n37\nRegulation for Contracting AI Systems \t\n37\nDeep fake regulation\t\n38\nInstitutional framework \t\n38\nPromoting a Unit for the Development of the National AI Strategy within AGESIC\t\n38\nCoordination with Public Sector \t\n38\nDevelopment of a National AI Dialogue mechanism \t\n39\nMonitoring and evaluation\t\n40\nIncentives to Improve the Data Strategy for AI\t\n40\nEnvironmental Impact Policies\t\n41\nDeploying a Policy for AI and Data Infrastructure\t\n41\nCapacity building and training\t\n42\nStrengthening Resources and Personnel\t\n42\nStrengthening national ecosystem community leadership\t\n42\nParticipation of Women \t\n42\nImproving AI R&D Indicators with Relevant Actors\t\n43\nPromoting Discussion and Implementation of Policies Aimed at Work, Talent development and Education\t\n43\nDeploying a Policy of Responsible Innovation\t\n43\nStimulating SME Participation in the State\t\n44\nCooperation entities\t\n44\nTimeline\t\n45\nIV-References\t\n46",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "AI Sandbox regulation",
+      "text": "AI Sandbox regulation: This process is already being developed, as mandated by Art. 75, Law 20.212 (2023). Regulating sandboxes for AI use will not only stimulate private sector innovation but will also spur public sector demand.",
+      "dimension": "Regulation",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Deep fake2 regulatory governance",
+      "text": "Deep fake2 regulatory governance: Although this theme emerged in a few discussions of the consultation process, particularly due to the increasing use of generative AI across multiple sectors. The Uruguayan political sector and public opinion are increasingly concerned about the effects of deep fakes, particularly when 2024 is an electoral year. In late 2023 and early 2024, large technology companies have adopted standards of self-regulation to provide watermarking systems for various forms of AI-generated content. Supporting these international approaches and participating in these processes, coupled with local interventions in national media environments and comprehensive digital citizenship programs and campaigns, is essential to address these concerns. 13",
+      "dimension": "Regulation",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Creating a Unit for the Development of the National AI Strategy within AGESIC",
+      "text": "Creating a Unit for the Development of the National AI Strategy within AGESIC: As part of consolidating the AI agenda and addressing the need for dedicated resources to coordinate the various components, a key recommendation is the establishment of a specialized unit within AGESIC dedicated to overseeing and managing these efforts effectively. This is partially invoked in Art. 74, Law 20.212 (2023).",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Coordination with Public Sector",
+      "text": "Coordination with Public Sector: The rapid evolution of AI technology presents unique challenges and opportunities for Uruguay that require a dynamic and collaborative approach to governance and regulation. Recognizing AI’s transformative impact across a broad spectrum of sectors, it is imperative for the Uruguayan government to develop a framework that can adapt to the technology’s evolving nature.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Development of a National AI Dialogue mechanism",
+      "text": "Development of a National AI Dialogue mechanism: The development of a national governance ecosystem for AI in Uruguay represents a significant step towards harnessing the potential of this technology. There is a need to generate greater visibility of the stakeholders involved, their interests, as well as to promote synergies among them.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Monitoring and evaluation",
+      "text": "Monitoring and evaluation: Establishing a monitoring and evaluation framework for Uruguay’s AI strategy is fundamental to the strategy’s successful implementation, sustainability, and legitimacy. This comprehensive approach involves the development of robust capabilities within AGESIC.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Incentives to Improve the Data Strategy for AI",
+      "text": "Incentives to Improve the Data Strategy for AI: As Uruguay progresses in developing its national data strategy, which encompasses both public open data and personal data, its intrinsic link with the AI strategy reform needs to address protection, publication, and the re-use of data.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Environmental Impact Policies",
+      "text": "Environmental Impact Policies: Although the environmental impact did not emerge as a topic of concern in the public consultation with Uruguayan stakeholders, there is an increasing role of AI in the carbon footprint and consumption of natural resources that should be acknowledged, in line with UNESCO Recommendation on the Ethics of AI (2021) Values and Principles. This is shared by the public opinion due to a large vendor’s construction of a data center in Uruguay, the first of its kind in the country.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Deploying a Policy for AI Infrastructure",
+      "text": "Deploying a Policy for AI Infrastructure: The ongoing revision of Uruguay’s AI strategy and the development of a national data strategy are an essential opportunity to establish a comprehensive AI infrastructure policy, which has scope for improvement (Oxford Insights, 2023). This policy, encompassing data, hardware, data centers, and cloud, aims to support the economic, social, environmental, and ethical dimensions of AI.",
+      "dimension": "Institutional Framework",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Strengthening Resources and Personnel",
+      "text": "Strengthening Resources and Personnel: The implementation of an expanded AI strategy requires dedicated personnel and resources within the State. AGESIC, the national focal point for the strategy, has demonstrated strong capabilities. To enhance its effectiveness, AGESIC should strengthen its human capacity to comply with the coordination, monitoring, and follow-up activities.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Strengthening national ecosystem community leadership",
+      "text": "Strengthening national ecosystem community leadership: In addition to consolidating AGESIC’s capabilities, the strategy’s success hinges on broadening stakeholder engagement in a sustained manner.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Participation of Women",
+      "text": "Participation of Women: Addressing the gender gap in the AI industry is a critical issue that requires comprehensive evaluation and action.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Improving AI R&D Indicators with Relevant Actors",
+      "text": "Improving AI R&D Indicators with Relevant Actors: AI needs the development of specialized indicators in the field of national Research and Development (R&D), not only as a scientific or technocratic endeavor, but as one which will allow the country to consolidate a vision for the future to improve in its innovation capacity.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Promoting Discussion and Implementation of Policies Aimed at Work, Talent development and Education",
+      "text": "Promoting Discussion and Implementation of Policies Aimed at Work, Talent development and Education: The new AI strategy for Uruguay should dedicate a specific section to fostering the discussion and implementation of policies focused on the transformation of work through AI and the development of talent.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Deploying a Policy of Responsible Innovation",
+      "text": "Deploying a Policy of Responsible Innovation: The implementation of a Policy of Responsible Innovation is crucial for Uruguay’s private sector, encompassing SMEs and start-ups, to foster a culture of open innovation.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Stimulating SME Participation in the State",
+      "text": "Stimulating SME Participation in the State: The lack of a large internal market due to the reduced size of its population, coupled with the State’s historically influential role in the economy is perceived as an opportunity to foster engagement with national companies, particularly Small and Medium-sized Enterprises (SMEs). 14 I- DIAGNOSIS OF THE NATIONAL AI LANDSCAPE Uruguay confirmed its intention to implement the UNESCO (2022b) Recommendation on the Ethics of AI through a letter signed on June 8, 2023, between the Directors of UNESCO Montevideo and the Agency for Electronic Government and the Information and Knowledge Society (AGESIC) (AGESIC, 2023e). The latter, operating under the Presidency of Uruguay, is overseeing the review of the AI Strategy and the development of the first National Data Strategy, receiving technical support from CAF and UNESCO for both initiatives. The initiative is driven by significant international changes in principles and standards, technological developments such as generative AI, and the alignment of the current Artificial Intelligence Strategy for Digital Government, effective since 2020, among other factors. In this consultation and participation process, efforts focused on aspects of institutionalization and governance of the new AI strategy, allowing room to define the alternative that best suits the country (AGESIC, 2023d). The Uruguayan State’s prior experience with AGESIC shows the possibilities within the existing framework to innovate and make institutional adjustments in line with ethical recommendations (AGESIC, 2020a). Furthermore, an article has been included in the Accountability Bill (Ley de Rendición de Cuentas, October 2023) (Law 20.212, 2023) that has assigned to AGESIC the responsibility for designing and developing AI and Data Strategies, while also advocating for the corresponding regulation. Article 13 of the Personal Data Law 18.331, 2008, was amended to enhance the right to information, and is mandatory for ",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 16,
+  "page_count": 54,
+  "rankings_indices": [
+    {
+      "context": "### Page 19 18 DATA SHARING AND ACCESSIBILITY Uruguay ranks 71 out of 195 countries in the Open Data Inventory (ODIN, 2023) classification.",
+      "index_name": "Open Data Inventory",
+      "rank": 71,
+      "total_countries": 195,
+      "year": 2023
+    },
+    {
+      "context": "In the 2023 Global Gender Gap Index, composed by four dimensions: Economic Participation and Opportunity, Educational Attainment, Health and Survival, and Political Empowerment Uruguay ranks 67th and has improved 5 places compared to the 2022 edition.",
+      "index_name": "Global Gender Gap Index",
+      "rank": 67,
+      "year": 2023
+    },
+    {
+      "context": "3 and 4: Source PISA Report (2018) ### Page 24 23 PUBLIC ENGAGEMENT AND TRUST The country ranks 35th on the Online Service Index (OSI) –which measures a government’s capability and willingness to provide services and communicate with its citizens electronically– with a score of 0.84, holding the top position in the region (United Nations, 2022).",
+      "index_name": "Online Service Index",
+      "rank": 35,
+      "score": 0.84,
+      "year": 2018
+    },
+    {
+      "context": "Regarding the Electronic Participation Index (EPI) – which evaluates the extent to which a government provides information to its constituents, involves citizens in policy design, and empowers citizens in decision-making processes– the country scored 0.50 points in 2022, occupying the 61st position.",
+      "index_name": "EPI",
+      "score": 0.5,
+      "year": 2022
+    },
+    {
+      "context": "Uruguay ranks 72nd in Data Science according to Coursera’s World Skills Report 2022 (Coursera, 2023), highlighting its position in the global educational landscape PUBLIC ACCESS TO AI EDUCATION In Uruguay there are technical courses on AI aimed to the public.",
+      "index_name": "osi",
+      "rank": 72,
+      "year": 2022
+    },
+    {
+      "context": "Data Governance stands as one of the four pillars in the Global Data Barometer, where Uruguay holds a score of 72.",
+      "index_name": "Global Data Barometer",
+      "score": 72.0
+    },
+    {
+      "context": "The score for the ‘Infrastructure’ dimension in the Oxford Insights (2023) report is 56.6 points for Uruguay, with scope for improvement particularly when compared with some of the top 10 countries in this ranking (UK scored 75, the Netherlands 80.2 and Japan 79.9 in this dimension).",
+      "index_name": "Oxford Insights",
+      "score": 75.0,
+      "year": 2023
+    }
+  ]
+}

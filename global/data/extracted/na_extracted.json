@@ -1,0 +1,254 @@
+{
+  "country_code": "NA",
+  "country_name": "NAMIBIA",
+  "language": "en",
+  "metadata": {
+    "page_count": 63,
+    "creation_date": "D:20250618110816+02'00'",
+    "modification_date": "D:20250711173152+02'00'",
+    "country_name": "NAMIBIA",
+    "language": "en"
+  },
+  "chapters": [
+    {
+      "chapter": 2020,
+      "title": ")",
+      "start_page": 61
+    }
+  ],
+  "dimensions": {},
+  "executive_summary": "Contents\nAcronyms     \b\n02\nKey terminologies      \b\n04\nForeword\nAssistant Director-General ad interim for Social and Human Sciences, UNESCO     \b\n06\nForeword\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nMinister of Education, Innovation, Youth, Sports, Arts and Culture (MEIYSAC), Republic of Namibia \b\n08\nExecutive summary     \b\n10\nIntroduction     \b\n12\nMethodology     \b\n13\nLimitation     \b\n14\nOverview of AI landscape      \b\n15\nThe legal dimension     \b\n23\nThe social/cultural dimension     \b\n33\nThe scientific / education dimension      \b\n40\nThe economic dimension      \b\n48\nThe technical and infrastructural dimension     \b\n52\nOverall recommendations     \b\n56\nConclusion     \b\n58\nReferences     \b\n59\nAppendices     \b\n60\n01\n\n4IR\t\nFourth Industrial Revolution\nAI\t\nArtificial intelligence\nAIMS\t\nAfrican Institute for Mathematical Sciences\nAIMS\t\nArtificial intelligence management system\nAIRA\t\nArtificial intelligence and robotics accelerator\nASRIC\t\nAfrican Scientific Research and Innovation Council\nATU\t\n African Telecommunications Union\nAU\t\nAfrican Union\nBERD\t\nBusiness expenditure on research and development\nCBDC\t\nCentral bank digital currency\nCcHub \t\nCo-creation Hub\nCESA 16-25\t\nContinental Education Strategy for Africa (2016-2025)\nCRAN\t\nCommunications Regulatory Authority of Namibia\nDPIA \t\nData protection impact assessment\nEAC\t\nEast African Community\neGSAP\t\ne-Government Strategic Action Plan\neGSAP\t\ne-Government Strategic Action Plan for the Public Service of Namibia\nEHR\t\nElectronic health record\nG20\t\nGroup of Twenty\nGDPR\t\nGeneral data protection regulation\nGDDS\t\nGeneral data dissemination system\nGDP\t\nGross domestic product\nGERD\t\nGross expenditure on research and development\nGOVERD\t\nGovernment expenditure on research and development\nGPU\t\nGraphics processing unit\nHALE\t\nHealth adjusted life expectancy\nHCI\t\nHuman-Computer interaction\nHIV\t\n Human Immunodeficiency Virus\nHPC\t\nHigh performance computing\nHPP I\t\nHarambee Prosperity Plan I\nHPP II\t\nHarambee Prosperity Plan II\nICT\t\nInformation and communication technology\nIEC\t\nInternational Electrotechnical Commission\nIoT\t\nInternet of Things\nISO\t\nInternational Organization for Standardization\nIT\t\nInformation technology\nITU\t\nInternational Telecommunication Union\nKbps\t\nKilobits per second\nLAC\t\nLegal Assistance Centre\nLTE\t\nLong-term evolution\nMbps\t\nMegabits per second\nM&E\t\nMonitoring and evaluation\nMEIYSAC\t\nMinistry of Education, Innovation, Youth, Sports, Arts, and Culture\nMHETI\t\nMinistry of Higher Education, Training and Innovation\nMGECW\t\nMinistry of Gender Equality and Child Welfare\nMICT\t\nMinistry of Information and Communication Technology\nAcronyms\n02\n\nML\t\nMachine learning\nMoEAC\t\nMinistry of Education, Arts, and Culture\nMTC\t\nMobile Telecommunications Limited\nNCRST\t\nNational Commission Research Science Technology\nNDP5\t\nNational Development Plan 5\nNDG\t\nNational Development Goal\nNDPSC\t\nNational Digital Strategy Steering Committee\nNDP\t\nNational Development Plan\nNIED\t\nNational Institute for Educational Development\nNIPDP\t\nNational Integrated Planning and Development Programme\nNLP\t\nNatural language processing\nNPC\t\nNational Planning Commission\nNPS\t\nNational payment system\nNSA\t\nNamibia Statistics Agency\nNSDI\t\nNational spatial data infrastructure\nNSFAF\t\nNamibia Student Financial Assistance Fund\nNSI\t\nNamibian Standards Institution\nNSTA\t\nNational Science Teachers Association\nNSTIP\t\nNational Science, Technology, and Innovation Policy\nNQAFS\t\nNamibia Quality Assurance Framework for Statistics\nNUST\t\nNamibia University of Science and Technology\nOECD\t\nOrganisation for Economic Co-operation and Development\nOMAs\t\nOffices/ministries/agencies\nOPM\t\nOffice of the Prime Minister\nPCI-DSS\t\nPayment Card Industry Data Security Standard\nPRM\t\nProgramme results matrix\nPROs\t\nPublic research organizations\nRAM\t\nReadiness assessment methodology\nR&D\t\nResearch and development\nREC\t\nRegional economic community\nSARFAI\t\nUNESCO-Southern Africa Sub-Regional Forum on Artificial Intelligence\nSADC\t\nSouthern African Development Community\nSDDS\t\nSpecial data dissemination standard\nSDGs\t\nSustainable Development Goals\nSIC\t\nStandard industrial classification\nSTEM\t\nScience, technology, engineering, and mathematics\nTB\t\nTuberculosis\nTER\t\nTraining, education, and research\nUN\t\nUnited Nations\nUNAM\t\nUniversity of Namibia\nUNESCO\t\nUnited Nations Educational, Scientific and Cultural Organization\nVAs\t\n Virtual assets\nVASPs\t\nVirtual asset service providers\nVET\t\nVocational education and training\nWIPO\t\nWorld Intellectual Property Organization\nWISETO\t\nWomen in Science, Engineering, Technology Organisation\n03\n\nKey terminologies1 \nArtificial intelligence (AI): AI refers to technologies that enable machines to perform tasks that typically \nrequire human intelligence, such as learning, reasoning, problem solving, perception, and language \nunderstanding. These technologies have the potential to significantly improve various sectors, including \nhealthcare, education, finance, and transportation.\nCybersecurity: Cybersecurity involves protecting computer systems, networks, ",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Develop a formal AI regulatory framework to provide certainty in governance, enforcement, and ethical standards.",
+      "text": "Develop a formal AI regulatory framework to provide certainty in governance, enforcement, and ethical standards.",
+      "dimension": "Regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Establish an AI review committee to oversee AI initiatives and ensure compliance with privacy and cybersecurity standards.",
+      "text": "Establish an AI review committee to oversee AI initiatives and ensure compliance with privacy and cybersecurity standards.",
+      "dimension": "Regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Finalize and implement regulations to protect personal data and enhance cybersecurity resilience.",
+      "text": "Finalize and implement regulations to protect personal data and enhance cybersecurity resilience.",
+      "dimension": "Regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Develop and implement a comprehensive national 4IR strategy outlining AI governance, prioritizing sectors for AI integration, and coordinating national efforts among stakeholders.",
+      "text": "Develop and implement a comprehensive national 4IR strategy outlining AI governance, prioritizing sectors for AI integration, and coordinating national efforts among stakeholders.",
+      "dimension": "Regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Enhance institutional transparency and accountability through updating the Government Information Centre (GIC), involving the public in appointing the Information Commissioner, and establishing a 4IR",
+      "text": "Enhance institutional transparency and accountability through updating the Government Information Centre (GIC), involving the public in appointing the Information Commissioner, and establishing a 4IR technology accountability campaign under the Office of the Ombudsman.",
+      "dimension": "Regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Strengthen the role of the Namibian Standards Institution (NSI) by participating actively in international committees on AI standards, ethics, and data governance.",
+      "text": "Strengthen the role of the Namibian Standards Institution (NSI) by participating actively in international committees on AI standards, ethics, and data governance.",
+      "dimension": "Regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Establish a national responsible AI institute to coordinate research, support ethical AI deployment, and provide guidance on responsible AI practices across sectors.",
+      "text": "Establish a national responsible AI institute to coordinate research, support ethical AI deployment, and provide guidance on responsible AI practices across sectors.",
+      "dimension": "Regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Develop policies that incentivize domestic AI development and investment to cultivate a self-sufficient AI ecosystem.",
+      "text": "Develop policies that incentivize domestic AI development and investment to cultivate a self-sufficient AI ecosystem.",
+      "dimension": "Regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Launch a nationwide digital literacy and education campaign, reforming existing national literacy programmes and adult education curricula to integrate digital literacy and AI awareness.",
+      "text": "Launch a nationwide digital literacy and education campaign, reforming existing national literacy programmes and adult education curricula to integrate digital literacy and AI awareness.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Expand regional ICT centres to improve public access to digital technologies, emphasizing rural broadband expansion to bridge the digital divide.",
+      "text": "Expand regional ICT centres to improve public access to digital technologies, emphasizing rural broadband expansion to bridge the digital divide.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Build robust data infrastructure by establishing a national data centre within the Namibia Statistics Agency (NSA) and developing a comprehensive national data strategy that emphasizes open data princ",
+      "text": "Build robust data infrastructure by establishing a national data centre within the Namibia Statistics Agency (NSA) and developing a comprehensive national data strategy that emphasizes open data principles.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Prioritize targeted education and training initiatives to develop local AI expertise and address the current skills gap, including AI literacy at all educational levels and lifelong learning opportuni",
+      "text": "Prioritize targeted education and training initiatives to develop local AI expertise and address the current skills gap, including AI literacy at all educational levels and lifelong learning opportunities.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Foster industry-academic partnerships to align AI education, research, and innovation with market demands, creating practical learning opportunities.",
+      "text": "Foster industry-academic partnerships to align AI education, research, and innovation with market demands, creating practical learning opportunities.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Increase investment in research, science, and innovation specifically for AI development, promoting public- private collaborations.",
+      "text": "Increase investment in research, science, and innovation specifically for AI development, promoting public- private collaborations.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Enhance technological infrastructure, including improving computing capabilities, broadband access, and environmentally sustainable data centre infrastructure.",
+      "text": "Enhance technological infrastructure, including improving computing capabilities, broadband access, and environmentally sustainable data centre infrastructure.",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Create job opportunities through targeted AI skills training and upskilling initiatives aimed at unemployed youth, supporting roles such as data workers, AI developers, and AI startup founders. © stoc",
+      "text": "Create job opportunities through targeted AI skills training and upskilling initiatives aimed at unemployed youth, supporting roles such as data workers, AI developers, and AI startup founders. © stock.adobe.com 57",
+      "dimension": "Capacity Building",
+      "timeline": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 16,
+  "page_count": 63,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "Namibia has also adopted the National e-Government Procurement Strategy and has implemented an e-portal as the first phases of this national e-government procurement system.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Similarly, the National eHealth Strategy 2021-2025, which is currently being implemented by the Ministry of Health cites emerging technologies such as AI as opportunities for the health system in Namibia.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The Ministry of Information and Communication Technologies has developed a national digital strategy to harmonize digitalization efforts across the country.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Recognized for its transformative potential, AI is seen as a key enabler of well-being, economic growth, and solutions to global challenges.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "To support successful implementation, the OECD Digital Policy Committee developed practical guidance and established a forum for exchanging information on AI policy, encouraging multi-stakeholder and interdisciplinary dialogue.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The late President, Dr Hage Geingob, established a Presidential Task Force on the Fourth Industrial Revolution (2021-2022) tasked with assessing Namibia’s readiness for 4IR.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "ICT policies and strategies across Namibian government ministries The table below highlights the ICT policies, strategies, and applications implemented by various government ministries in Namibia.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Recommendation guiding principles in AI legislation • To ensure that AI technologies in Namibia are developed and deployed responsibly, it is essential to safeguard fundamental human rights such as privacy, freedom of expression, and protection from discrimination by embedding transparency, accountability, and trust into all AI systems.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• AI systems must also be secure and rigorously tested, particularly those deployed in critical infrastructure, to ensure safety and resilience against cyber threats.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "With the upcoming Sixth National Development Plan (NDP6), a programme results matrix (PRM) will be implemented to facilitate annual progress assessments.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In terms of linguistic preservation, AI technologies like speech recognition, machine translation, and digital archiving could support the preservation of Namibia’s Indigenous languages.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Notably, the project Food Security and Nutrition Improvement by Fostering Emerging Technologies, led by Prof Percy Chimwamurombe at the Namibia University of Science and Technology, was awarded a total of N$ 715,878.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "NUST established a robotics and AI accelerator.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [],
+  "rankings_indices": [
+    {
+      "context": "Namibia was ranked as number eight (8) in Africa according to the 2024 StartupBlink Global Startup Ecosystem Index and was equally ranked 8th in sub-Saharan Africa for the Global Innovation Index indicating that the country is performing fairly.",
+      "index_name": "Global Innovation Index",
+      "rank": 8,
+      "year": 2024
+    }
+  ]
+}

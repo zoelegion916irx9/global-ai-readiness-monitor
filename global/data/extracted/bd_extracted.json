@@ -1,0 +1,842 @@
+{
+  "country_code": "BD",
+  "country_name": "BANGLADESH",
+  "language": "en",
+  "metadata": {
+    "page_count": 60,
+    "creation_date": "D:20251113154654+05'30'",
+    "modification_date": "D:20251121103914+01'00'",
+    "country_name": "BANGLADESH",
+    "language": "en"
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "DIAGNOSIS OF THE NATIONAL AI LANDSCAPE",
+      "start_page": 5
+    },
+    {
+      "chapter": 2,
+      "title": "LEGAL AND REGULATORY DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 3,
+      "title": "SOCIAL AND CULTURAL DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 4,
+      "title": "SCIENTIFIC AND EDUCATIONAL DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 5,
+      "title": "ECONOMIC DIMENSION",
+      "start_page": 5
+    },
+    {
+      "chapter": 6,
+      "title": "TECHNICAL AND INFRASTRUCTURAL DIMENSION",
+      "start_page": 6
+    },
+    {
+      "chapter": 7,
+      "title": "DEVELOPING A NATIONAL MULTISTAKEHOLDER ROADMAP 28",
+      "start_page": 6
+    },
+    {
+      "chapter": 8,
+      "title": "POLICY RECOMMENDATIONS",
+      "start_page": 6
+    },
+    {
+      "chapter": 10,
+      "title": "outlines a complaint and compensation process when a data subject’s rights have",
+      "start_page": 17
+    },
+    {
+      "chapter": 12,
+      "title": "), but does not mention specific technical or ethical aspects of such",
+      "start_page": 32
+    }
+  ],
+  "dimensions": {
+    "Legal and Regulatory": {
+      "chapter": 2,
+      "title": "LEGAL AND REGULATORY DIMENSION",
+      "start_page": 5
+    },
+    "Social and Cultural": {
+      "chapter": 3,
+      "title": "SOCIAL AND CULTURAL DIMENSION",
+      "start_page": 5
+    },
+    "Scientific and Educational": {
+      "chapter": 4,
+      "title": "SCIENTIFIC AND EDUCATIONAL DIMENSION",
+      "start_page": 5
+    },
+    "Economic": {
+      "chapter": 5,
+      "title": "ECONOMIC DIMENSION",
+      "start_page": 5
+    },
+    "Technical and Infrastructural": {
+      "chapter": 6,
+      "title": "TECHNICAL AND INFRASTRUCTURAL DIMENSION",
+      "start_page": 6
+    }
+  },
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Legal and regulatory dimension AI policy and regulation A draft National Artificial Intelligence Policy for Bangladesh is in its final review stage (Government of Bangladesh, 2024) and a National Strategy for Artificial Intelligence 2019-2024 also exists, albeit in draft format (Government of Bangla",
+        "Section 5.2.2 of the draft policy, under ‘Legal and regulatory framework’ references plans to update the National Strategy for AI to incorporate AI ethics guidelines and principles aimed at providing guidance on the responsible and ethical development and use of AI technologies (Government of Bangla",
+        "As the draft policy is still being reviewed, the inclusion of a detailed implementation strategy for ethical guidelines is expected to be addressed in subsequent iterations.",
+        "The 2019-2024 draft strategy has a strategic pillar (Pillar 4: Ethics, data privacy, security and regulations) that outlines a general guideline on what the strategy should emphasize (Government of Bangladesh, 2020a).",
+        "With regard to human rights, Section 3.6 (‘Human-centred AI’) of the draft policy reads ‘The development and use of AI technologies in Bangladesh shall be guided by… Ensuring AI technologies uphold the rule of law, human rights, dignity, values, and preferences, including human intervention scopes a",
+        "Stakeholder perspectives from the consultations reflect a shared understanding that adopting a human-centred approach to AI development and deployment is a key priority for Bangladesh.",
+        "Section 5 of the draft policy, ‘AI policy implementation approaches’, presents a detailed implementation framework encompassing institutional, legal and regulatory components.",
+        "Additionally, the draft policy delineates an implementation plan for investment and funding in AI."
+      ],
+      "strengths": [
+        "In terms of regulatory developments, Bangladesh adopted a new Cyber Security Ordinance in May 20257, which replaced the Cyber Security Act of 2023 (Government of Bangladesh, 2023a).",
+        "To ensure a comprehensive and cohesive approach to data protection, the PDPO could further establish clear guidelines and standards for both public and private sectors, recognizing their unique characteristics and needs.",
+        "Mechanisms enabling secure data sharing across sectors – public-private, private-private and public-public – would also contribute to a more robust framework, particularly in critical areas such as healthcare and e-commerce.",
+        "Additionally, emerging domains such as smart cities and AI-driven healthcare require particular attention, as they involve the processing of sensitive personal data that demand robust and clearly defined protections.",
+        "Integrating these elements would ensure a more comprehensive and responsible approach to AI procurement.",
+        "Freedom of Information Acts/ Access to Knowledge Acts Bangladesh has enacted a Right to Information Act (Government of Bangladesh, 2009a), which provides a comprehensive framework governing the preservation and publication of, and access to, information.",
+        "Previously, the Digital Security Act of 2018 (Government of Bangladesh, 2018a) was enacted in order to prevent the dissemination of hate speech, extremism and other harmful content in digital spaces.",
+        "Recognizing the evolving digital landscape, the Government of Bangladesh, especially under the ICT Act (2006a), has made efforts to establish a comprehensive digital safety framework aimed at safeguarding citizens online."
+      ],
+      "gaps": [
+        "Although the draft policy aligns well with the core values and principles of UNESCO’s Recommendation on the Ethics of Artificial Intelligence (UNESCO, 2022), the policy may be updated to reflect recent changes in governance, ensuring coherence with the vision and priorities of the current government",
+        "While the framework identifies key focus areas, it does not currently specify budgetary allocations for the recommended measures.",
+        "In alignment with the principles outlined in Section 3.2 (‘Transparency and accountability’), the policy emphasizes the importance of ensuring transparency and accountability in the collection, storage and use of data, with the objective of making AI-driven decision-making processes explainable and ",
+        "Given the draft status of both these documents, Bangladesh currently does not have binding regulations or soft law instruments specific to AI governance.",
+        "The index highlights several vulnerabilities, including a high incidence of ransomware Trojan attacks, a significant number of computers experiencing web-based malware infections, local malware attacks, and mobile devices affected by malware.6 However, the Global Cybersecurity Index 2020, published ",
+        "While this section addresses consent for data collection and processing comprehensively, it does not explicitly address data-sharing practices.",
+        "However, the ordinance does not provide a definition or hierarchy of data sensitivity.",
+        "However, the ordinance does not currently include explicit provisions regarding the right to privacy, respect for private and family life, or the requirement to conduct data protection or privacy impact assessments.",
+        "Additionally, it lacks explicit references to data minimization principles.",
+        "These gaps highlight the need for stronger transparency provisions, mechanisms for informed consent, and effective enforcement measures to foster public trust and accountability."
+      ],
+      "key_stats": [],
+      "regulations": [
+        {
+          "name": "Information Act",
+          "year": "2009",
+          "status": "enacted"
+        },
+        {
+          "name": "Digital Security Act",
+          "year": "2018",
+          "status": "enacted"
+        },
+        {
+          "name": "National Artificial Intelligence Policy",
+          "year": "",
+          "status": "draft"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "While broader education policies, such as the National Education Policy (Government of Bangladesh, 2010), encourage increased female participation in education, they do not specifically address the digital gender divide.",
+        "The draft National AI Policy (Government of Bangladesh, 2024) and the Smart Bangladesh: ICT Master Plan 2041 (Government of Bangladesh, 2023b) acknowledge these inequalities.",
+        "Language inclusion is also a key consideration in AI development and innovation.",
+        "The scarcity of diversified datasets impedes effective AI system training in local languages.",
+        "Despite access to advanced tools like ChatGPT, output in Bengali remains suboptimal due to the limited availability of open-source datasets.",
+        "Data translation from English to Bengali often results in poor outcomes, negatively impacting model performance.",
+        "It has been working on several projects to increase the inclusion of Bengali in the AI landscape, and has developed solutions, such as a sentiment analyser,32 an optical character recognizer,33 a spell checker,34 a speech-to-text and a text-to-speech generator,35 etc.",
+        "It contains a vast repository of government information, and AI could be used to generate summaries from it."
+      ],
+      "strengths": [
+        "A collaborative approach between the government and mobile service providers, building on the regulatory framework established by the Bangladesh Telecommunication Act (Government of Bangladesh, 2001), may help address these disparities and ensure equitable access to affordable communication services",
+        "The comprehensive Rights and Protection of Persons with Disabilities Act (Government of Bangladesh, 2013a) is the foundational legislation that safeguards the rights of persons with disabilities.",
+        "While the draft policy provides a comprehensive overview of AI applications in environmental conservation, it places comparatively less emphasis on the environmental impact of and sustainability considerations around AI technologies themselves.",
+        "Equally critical is the development and enforcement of a comprehensive and robust data protection framework to ensure the safeguarding of personal health information.",
+        "Complementary initiatives such as the National Linguistics Olympiad launched by IMLI have proven effective in raising awareness and promoting engagement among younger speakers of minority languages, highlighting the potential of participatory approaches in revitalizing linguistic diversity."
+      ],
+      "gaps": [
+        "Social and cultural dimension Diversity, inclusion and equality As of June 2024, the gender gap in internet use in Bangladesh stood at 0.767.21 Despite gradual yet consistent progress in this regard since 2020, the number of male internet users remains higher than female users.",
+        "Gender differences persist across both regions: in urban areas, 71.3 per cent of men and 62.4 per cent of women use the internet, while in rural areas, 36.6 per cent of men and 23 per cent of women are reported users.22 A gender gap exists in education, too.",
+        "However, the National Information and Communication Technology (ICT) Policy (Government of Bangladesh, 2018b) references social equity and universal access (Chapter 2, ‘Visions and objectives’, Section 2.2.3).",
+        "Existing wage disparities in the ICT sector, including in entry-level roles such as data entry, highlight the need for policy interventions to promote equal pay and facilitate the upskilling of women, enabling them to transition into higher-value technological roles (Hossain, 2018).",
+        "Bangladesh does not have targeted policies to address rural-urban disparities; however, general references to socio-economic disparities in this context exist in various policy documents.",
+        "For example, limited access to devices in urban slum areas hindered residents’ ability to receive essential digital services, including mobile financial aid (Siddiquee et al., 2022).",
+        "By contrast, rural communities demonstrated resilience by relying on resource-sharing arrangements to overcome similar challenges.26 The lack of continuous, and reliable electricity poses a significant challenge, too.",
+        "Although previous digitalization initiatives, such as those rolled out under the Bangladesh Vision 2021 programme (Centre for Policy Dialogue, 2007), improved connectivity and literacy, gender, occupational and regional disparities persisted.",
+        "Currently, Bangladesh does not have dedicated policies to promote diversity within the digital workforce, and there are no requirements mandating government contractors, academia or technology firms to publicly disclose diversity statistics.",
+        "The Enhancement of Bangla Language in ICT through Research & Development (EBLICT) project,30 under the Bangladesh Computer Council31 and the ICT Division, is a notable initiative meant to address this gap."
+      ],
+      "key_stats": [
+        {
+          "stat": "09170\nInstitution",
+          "context": "h (value) 0.73744 0.65210 0.61180 0.78470 0.62319 0.34645 0.44444 0.35555 0.35117 0.07307 0.08108 0.09170 Institutional framework 0.75 0.5 0.25 0 Technology E-participation Content provision Service p"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "According to data from the Center for Security and Emerging Technology, there were 1,998 scholarly publications on AI in Bangladesh in 2021,45 an average of 0.000011 publications per capita.46 This represents a marked increase from 2013, when only 207 publications were recorded.",
+        "Notably, the number of publications more than tripled between 2018 and 2021, reflecting the country’s growing engagement with AI-related research and academic contributions to it over recent years.",
+        "Figure 9: Number of scholarly publications on AI in Bangladesh (2013 to 2021) Source: https://ourworldindata.org/grapher/annual-scholarly-publications-on-artificial-intelligence?tab=table 500 1000 1500 2000 0.0 2013 2014 2015 2017 2016 2019 2018 2021 2020 207 307 290 303 445 603 1071 1273 1998 ### P",
+        "Education Integration of digital tools and AI in education Bangladesh’s National Information and Communication Technology Policy aims to integrate digital tools in education by providing multimedia classrooms (Government of Bangladesh, 2018b).",
+        "The ICT Division’s Hour of Code programme encourages school students to dedicate one hour each day to learning coding skills,52 while UNICEF and the Directorate of Secondary and Higher Secondary Education have developed gamified learning content, currently being piloted in twenty-four schools.53 AI ",
+        "Government-led teacher-training programmes at the secondary and higher secondary levels provide basic digital literacy but do not include dedicated AI-specific tools or pedagogical applications.",
+        "Expanding these initiatives to include practical, AI-enabled teaching methods will be essential for building future-ready classrooms and enhancing digital competency among educators.",
+        "Teachers were confident about using AI for tasks like lesson planning and assessment, while being cautious about AI’s role in areas that require human interaction."
+      ],
+      "strengths": [
+        "Teachers recommended comprehensive training programmes, greater investment in infrastructure, and the development of culturally relevant AI tools to address these challenges effectively.",
+        "To foster creativity and innovation while ensuring responsible use, policy frameworks might consider reducing unnecessary restrictions while incorporating comprehensive ethical safeguards.",
+        "While AI, including its ethical dimensions, is largely absent from primary and secondary education curricula, notable progress has been made at the tertiary level.",
+        "In 2024, it launched a Digital Safety School,60 where security audits are performed and seminars and workshops are conducted."
+      ],
+      "gaps": [
+        "Bangladeshi engineers and scientists also contribute significantly on GitHub,48 although contributions towards AI repositories were not possible to measure.",
+        "However, implementing this vision across over 100,000 primary schools and 33,000 secondary schools poses significant logistical challenges.",
+        "Despite these hurdles, the concept of blended education has gained momentum, especially during the COVID-19 pandemic, and a framework is now in place to support its development.",
+        "• \u0007Noipunno ( )50 is another data framework designed to support teachers and students; however, it is not operational currently.",
+        "However, challenges persist, including infrastructural limitations, insufficient training opportunities, and concerns regarding online safety.",
+        "The Master Plan for ICT in Education in Bangladesh (2012-2021), although formulated prior to the advent of AI-specific policies, demonstrates the government’s intent to leverage digital tools for education, a precursor to AI-driven initiatives (Government of Bangladesh, 2019).",
+        "Additionally, specific guidelines on the ethical use of AI in education – such as clearly defined principles, codes of conduct or recommended practices – have not yet been officially communicated or widely disseminated (Hassan, 2023).",
+        "Every textbook includes a chapter on ICT safety, security and ethical use, but does not detail technical aspects like programming or database management.",
+        "When it comes to higher education, there is a gap between the technical and ethical aspects of AI education.",
+        "Existing ICT and AI curricula are predominantly oriented towards technical competencies, such as coding and machine learning, with limited emphasis on critical ethical considerations, including privacy protection, bias mitigation and algorithmic fairness."
+      ],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "In addition to secondary research, the RAM exercise also included qualitative data and insights in the form of seven focus group discussions (FGDs) and nineteen key informant interviews (KIIs).",
+        "ways to develop effective AI governance and a thriving AI ecosystem in Bangladesh to benefit everyone.",
+        "Further analysis of the AI ecosystem highlighted both challenges and opportunities that have been outlined in the sections below, along with potential ways to address the challenges identified.",
+        "Main AI actors in Bangladesh The ICT Division of the Ministry of Posts, Telecommunications and Information Technology primarily handles AI governance in Bangladesh.",
+        "Other key institutions, such as the Cabinet, and the Ministries of Law, Public Administration, and Home Affairs, are also involved as needed.",
+        "AI governance in Bangladesh Challenges • \u0007Erosion of trust in governance.",
+        "Current regulatory drafts have not involved academia, the private sector, CSOs and representatives from local communities sufficiently, leading to a lack of diverse perspectives and expertise in policy formulation.",
+        "While progress is being made, the absence of robust data protection and cybersecurity frameworks poses challenges to ensuring effective regulation and accountability."
+      ],
+      "strengths": [
+        "Findings from desk-based research complemented by these comprehensive stakeholder consultations informed the diagnosis of Bangladesh’s AI landscape as outlined in the preceding chapters.",
+        "a2i has successfully streamlined public service delivery in Bangladesh for many years through digital transformation and innovation.",
+        "It was launched in 2007 and is funded by the UNDP, the Gates Foundation and the Government of Bangladesh.",
+        "Opportunities • \u0007Development of comprehensive AI policies.",
+        "A multistakeholder steering committee can enhance collaboration between the government, academia, the private sector and local communities, leading to more comprehensive and inclusive AI policies.",
+        "Many institutions face budgetary limitations that hinder the development and implementation of comprehensive capacity-building initiatives.",
+        "\u0007Addressing infrastructure gaps Creating more comprehensive digital public infrastructure by overcoming silos and with a special focus on rural areas is vital to forming an enabling environment for AI development and investment throughout Bangladesh.",
+        "The AI policy should require human rights risk assessments for all high-risk AI systems, building on a comprehensive study of sensitive sectors for AI deployment, such as facial recognition in law enforcement and predictive analytics in healthcare.",
+        "The Personal Data Protection Ordinance should provide robust safeguards against unfiltered access to personal data for AI training, thus ensuring privacy, safety and dignity.",
+        "The Cyber Security Ordinance should consider current and emerging AI risks based on a comprehensive, evidence-led approach, while also ensuring accountability and accessible grievance redressal mechanisms."
+      ],
+      "gaps": [
+        "However, the RAM could not fully achieve gender balance among the consulted stakeholders.",
+        "• \u0007Need to strengthen data protection and cybersecurity measures.",
+        "• \u0007Lack of frameworks for procurement of AI systems.",
+        "• \u0007Need for an independent data protection and cybersecurity authority.",
+        "Bangladesh currently lacks a dedicated authority to oversee data protection and cybersecurity, which limits coordinated enforcement, accountability, and public confidence in these areas.",
+        "• \u0007Need for specialized institutions for AI.",
+        "There is a lack of dedicated multistakeholder institutions focused on AI, especially at local levels, to enhance capacity for localized research and data collection, and the development and implementation of local AI solutions.",
+        "There is need for greater awareness and understanding of AI technologies, including ethics, risks, data privacy and responsible AI, among government officials, the private sector and the public.",
+        "Various forms of digital divide in Bangladesh, where marginalized communities lack access to electricity, technology and internet, can limit their ability to benefit from AI advancements.",
+        "The gender gap in technology education, particularly in science, technology, engineering and mathematics (STEM) fields, is exacerbated by harassment and abuse in digital spaces, and poses a significant challenge to capacity-building efforts in technology and AI."
+      ],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Education Integration of digital tools and AI in education Bangladesh’s National Information and Communication Technology Policy aims to integrate digital tools in education by providing multimedia classrooms (Government of Bangladesh, 2018b).",
+        "While just over 40 per cent of primary schools had acc ### Recommendation 77.8: 79.1 79.1 2021 ### Recommendation 74.5: 76.9 76.9 2022 ### Recommendation 75.5: 77.8 77.8 Table 4: Percentage of schools with access to computers for pedagogical purposes Source: UNESCO Institute for Statistics (UIS) dyn",
+        "The ICT Division under the Ministry of Posts, Telecommunications and Information Technology played a vital role in coordinating regional stakeholder consultations and facilitating the data-gathering process for this AI Readiness Assessment.",
+        "AI-based tools and applications make our lives easier, smoother and richer.",
+        "But in its current form, AI reproduces and amplifies many of the social challenges we face.",
+        "Upstream, the AI industry is highly concentrated, with just a few countries and a dozen companies accounting for a major share of the sector.",
+        "Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children and young people, women or entire democracies.",
+        "We need capable governments that are well equipped, in terms of competencies, institutions and laws, to frame responsible AI development and protect the rule of law online; and public and private developers who are accountable for putting human rights and fundamental freedoms – not profits or geopol"
+      ],
+      "strengths": [
+        "Their insights during consultations were pivotal in articulating Bangladesh’s future priorities in the field of artificial intelligence and in shaping a comprehensive assessment of the country’s readiness in this domain.",
+        "Finally, we gratefully acknowledge generous financial support from the European Union, provided through the Directorate-General for International Partnership for the project titled Supporting Member States in Implementing UNESCO’s Recommendation on the Ethics of AI through Innovative Tools.",
+        "That is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted by 193 countries in 2021, to make sure AI delivers fair, sustainable and inclusive outcomes.",
+        "The forthcoming policy outlines a comprehensive implementation framework, emphasizing ethics, human rights, transparency and accountability in AI use.",
+        "In Bangladesh, the RAM was launched in November 2024 by the Information and Communication Technology (ICT) Division1 of the Ministry of Posts, Telecommunications and Information Technology and UNESCO in collaboration with Aspire to Innovate (a2i)2 and UNDP3.",
+        "• \u0007Bangladesh has an extensive Right to Information Act and has recently adopted the Personal Data Protection Ordinance, 2025.",
+        "• \u0007Develop comprehensive AI procurement policies."
+      ],
+      "gaps": [
+        "For example, limited access to devices in urban slum areas hindered residents’ ability to receive essential digital services, including mobile financial aid (Siddiquee et al., 2022).",
+        "Bangladeshi engineers and scientists also contribute significantly on GitHub,48 although contributions towards AI repositories were not possible to measure.",
+        "However, alignment with such internationally recognized protocols could boost the export of AI and digital technology products in the future.",
+        "It is not acceptable that around one-third of the world’s population still lacks adequate internet access.",
+        "The Recommendation also sets out concrete policy actions that governments can draw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which has been the norm until now, is insufficient.",
+        "Technical and infrastructural • \u0007While mobile phones are widespread (111 subscriptions per 100 inhabitants), only 44.50 per cent of Bangladesh’s population uses the internet, highlighting the need to expand coverage.",
+        "While the consultation brought together a diverse set of stakeholders, gender representation within the group was limited.",
+        "However, the draft is yet to be finalized.",
+        "The draft AI policy includes ten priority sectors; however, concrete steps towards its implementation remain to be initiated (Government of Bangladesh, 2024).",
+        "AI systems have not yet been incorporated fully into decision- making or public service delivery in Bangladesh; therefore, developing mechanisms for public communication and transparency remains a priority for future implementation."
+      ],
+      "key_stats": [
+        {
+          "stat": "28\n       INSTITUTION",
+          "context": "ENGAGEMENT PROCESS 28 MAIN AI ACTORS IN BANGLADESH 28 AI GOVERNANCE IN BANGLADESH 28 INSTITUTIONALIZING AI GOVERNANCE IN BANGLADESH 29 CREATING AI KNOWLEDGE AND COMPETENCIES IN BANGLADESH"
+        },
+        {
+          "stat": "35\n        INSTITUTION",
+          "context": "S IN BANGLADESH 30 CONCLUSION 30 CHAPTER 8: POLICY RECOMMENDATIONS 32 REGULATION 35 INSTITUTIONAL FRAMEWORK 38 CAPACITY BUILDING 41 REFERENCES 45 ### Page 7 v Foreword We have offici"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "However, alignment with such internationally recognized protocols could boost the export of AI and digital technology products in the future.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "To facilitate the practical application of these Recommendations, UNESCO has developed a Readiness Assessment Methodology (RAM) (UNESCO, 2023a).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In 2024, it launched a Digital Safety School,60 where security audits are performed and seminars and workshops are conducted.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The AI policy should also address concerns around discrimination in AI practices, accessibility, transparency and accountability, especially for AI systems deployed by the government.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The AI policy should require human rights risk assessments for all high-risk AI systems, building on a comprehensive study of sensitive sectors for AI deployment, such as facial recognition in law enforcement and predictive analytics in healthcare.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "These assessments must evaluate systems for proportionality, bias, fairness, security vulnerabilities, data privacy compliance and grievance redressal before they are deployed, and be supported by independent oversight to ensure transparency in algorithmic decision-making.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Beyond establishing a general data protection framework, there is an opportunity to strengthen the legislative environment around high-risk AI applications such as public facial recognition.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "It should also integrate provisions ensuring proactive disclosure of data on AI systems deployed by public authorities, including their purpose, scope and safeguards.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "AI Publications",
+      "value": 11,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "executive_summary": "ii\nTable of contents\nACKNOWLEDGEMENTS\t\ni\nFOREWORD\t\nv\nACRONYMS AND ABBREVIATIONS\t\nvii\nEXECUTIVE SUMMARY\t\n1\nCHAPTER 1: DIAGNOSIS OF THE NATIONAL AI LANDSCAPE\t\n4\nCHAPTER 2: LEGAL AND REGULATORY DIMENSION\t\n5\n        AI POLICY AND REGULATION\t\n5\n        DATA PROTECTION AND PRIVACY LAWS\t\n6\n        DATA SHARING AND ACCESSIBILITY\t\n8\n        PROCUREMENT LAWS AND POLICIES\t\n9\n        FREEDOM OF INFORMATION ACTS/ACCESS TO KNOWLEDGE ACTS\t\n9\n DUE PROCESS AND ACCOUNTABILITY, ONLINE SAFETY AND INTEGRITY OF SPEECH\t 10\n        PUBLIC SECTOR CAPACITY\t\n10\nCHAPTER 3: SOCIAL AND CULTURAL DIMENSION\t\n11\n        DIVERSITY, INCLUSION AND EQUALITY\t\n11\n        PUBLIC ENGAGEMENT AND TRUST\t\n14\n        ENVIRONMENTAL AND SUSTAINABILITY POLICIES\t\n16\n        HEALTH AND SOCIAL WELL-BEING\t\n16\n        CULTURE\t\n17\nCHAPTER 4: SCIENTIFIC AND EDUCATIONAL DIMENSION\t\n18\n        RESEARCH AND INNOVATION\t\n18\n        EDUCATION\t\n19\nCHAPTER 5: ECONOMIC DIMENSION\t\n24\n        LABOUR MARKETS\t\n24\n        INVESTMENTS AND OUTPUT\t\n24\n\niii\nCHAPTER 6: TECHNICAL AND INFRASTRUCTURAL DIMENSION\t\n25\n        INFRASTRUCTURE AND CONNECTIVITY\t\n25\n        APPLIED STANDARDS\t\n26\n        COMPUTING CAPABILITIES\t\n26\n        STATISTICAL PERFORMANCE\t\n27\nCHAPTER 7: DEVELOPING A NATIONAL MULTISTAKEHOLDER ROADMAP\t 28\n       OVERVIEW OF THE STAKEHOLDER ENGAGEMENT PROCESS\t\n28\n       MAIN AI ACTORS IN BANGLADESH\t\n28\n       AI GOVERNANCE IN BANGLADESH\t\n28\n       INSTITUTIONALIZING AI GOVERNANCE IN BANGLADESH\t\n29\n       CREATING AI KNOWLEDGE AND COMPETENCIES IN BANGLADESH\t\n30\n       CONCLUSION\t\n30\nCHAPTER 8: POLICY RECOMMENDATIONS\t\n32\n        REGULATION\t\n35\n        INSTITUTIONAL FRAMEWORK\t\n38\n        CAPACITY BUILDING\t\n41\nREFERENCES\t\n45\n\nv\nForeword\nWe have officially entered the Age of Artificial Intelligence. \nThe world is now set to change at a pace not seen in decades, \neven centuries. AI-based tools and applications make our lives \neasier, smoother and richer. They help us move efficiently, get \ninformed, get credit, get a job or get our taxes done.\nBut in its current form, AI reproduces and amplifies many of \nthe social challenges we face. It is not acceptable that around \none-third of the world’s population still lacks adequate internet \naccess. Upstream, the AI industry is highly concentrated, with \njust a few countries and a dozen companies accounting for a \nmajor share of the sector. This can only lead to greater inequality \nof outcomes – including gender disparities – downstream. \nNon-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, \nparticularly to those who are already vulnerable, whether companies or individuals, children and \nyoung people, women or entire democracies.\nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was \nadopted by 193 countries in 2021, to make sure AI delivers fair, sustainable and inclusive outcomes. \nThe Recommendation is based on the protection and promotion of human rights, human dignity \nand environmental sustainability, and these values are then translated into principles such as \naccountability, transparency and privacy. The Recommendation also sets out concrete policy actions \nthat governments can draw on to steer technological developments in a responsible direction, \npremised on the belief that light-touch regulation, which has been the norm until now, is insufficient. \nWe need capable governments that are well equipped, in terms of competencies, institutions and \nlaws, to frame responsible AI development and protect the rule of law online; and public and private \ndevelopers who are accountable for putting human rights and fundamental freedoms – not profits or \ngeopolitical considerations – first.\nThe Readiness Assessment Methodology (RAM) is a diagnostic tool intended to assist Member States \nin upholding their commitment to the Recommendation by helping them understand how prepared \nthey are to implement AI ethically and responsibly for all their citizens. By highlighting any institutional, \nregulatory or data gaps and obstacles, it enables UNESCO to tailor support for governments to fill \nthose gaps to ensure an ethical AI ecosystem aligned with the Recommendation.\nBangladesh’s readiness assessment reflects a nation actively laying the foundations for responsible \nand inclusive AI development. A draft National AI Policy is currently under review, seeking to build on \nthe principles of UNESCO’s Recommendation on the Ethics of Artificial Intelligence. The forthcoming \npolicy outlines a comprehensive implementation framework, emphasizing ethics, human rights, \ntransparency and accountability in AI use. It also seeks to clarify institutional responsibilities and \ncoordination mechanisms across ministries, academia and industry to ensure cohesive governance. \nIn parallel, recent initiatives such as the Personal Data Protection Ordinance and the Cyber Security \nOrdinance aim to establish a complementary legal framework for data governance and digital security, \n",
+  "recommendations": [
+    {
+      "number": "10.0",
+      "title": "20.0",
+      "text": "20.0",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "30.0",
+      "title": "40.0",
+      "text": "40.0",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "50.0",
+      "title": "60.0",
+      "text": "60.0",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "70.0",
+      "title": "80.0",
+      "text": "80.0",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.0",
+      "title": "Urban areas",
+      "text": "Urban areas",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "71.3",
+      "title": "62.4",
+      "text": "62.4 Rural areas",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "36.6",
+      "title": "23.0",
+      "text": "23.0 Men Women 12 23 \u0007https://herpower.gov.bd 24 \u0007https://lged.portal.gov.bd/sites/default/files/files/lged.portal.gov.bd/page/184c146e_dde0_485c_9c05_930b771411bd/2023-06- 17-09-31-2095884d23bd34b76e1290a7b628d886.pdf 25 \u0007https://en.banglapress24.com/article/my-village-my-town-big-promises-small-delivery Figure 3: Graduates of tertiary education programmes in STEM fields by gender, 2021 (in percentage) Source: World Economic Forum, 2021 Currently, Bangladesh does not have specific laws or policies aimed at reducing the digital gender gap. However, the National Information and Communication Technology (ICT) Policy (Government of Bangladesh, 2018b) references social equity and universal access (Chapter 2, ‘Visions and objectives’, Section 2.2.3). One notable initiative towards gender equity is the Her Power project, or (women’s empowerment through technology) initiated by the ICT Division.23 This project offers women-focused training in ICT fields, including e-commerce, information technology (IT) services, web development and graphic design. Existing wage disparities in the ICT sector, including in entry-level roles such as data entry, highlight the need for policy interventions to promote equal pay and facilitate the upskilling of women, enabling them to transition into higher-value technological roles (Hossain, 2018). While broader education policies, such as the National Education Policy (Government of Bangladesh, 2010), encourage increased female participation in education, they do not specifically address the digital gender divide. Bangladesh does not have targeted policies to address rural-urban disparities; however, general references to socio-economic disparities in this context exist in various policy documents. The draft National AI Policy (Government of Bangladesh, 2024) and the Smart Bangladesh: ICT Master Plan 2041 (Government of Bangladesh, 2023b) acknowledge these inequalities. The previous government’s manifesto included a My Village-My Town initiati",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.5",
+      "title": "5.0",
+      "text": "5.0",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "7.5",
+      "title": "10.0",
+      "text": "10.0",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "12.5",
+      "title": "0.0",
+      "text": "0.0 Men",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "12.39",
+      "title": "Women",
+      "text": "Women",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "8.24",
+      "title": "13",
+      "text": "13 While Bangladesh has benefited from previous digitalization initiatives, which proved particularly valuable during the COVID-19 pandemic (a2i, 2023), the pandemic also exposed a significant digital divide. For example, limited access to devices in urban slum areas hindered residents’ ability to receive essential digital services, including mobile financial aid (Siddiquee et al., 2022). By contrast, rural communities demonstrated resilience by relying on resource-sharing arrangements to overcome similar challenges.26 The lack of continuous, and reliable electricity poses a significant challenge, too. While almost 100 per cent of Bangladesh’s population has access to electricity,27 power cuts are an issue (Varadhan and Chew, 2023), especially in rural areas, where daily interruptions can extend to seven or eight hours. These disparities are even more pronounced in geographically and administratively complex regions, such as the Chittagong Hill Tracts, where transportation difficulties and dual administrative systems often result in confusion regarding service delivery channels. Although previous digitalization initiatives, such as those rolled out under the Bangladesh Vision 2021 programme (Centre for Policy Dialogue, 2007), improved connectivity and literacy, gender, occupational and regional disparities persisted. For instance, garment workers, despite having smartphones, faced language barriers and lacked the time and resources to engage meaningfully with digital technologies.28 Similarly, communities in marginalized regions, including tea gardens, had limited internet access, leaving them disconnected from broader digital advancements.29 There are additional challenges associated with disparities in the cost of communication between urban and rural areas, where marginalized populations often incur higher expenses (Hasan, 2025). A collaborative approach between the government and mobile service providers, building on the regulatory framework established by the B",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.0",
+      "title": "2013",
+      "text": "2013 2014 2015 2016 2017 2018 2019 2020 2021 2023 2022 Number of days with power cuts 14 30 \u0007https://bcc.gov.bd/site/page/6a8cfbab-51b4-4d90-922c-c63e5cc1f541/- 31 \u0007https://bcc.gov.bd/ 32 \u0007https://sentiment.bangla.gov.bd/sentiment-emotion-analysis 33 \u0007https://ocr.bangla.gov.bd 34 \u0007https://spell.bangla.gov.bd/ 35 \u0007https://read.bangla.gov.bd/ 36 \u0007https://imli.gov.bd/ 37 \u0007For a list of indigenous languages in Bangladesh, see: https://www.ethnologue.com/country/BD/ 38 \u0007https://a2i.gov.bd/bangladeshs-phygital-public-infrastructure-bridges-dpi-theory-and-practice/ 39 \u0007https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/14-Bangladesh In the context of diversity, the draft National AI Policy mentions workforce diversity, but it does not provide detailed provisions (Government of Bangladesh, 2024). Currently, Bangladesh does not have dedicated policies to promote diversity within the digital workforce, and there are no requirements mandating government contractors, academia or technology firms to publicly disclose diversity statistics. Language inclusion is also a key consideration in AI development and innovation. The scarcity of diversified datasets impedes effective AI system training in local languages. Despite access to advanced tools like ChatGPT, output in Bengali remains suboptimal due to the limited availability of open-source datasets. Data translation from English to Bengali often results in poor outcomes, negatively impacting model performance. The Enhancement of Bangla Language in ICT through Research & Development (EBLICT) project,30 under the Bangladesh Computer Council31 and the ICT Division, is a notable initiative meant to address this gap. It has been working on several projects to increase the inclusion of Bengali in the AI landscape, and has developed solutions, such as a sentiment analyser,32 an optical character recognizer,33 a spell checker,34 a speech-to-text and a text-to-speech generator,35 etc. These solutions are availabl",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.65210",
+      "title": "0.61180",
+      "text": "0.61180",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.78470",
+      "title": "0.62319",
+      "text": "0.62319",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.34645",
+      "title": "0.44444",
+      "text": "0.44444",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.35555",
+      "title": "0.35117",
+      "text": "0.35117",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.07307",
+      "title": "0.08108",
+      "text": "0.08108",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.09170",
+      "title": "Institutional",
+      "text": "Institutional framework",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.75",
+      "title": "0.5",
+      "text": "0.5",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.25",
+      "title": "0",
+      "text": "0 Technology E-participation Content provision Service provision",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.2",
+      "title": "0.4",
+      "text": "0.4",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.6",
+      "title": "0.8",
+      "text": "0.8 1 Institutional framework Service provision Content provision E-participation Technology World average Region average Sub-region average",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.9200",
+      "title": "0.7470",
+      "text": "0.7470",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.6667",
+      "title": "0.6164",
+      "text": "0.6164",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.8750",
+      "title": "Figure 5-8: Bangladesh’s performance in the OSI",
+      "text": "Figure 5-8: Bangladesh’s performance in the OSI",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.1",
+      "title": "0.2",
+      "text": "0.2",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.3",
+      "title": "0.4",
+      "text": "0.4",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.6",
+      "title": "0.7",
+      "text": "0.7",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.8",
+      "title": "0.9",
+      "text": "0.9 1",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.5",
+      "title": "0",
+      "text": "0 Region leader: Republic of Korea World leader: Republic of Korea Sub-region leader: India Bangladesh",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.7374",
+      "title": "1.0000",
+      "text": "1.0000",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.0000",
+      "title": "0.8184",
+      "text": "0.8184 World average Region average Sub-region average Online Service Index 16 The E-Participation Index, a supplementary index to the EGDI, assesses the availability and effectiveness of e-participation mechanisms, including e-information, e-consultation and e-decision- making, offered by governments relative to each other.40 Bangladesh ranked 70th of 193 countries in the E-Participation Index of 2024, scoring 0.6164.41 The world average is 0.4893 and the highest possible score is 1. Bangladesh ranked 8th of 100 countries in ‘trust in government websites and apps’ as per the Economist Impact’s Inclusive Internet Index 2022, with a score of 72 per cent.42 It is noteworthy, however, that this score may not fully reflect recent political developments in Bangladesh nor the perspectives gathered during stakeholder consultations, which indicated a degree of eroded trust in the previous administration. As an example, the e-Nothi system is Bangladesh’s one-stop electronic filing platform designed to streamline government operations, promote paperless offices, and ensure faster, more transparent and accountable public service delivery for its 160 million citizens (Yesmin, 2020). It contains a vast repository of government information, and AI could be used to generate summaries from it. Environmental and sustainability policies The draft National AI Policy 2024 identifies the environment as a priority sector for AI application. Specifically, Section 4.4 (‘Environment, energy, and climate change’) underscores the potential role of AI in optimizing renewable energy production, enhancing weather forecasting capabilities and improving water resource management (Government of Bangladesh, 2024). While the draft policy provides a comprehensive overview of AI applications in environmental conservation, it places comparatively less emphasis on the environmental impact of and sustainability considerations around AI technologies themselves. Addressing this gap may involve the developme",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.0",
+      "title": "2013",
+      "text": "2013 2014 2015 2017 2016 2019 2018 2021 2020 207 307 290 303 445 603 1071 1273 1998 19 47 \u0007Personal research by co-author. 48 \u0007https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/bangladesh.md 49 \u0007https://www.teachers.gov.bd/ 50 \u0007https://dme.portal.gov.bd/sites/default/files/files/dme.portal.gov.bd/notices/a0c7fd36_216c_4a4f_a341_7a1fc241858c/2nd_Noiounno%20 App%20Web%20Version_User%20guideline%20(1).pdf 51 \u0007https://www.undp.org/bangladesh/stories/kishore-batayan-konnect-becomes-students-way-out-during-pandemic 52 \u0007https://file-rangpur.portal.gov.bd/uploads/c18c0a17-a73f-456f-8e66-11fb8d20103c//65b/e69/922/65be699227414967104915.pdf 53 \u0007https://changeagentbd.com/ Scholarly excellence in AI may also be gauged from performance in Kaggle, a data science competition platform and online community for data scientists and machine learning practitioners. Bangladesh has one double Kaggle grandmaster and one Kaggle grandmaster, both based in Dhaka, in addition to a Kaggle grandmaster of Bangladeshi nationality based in the USA,47 all of whom are male. There are",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.00000001",
+      "title": "Kaggle grandmasters in Bangladesh per capita (excluding those based abroad).",
+      "text": "Kaggle grandmasters in Bangladesh per capita (excluding those based abroad). Bangladeshi engineers and scientists also contribute significantly on GitHub,48 although contributions towards AI repositories were not possible to measure. Education Integration of digital tools and AI in education Bangladesh’s National Information and Communication Technology Policy aims to integrate digital tools in education by providing multimedia classrooms (Government of Bangladesh, 2018b). However, implementing this vision across over 100,000 primary schools and 33,000 secondary schools poses significant logistical challenges. Despite these hurdles, the concept of blended education has gained momentum, especially during the COVID-19 pandemic, and a framework is now in place to support its development. The previous government introduced several platforms or applications aimed at enhancing educational access and efficiency. These include: • \u0007Teachers’ Portal ( )49 is an online platform for teachers designed to create and retrieve digital educational content for different subjects for classroom teaching. • \u0007Dikkha ( ) is an initiative that integrates digital and multimedia classroom solutions, establishing an effective network that connects teachers and students across the country. • \u0007Noipunno ( )50 is another data framework designed to support teachers and students; however, it is not operational currently. • \u0007Kishor Batayon ( )51 helps students manage their classes and coursework. The ICT Division’s Hour of Code programme encourages school students to dedicate one hour each day to learning coding skills,52 while UNICEF and the Directorate of Secondary and Higher Secondary Education have developed gamified learning content, currently being piloted in twenty-four schools.53 AI integration into the country’s education system remains in its early stages, with significant potential for expansion. Government-led teacher-training programmes at the secondary and higher secondary levels provi",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "49.3",
+      "title": "2021",
+      "text": "2021",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "49.3",
+      "title": "Year",
+      "text": "Year Lower secondary schools Secondary schools 2017",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "32.4",
+      "title": "35.2",
+      "text": "35.2 2018",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "34.2",
+      "title": "36.2",
+      "text": "36.2 2019",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "37.6",
+      "title": "37.6",
+      "text": "37.6 2020",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "38.3",
+      "title": "41.5",
+      "text": "41.5 2021",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "51.9",
+      "title": "52.2",
+      "text": "52.2 2022",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "53.1",
+      "title": "53.3",
+      "text": "53.3 Table 1: Percentage of primary schools with access to the internet for pedagogical purposes Table 2: Percentage of schools with access to the internet for pedagogical purposes Source: UNESCO Institute for Statistics (UIS) dynamic template based on data provided by country Source: UNESCO Institute for Statistics (UIS) dynamic template based on data provided by country 22 Year Percentage 2020",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "41.7",
+      "title": "2021",
+      "text": "2021",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "41.7",
+      "title": "Table 3: Percentage of primary schools with access to computers for pedagogical purposes",
+      "text": "Table 3: Percentage of primary schools with access to computers for pedagogical purposes Source: UNESCO Institute for Statistics (UIS) dynamic template based on data provided by country The tables below show the proportions of primary, lower secondary and secondary schools with access to computers for pedagogical purposes. This indicator is calculated as part of the UN SDG indicator 4.a.1: Proportion of schools with access to basic services. While just over 40 per cent of primary schools had access to computers, this figure was much higher, over three-quarters, for secondary schools. However, it is concerning that the percentage for secondary schools has declined slightly over the years.57 AI in educational curricula In Bangladesh, education plans and programmes, which include ICT education, exist for primary (Directorate of Primary Education, 2019), secondary58 and higher secondary levels.59 Since 2010, The National Education Policy includes policies on ICT education at primary, secondary, higher secondary and tertiary levels (Chapter 12), but does not mention specific technical or ethical aspects of such education (Government of Bangladesh, 2010). The secondary education curriculum introduces a course on ICT at every level from Grade 6 to Grade 12 (National Curriculum and Textbook Board, 2012: Section 5.2). Every textbook includes a chapter on ICT safety, security and ethical use, but does not detail technical aspects like programming or database management. • \u0007Grade 6 > Chapter 3: The safe use of Information and Communication Technology (National Curriculum and Textbook Board, 2017a) • \u0007Grade 7 > Chapter 3: Safe and ethical use (National Curriculum and Textbook Board, 2017b) • \u0007Grade 8 > Chapter 3: Safe and ethical use of Information and Communication Technology (National Curriculum and Textbook Board, 2017c) • \u0007Grade 9-10 > Chapter 2: Computer and security of the user (National Curriculum and Textbook Board, 2017d) Year Lower secondary schools Secondary schools ",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "77.8",
+      "title": "79.1",
+      "text": "79.1 2021",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "74.5",
+      "title": "76.9",
+      "text": "76.9 2022",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "75.5",
+      "title": "77.8",
+      "text": "77.8 Table 4: Percentage of schools with access to computers for pedagogical purposes Source: UNESCO Institute for Statistics (UIS) dynamic template based on data provided by country 57 \u0007UNESCO Institute for Statistics (UIS) dynamic template based on data provided by country. 58 \u0007https://shed.portal.gov.bd/site/page/db678016-cb3e-498c-844a-2a0290a67ec5 59 \u0007https://shed.portal.gov.bd/site/page/db678016-cb3e-498c-844a-2a0290a67ec5 23 Though rudimentary, this indicates the commitment of the Ministry of Education and associated stakeholders to promoting the ethical use of digital technologies within curricula development and implementation. Besides these institutionalized courses, the Digital Security Agency of the ICT Division offers a course on cybersecurity and usage of digital tools for secondary and higher secondary students. When it comes to higher education, there is a gap between the technical and ethical aspects of AI education. Existing ICT and AI curricula are predominantly oriented towards technical competencies, such as coding and machine learning, with limited emphasis on critical ethical considerations, including privacy protection, bias mitigation and algorithmic fairness. Furthermore, soft skills relevant to ethical AI practices – such as responsible data use – are not yet systematically integrated into educational frameworks, though they are essential for fostering responsible AI development and deployment. While AI, including its ethical dimensions, is largely absent from primary and secondary education curricula, notable progress has been made at the tertiary level. Universities have begun incorporating foundational AI tools into curricula across disciplines. Alongside, teacher-training programmes for secondary and higher secondary educators employ blended learning models that create opportunities for future AI integration. Nevertheless, a stronger focus on embedding the ethical aspects of AI in curricula, alongside efforts to bridge existing gaps in",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "0.07",
+      "title": "per cent.70",
+      "text": "per cent.70 Similarly, the proportion of the population covered by a 3G mobile network, at least, aligns with the UN SDG indicator 9.c.1: Proportion of population covered by a mobile network, by technology (per cent). In 2022, approximately 98.5 per cent of Bangladesh’s population had access to at least a 3G mobile network, demonstrating extensive mobile connectivity across the country.71 Figure 10: Prevalence of telecommunication subscriptions in Bangladesh, 2023 (in percentage) Source: International Telecommunication Union 66 \u0007https://datahub.itu.int/dashboards/?id=2&e=BGD 67 \u0007https://datahub.itu.int/data/?e=BGD 68 \u0007https://datahub.itu.int/data/?e=BGD&i=242 69 \u0007https://www.speedtest.net/global-index 70 \u0007https://www.itu.int/en/ITU-D/Statistics/Pages/SDGs-ITU-ICT-indicators.aspx 71 \u0007https://www.itu.int/en/ITU-D/Statistics/Pages/SDGs-ITU-ICT-indicators.aspx 25 50 75 100 125 0 Mobile-cellular subscriptions 111 Fixed broadband subscriptions",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "7.51",
+      "title": "Active mobile",
+      "text": "Active mobile broadband subscriptions",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "57.8",
+      "title": "26",
+      "text": "26 According to the World Bank, 99.4 per cent of the population of Bangladesh had access to electricity in 2022.72 However, it must be noted, as mentioned above, that rural areas are especially affected by frequent power outages. According to Economist Impact, Bangladesh recorded a gender gap of 13.2 per cent in internet access and 18.6 per cent in mobile phone access in 2022, indicating notable disparities in digital connectivity between men and women.73 The Mobile Gender Gap Report 2024 records different numbers, as shown in Table 5 (GSMA, 2024): In 2023, according to the ITU, 63.1 per cent of urban households had internet access at home but only",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "37.1",
+      "title": "per cent of rural households.74",
+      "text": "per cent of rural households.74 Applied standards Currently, there is no standardized protocol in Bangladesh for AI and digital technologies, such as ISO/ IEC or IEEE7000, for either technical or ethical dimensions. Domestic products are not currently subject to mandatory standardization. However, alignment with such internationally recognized protocols could boost the export of AI and digital technology products in the future. Computing capabilities There are ten data centres in Bangladesh, seven in Dhaka, one in Jashore, one in Gazipur, and one in Chittagong.75 According to The Global Cloud Ecosystem Index 2022, Bangladesh’s score for ‘Colocation data centres per million population, 2020’ is 1.1, with 1 being the lowest value and 10 the highest. This means that Bangladesh is ranked at 73 out of the 76 countries covered by the study.76 Bangladesh has an extensive Cloud Computing Policy 202077 that outlines deployment and service models, tenancy, etc. According to the policy, Bangladesh has restrictive cloud computing regulations to protect sensitive data, prohibiting such data from being stored in foreign cloud systems. The policy specifically refers to the Government of Bangladesh Information Security Manual (GoBISM)78 as the 72 \u0007https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS 73 \u0007https://impact.economist.com/projects/inclusive-internet-index/2022 74 \u0007https://datahub.itu.int/data/?e=BGD 75 \u0007https://www.datacenters.com/locations/bangladesh 76 \u0007https://docs.google.com/spreadsheets/d/1DjUfsihHolE806qLFYqCu-FAHrPWNYX1NYYjs73FXp8/edit?gid=288419984#gid=288419984 Spreadsheet extracted from the Global Cloud Ecosystem Index 2022 report: https://www.technologyreview.com/2022/04/25/1051115/ global-cloud-ecosystem-index-2022/ 77 \u0007https://ictd.portal.gov.bd/sites/default/files/files/ictd.portal.gov.bd/page/6c9773a2_7556_4395_bbec_f132b9d819f0/not hi_10314_2021_07_30_51627641820.pdf 78 \u0007https://bcc.gov.bd/sites/default/files/files/bcc.portal.gov.bd/publications/7ac8d822_08",
+      "dimension": "",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 52,
+  "page_count": 60,
+  "rankings_indices": [
+    {
+      "context": "Data sharing and accessibility In 2022, Bangladesh had an overall score of 40 (out of 100) in the Open Data Inventory (ODIN) by Open Data Watch and was ranked 140th of 195 countries.10 Similarly, the Global Data Barometer – which assesses data governance, capability and availability, as well as the use and impact of data for the public good – gave Bangladesh a score of 24, compared to a global average of 34.",
+      "index_name": "Open Data Inventory",
+      "rank": 140,
+      "score": 40.0,
+      "total_countries": 195,
+      "year": 2022
+    },
+    {
+      "context": "Public engagement and trust The Online Service Index (OSI), within the United Nations E-Government Development Index (EGDI), assesses the scope, quality and accessibility of online services delivered by governments worldwide, with a maximum attainable score of 1.0.",
+      "index_name": "Online Service Index",
+      "score": 1.0
+    },
+    {
+      "context": "Bangladesh’s performance in this area has improved steadily over time, progressing substantially from a score of 0.00917 when the OSI took its first measurements in 2003.39 In 2024, Bangladesh received a score of 0.7374, significantly above the global average of 0.5754.",
+      "index_name": "OSI",
+      "score": 0.00917,
+      "year": 2024
+    },
+    {
+      "context": "Bangladesh ranked 8th of 100 countries in ‘trust in government websites and apps’ as per the Economist Impact’s Inclusive Internet Index 2022, with a score of 72 per cent.42 It is noteworthy, however, that this score may not fully reflect recent political developments in Bangladesh nor the perspectives gathered during stakeholder consultations, which indicated a degree of eroded trust in the previous administration.",
+      "index_name": "Inclusive Internet Index",
+      "rank": 8,
+      "score": 72.0,
+      "total_countries": 100,
+      "year": 2022
+    }
+  ]
+}

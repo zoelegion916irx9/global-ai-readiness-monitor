@@ -1,0 +1,354 @@
+{
+  "country_code": "BW",
+  "country_name": "BOTSWANA",
+  "language": "en",
+  "metadata": {
+    "page_count": 47,
+    "creation_date": "D:20251030110214+01'00'",
+    "modification_date": "D:20251030110214+01'00'",
+    "country_name": "BOTSWANA",
+    "language": "en"
+  },
+  "chapters": [
+    {
+      "chapter": 2,
+      "title": "of Botswana’s (1966) constitution, titled Protection of Fundamental Rights and Freedoms",
+      "start_page": 22
+    }
+  ],
+  "dimensions": {
+    "Legal and Regulatory": {
+      "chapter": 2,
+      "title": "of Botswana’s (1966) constitution, titled Protection of Fundamental Rights and Freedoms",
+      "start_page": 22
+    }
+  },
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Legal and regulatory This section elaborates on the legal and regulatory dimension that is key to addressing the Member States’ capacities to implement recommendations on the ethics of AI.",
+        "AI regulatory frameworks serve to determine the ethical deployment of AI technologies and to allow for effective protection and monitoring of possible adversity related to the deployment and use of AI, for instance through data protection and privacy laws, and the regulation of data sharing and acce",
+        "There are key policies such as the Maitlamo National ICT Policy that sets a roadmap for economic, social, cultural, and political transformation through effective use of ICTs as well as a digital strategy known as SmartBots designed to accelerate digital transformation across the economy, government",
+        "Botswana’s legislative framework, including the 2024 Data Protection Act, has made important strides, but there are still key challenges when it comes to fully regulating and supporting artificial intelligence (AI).",
+        "The Data Protection Act is currently the predominant legislation that has an impact on AI regulation.",
+        "Additionally, there are ongoing negotiations to partner with European donors in Estonia to develop a national AI strategy.",
+        "The development of the strategy is aimed at positioning Botswana as a hub in the development and adoption of AI, considering the ethical aspects of AI.",
+        "There is thus a risk of viewing AI as a secondary concern, causing further delays in addressing critical issues like ethics, transparency, and accountability in AI systems."
+      ],
+      "strengths": [
+        "The policy, which is now at an advanced stage, aims to establish clear rules and guidelines for the ethical use of AI in Botswana.",
+        "The Government of the Republic of Botswana is at an advanced stage in the development of a national Open Science Open Data policy, which is currently going through the necessary national policy development process.",
+        "In addition, Botswana has not adopted any law or policy regarding the impact of AI on social media regarding transparency, misinformation, disinformation, and hate speech.",
+        "The non-profit organization Cybersmart Botswana, in collaboration with BOCRA, MCKT (now MCI), and the Botswana National Library Services, launched a digital literacy programme called eBotho Digital Literacy, intending to equip citizens with skills and knowledge to navigate the digital world."
+      ],
+      "gaps": [
+        "AI policy and regulation Botswana does not have a standalone AI strategy but has digital strategies and policies that have an indirect impact on the deployment and use of AI.",
+        "However, the Ministry of Communication and Innovation (MCI) in collaboration with BITRI and other stakeholders, has embarked on a journey to develop the national AI policy.",
+        "Although Botswana does not have an independent binding AI regulation or ‘soft law’, there are existing regulations that may have an indirect impact on AI deployment and use, such as the Public Procurement and Asset Disposal Act 2001, the Electronic Communications and Transactions Act 2014, the Elect",
+        "There are several barriers to enacting the binding AI regulations in Botswana, as suggested by the national stakeholder team, namely: AI governance not being identified as a policy imperative A major challenge is that AI governance is not currently prioritized as a key policy issue.",
+        "Important broader digital transformation strategies, such as the SmartBots initiative and other infrastructure development efforts, while important for overall technological growth, have overshadowed the urgent need to develop specific AI governance frameworks.",
+        "Although there are some efforts to engage them, there remains an overall lack of involvement from the private sector, meaning that AI regulations may not adequately reflect the realities of AI deployment in industries.",
+        "This slow legislative response results in outdated regulations that fail to address new challenges posed by AI, such as ethical concerns in automated decision making and the need for transparency in AI algorithms.",
+        "Insufficient exchange with experts, such as technology lawyers There is furthermore an insufficient exchange between policymakers and AI experts, particularly technology lawyers.",
+        "This lack of expert consultation leads to regulations that may not fully consider the complexities of AI ethics, intellectual property, and liability.",
+        "The penal code does not stipulate any responsibility for online intermediaries."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranked 121st\nout of",
+          "context": "ta aligns with international standards for openness. According to ODIN by Open Data Watch, Botswana ranked 121st out of 198 countries globally in 2024 with an overall score of 50 in data coverage and "
+        },
+        {
+          "stat": "ranks 3rd out of",
+          "context": "obally in 2024 with an overall score of 50 in data coverage and openness. Additionally, the country ranks 3rd out of 5 countries in Southern Africa in both data coverage and openness. This indicates t"
+        }
+      ],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Social and cultural Accounting for social and cultural dimensions is instrumental in ensuring the development and deployment of AI, reflecting inclusiveness and diversity, including societal attitudes towards AI technologies and their acceptance.",
+        "This section speaks to social values and preferences that may lead to certain attitudes towards AI technology.",
+        "Environmental impacts of AI will also be addressed.",
+        "In 2019, household-level data showed 49.9 per cent access in urban areas, compared with 27.9 per cent in rural areas, highlighting a persistent urban/rural divide.",
+        "Additionally, a national environmental, social, and governance (ESG) strategy is currently under development, with AI to be included as one of its components.",
+        "According to the Botswana Health Data Collaborative Roadmap, seven strategic key pillars have been identified to improve e-health in Botswana: 1.",
+        "Strengthening the Ministry of Health and Wellness’ (MoHW) capacity to generate, disseminate, secure, store, and use health information for evidence-based planning at all levels and policy direction.",
+        "Establishing an institutional/organizational arrangement that will harmonize and link all the data management units, with the aim of reducing the duplication and wastage of data, and maximizing its effective use through prompt reporting and feedback."
+      ],
+      "strengths": [
+        "Developing world-class healthcare services through technologically advanced and innovative healthcare ### Page 27 23 delivery systems.",
+        "It has been identified under Strategic Pillar 6: Legislation, Policy, and Compliance, that by the end of 2023, a regulatory framework for e-health will be established and functional.",
+        "In addition, the Ministry of Health and Wellness also launched an initiative to digitalize health services in the country with a mandate to improve interoperability and sharing of information across the health sector."
+      ],
+      "gaps": [
+        "However, more detailed gender-specific data on telecommunication infrastructure and internet connectivity in Botswana is not readily available.",
+        "Figure 3: Internet Gender Gap Source: Digital Gender Gaps https://www.digitalgendergaps.org/ There is, however, a significant disparity in internet access between people living in rural areas and those in urban areas.",
+        "Statistics show a disparity in the gender gap among graduates in the STEM field.",
+        "Women made up less than 30 per cent of STEM graduates in 2021, reflecting a persistent gender gap with fewer women graduating than men.",
+        "Although there is a significant increase in the number of women in the ICT industry, the sector remains male dominated.",
+        "To address the digital gender gap, Botswana has implemented several initiatives, including the SmartBots Lab’s ‘Inclusive Connectivity’ programme, which aims to expand equitable access to digital tools.",
+        "A non-governmental organization called Boseja Girls, supported by the Girls Opportunity Alliance, has a mandate to close the gender gap in STEM by offering digital literacy training to young girls in Botswana.",
+        "However, these laws fail to address the impact of AI on the environment and sustainability.",
+        "• Improving Batswana’s access to health services and information: given the lack of availability to basic healthcare information (particularly in relation to HIV/AIDS), this kind of information is meant to be incorporated into an e-Government portal.",
+        "Although there is no specific policy on digital health in Botswana, the employment of e-health technologies, such as robotics for dermatopathology, calls for an adoption of an e-health policy."
+      ],
+      "key_stats": [
+        {
+          "stat": "70\nmillion USD",
+          "context": "igure 5 below. Furthermore, Botswana’s gross spending on research and development was registered at 70 million USD in 2022. Figure 5: GERD as a share of GDP from 2020-2022 Source: https://www.statista",
+          "value": 70000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "26\nUniversity",
+          "context": "a Figure 6: AI Research Publication by Type Source: https://Scopus.com OECD.AI (2025) ### Page 30 26 University of Botswana Figure 7: Publication and Citations Source: Edurank https://edurank.org/uni/"
+        },
+        {
+          "stat": "ranked 112 out of",
+          "context": "s to take up engineering and technical careers in Botswana. Public engagement and trust Botswana is ranked 112 out of 193 countries in the Online Service Index with a score of 0.61178. In the ### Page"
+        },
+        {
+          "stat": "ranked 141 out of",
+          "context": "e Service Index with a score of 0.61178. In the ### Page 26 22 E-Participation Index, the country ranked 141 out of 193 countries with a score of 0.27400 (UN EGOVKB, 2020). This implies that Botswana "
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "AI-based tools and applications make our lives easier, smoother, and richer.",
+        "But in its current form, AI reproduces and amplifies many of the social challenges we face.",
+        "Upstream, the AI industry is highly concentrated, with just two countries – the United States and China – and a dozen companies accounting for a major share of the sector.",
+        "Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children and young people, women, or entire democracies.",
+        "We need capable governments that are well equipped in terms of competencies, institutions and laws, to frame responsible AI development and protect the rule of law online.",
+        "We also need public and private developers who are accountable for putting human rights and fundamental freedoms – not profits or geopolitical considerations – first 03 ### Page 8 04 ### Page 9 It is my distinct honour to present the Botswana Artificial Intelligence Readiness Assessment Methodology ",
+        "This landmark document marks a pivotal moment in our nation’s journey towards harnessing the transformative power of artificial intelligence (AI) for sustainable development and inclusive growth.",
+        "As the world advances rapidly into the digital era, AI stands at the forefront of innovation, offering unprecedented opportunities to enhance service delivery, improve efficiency, and unlock new avenues for economic diversification."
+      ],
+      "strengths": [
+        "That is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 countries to make sure AI delivers fair, sustainable, and inclusive outcomes.",
+        "This assessment provides a comprehensive analysis of Botswana’s current capabilities, strengths, and areas for improvement in AI readiness.",
+        "They will also inform us of our efforts to create a robust regulatory framework, foster innovation and ensure that the benefits of AI are equitably shared across all segments of our society.",
+        "Foreword Honourable David Tshere Minister of Communications and Innovation, Republic of Botswana By the Minister of Communications and Innovation, Republic of Botswana 06 05 ### Page 10 06 ### Page 11 Executive Summary In 2021 the UNESCO Recommendation on the Ethics of Artificial Intelligence (AI) w",
+        "The stakeholder team proposed ten recommendations that will be very instrumental for Botswana to successfully implement UNESCO’s recommendations on the ethics of AI.",
+        "The strategy sets a comprehensive plan to address the following: • Build a robust broadband ecosystem (backbone, affordability, skills, content) • Enhance digital inclusion • Support national development goals through ICT • It positions broadband as a core enabler of economic diversification, servic"
+      ],
+      "gaps": [
+        "It is not acceptable that around a third of the world’s population still lacks adequate internet access.",
+        "The recommendation also sets out concrete policy actions that governments can draw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which has until now remained the norm, is insufficient.",
+        "This is mostly attributed to a lack of an AI strategy, resistance to technological change, limited infrastructure, and a dearth of relevant skills to develop AI.",
+        "Although Botswana currently does not have an AI strategy, the government has made noticeable progress in the direction of building an AI ecosystem through different initiatives.",
+        "Though the existing regulations may address AI indirectly, they are limited in guiding safe AI development and implementation as well as protection of human rights.",
+        "This calls for an urgent need for the Botswana government to review the legal framework to accommodate AI.",
+        "Although Botswana has demonstrated equal digital and internet access among male and female citizens, disparities in internet access between rural and urban settlers are recorded.",
+        "Despite a significant increase in the number of women in the ICT industry, the sector remains overall male dominated.",
+        "Statistics showing gender disparities in the gender gap in the STEM field, with fewer women graduating than men, corroborates this trend.",
+        "The Botswana government, the private sector, and non-governmental organizations have come up with several initiatives to bridge the gender gap."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranked 105 in the",
+          "context": "44 0.00 9.39 1.87 Figure 2: Global Ranking and Scores Source: https://www.global-index.ai/ Botswana ranked 105 in the global ranking with an index score of 2.37 in the Global Index on Responsible AI. "
+        },
+        {
+          "stat": "ranked 20th out of",
+          "context": "aled to a 0 -100 range with 100 representing the highest score. According to the index, Botswana is ranked 20th out of 40 countries assessed in Africa. The highest ranked in Africa is South Africa wit"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Technical and infrastructural This section discusses technical and infrastructural dimensions and evaluates the country’s capabilities in developing and deploying AI solutions by assessing the availability of data centres, internet connectivity as well as access and cloud computing capabilities.",
+        "Additionally, the availability of high-quality data and practices is assessed.",
+        "Computing capabilities Botswana hosts multiple data centres operated by key players such as Botswana Fiber Networks (BoFiNet), the Botswana Digital & Innovation Hub (BDIH), Orange Botswana, and the Botswana Telecommunications Corporation (BTC), all located in the capital city Gaborone.",
+        "Also present were government officials, academics, civil society representatives, and members of the private sector, who engaged in broad reflections on the opportunities presented by AI.",
+        "These consultations contributed towards determining what frameworks, capacities and competencies are available in the country to support the ethical use and development of AI.",
+        "The government of Botswana is actively formulating a national AI policy, led by the MCI and BITRI, with input from academia and other stakeholders, to guide the ethical deployment of AI.",
+        "They also assembled the Digital Transformation Coordination Office within the MCKT (now MCI) to spearhead the deployment of AI and other digital technologies.",
+        "This office works hand in hand with local AI developers from the private sector in Botswana, who develop online services for the government using AI tools."
+      ],
+      "strengths": [
+        "The country is currently not actively involved in the development of AI or international digital standards, such as those established by ISO, IEC, or ITU.",
+        "For the policy to be robust and supported by a strategy ascertaining that AI is used ethically, an active multistakeholder involvement is needed, including the participation of additional local AI actors from various sectors such as government, academia and research, civil society, and the private s",
+        "There are three universities in the country, the University of Botswana, BIUST, and Botho University, that are leading in AI-related research.",
+        "What is more, organizations like BDIH enable the development of innovative digital applications, products, and services that help meet the demands of Batswana, and this demonstrates technology uptake through some emerging technologies such as AI and IoT (Botswana Innovation Hub).",
+        "A multi-stakeholder body made up of government, civil society, research, and academia as well as the industry must be established to formulate and implement this new regulation.",
+        "• Stakeholder involvement: This will involve various stakeholders including industry leaders, academia, and public representatives to shape a comprehensive vision."
+      ],
+      "gaps": [
+        "This signifies a high penetration rate although the rate declined slightly from the previous 82.1 per cent.",
+        "Although the country does not have any policy for AI-driven cloud computing, considering the growth and integration of solutions driven by AI across different sectors within Botswana, the government intends to prioritize the development of digital infrastructure by investing in high-speed connectivi",
+        "The implementation of predictive governance analytics Regarding AI regulation, there is a critical need for Botswana to implement ethical AI by means of the following initiatives: • Creating governance structures to oversee AI operations, including regulatory bodies that can monitor AI development a",
+        "This is mostly attributed to a lack of AI strategy, resistance to technological change, limited infrastructure, and a lack of relevant skills to develop AI.",
+        "However, through several initiatives such as the Maitlamo National ICT Policy, the Digital Transformation Strategy (SmartBots), and the adoption of foundational laws for responsible technology use, Botswana demonstrates some level of readiness to deploy, implement, and use AI.",
+        "However, there is an urgent need to finalize a national AI policy and strategy that will forge a roadmap to the successful development and use of AI.",
+        "The country needs to review its policies and legislation framework and propose new laws for responsible development and use of AI.",
+        "Another challenge is that there is no specific provision for algorithmic bias and discrimination.",
+        "The law does not yet require bias testing or fairness audits.",
+        "These need to be managed because of their prevalence."
+      ],
+      "key_stats": [
+        {
+          "stat": "36\nInstitution",
+          "context": "Institutions: MCI, Academia, Private sector, Civil Society Timeframe: 12 – 24 months ### Page 40 36 Institutional frameworks Challenges As already highlighted in the previous sections, the absence of "
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "Additionally, there are regulations for flying drones in the country implemented by the Civil Aviation Authority of Botswana.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "The economic dimension addresses the supply side of the AI ecosystem where AI tools and solutions are developed and deployed.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "• Health: The lack of integration of different programmes is recognized as a key issue, requiring close coordination between the public and private health systems.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The non-profit organization Cybersmart Botswana, in collaboration with BOCRA, MCKT (now MCI), and the Botswana National Library Services, launched a digital literacy programme called eBotho Digital Literacy, intending to equip citizens with skills and knowledge to navigate the digital world.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "To address the digital gender gap, Botswana has implemented several initiatives, including the SmartBots Lab’s ‘Inclusive Connectivity’ programme, which aims to expand equitable access to digital tools.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "It would also streamline AI governance, ensuring that AI is deployed responsibly across all sectors.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "AI Publications",
+      "value": 25,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "executive_summary": "Contents\nAcronyms\n01\nForeword\n03\nBy the Assistant Director-General ad interim for Social and Human Sciences, UNESCO\n03\n04\nForeword\nBy the Minister of Communications and Innovation, Republic of Botswana\n04\nExecutive Summary\n07\nDiagnosis of the national AI landscape\n11\nLegal and regulatory\n15\nSocial and cultural\n19\n24\nScientific/Educational\n29\nEconomic\nTechnical and infrastructural\n30\nResults of the in-country consultations\n32\nDeveloping a national AI multistakeholder roadmap\n34\n35\nRegulation\nInstitutional frameworks\n36\nCapacity building and training\n38\n40\nReferences\n\nAcronyms\nAI\nArtificial intelligence\nBDIH\nBotswana Digital Innovation Hub\nBITRI\nBotswana Institute of Technology, Research and Innovation\nBIUST\nBotswana International University of Science and Technology\nBOCRA\nBotswana Communication Regulatory Authority\nDPA\nData Protection Act\nETSSP\nEducation and Training Sector Strategic Plan\nGDP\nGross domestic product\nGERD\nGross expenditure in research and development\nICT\nInformation and communication technology\n02\n01\n\n02\n\nForeword\nBy the Assistant Director-General ad interim for\nSocial and Human Sciences, UNESCO\nLidia Brito\nAssistant Director-General ad interim for Social and\nHuman Sciences, UNESCO\nWe have officially entered the age of artificial intelligence (AI). The world is now set\nto change at a pace not seen in decades, even centuries. AI-based tools and\napplications make our lives easier, smoother, and richer. They help us move\nefficiently, get informed, get credit, get a job, and get our taxes done.\nBut in its current form, AI reproduces and amplifies many of the social challenges we face. It is not acceptable that\naround a third of the world’s population still lacks adequate internet access. Upstream, the AI industry is highly\nconcentrated, with just two countries – the United States and China – and a dozen companies accounting for a\nmajor share of the sector. This can lead only to greater inequality of outcomes downstream – including gender\ndisparities.. Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm,\nparticularly to those who are already vulnerable, whether companies or individuals, children and young people,\nwomen, or entire democracies.\nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in\n2021 by 193 countries to make sure AI delivers fair, sustainable, and inclusive outcomes. The recommendation is\nbased on the protection and promotion of human rights, human dignity, and environmental sustainability, and\nthese values are then translated into principles such as accountability, transparency, and privacy. The\nrecommendation also sets out concrete policy actions that governments can draw on to steer technological\ndevelopments in a responsible direction, premised on the belief that light-touch regulation, which has until now\nremained the norm, is insufficient. We need capable governments that are well equipped in terms of\ncompetencies, institutions and laws, to frame responsible AI development and protect the rule of law online. We\nalso need public and private developers who are accountable for putting human rights and fundamental freedoms\n– not profits or geopolitical considerations – first\n03\n\n04\n\nIt is my distinct honour to present the Botswana Artificial Intelligence Readiness\nAssessment Methodology (RAM) Report. This landmark document marks a pivotal\nmoment in our nation’s journey towards harnessing the transformative power of\nartificial intelligence (AI) for sustainable development and inclusive growth.\nAs the world advances rapidly into the digital era, AI stands at the forefront of innovation, offering unprecedented\nopportunities to enhance service delivery, improve efficiency, and unlock new avenues for economic diversification.\nFor Botswana, a country committed to our Vision 2036 and the Sustainable Development Goals, embracing AI is not\nmerely an option, it is an imperative. Botswana is strategically positioned on the global map to host data centres in\nthe southern hemisphere.\nThis assessment provides a comprehensive analysis of Botswana’s current capabilities, strengths, and areas for\nimprovement in AI readiness. It reflects the collaborative efforts of government, academia, industry, and civil society,\nand underscores our collective resolve to position Botswana as a leader in responsible and ethical AI adoption in\nAfrica and the SADC region.\nThe findings and recommendations contained herein will guide our policy formulation, capacity-building efforts\nand investment strategies. They will also inform us of our efforts to create a robust regulatory framework, foster\ninnovation and ensure that the benefits of AI are equitably shared across all segments of our society.\nForeword\nHonourable David Tshere\nMinister of Communications and Innovation, Republic\nof Botswana\nBy the Minister of Communications and\nInnovation, Republic of Botswana\n06\n05\n\n06\n\nExecutive Summary\nIn 2021 the UNESCO Recommend",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Improve the DPA to distinguish between simple automation and enhanced AI",
+      "text": "Improve the DPA to distinguish between simple automation and enhanced AI",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Manage discrimination and bias in AI systems",
+      "text": "Manage discrimination and bias in AI systems",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Formulate a regulation that harmonizes rules on AI",
+      "text": "Formulate a regulation that harmonizes rules on AI",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Develop a National AI Strategy",
+      "text": "Develop a National AI Strategy",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Review and update Maitlamo National ICT policy",
+      "text": "Review and update Maitlamo National ICT policy",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": 40,
+      "title": "6 Enhance data access and statistics on AI",
+      "text": "6 Enhance data access and statistics on AI",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Develop AI and Data science-related programs for tertiary education",
+      "text": "Develop AI and Data science-related programs for tertiary education",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Emphasis on the need for industry collaborations with tertiary institutions",
+      "text": "Emphasis on the need for industry collaborations with tertiary institutions",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Improve the digital competency framework for citizens",
+      "text": "Improve the digital competency framework for citizens",
+      "dimension": "Regulation",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 9,
+  "page_count": 47,
+  "rankings_indices": [
+    {
+      "context": "According to ODIN by Open Data Watch, Botswana ranked 121st out of 198 countries globally in 2024 with an overall score of 50 in data coverage and openness.",
+      "index_name": "ODIN",
+      "rank": 121,
+      "score": 50.0,
+      "total_countries": 198,
+      "year": 2024
+    },
+    {
+      "context": "Public engagement and trust Botswana is ranked 112 out of 193 countries in the Online Service Index with a score of 0.61178.",
+      "index_name": "Online Service Index",
+      "rank": 112,
+      "score": 0.61178,
+      "total_countries": 193
+    },
+    {
+      "context": "In the ### Page 26 22 E-Participation Index, the country ranked 141 out of 193 countries with a score of 0.27400 (UN EGOVKB, 2020).",
+      "index_name": "E-Participation Index",
+      "rank": 141,
+      "score": 0.274,
+      "total_countries": 193,
+      "year": 2020
+    }
+  ]
+}

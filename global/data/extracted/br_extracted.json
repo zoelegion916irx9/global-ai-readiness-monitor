@@ -1,0 +1,541 @@
+{
+  "country_code": "BR",
+  "country_name": "BRAZIL",
+  "language": "en",
+  "metadata": {
+    "page_count": 55,
+    "creation_date": "D:20250225174557-03'00'",
+    "modification_date": "D:20250430104753+02'00'",
+    "country_name": "BRAZIL",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "It is divided into three parts: the diagnosis of the national AI landscape, which provides an overview of the current AI public policy landscape in Brazil, the multistakeholder national roadmap, which details the public consultation process carried out in the context of the RAM, and the main recomme",
+        "It is worth noting that the data collected and the proposed recommendations will be made available on the UNESCO Global Observatory to facilitate the exchange of best practices and dialog between countries.",
+        "It should be highlighted that the purpose of using the RAM is not to categorize countries in an antagonistic manner, but rather to allow for positive exchanges and greater global synergy to address issues related to AI.",
+        "The first part of the report, titled “Diagnosis of the national AI landscape”, provides an overview of the AI area in Brazil and an analysis of the five RAM dimensions (Legal/Regulatory, Social/Cultural, Economic, Scientific/Educational and Technical/ Infrastructural).",
+        "The Legal/Regulatory Dimension presents a diagnosis of the main legal issues related to AI in Brazil.",
+        "First, it addresses the political and regulatory debate on AI, highlighting the Brazilian AI Plan and Bill No.",
+        "2338/2023, among other laws in force that have the potential to directly and indirectly affect the regulation of AI.",
+        "It then discusses laws related to privacy, data protection, data sharing and accessibility, procurement laws and policies, freedom of information/access to knowledge laws, due process and accountability, online safety and integrity of discourse, and, finally, public sector capacity."
+      ],
+      "strengths": [
+        "This report presents the result of the application of RAM in Brazil, providing a comprehensive view of the Brazilian state of readiness from the analysis of each dimension, and proposing a list of recommendations to the Brazilian government aimed at advancing ethical AI in the country.",
+        "Leading the debate on the creation of risk management frameworks in the development of sectoral AI.",
+        "Promoting Brazil’s leading role, through the performance of Brazilian experts, in the development of international standards for AI systems.",
+        "At the national level, in 2021, the Ministry of Science, Technology and Innovation (MCTI) launched the Brazilian Artificial Intelligence Strategy - EBIA - (EBIA, 2021), which is currently under review.",
+        "Currently, the main comprehensive instruments in the legal and regulatory dimension are the Brazilian AI Plan and Bill 2338/2023.",
+        "It will be implemented in phases, starting with “Immediate Impact Actions” to modernize public services, followed by “Structuring Actions” aimed at technological and scientific infrastructure, such as the implementation of a supercomputer, language models in Portuguese, professional training, AI res",
+        "As one of the actions foreseen in the PBIA, on September 3, 2024, Brazil launched the OBIA - Brazilian Observatory of Artificial Intelligence (OBIA, 2024).",
+        "The PBIA was launched at an opportune time for international dialog on artificial intelligence, with Brazil hosting the G20 in 2024.",
+        "Even in light of the challenges of multilateral negotiations, Brazil stood out by strategically leading the G20, ensuring the inclusion of topics such as sustainability and equity in the debate."
+      ],
+      "gaps": [
+        "Although the recommendations are complementary, they are divided into three sections: Regulation, Institutional Framework, and Human and Institutional Training.",
+        "These recommendations consider the urgent task of reconciling the defense of human rights with the right to economic and sustainable development.",
+        "Next, the recommendations in the “Institutional Framework” section address the need to adapt the AI governance structure in Brazil to the challenges facing the country.",
+        "These include the creation of bodies responsible for managing general and specific aspects of AI, as well as the need to maintain a coordinated national policy between the various public administration bodies.",
+        "Equally important, the recommendations underscore the need for engagement and participation of diverse actors for a national AI policy that is democratic, inclusive and transformative.",
+        "2338/2023, the result of the work of a committee of jurists, faced criticism for the lack of ethnic and racial diversity in its composition.",
+        "Although the Federal Senate held relevant public hearings (CJSUBIA, 2022) and heard several sectors, indigenous peoples and other traditional communities, such as quilombolas, ### Page 15 14 were excluded from the discussions and preparation.",
+        "An additional challenge is to ensure that decision-making spaces are occupied by diverse and interdisciplinary teams, integrating social sciences, humanities, technology and exact sciences, to enrich the debate and ensure the representation of multiple perspectives.",
+        "Although the strategy was the result of a process of public consultations with contributions from various sectors, the lack of a detailed implementation plan and the absence of specific budgetary resources for its execution were identified as significant challenges.",
+        "However, other Brazilian laws in force have the potential to directly and indirectly affect the regulation of AI, such as Law No."
+      ],
+      "key_stats": [
+        {
+          "stat": "$ 23 billion",
+          "context": "Innovation; and Support to the Regulatory and Governance Process of AI — the plan has a budget of R$ 23 billion for 2024-2028 period. These resources come mostly from state sources, including R$ 12.72",
+          "value": 23000000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$ 12.72 billion",
+          "context": "of R$ 23 billion for 2024-2028 period. These resources come mostly from state sources, including R$ 12.72 billion in credits from the National Fund for Scientific and Technological Development (FNDCT)",
+          "value": 12720000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$ 5.57 billion",
+          "context": "for Scientific and Technological Development (FNDCT) and the Brazilian Development Bank (BNDES), R$ 5.57 billion in non-refundable resources from the FNDCT and R$ 2.90 billion from the Federal Budget.",
+          "value": 5570000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$ 2.90 \nbillion",
+          "context": "Brazilian Development Bank (BNDES), R$ 5.57 billion in non-refundable resources from the FNDCT and R$ 2.90 billion from the Federal Budget. It will be implemented in phases, starting with “Immediate I",
+          "value": 2900000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "117 \ninstitutions",
+          "context": "Brazilian 2024-2028 AI Plan was developed with the collaboration of more than 300 participants and 117 institutions, covering the public, private and civil society sectors. Despite this collective eff"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "42 that “the controller or the operator who, as a result of the exercise of the activity of processing personal data, causes to others patrimonial, moral, individual or collective damage, in violation of the legislation on the protection of personal data, is obliged to repair it”.",
+        "Data processors who violate the LGPD are subject to warnings, fines, publication of the violation, blocking or deletion of personal data related to the violation, suspension of the operation of the database to which the violation relates, or partial or total prohibition of carrying out activities re",
+        "There is also an entire chapter dedicated to the processing of personal data by the government.",
+        "In addition, the LGPD authorizes the processing of sensitive personal data without the consent of the data subject in the case of “processing and sharing of data necessary for the execution of public policies provided for by laws and regulations”.",
+        "The LGPD also provides provisions on security, technical and administrative measures for the protection of personal data.",
+        "The study, which assesses countries’ ability to protect data and respond to cyber threats, highlights Brazil’s progress in areas such as public policies, infrastructure and adaptation to new risks.",
+        "Other actions of the ANPD include a pilot program designed in 2023 for a regulatory sandbox focused on AI and data protection.",
+        "1.2.3 Data Sharing and Accessibility Brazil’s score on the Open Data Inventory (ODIN) is 64 on a scale of 0 (less statistical offers and openness) and 100 (more statistical offers and openness)."
+      ],
+      "strengths": [
+        "On December 20, 2024, the CGU launched a new version of the Brazilian Open Data Portal, incorporating functionalities aimed at increasing transparency and social participation (CGU, 2024).",
+        "182/2021, which “establishes the legal framework for startups and innovative entrepreneurship”, provides for the Public Contract for Innovative Solution.",
+        "In addition, the MDIC and BNDES are leading initiatives to enable these infrastructures with financing and tax incentives (BNDES, 20234), while the debate takes place without active listening from society, raising concerns about the inclusion of environmental and social perspectives in the formulati",
+        "The official instrument for the recognition of languages as heritage in Brazil is the National Inventory of Linguistic Diversity (INDL), established by Federal Decree No."
+      ],
+      "gaps": [
+        "4, III, the LGPD does not apply to the processing of personal data carried out for the exclusive purposes of public security, national defense, state security or the investigation and suppression of criminal offences.",
+        "It is worth noting that despite the provision of exceptions to the LGPD, data protection law stipulates that its principles, guarantees of rights and due process still apply in these contexts.",
+        "After questions about its possible unconstitutionality, the decree was submitted to the analysis of the Supreme Federal Court (STF), which declared it constitutional, emphasizing, however, the need to comply with the rules of privacy and data protection and the LGPD (STF, 2022).",
+        "Even if it does not specifically deal with “open data” in the most technical and broad sense, the main legal instrument is the Access to Information Act or LAI (Law no.",
+        "However, to date, no government evaluation of the national data sharing structure has been carried out.",
+        "14.133/2021 does not address the acquisition of AI systems or products/ services that include AI components (LLCA, 2021).",
+        "10.973/2004, which, among other things, provides for incentives for innovation and scientific and technological research in the productive environment, provides for the possibility of waiving competitive bidding in the case of technological contracts, although it does not specifically refer to AI.",
+        "As already mentioned, it provides that the processing and disclosure of data by the public administration is limited to the data necessary for the execution of a specific public policy, that is, the collection of data must be carried out strictly for the provision and improvement of the proposed ser",
+        "However, after intense political disputes and the strong influence of technology companies, the process of the bill was interrupted in the Chamber of Deputies.",
+        "There is, however, an urban-rural gap in relation to households with internet access."
+      ],
+      "key_stats": [
+        {
+          "stat": "11% higher",
+          "context": "ernet in urban areas was 85%, and in rural areas 74%. That is, the percentage in the urban area is 11% higher. This difference was much more significant, at 33% in 2016. Regarding gender and education",
+          "value": 11.0,
+          "unit": "%"
+        },
+        {
+          "stat": "33% in",
+          "context": "is, the percentage in the urban area is 11% higher. This difference was much more significant, at 33% in 2016. Regarding gender and education, a World Bank survey indicated that in 2017, 37% of people",
+          "value": 33.0,
+          "unit": "%"
+        },
+        {
+          "stat": "37% of people graduated in Science",
+          "context": "ficant, at 33% in 2016. Regarding gender and education, a World Bank survey indicated that in 2017, 37% of people graduated in Science, Technology, Engineering and Mathematics (STEM) in Brazil were fe",
+          "value": 37.0,
+          "unit": "%"
+        },
+        {
+          "stat": "10.7% of Brazilian university women are",
+          "context": "matics (STEM) in Brazil were female (WBGender, 2025). According to the World Economic Forum, “only 10.7% of Brazilian university women are enrolled in STEM programs, compared to 28.6% of men” (WEFGend",
+          "value": 10.7,
+          "unit": "%"
+        },
+        {
+          "stat": "28.6% of men",
+          "context": "onomic Forum, “only 10.7% of Brazilian university women are enrolled in STEM programs, compared to 28.6% of men” (WEFGender, 2021). The percentage of top performers in science or mathematics who expec",
+          "value": 28.6,
+          "unit": "%"
+        },
+        {
+          "stat": "34.2% for boys and",
+          "context": "or mathematics who expect to work as science and engineering professionals at age 30 in Brazil is 34.2% for boys and 20.2% for girls, corresponding to a difference between girls and boys of -14.0% (OE",
+          "value": 34.2,
+          "unit": "%"
+        },
+        {
+          "stat": "20.2% for girls",
+          "context": "expect to work as science and engineering professionals at age 30 in Brazil is 34.2% for boys and 20.2% for girls, corresponding to a difference between girls and boys of -14.0% (OECDPISA, 2018). Ther",
+          "value": 20.2,
+          "unit": "%"
+        },
+        {
+          "stat": "8% women who \nare victims of dome",
+          "context": "es (LLCA, 2021). Those hired to provide labor services with 25 or more employees must have at least 8% women who are victims of domestic violence (Dec11430, 2023). Additionally, Bill No. 2.067/2021 ai",
+          "value": 8.0,
+          "unit": "%"
+        },
+        {
+          "stat": "30% for workers of African descent",
+          "context": "2021 aims to determine that companies hired by the government to perform services reserve at least 30% for workers of African descent (PL2067, 2021). It is also important to consider the languages spo",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "50% \nof respondents said they trust co",
+          "context": "websites and apps (Impact, 2022) And in terms of trust, according to a 2022 Ipsos survey in Brazil, 50% of respondents said they trust companies that use artificial intelligence as much as they trust ",
+          "value": 50.0,
+          "unit": "%"
+        },
+        {
+          "stat": "53% of respondents said that the deve",
+          "context": "ligence as much as they trust other companies (IPSOS, 2022). In a PEW Research Center 2020 survey, 53% of respondents said that the development of AI has been mostly positive for society, while 39% sa",
+          "value": 53.0,
+          "unit": "%"
+        },
+        {
+          "stat": "39% said it has been negative",
+          "context": "ey, 53% of respondents said that the development of AI has been mostly positive for society, while 39% said it has been negative; respondents who did not respond are not shown (PEW, 2020). According t",
+          "value": 39.0,
+          "unit": "%"
+        },
+        {
+          "stat": "57% trust in AI companies",
+          "context": "d not respond are not shown (PEW, 2020). According to the Edelman Trust Barometer 2024, Brazil has 57% trust in AI companies (Edelman, 2024). 1.3.3 Environmental and Sustainability Policies There are ",
+          "value": 57.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1.14% of Brazil",
+          "context": "CTI, 2022), Brazil will invest R$ 87.126 billion in Research and Development in 2020, representing 1.14% of Brazil’s GDP. About 37.7% of the investments come from the federal government, 15.8% from th",
+          "value": 1.14,
+          "unit": "%"
+        },
+        {
+          "stat": "37.7% of the investments come from the",
+          "context": "t R$ 87.126 billion in Research and Development in 2020, representing 1.14% of Brazil’s GDP. About 37.7% of the investments come from the federal government, 15.8% from the states and 46.5% from the p",
+          "value": 37.7,
+          "unit": "%"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "### Recommendation 2: Notice of R$ 80 Million for Startups Notice of R$ 80 Million for Startups: In 2022, the Federal Government, through the MCTI, launched a specific tender to select AI innovation projects in startups in the thematic lines of agriculture, health, industry, tourism and smart cities, with a total of R$ 80 million in economic subsidy resources (MCTI, 2022).",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "It is appropriate to think about the development of public policies that ensure an ongoing process of incorporating different perspectives into debates about AI; ### Recommendation 14: It is necessary that the regulation of AI in Brazil be built with broad participation of society, with emphasis on the inclusion of vulnerable groups.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "It is necessary that the regulation of AI in Brazil be built with broad participation of society, with emphasis on the inclusion of vulnerable groups.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "At the same time, there was also recognition of the huge potential benefits of AI - 72% of respondents said they use AI in their professional activities.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Broadening the debate on the use of AI in public safety, focusing on human rights and combating discriminatory biases, suspending the use of facial recognition and predictive policing technologies until their effectiveness is proven.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "It will be implemented in phases, starting with “Immediate Impact Actions” to modernize public services, followed by “Structuring Actions” aimed at technological and scientific infrastructure, such as the implementation of a supercomputer, language models in Portuguese, professional training, AI research and a robust regulatory framework.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "On December 20, 2024, the CGU launched a new version of the Brazilian Open Data Portal, incorporating functionalities aimed at increasing transparency and social participation (CGU, 2024).",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Finally, it should be noted that the Federal Supreme Court (STF) is discussing MCI rules in four cases (STF, 2024), with RE 1,037,396 with recognized general repercussion (RE1037396, 2017).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This indicates that Brazil occupies the 19th position among the 193 UN member states and that the country is at the forefront of electronic participation mechanisms implemented by the government compared to other states (EGOVKB, 2024).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The official instrument for the recognition of languages as heritage in Brazil is the National Inventory of Linguistic Diversity (INDL), established by Federal Decree No.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "An example is the Competence Center for Immersive Technologies Applied to Virtual Worlds (CEIA-UFG), inaugurated in Goiânia (GO).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This number reflects a sharp increase since 2016, when the number of AI startups founded in the country increased significantly, according to the report.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "In addition, according to the report, 94% of respondents say they have implemented or plan to implement AI-based systems in their organizations.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• Notice of R$ 80 Million for Startups: In 2022, the Federal Government, through the MCTI, launched a specific tender to select AI innovation projects in startups in the thematic lines of agriculture, health, industry, tourism and smart cities, with a total of R$ 80 million in economic subsidy resources (MCTI, 2022).",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "When it comes to facial recognition, do you feel uncomfortable sharing your facial biometrics?",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Reports of embarrassing situations involving AI include unauthorized bank account negative reporting; failures in biometric systems that restrict access; within the scope of consumer relations, the absence of human support making it difficult to solve problems; the obligation to give biometric data to be able to contract services; in cases of voice recognition, requirement to use verbal commands in tones and accents different from usual modes, avoiding the use of local slang; 3.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Facial recognition has become a common practice, and most respondents (72%) express discomfort when subjected to these systems and a lack of information about the risks of this data collection; 5.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Even requesting an alternative to facial recognition, participants reported that they had not found the means to do so, or had not been answered, or had been exposed to a bureaucracy that made them give up the alternative method; 6.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "On the other hand, it is recognized that, with proper supervision, AI can be an ally in learning; 9.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "For this reason, it is also recommended that policies be implemented to promote the digital training of communities in situations of social vulnerability, so that they can achieve full autonomy in the management, programming and development of their material and immaterial identities and assets.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "In this sense, it is recommended to ban the use of AI for student profiling; commercial sharing of school data; the use of AI for disciplinary purposes; and the use of facial recognition and emotion recognition technologies.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "It is recommended, therefore, to curb the use of AI in predictive systems, investigations, police inquiries and for the recognition of individuals without due proof and efficiency and safety, explainability and monitoring by a competent and autonomous body of the State.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "AI systems that mimic humans, such as virtual assistants, can be easily recognized by adults, but easily fool children or impressionable people, for example.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 59.8,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "AI Companies",
+      "value": 500,
+      "unit": "count",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 2024,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "executive_summary": "3\nContents\nAcknowledgements\t\n2\nContents\t\n3\nList of Acronyms and Abbreviations\t\n5\nFreface\t\n7\nExecutive Summary\t\n10\nDiagnosis of the national  AI landscape\t\n13\n1.1 Overview\t\n13\n1.2. Legal and Regulatory Dimension\t\n14\n1.3. Social/Cultural Dimension\t\n20\n1.4. Scientific/Educational Dimension\t\n23\n1.5. Economic Dimension\t\n27\n1.6. Technical and Infrastructural Dimension\t\n30\nII Developing a Multistakeholder National Roadmap\t\n32\n2.1. Introduction\t\n32\n2.2. Organization and Concerns Prior to Public Consultations\t\n33\n2.3. Public consultations held on September 13 and 14, 2023\t\n34\n2.4. Public Consultations through Written Input\t\n35\n2.5. Conclusions of the Consultations\t\n39\n\nIII Main Policy Recommendations\t\n40\n3.1. Regulation\t\n40\n3.2. Institutional Framework\t\n42\n3.3. Human and Institutional Training.\t\n44\nIV References\t\n45\n\n5\nList of Acronyms and Abbreviations\nABES\t\nBrazilian Association of Software Companies\nABNT\t\nBrazilian Association of Technical Standards\nACE-STEM\t\nAltruism, Compassion and Empathy - Science, Technology, Engineering and Mathematics\nANATEL\t\nNational Telecommunications Agency\nANPD\t\nNational Data Protection Authority \nBNCC\t\nNational Common Curricular Base\nBNC\t\nTraining Common National Base for the Initial Training of Basic Education Teachers\nBrasscom\t\nBrazilian Association of Information and Communication Technology Companies \nC4AI\t\nCenter For Artificial Intelligence\nCAPES\t\nCoordination for the Improvement of Higher Education Personnel\nCPA                       Applied Research Center in Artificial Intelligence \nCDR\t\nCoalizão Direitos na Rede (Network Rights Coalition)\nCETIC.br\t\nRegional Center for Studies on the Development of the Information Society \nCGEE\t\nGeneral Coordination of Educational Studies\nCGI.br\t\nInternet Steering Committee in Brazil \nCGU\t\nOffice of the Comptroller General\nCNCT\t\nNational Catalogue of Technical Courses\nCNJ\t\nNational Council of Justice\nCNPD\t\nNational Council for the Protection of Personal Data and Privacy\nCNPq\t\nNational Council for Scientific and Technological Development\nCTIA\t\nTemporary Internal Commission on Artificial Intelligence in Brazil \nDired\t\nINEP Directorate of Educational Studies\nDCN\t\nNational Curriculum Guidelines\nDEWG                 G20 Digital Economy Working Group\nEBIA\t\nBrazilian Artificial Intelligence Strategy\nE-Digital\t\nBrazilian Strategy for Digital Transformation\nEmbrapii\t\nBrazilian Company of Industrial Research and Innovation\nENAP\t\nNational School of Public Administration\nESG\t\nEnvironmental, Social and Corporate Governance Agenda\nFAPEG                 Goiás Research Support Foundation\nFAPESP\t\nSão Paulo Research Foundation\nFAT\t\nFairness, Accountability and Transparency\nFEI\t\nFaculty of Industrial Engineering \nFINEP\t\nFunding Authority for Studies and Projects\nFUNAI\t\nNational Indigenous Foundation\nFNDCT               National Fund for Scientific and Technological Development\nGERD\t\nGross Domestic Expenditure on R&D\nGNERD\t\nGross National Expenditure on R&D\nGSI\t\nInstitutional Security Office of the Presidency of the Republic\nAI\t\nArtificial Intelligence\nIBGE\t\nBrazilian Institute of Geography and Statistics\nIEEE\t\nInstitute of Electrical and Electronics Engineer\nILIA                      Latin American Artificial Intelligence Index\nINDL\t\nNational Inventory of Linguistic Diversity\nINEP\t\nAnísio Teixeira National Institute of Educational Studies and Research \nINPI\t\nNational Institute of Industrial Property\nIoT\t\nInternet of Things\nIPHAN\t\nInstitute of National Historical and Artistic Heritage\nIRCAI                  International Artificial Intelligence Research Center\nISO\t\nInternational Organization for Standardization\nITA\t\nAeronautics Institute of Technology\n\n6\nLAC\t\nLatin America and the Caribbean\nLAI\t\nAccess to Information Law\nLGPD \t\nGeneral Personal Data Protection Law\nLNCC                  National Laboratory of Scientific Computing\nMCI \t\nBrazilian Civil Rights Framework for the Internet\nMCTI \t\nMinistry of Science, Technology and Innovation\nMDHC                Ministry of Human Rights and Citizenship\nMDIC                  Ministry of Development, Industry, Trade and Services\nMDHC \t\nMinistry of Human Rights and Citizenship\nMDIC \t\nMinistry of Development, Industry, Trade and Services\nMEC\t\nMinistry of Education\nMEMP\t\nMinistry of Entrepreneurship, Microenterprise and Small Business\nMGI\t\nMinistry of Management and Innovation in Public Services\nMinC \t\nMinistry of Culture\nMIR\t\nMinistry of Racial Equalit\nMJSP                  Ministry of Justice and Public Security\nMMA \t\nMinistry of Environment and Climate Change\nMME                   Ministry of Mines and Energy\nMPI\t\nMinistry of Indigenous Peoples\nMPO\t\nMinistry of Planning and Budget\nMRE\t\nMinistry of Foreign Affairs\nMS\t\nMinistry of Health\nMTE\t\nMinistry of Labor and Employment\nNIC.br \t\nBrazilian Network Information Center\nNIST\t\nUS National Institute of Standards and Technology\nOBIA                   Brazilian Observatory of Artificial Intelligencey\nOECD\t\nOrganization for Economic Cooperation and Development\nSDG\t\nSustainable ",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Investments in AI Projects for Startups",
+      "text": "Investments in AI Projects for Startups: In 2023, the Ministry of Science, Technology and Innovation, together with the Finep and other agencies, launched the public notice “Artificial Intelligence Solutions for the Government”, with an investment of R$ 36 million. (FINEP, 2023). This program aims to support startup projects developing AI-based solutions for applications in technological challenges of federal government agencies.",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Notice of R$ 80 Million for Startups",
+      "text": "Notice of R$ 80 Million for Startups: In 2022, the Federal Government, through the MCTI, launched a specific tender to select AI innovation projects in startups in the thematic lines of agriculture, health, industry, tourism and smart cities, with a total of R$ 80 million in economic subsidy resources (MCTI, 2022).",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Additional government investments",
+      "text": "Additional government investments: In addition to these specific programs, the federal government also has other financing initiatives, such as a R$ 180 million public call for technology parks, R$ 50 million for innovation centers, R$ 250 million from the CNPq/MCTI Universal Call, R$ 280 million for the National Institutes of Science and Technology (INCT), among others. The PBIA also aims to foster and accelerate startups specialized in AI. Among the initiatives, notable ones include the proposal for “periodic calls to develop AI solutions that address public sector challenges and foster govtech startups” and the “creation of an investment fund to support AI startups,” aiming to increase the quantity, revenue, and global presence of Brazilian AI startups (PBIA, 2024). 29 Finally, regarding the amount of private investment in AI in Brazil, official data on statistics such as the market value of shares, venture capital financing, foreign direct investment (FDI) or Business Expenditure on Research and Development is not available. Some data identified, although not official, comes from a study published by the Brazilian Association of Information",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Incorporating native languages and other cultural expressions into AI-based systems;",
+      "text": "Incorporating native languages and other cultural expressions into AI-based systems;",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Promoting the inclusion of diverse people in decision-making spaces, especially historically marginalized groups, promoting active transparency, digital literacy and specific training in AI for the la",
+      "text": "Promoting the inclusion of diverse people in decision-making spaces, especially historically marginalized groups, promoting active transparency, digital literacy and specific training in AI for the labor market;",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Ensuring the use of AI in favor of the environment and in the fight against environmental crimes;",
+      "text": "Ensuring the use of AI in favor of the environment and in the fight against environmental crimes;",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Providing basic infrastructure for internet access to the entire population;",
+      "text": "Providing basic infrastructure for internet access to the entire population;",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Increase investments in research, development, and talent retention;",
+      "text": "Increase investments in research, development, and talent retention;",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Advancing the regulatory debate on AI in an inclusive and multisectoral manner, resulting in a binding instrument that protects rights, provides for obligations, governance instruments and incentives",
+      "text": "Advancing the regulatory debate on AI in an inclusive and multisectoral manner, resulting in a binding instrument that protects rights, provides for obligations, governance instruments and incentives for innovation;",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Expanding discussions on generative AI, especially considering the vulnerabilities of children and adolescents;",
+      "text": "Expanding discussions on generative AI, especially considering the vulnerabilities of children and adolescents;",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Strengthening Brazil’s role in the international AI agenda, focusing on the development of policies, standards and multilateral cooperation;",
+      "text": "Strengthening Brazil’s role in the international AI agenda, focusing on the development of policies, standards and multilateral cooperation;",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Prioritizing the local development of AI-based technologies, as well as reflect the country’s peculiarities in regulatory and public policy debates.",
+      "text": "Prioritizing the local development of AI-based technologies, as well as reflect the country’s peculiarities in regulatory and public policy debates. 2.4 PUBLIC CONSULTATIONS THROUGH WRITTEN INPUT The written consultation was open for contributions between September 1 and October 15, 2023. For this modality, a form was provided with the same guiding questions as for the virtual consultations and 21 additional and optional questions. The collection of information sought to explore specific points related to people´s experience, health, well-being, and familiarity with the opportunities and challenges of AI, such as: i. Have you ever been in an embarrassing situation because of a computer system that you knew was a system error and not a human error (e.g., rejected request, improper login, etc.)? If so, did you receive information or already know how to appeal such a decision? Could you tell us what happened?;; ii. Do you trust your interactions with automated systems and find their results more objective than when you interact with a human?? iii. When it comes to facial recognition, do you feel uncomfortable sharing your facial biometrics? iv. What are the main risks and/or benefits that you can imagine for the use of AI systems in the lives of children and adolescents, including in the school and consumer environments? v. Do you feel that technology has made you happier, more positive, or with less difficult when writing? vi. Do you believe that AI-based technologies, as well as the underlying processes involved in the production and supply chain of these technologies, pose risks to the environment for present and future generations, thereby jeopardizing the UN Sustainable Development Goals? Twenty-two written contributions were received, more than half of which from civil society and the scientific and technological community. Figure 2.2 shows the statistics of the participants in this modality. 36 Figure 2.2: Statistics of participants who submitted written contrib",
+      "dimension": "Inclusion",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "The lack of significant representation, especially in terms of race and territory, points to the need to rethink the dynamics of inclusion in AI debates. It is appropriate to think about the developme",
+      "text": "The lack of significant representation, especially in terms of race and territory, points to the need to rethink the dynamics of inclusion in AI debates. It is appropriate to think about the development of public policies that ensure an ongoing process of incorporating different perspectives into debates about AI;",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "It is necessary that the regulation of AI in Brazil be built with broad participation of society, with emphasis on the inclusion of vulnerable groups.",
+      "text": "It is necessary that the regulation of AI in Brazil be built with broad participation of society, with emphasis on the inclusion of vulnerable groups. The future Legal Framework for AI in Brazil should provide, in a non-exhaustive manner, mechanisms to ensure rights, incentives and accountability;",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "It is essential to preserve the culture of traditional peoples, including their native languages, ensuring their active participation from the development of AI systems;",
+      "text": "It is essential to preserve the culture of traditional peoples, including their native languages, ensuring their active participation from the development of AI systems;",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Rigor must be intensified on sensitive issues related to children, adolescents, people with disabilities, mental health, the maintenance of democracy and weapons;",
+      "text": "Rigor must be intensified on sensitive issues related to children, adolescents, people with disabilities, mental health, the maintenance of democracy and weapons;",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Professional training and digital education in the context of AI were widely emphasized, ranging from basic literacy to improving the curriculum base and creating new vocational courses;",
+      "text": "Professional training and digital education in the context of AI were widely emphasized, ranging from basic literacy to improving the curriculum base and creating new vocational courses;",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "There are concerns about national sovereignty, with emphasis on the need to reduce dependence on foreign technologies through national innovation strategies;",
+      "text": "There are concerns about national sovereignty, with emphasis on the need to reduce dependence on foreign technologies through national innovation strategies;",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "Given the fact that structural racism permeates the foundations of Brazilian society, there is an urgent call for initiatives to combat discriminatory biases, especially in the context of public secur",
+      "text": "Given the fact that structural racism permeates the foundations of Brazilian society, there is an urgent call for initiatives to combat discriminatory biases, especially in the context of public security. As such, the social appeal for the non-use of facial recognition technologies is highlighted until its effectiveness in reducing violence and increasing the efficiency of criminal prosecution is proven;",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "The issue of adverse impacts on the environment has emerged as central to the debate, with an emphasis on the need to address the use of natural resources, energy consumption, greenhouse gas emissions",
+      "text": "The issue of adverse impacts on the environment has emerged as central to the debate, with an emphasis on the need to address the use of natural resources, energy consumption, greenhouse gas emissions and deforestation. The integration of environmental concerns should be transversal to public and regulatory AI policies in Brazil;",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "Finally, the importance of international cooperation in the development of AI policies stands out, especially in the context of Brazilian leadership in multilateral forums such as the G20, BRICS, COP3",
+      "text": "Finally, the importance of international cooperation in the development of AI policies stands out, especially in the context of Brazilian leadership in multilateral forums such as the G20, BRICS, COP30 and regional coordination to strengthen positions between Latin American and Caribbean countries. Based on these reflections and suggestions, the recommendations were prepared and submitted to a feedback process from the participants, ensuring greater transparency and accuracy in the application of the Readiness Assessment Methodology. 40 III MAIN POLICY RECOMMENDATIONS This section presents the recommendations resulting from the public consultations and data collection, reviewed based on the comments of the participants who chose to follow the process. Recommendations are organized into three main categories: Regulation, Institutional Framework and Human and Institutional Training. 3.1. REGULATION Recommendation 1. Promoting and implementing the UNESCO Recommendation on AI Ethics. In view of the norms contained in the 1988 Federal Constitution, particularly with regard to the promotion of peace, equality, development, democracy and human rights, in all their forms and for all peoples, whether Brazilian or foreign, it is recommended that the Brazilian government continue its efforts to effectively implement the UNESCO Recommendation, with an emphasis on promoting ethics, transparency and respect for human rights in the development and use of AI. Adopting a clear and robust legal framework for AI regulation will help ensure rights protection, sustainable innovation, and alignment with international best practices. In addition, it is recommended to the National Justice Council to incorporate the UNESCO Recommendation on AI Ethics in the update of Resolution No. 332/2020. Main responsible institutions: All government institutions, especially the MRE, MCTI and CNJ Recommendation 2. Creating and maintaining a national database and statistics on AI. It is suggested that the",
+      "dimension": "Technology",
+      "timeline": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 21,
+  "page_count": 55,
+  "rankings_indices": [
+    {
+      "context": "In the Inclusive Internet Index, out of 100 countries, Brazil was ranked 19th in terms of trust in websites and apps (Impact, 2022) And in terms of trust, according to a 2022 Ipsos survey in Brazil, 50% of respondents said they trust companies that use artificial intelligence as much as they trust other companies (IPSOS, 2022).",
+      "index_name": "Inclusive Internet Index",
+      "rank": 19,
+      "total_countries": 100,
+      "year": 2022
+    },
+    {
+      "context": "### Page 25 24 Also, according to the Latin American Artificial Intelligence Index (ILIA), which evaluates the scientific, structural and governance development of AI in 19 countries in Latin America and the Caribbean, Brazil occupies the 2nd position in the overall ranking, with a score of 69.30/100, while Chile ranks first with 73.07 points.",
+      "index_name": "osi",
+      "score": 69.3
+    },
+    {
+      "context": "4 Investments and Production According to the Global Innovation Index (GII, 2024), in the knowledge diffusion dimension, Brazil has a value/score of 2.1% for high-tech exports, placing it 58th out of 133 countries included in the study.",
+      "index_name": "Global Innovation Index",
+      "score": 2.1,
+      "total_countries": 133,
+      "year": 2024
+    },
+    {
+      "context": "Another point to note is that in December 2024, Brazil ranked 25th in the Speedtest ranking, with an average fixed broadband download speed of 185.78 Mbps, five positions higher than in January 2024.",
+      "index_name": "osi",
+      "rank": 25,
+      "year": 2024
+    }
+  ]
+}

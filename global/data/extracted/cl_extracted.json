@@ -1,0 +1,773 @@
+{
+  "country_code": "CL",
+  "country_name": "CHILE",
+  "language": "en",
+  "metadata": {
+    "page_count": 59,
+    "creation_date": "D:20231020142850+02'00'",
+    "modification_date": "D:20240129202150+01'00'",
+    "country_name": "CHILE",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "The regulatory framework within which Artificial Intelligence is situated is crucial to ensuring the ethical deployment of AI systems.",
+        "The legal and regulatory framework should include effective mechanisms for safeguarding and upholding citizens’ rights, as well as monitoring, mitigating and compensating for any unforeseen adverse outcomes resulting from the deployment of AI systems.",
+        "Examples of the legal framework include regulations concerning Artificial Intelligence, data protection and privacy, data sharing and accessibility and freedom of information, among others.",
+        "AI POLICY AND REGULATION Chile has its NAIP in effect, issued by Decree No.",
+        "The NAIP includes a specific dimension of ethical considerations for AI deployment, covering governance in the use of AI tools, the impact on the labour market, consumer relations, intellectual property, cybersecurity, cyber defence and gender.",
+        "In relation to this aspect, the NAIP emphasises that actions and applications of AI solutions should be directed towards improving people’s quality of life and addressing potential harmful unforeseen effects (MSTKI, 2021a, p 18).",
+        "Additionally, fifteen webinars were conducted to communicate the process and provide information about AI, involving a total of 6,000 participants in the first stage (MSTKI, 2021a, p.",
+        "Examples of these initiatives encompass the adaptation and enhancement of tools for certifying AI-related skills in the labour force, support for technology-based startups, promotion of upskilling and reskilling courses for the labour market, prioritisation of scholarships for doctoral programs for "
+      ],
+      "strengths": [
+        "• Ambiguity exists regarding publicly accessible sources of data, leading to unclear boundaries.",
+        "• No crime shall be punished with a penalty other than that established by a law promulgated prior to its perpetration, unless a new law benefits the affected person.",
+        "The Advisory Commission against Disinformation was established with the aim of advising the MSTKI, and the Ministry Secretary- General of the Government, on aspects that allow for the analysis of the phenomenon at a global and local level, specifically concerning the study and analysis of disinforma",
+        "21,180 for the Digital Transformation of the State was published, establishing a comprehensive modernization regime for the public sector."
+      ],
+      "gaps": [
+        "Although not explicitly stated, these working groups aimed for inclusive representation.",
+        "The current legislation has the following shortcomings: • The scope of application lacks clarity, with ambiguous definitions for areas such as domestic data and foreign service providers operating in Chile from other countries.",
+        "• The definition of personal data is both insufficient and broad, encompassing any information related to an identified or identifiable natural person, making it challenging to distinguish from statistical data.",
+        "• Inadequate limitations on the use and treatment of personal data by public entities.",
+        "• A weak enforcement system due to ineffective procedures, insufficient penalties, and an inadequate responsible authority.",
+        "However, the current Act does not include mechanisms for notifying data owners, requirements for data fidelity and transparency, data minimization requirements and impact assessments of the law’s application.",
+        "The lack of a unified authority has been a major critique of the current regulation.",
+        "Furthermore, public sector bodies must collaborate by providing the information requested by each other through electronic media, and explicit user consent is only needed for sensitive personal data.",
+        "Although PISEE 2 is a recently implemented platform, it serves as an upgraded version of PISEE 1 from 2006, addressing the weaknesses identified in the assessment of the previous iteration.",
+        "This collaboration incorporated improvements considering the emergence of new technologies and the public bodies’ needs to meet citizen expectations."
+      ],
+      "key_stats": [
+        {
+          "stat": "$32 million",
+          "context": "185 initiatives, with a budget of CLP 26 billion allocated for public investment (approximately US$32 million) (MSTKI, 2021b). Examples of these initiatives encompass the adaptation and enhancement of",
+          "value": 32000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "ranked 74th in the",
+          "context": "consumers whether an AI system is being deployed or not. DATA PROTECTION AND PRIVACY LAWS Chile is ranked 74th in the Global Cybersecurity Index 2020 by the International Telecommunication Union, plac"
+        },
+        {
+          "stat": "2019, Law No",
+          "context": "g the promotion and attraction of talent for digital transformation with high-performance teams. In 2019, Law No. 21,180 for the Digital Transformation of the State was published, establishing a compr",
+          "year": "2019"
+        }
+      ],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Social and cultural dimensions are crucial to assessing ethical components in AI systems deployment, such as mechanisms to avoid the eruption of biases in the whole AI system lifecycle and the creation of a fair and inclusive AI ecosystem.",
+        "In this regard, this section addresses topics such as the inclusion of women in the science, technology, engineering, mathematics (STEM) and AI development environment, as well as the incorporation of social and cultural diversity to ensure the ethical application of AI.",
+        "Additionally, it includes the level of acceptance and attitudes of the general public towards AI, the consideration of environmental and sustainable criteria, health, social well-being and culture in the creation of AI solutions.",
+        "The percentage of households residing in urban areas with internet access was 89.23% in 2017, whereas only 76.69% had access in rural areas according to Organisation for Economic Co-operation and Development (OECD) data (OECD, 2023a).",
+        "In terms of mobile data consumption rates, according to the OECD, Chile is among the top 10 countries in terms of usage (OECD, 2023b).",
+        "To reduce the gender digital divide, Chile introduced a National Policy for Gender Equality in Science, Technology, Knowledge, and Innovation in 2021, published under Decree No.",
+        "The effectiveness of this Policy has not been evaluated to date.",
+        "The plan encompasses a Connectivity Regulation axis, which includes pending legislation on this matter; Digital Infrastructure, encompassing last-mile projects, connectivity for education, fibre-optic projects, WiFi Chilegob, and 5G deployment; Our Projects, grouping a Demand Subsidy; and Connectivi"
+      ],
+      "strengths": [
+        "To reduce the socioeconomic or urban-rural digital divide, Chile recently launched the Zero Digital Divide Plan 2022-2025 (Subtel, 2022).",
+        "HEALTH AND SOCIAL WELLBEING The Ministry of Health of Chile has established the Department of Digital Health as part of its Digital Health Strategy, aiming to enhance medical care and health management through the implementation of digital technologies in the country’s healthcare systems.",
+        "• In 2013, the E-Health 2011-2020 roadmap was established, incorporating new projects addressing specialised architectures, telemedicine, and other innovative projects.",
+        "• In 2019, the Department of Digital Health was created and installed, and with the pandemic, regulations for remote care were established."
+      ],
+      "gaps": [
+        "DIVERSITY, INCLUSION AND EQUALITY The gender gap in Internet usage in Chile is nearly non-existent, with an Internet Gender Gap Index of 1, indicating fully equitable access between genders (Digital Gender Gaps).",
+        "Internet Gender Gap Index 0 0,1 0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9 1 2019 - 04 2019 - 08 2019 - 12 2020 - 04 2020 - 08 2020 - 12 2021 - 04 2021 - 08 2021 - 12 2022 - 04 2022 - 08 2022 - 12 2023 - 04 2023 - 08 Internet Gender Gap Index - Combined 0 0,1 0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9 1 2019 - 04 2019 - ",
+        "Regarding the gender gap among graduates of higher education STEM programs, the sub-indicator of STEM attainment percentage from the Global Gender Gap Report (WEF, 2021) reveals a significant gap in Chile, with 6.76% for women and 38.61% for men.",
+        "Regarding diversity within AI-related groups, there is currently no law in Chile that promotes it, although it is considered within the objectives of the NAIP.",
+        "However, government contract holders are required to comply with diversity-related regulations under Public Procurement Directive No.",
+        "Although these are non-binding recommendations or guidelines for buyers, once incorporated into the purchasing processes, they become obligatory for the procuring agency.",
+        "However, universities do provide such resources.",
+        "Likewise, there is no online data available for training AI systems in indigenous languages of the country, although there is currently a project under development led by the Internet Society (ISOC).",
+        "ENVIRONMENTAL AND SUSTAINABILITY POLICIES Currently, Chile does not have a specific policy to address the impact of AI on the environment and sustainability, although the NAIP covers it and is considered within the current updating process.",
+        "However, the NAIP specifically suggests amending Law 19,300, the General Bases for the Environment, to address energy efficiency in systems incorporating AI."
+      ],
+      "key_stats": [
+        {
+          "stat": "89.23% in",
+          "context": "igital Gender Gaps). The percentage of households residing in urban areas with internet access was 89.23% in 2017, whereas only 76.69% had access in rural areas according to Organisation for Economic ",
+          "value": 89.23,
+          "unit": "%"
+        },
+        {
+          "stat": "76.69% had access in rural areas acco",
+          "context": "entage of households residing in urban areas with internet access was 89.23% in 2017, whereas only 76.69% had access in rural areas according to Organisation for Economic Co-operation and Development ",
+          "value": 76.69,
+          "unit": "%"
+        },
+        {
+          "stat": "69.5% in urban areas and",
+          "context": "and Combined. https://www.digitalgendergaps.org/ By 2022, access to high-speed fixed networks was 69.5% in urban areas and 10.1% in rural areas. Chile ranks among the highest global standards for spee",
+          "value": 69.5,
+          "unit": "%"
+        },
+        {
+          "stat": "10.1% in rural areas",
+          "context": "w.digitalgendergaps.org/ By 2022, access to high-speed fixed networks was 69.5% in urban areas and 10.1% in rural areas. Chile ranks among the highest global standards for speed on these networks (Spe",
+          "value": 10.1,
+          "unit": "%"
+        },
+        {
+          "stat": "100% in urban areas and",
+          "context": ", 2023). When adding the usage rate of mobile networks to fixed networks, the total reaches nearly 100% in urban areas and 78% in rural areas, where at least one household member has access (CASEN, 20",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "78% in rural areas",
+          "context": "usage rate of mobile networks to fixed networks, the total reaches nearly 100% in urban areas and 78% in rural areas, where at least one household member has access (CASEN, 2022). In terms of mobile d",
+          "value": 78.0,
+          "unit": "%"
+        },
+        {
+          "stat": "6.76% for women and",
+          "context": "percentage from the Global Gender Gap Report (WEF, 2021) reveals a significant gap in Chile, with 6.76% for women and 38.61% for men. Additionally, the proportion of males studying science or mathemat",
+          "value": 6.76,
+          "unit": "%"
+        },
+        {
+          "stat": "38.61% for men",
+          "context": "e Global Gender Gap Report (WEF, 2021) reveals a significant gap in Chile, with 6.76% for women and 38.61% for men. Additionally, the proportion of males studying science or mathematics and aspiring t",
+          "value": 38.61,
+          "unit": "%"
+        },
+        {
+          "stat": "38.1% and",
+          "context": "thematics and aspiring to work as STEM professionals at age 30 is greater than that of females, at 38.1% and 22.7%, respectively (OECD, 2019a). These perception gaps don’t correlate with science ### P",
+          "value": 38.1,
+          "unit": "%"
+        },
+        {
+          "stat": "63% of Chileans believe that",
+          "context": "-Government Knowledgebase. Online Service Index (OSI). Finally, according to the 2022 Ipsos survey, 63% of Chileans believe that “Products and services that use AI have more benefits than drawbacks.” ",
+          "value": 63.0,
+          "unit": "%"
+        },
+        {
+          "stat": "76% claim to have a good understan",
+          "context": "s believe that “Products and services that use AI have more benefits than drawbacks.” Furthermore, 76% claim to have a good understanding of what AI is, 70% believe that AI products and services make ",
+          "value": 76.0,
+          "unit": "%"
+        },
+        {
+          "stat": "70% believe that AI products and s",
+          "context": "more benefits than drawbacks.” Furthermore, 76% claim to have a good understanding of what AI is, 70% believe that AI products and services make life easier, and only 36% feel nervous about AI product",
+          "value": 70.0,
+          "unit": "%"
+        },
+        {
+          "stat": "36% feel nervous about AI products",
+          "context": "understanding of what AI is, 70% believe that AI products and services make life easier, and only 36% feel nervous about AI products (IPSOS, 2022). ENVIRONMENTAL AND SUSTAINABILITY POLICIES Currently,",
+          "value": 36.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Given that the scientific and educational components significantly contribute to the advancement of AI, evaluating them becomes a pertinent method to assess a country’s readiness for AI development.",
+        "The scientific aspect is gauged by the country’s performance in research and innovation (R&I), comprising research and development (R&D) expenditure, research output, ethical AI research and AI talent innovation output.",
+        "Conversely, the educational aspect is assessed through the country’s performance in educational aspects such as educational strategy, educational infrastructure, curriculum content, educational attainment and public access to AI education.",
+        "Further, its GERD in natural science and engineering was approximately 0.35% of GDP in 2015, the most recent data available according to the OECD.",
+        "Additionally, the estimated budget for the implementation of the National AI Policy is USD 32 million over a period of 10 years.",
+        "According to OECD data since the year 2000, the total number of publications in AI and related topics would be 18,491, which corresponds to 0.095 per 100 inhabitants for that period (OECD.AI, 2022).",
+        "The following table shows the annual numbers of AI-related publications based on the data of CENIA (2023) and the OECD: Table 1.",
+        "Annual number of publications on AI (Sources: CENIA and OECD) YEAR CENIA OECD 2012 201 757 2013 239 910 2014 265 957 2015 316 1,107 2016 330 1,144 2017 381 1,254 2018 394 1,298 2019 426 1,351 2020 465 1,603 2021 541 1,863 2022 458 1,383 2023 87 - TOTAL 4.103 13,627 Total per 100 inhabitants, populat"
+      ],
+      "strengths": [
+        "https://www.datacentermap.com/chile/ Chile has established various regulations for cloud-based AI computing within the public sector."
+      ],
+      "gaps": [
+        "Furthermore, although there is no estimate of government funding for research and development in AI in Chile, the State has funded a total of CLP 11.64 billion in AI projects since 1991, of which CLP 3.2 billion correspond to AI research projects since 1995 (MSTKI, 2022).",
+        "Although both sources are based on OpenAlex data, the criteria of labelling and type of publications considered can vary.",
+        "Number of citations for publications related to AI per year YEAR CITATIONS 2012 4,017 2013 4,743 2014 5,776 2015 6,493 2016 7,176 2017 8,503 2018 9,382 2019 12,844 ### Page 29 28 YEAR CITATIONS 2020 14,758 2021 19,393 2022 18,753 2023 3,651 Although there isn’t a defined number of AI ethics conferen",
+        "However, the Ministry of Education and the Undersecretariat of Telecommunications are implementing a Digital Transformation strategy to bridge gaps in access to technological resources, connectivity, and skills development in educational communities.",
+        "This involves a series of initiatives to close the gap in access to technological resources, connectivity, and digital skills development.",
+        "There are also courses on AI ethics for the general population, although these are often offered within university programmes that require payment.",
+        "LABOUR MARKETS Although there is no specific data on the percentage of job postings that require AI-related skills in Chile, the Relative AI Hiring Index is available, which measures the growth of hiring in AI-related areas."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.34% of its gross domestic product",
+          "context": "ation. RESEARCH AND INNOVATION Chile had a gross expenditure in research and development (GERD) of 0.34% of its gross domestic product (GDP) in 2020 according to OECD. Further, its GERD in natural sci",
+          "value": 0.34,
+          "unit": "%"
+        },
+        {
+          "stat": "0.35% of GDP in",
+          "context": "in 2020 according to OECD. Further, its GERD in natural science and engineering was approximately 0.35% of GDP in 2015, the most recent data available according to the OECD. Therefore, Chile is among ",
+          "value": 0.35,
+          "unit": "%"
+        },
+        {
+          "stat": "88% of state",
+          "context": "ntry. Currently, coverage has been achieved for 9,349 educational establishments, corresponding to 88% of state-subsidised institutions. 2. Educational Digital Infrastructure. This involves a series o",
+          "value": 88.0,
+          "unit": "%"
+        },
+        {
+          "stat": "21.41% in",
+          "context": "egarding educational attainment, the percentage of STEM programme graduates in higher education was 21.41% in 2020, and 3.41% for Information and Communication Technologies programme graduates in the ",
+          "value": 21.41,
+          "unit": "%"
+        },
+        {
+          "stat": "3.41% for Information and Communicat",
+          "context": "attainment, the percentage of STEM programme graduates in higher education was 21.41% in 2020, and 3.41% for Information and Communication Technologies programme graduates in the same period (UNESCO, ",
+          "value": 3.41,
+          "unit": "%"
+        },
+        {
+          "stat": "18%\nSource",
+          "context": "/A Jamaica 56% 14% 2% 95  3 Guatemala 6% 10% 32% 96  8 Puerto Rico 27% 4% 14% 97  4 Panama 2% 9% 18% Source: Coursera Global Skills Report 2022. Lastly, Chile offers technical AI courses aimed at t",
+          "value": 18.0,
+          "unit": "%"
+        },
+        {
+          "stat": "5% increase in hiring compared to",
+          "context": "elated areas. In 2022, Chile shows an index of 1.05, indicating that in December 2022, there was a 5% increase in hiring compared to the reference year (2016). The graph 1 below shows the evolution of",
+          "value": 5.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.72% in",
+          "context": "skills is 0.27508 according to LinkedIn data for 2015-2021, while the talent concentration in AI is 0.72% in 2022 according to OECD data (OECD.AI, 2022). Talent concentration varies depending on the i",
+          "value": 0.72,
+          "unit": "%"
+        },
+        {
+          "stat": "1.5% in education",
+          "context": "ccording to OECD data (OECD.AI, 2022). Talent concentration varies depending on the industry, being 1.5% in education, 0.22% in manufacturing, 1.67% in professional services, 1.16% in ICT and 0.98% in",
+          "value": 1.5,
+          "unit": "%"
+        },
+        {
+          "stat": "0.22% in \nmanufacturing",
+          "context": "ta (OECD.AI, 2022). Talent concentration varies depending on the industry, being 1.5% in education, 0.22% in manufacturing, 1.67% in professional services, 1.16% in ICT and 0.98% in financial services",
+          "value": 0.22,
+          "unit": "%"
+        },
+        {
+          "stat": "1.67% in professional services",
+          "context": "t concentration varies depending on the industry, being 1.5% in education, 0.22% in manufacturing, 1.67% in professional services, 1.16% in ICT and 0.98% in financial services. In terms of gender, tal",
+          "value": 1.67,
+          "unit": "%"
+        },
+        {
+          "stat": "1.16% in ICT and",
+          "context": "on the industry, being 1.5% in education, 0.22% in manufacturing, 1.67% in professional services, 1.16% in ICT and 0.98% in financial services. In terms of gender, talent concentration in AI is 0.43% ",
+          "value": 1.16,
+          "unit": "%"
+        },
+        {
+          "stat": "0.98% in financial services",
+          "context": "being 1.5% in education, 0.22% in manufacturing, 1.67% in professional services, 1.16% in ICT and 0.98% in financial services. In terms of gender, talent concentration in AI is 0.43% for women and 0.9",
+          "value": 0.98,
+          "unit": "%"
+        },
+        {
+          "stat": "0.43% for women and",
+          "context": "s, 1.16% in ICT and 0.98% in financial services. In terms of gender, talent concentration in AI is 0.43% for women and 0.93% for men (OECD.AI, 2022). ### Page 32 31 Figure 8. AI Talent Concentration C",
+          "value": 0.43,
+          "unit": "%"
+        },
+        {
+          "stat": "0.93% for men",
+          "context": "0.98% in financial services. In terms of gender, talent concentration in AI is 0.43% for women and 0.93% for men (OECD.AI, 2022). ### Page 32 31 Figure 8. AI Talent Concentration Chile 0 0,1 0,2 0,3 0",
+          "value": 0.93,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "For data management in the State Administration, the State Data Management Strategy was published for public consultation in 2023.",
+        "The goal of the Strategy is to establish the foundations for effectively managing government data, generating value for institutions and citizens.",
+        "To achieve this, the plan is to use DAMA (Data Management) as a reference framework, in an adapted version, to guide public sector entities in implementing data governance.",
+        "Regarding data publication, according to the CFT, there is no law that establishes the duties of public agencies and how open data is disclosed.",
+        "Likewise, some Municipalities have initiated their own development of local government AI policies and initiatives for stimulating the development of AI at the local level.",
+        "Academia is also a relevant actor within the AI ecosystem, due to the research and development of projects on AI-related topics carried out by universities and research centres.",
+        "Some examples include CENIA, a research centre aimed at promoting AI development in Chile; the Pontifical Catholic University of Chile, which has developed study programs on AI regulation; the Adolfo Ibáñez University, whose research centre on AI ethics has collaborated with the public sector in the",
+        "Companies and the private sector also actively contribute to the AI ecosystem, usually through the development of AI solutions and by participating in discussions regarding AI initiatives in the public space."
+      ],
+      "strengths": [
+        "The MSKTI, in collaboration with UNESCO, established six thematic areas of discussion relevant to the AI agenda for the coming years: 1.",
+        "A better understanding of reality and connection with citizens could enhance resource prioritisation and the generation of innovative ideas.",
+        "Advanced data analysis techniques could be used to plan and execute more sustainable projects in sectors such as energy, water, and agriculture.",
+        "Conclusions Based on the discussions held within the thematic panels, several recurring themes and converging opinions regarding the opportunities and challenges identified by actors in Chile’s local AI ecosystem can be established.",
+        "AI not only promises deeper analysis but also the creation of innovative channels for detecting regulatory violations and combating corruption.",
+        "Education about AI emerges as a priority, ranging from basic literacy to advanced training in human capital.",
+        "The NAIP defined a governance structure and established an Action Plan with priorities in public policy initiatives."
+      ],
+      "gaps": [
+        "Some of the commitments made in the policy published in 2021 have been implemented or are in progress during the current administration, despite a change of government in 2022.",
+        "However, it was emphasised that excessive reliance on AI algorithms should be avoided to ensure system resilience, as potential failures could result in widespread and high-impact problems.",
+        "Although AI introduces challenges related to misinformation, it can also become a crucial tool in its combat.",
+        "This suggests the need to establish flexible and experimental spaces, such as regulatory sandboxes, and to find alternatives to strict regulations.",
+        "The need for transparency and explainability in algorithms was emphasised so that citizens could understand and appeal decisions made.",
+        "Fourthly, it was observed that state capabilities to implement AI are still insufficient.",
+        "The lack of infrastructure and competencies in ministries affects the adoption and control of technology.",
+        "There was a discussion about the need to train officials at different levels, from AI literacy to the management of technological projects.",
+        "Although concerns persist about the replacement of human roles by algorithms, the potential benefit of AI as a complement is recognized.",
+        "The need for clear regulations in this regard was raised by attendants."
+      ],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "CENIA National Centre of Artificial Intelligence of Chile.",
+        "NAIP National Artificial Intelligence Policy.",
+        "AI-based tools and applications make our lives easier, smoother, and richer.",
+        "But in its current form, AI reproduces and amplifies many of the social challenges we face.",
+        "Upstream, the AI industry is highly concentrated, with just two countries – the United States and China – and a dozen companies accounting for a major share of the sector.",
+        "Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children and young people, women, or entire democracies.",
+        "We need capable governments that are well equipped, in terms of competencies, institutions and laws, to frame responsible AI development and protect the rule of law online, and public and private developers who are accountable for putting human rights and fundamental freedoms – not profits or geopol",
+        "The Readiness Assessment Methodology (RAM) is a diagnostic tool intended to assist Member States in upholding their commitment to the Recommendation by helping them understand how prepared they are to implement AI ethically and responsibly for all their citizens."
+      ],
+      "strengths": [
+        "That is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 countries to make sure AI delivers fair, sustainable, and inclusive outcomes.",
+        "The RAM questionnaire forms the basis for the first section of this readiness assessment report, providing a comprehensive but detailed overview of laws, institutions, and the cultural, social, and human capital landscape shaping AI.",
+        "We see these opportunities and concerns reflected in the final section of this report, which presents a set of comprehensive yet focused recommendations that span the different dimensions of the RAM and the key areas of regulation, institutional frameworks, and capacity building.",
+        "In relation to strengthening Chile’s institutional framework, recommendations include updating the NAIP, collecting more data on AI use, and innovative proposals such as formulating AI strategies at the municipal level to suit local priorities, and convening a working group to assess the impact of A",
+        "These initiatives and Chile’s engagement with them have been state-of-the-art – pioneering ethical AI governance globally – and I am sure they will contribute to AI technology that delivers fair, sustainable, and inclusive outcomes.",
+        "Gabriela Ramos Assistant Director-General for Social and Human Sciences, UNESCO ### Page 11 10 Executive Summary In November 2021, 193 Member States of UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence.",
+        "While Chile has identified potential ethical challenges associated with the design and use of AI through its ethical component, it recognises the necessity to update some of its policies to align with the UNESCO Recommendation on the Ethics of AI, promoting a more comprehensive approach to the ethic",
+        "Chile exhibits a robust body of legal and policy instruments designed to promote AI development, transparency, due process, public procurement, and capacity-building, among other aspects.",
+        "The MSKTI, in collaboration with UNESCO, established six thematic areas of discussion relevant to the AI agenda for the coming years: 1.",
+        "Chile has exhibited notable characteristics, including high performance in various indexes, a robust local AI ecosystem, a well- established strategy and a remarkable continuity in its national strategy across two different coalition governments."
+      ],
+      "gaps": [
+        "It is not acceptable that around half of the world’s population still lacks adequate internet access.",
+        "The Recommendation also sets out concrete policy actions that governments can draw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which has until now remained the norm, is insufficient.",
+        "Notably, the RAM reveals the pressing need to update legislation around data protection and cybersecurity to meet the challenges of AI.",
+        "Rules for government procurement of AI systems, disinformation, and redress mechanisms for harms caused by AI systems do not yet exist, although some measures to address these are underway.",
+        "The RAM also underlines significant gender gaps in STEM, although here again policy measures and various programs are being developed to promote diversity and inclusiveness.",
+        "There is also not yet a specific policy to address the impacts of AI on the environment, or for the use of AI in the preservation of cultural heritage or indigenous languages.",
+        "While there is not yet a specific policy on AI in education, a strategy is being implemented to bridge gaps in access to technology, connectivity and skills, and the government is also developing a national labour prospects strategy that will consider the impacts of AI on jobs.",
+        "On the one hand are clear concerns for the future, particularly in areas such as privacy and surveillance, the need for transparency, and the potential impact on jobs.",
+        "It also acknowledges the need to intensify efforts in preventing and measuring the social impacts of AI, along with establishing effective governance mechanisms to implement AI policies.",
+        "However, there is room for improvement in areas related to personal data protection and data sharing."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.34% of GDP in",
+          "context": "### Page 10 9 dimension reveals comparatively low public expenditure on research and development (0.34% of GDP in 2020) compared with other OECD countries, but Chile enjoys a high level of mobile and ",
+          "value": 0.34,
+          "unit": "%"
+        },
+        {
+          "stat": "46\nInstitution",
+          "context": "s 45 Utilise soft regulations and guidelines for the adoption of ethical principles in AI systems 46 Institutional Framework 46 Improve data collection and statistics on the use of AI 46 Development o"
+        },
+        {
+          "stat": "ranked 75th in the",
+          "context": "Chilean government is actively working to develop. For example, in the case of open data, Chile is ranked 75th in the Open Data Inventory, but is a signatory of the International Open Data Charter and"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "While there is not yet a specific policy on AI in education, a strategy is being implemented to bridge gaps in access to technology, connectivity and skills, and the government is also developing a national labour prospects strategy that will consider the impacts of AI on jobs.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "However, several educational policies are currently being implemented to address this issue.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The goal of this project is to establish a legal framework for the development, commercialization, distribution, and use of AI systems while safeguarding the fundamental rights recognized by the State of Chile.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Moreover, there is no existing obligation to inform citizens or consumers whether an AI system is being deployed or not.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Although PISEE 2 is a recently implemented platform, it serves as an upgraded version of PISEE 1 from 2006, addressing the weaknesses identified in the assessment of the previous iteration.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The current Agenda is built on State modernization initiatives and the enhancement of digital competences within the public sector from previous years.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The country’s digital health policy has been shaped by a series of initiatives over nearly twenty years: • In 2006, Chile published the Blue Book outlining a digital health agenda and implemented various policies like the 5D Roadmap, the Network Assistance Information System (SIDRA), Health Responds, among others.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The economic dimension considers relevant aspects within the ecosystem in which AI systems are developed and deployed, such as those related to the labour market, intermediate consumption and investment and production for AI.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "The dynamism and qualification level of the labour market, along with the level of spending on intermediate consumption and investment and production, are crucial aspects for evaluating the performance and readiness of the specific ecosystems in which AI is deployed.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "Some of the commitments made in the policy published in 2021 have been implemented or are in progress during the current administration, despite a change of government in 2022.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Likewise, it was recognized that AI could contribute to the formulation of public policies and regulations, fostering citizen participation and collaboration with experts.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Although concerns persist about the replacement of human roles by algorithms, the potential benefit of AI as a complement is recognized.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Although addressing this issue is complex due to the influence of large companies in the Global North, its importance was recognized.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• Colombia: The government created a supervised space where firms can develop AI tools that are privacy preserving.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• Korea: A group of four ministries related to economy, science and technology created a sandbox that can provide regulatory waivers to test products, services and business models.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Additionally, it is recommended to create early assessment mechanisms to monitor the effectiveness of implemented measures and the degree of compliance with the proposed objectives.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Timeframe: 2024 and 2025 Assess the impact of AI and automation on the workforce and define job retraining plans The Ministry of Labour and Social Welfare has initiated a forward-looking process and established a multi-stakeholder working group to address the future of work.",
+      "dimension": "social_cultural"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 89.23,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.34,
+      "unit": "% GDP",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 5972,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "executive_summary": "3\nTable of Contents\nAcknowledgements\t\nii\nAcronyms and Abbreviations\t\n6\nForeword\t\n8\nExecutive Summary\t\n10\nDiagnosis Of The National AI Landscape\t\n13\nLegal And Regulatory \t\n15\nAI Policy and Regulation\t\n15\nData Protection and Privacy Laws\t\n16\nProcurement Laws and Policies \t\n18\nFreedom of Information Acts and Access to Knowledge Acts\t\n18\nDue Process and Accountability\t\n19\nOnline Safety and Integrity of Speech\t\n20\nPublic Sector Capacity \t\n20\nSocial And Cultural\t\n22\nDiversity, Inclusion and Equality\t\n22\nPublic Engagement and Trust\t\n23\nEnvironmental and Sustainability Policies \t\n24\nHealth and Social Wellbeing\t\n24\nCulture\t\n25\n\nScientific And Educational\t\n26\nResearch and Innovation \t\n26\nEducation\t\n28\nEconomic \t\n30\nLabour Markets\t\n30\nIntermediate Consumption \t\n31\nInvestments and Output \t\n31\nTechnical And Infrastructural \t\n32\nInfrastructure and Connectivity\t\n32\nApplied Standards\t\n32\nComputing Capabilities \t\n32\nStatistical Performance\t\n33\nDeveloping A National AI Multi‑Stakeholder Roadmap\t\n35\nDiscussions On The Future Of AI In Chile\t\n36\n The Future of Work and AI\t\n37\nOpportunities\t\n37\nChallenges\t\n37\nThe Future of Democracy and AI\t\n37\nOpportunities\t\n37\nChallenges\t\n38\nThe Future of AI in Government\t\n38\nOpportunities\t\n38\nChallenges\t\n38\nThe Future of Human-AI Interaction in Health, Education, and Security\t\n39\nOpportunities\t\n39\nChallenges\t\n39\nThe Future of Regulation and Artificial Intelligence\t\n40\nOpportunities\t\n40\nChallenges\t\n40\nThe Future of the Environment and Artificial Intelligence\t\n40\nOpportunities\t\n40\nChallenges\t\n41\nConclusions\t\n41\n\n5\nNational AI Strategy: Main Policy Recommendations\t\n42\nRegulation\t\n43\nAssign urgency to the updating of the Personal Data Protection Law and the Cybersecurity and Information Critical Infrastructure Bill\t\n43\nCreate a multi-stakeholder and adaptive governance for AI regulation\t\n43\nExplore Regulatory Experimentation Mechanisms (e.g., Sandboxes) for the Application of AI in Critical Areas\t\n44\nPromote ethical principles of AI through purchasing regulations and standards\t\n45\nUtilise soft regulations and guidelines for the adoption of ethical principles in AI systems\t\n46\nInstitutional Framework\t\n46\nImprove data collection and statistics on the use of AI\t\n46\nDevelopment of AI Strategies for Local Governments\t\n47\nUpdate Chile’s National AI Policy (NAIP) and Action Plan\t\n47\nModification of the NAIP’s Action Plan\t\n47\nUpdate the institutional framework and governance of the NAIP\t\n48\nCreate early assessment mechanisms for the implementation of the NAIP\t\n48\nCapacity Building\t\n48\nDevelopment of Human Capital in AI\t\n48\nAttract investments in AI technological infrastructure and promote discussion on its environmental impacts.\t\n49\nAssess the impact of AI and automation on the workforce and define job retraining plans\t\n50\nPromotion of Diversity, Inclusion and Gender Equality in STEM\t\n50\nTraining for Local Government Officials on the Ethical Use of AI and development of Certifications for AI Use in Government\t\n50\nCreation of a Working Group to Assess the Impact of AI on Culture\t\n51\nStudy the perception and trust in the use of AI in the public and private sectors\t\n51\nEnhance the Country’s AI Patent Ecosystem\t\n51\nEnhancing Participation in International Standardisation Processes\t\n52\n\n6\nAcronyms and Abbreviations\nAI\t\nArtificial Intelligence.\nANID\t\nNational Agency for Research and Development.\nCENIA\t\nNational Centre of Artificial Intelligence of Chile.\nCFT\t\nCouncil for Transparency.\nDGD\t\nDigital Government Division of Chile.\nDIPRES\t\nChile’s Budget Direction.\nETO\t\nEmerging Technology Observatory.\nGBARD\t\nGovernment Budget Allocations for R&D.\nGDP\t\nGross Domestic Product.\nGERD\t\nGross Expenditure in Research and Development.\nIADB\t\nInter-American Development Bank.\nIODC\t\nInternational Open Data Charter.\nISOC\t\nInternet Society.\nLAC\t\nLatin America and the Caribbean.\nMEDT\t\nMinistry of Economy, Development, and Tourism.\nMSC\t\nMinisterial Steering Committee.\nMSCSTKI\t\nMinisterial Steering Committee of Science, Technology, Knowledge, and Innovation.\nMSDF\t\nMinistry of Social Development and Family.\nMSTKI\t\nMinistry of Science, Technology, Knowledge and Innovation.\nNAIP\t\nNational Artificial Intelligence Policy.\nNGO\t\nNon-Government Organisation.\nODIN\t\nOpen Data Inventory.\nOECD\t\nOrganisation for Economic Co-operation and Development.\nOGP\t\nOpen Government Partnership.\nPCR\t\nPolitical Constitution of the Republic of Chile.\nPPP\t\nPurchasing Power Parity.\nRAM\t\nReadiness Assessment Methodology.\n\n7\nR&D\t\nResearch and Development.\nR&I\t\nResearch and Innovation.\nSDGs\t\nSustainable Development Goals.\nSEGPRES\t\nMinistry General Secretariat of the Presidency.\nSENCE\t\nNational Training and Employment Service.\nSEREMI\t\nRegional Ministerial Secretariats.\nSTEM\t\nScience, Technology, Engineering and Mathematics.\nSUBDERE\t\nUndersecretariat of Administrative and Regional Development.\nSUBTEL\t\nUndersecretariat of Telecommunications.\n\n8\nForeword\nWe have officially entered the Age of Artificial Intelligence. The world is now set to change at a pace not seen i",
+  "recommendations": [
+    {
+      "number": 43,
+      "title": "REGULATION This section includes recommendations based on the gaps identified in the legal section of the RAM, the discussions held with different stakeholders during the participatory sessions, and t",
+      "text": "REGULATION This section includes recommendations based on the gaps identified in the legal section of the RAM, the discussions held with different stakeholders during the participatory sessions, and the legal initiatives currently being discussed in Chile. The recommendations include both legal and regulatory actions for the short and medium term, including the responsible institutions for their implementation. Assign urgency to the updating of the Personal Data Protection Law and the Cybersecurity and Information Critical Infrastructure Bill The safeguarding of personal data is regarded as a fundamental element in ensuring the effective adherence to the principles and values outlined in UNESCO’s Recommendations. The diagnostic process conducted during the implementation of the RAM raised concerns about the outdated nature of Chile’s current legislation concerning the protection of personal data. Furthermore, ensuring a secure digital ecosystem for the development and ethical use of AI requires addressing cybersecurity threats and treating information as a critical infrastructure. In this regard, two pieces of legislation currently being discussed in parliament should be given urgent priority. The first is the bill that regulates the protection and processing of personal data and creates the Personal Data Protection Agency (bulletins 11144-07 and 11092-07, currently in its third constitutional process). Chile has signed international commitments to update this law, which is vital for ensuring an adequate protection of people’s rights against potential risks in digital environments. The second legislation is the Framework Law on Cybersecurity and Critical Information Infrastructure (bulletin 14847-06, in the second constitutional process), which creates the National Cybersecurity Agency with regulatory, supervisory and sanctioning powers for state agencies and private institutions. This piece of legislation is necessary for the deployment of tools and AI systems digi",
+      "dimension": "Capacity Building",
+      "start_page": 0
+    },
+    {
+      "number": 44,
+      "title": "5. Equity and Non-Discrimination: Measures to promote and ensure equity and non-discrimination. 6. Technical and Ethical Standards: Standards that companies and organisations must adhere to when devel",
+      "text": "5. Equity and Non-Discrimination: Measures to promote and ensure equity and non-discrimination. 6. Technical and Ethical Standards: Standards that companies and organisations must adhere to when developing and using AI systems. 7. Creation of an independent body responsible for issuing guidelines and best practices, monitoring and auditing assessments and ensuring overall compliance with the law. In the context of establishing this organisation, it is advisable to initiate discussions with both the legislative branch and the public regarding the importance and specifics of a particular AI bill. To inform these discussions, a comprehensive study should be conducted to examine how AI regulation is evolving in the European Union, the United States, China and other countries that have made significant progress in this area. This analysis should pay particular attention to how these countries are implementing the principles outlined in the UNESCO Recommendation. It is worth noting that global practices vary, with some countries employing specialised agencies, ministries, public-private partnerships, and other approaches. Therefore, we must carefully consider the most suitable approach for Chile’s specific circumstances. Responsible Institutions: MSTKI Timeframe: 2023 – 2024 Explore Regulatory Experimentation Mechanisms (e.g., Sandboxes) for the Application of AI in Critical Areas Regulation can arrive late in rapidly developing technological fields, such as AI, and can increase the costs of innovation if it is overregulated. Therefore, It is recommended to promote regulatory experimentation initiatives which allow for the creation of controlled and secure environments in which companies and organisations can test and refine AI solutions with a certain degree of regulatory certainty. Among the different possibilities for regulatory experimentation, the sandbox has garnered more experience in the Latin American context, as years of experience have been accumulated in Colom",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 45,
+      "title": "Table 5. Example cases of Sandboxes The OECD (2023c) defines regulatory sandboxes as a specific regulatory experimentation tool in which flexibility or waivers are set in place for firms to test new s",
+      "text": "Table 5. Example cases of Sandboxes The OECD (2023c) defines regulatory sandboxes as a specific regulatory experimentation tool in which flexibility or waivers are set in place for firms to test new systems with reduced requirements. Sandboxes include mechanisms to protect users and, since they closely connect firms and officials from governing bodies, can also inform policy development. Some characteristics of sandboxes are their temporary nature, trial-and-error approach and collaboration between multiple stakeholders. However, there is no one specific definition nor shape that sandboxes take since they are very context-dependent. Some examples of sandboxes that can inform and inspire the Chilean case are: • Brazil: Recently, the Brazilian National Data Protection Authority opened a call for proposals to create a regulatory sandbox to increase algorithmic transparency, foster AI responsible innovation and inform AI regulation (ANPD, 2023). • Colombia: The government created a supervised space where firms can develop AI tools that are privacy preserving. The sandbox provides a collaborative environment which facilitates testing tools to achieve privacy standards (SIC, 2021). • Korea: A group of four ministries related to economy, science and technology created a sandbox that can provide regulatory waivers to test products, services and business models. While tests are conducted, the data informs government regulation. Since 2019, the sandboxes expanded into special regulation-free zones for some specific sectors and applications (Fintech Center Korea, 2023). Promote ethical principles of AI through purchasing regulations and standards The RAM, in its assessment, highlighted the importance of creating administrative guidelines for procuring data science and AI projects within the public sector as a best practice. Leveraging procurement regulations can be a highly efficient way to integrate key elements of the UNESCO Recommendation in a dynamic manner. With the immin",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 46,
+      "title": "Utilise soft regulations and guidelines for the adoption of ethical principles in AI systems Since changing existing laws often require lengthy discussions, it is recommended to explore the use of sof",
+      "text": "Utilise soft regulations and guidelines for the adoption of ethical principles in AI systems Since changing existing laws often require lengthy discussions, it is recommended to explore the use of soft-regulations such as the use of rules and directives that can guide the public and private sector in the use of ethical principles in AI systems. Such principles include: proportionality, safety and protection, equity and non-discrimination, human oversight and decision-making, transparency and explainability, as well as accountability and responsibility. Drawing from successful national precedents, it is suggested to contemplate the use of instruments such as presidential guidelines to steer the adoption of ethical principles in the deployment of AI systems within government agencies. The establishment of these guidelines within the public sector could serve as a valuable model for applying these principles across various domains. To promote the sharing of knowledge and the dissemination of lessons learned during its implementation, it is recommended to systematically document and publicise both the process and the outcomes of this experience. Responsible Institutions: MSTKI, SEGPRES, Presidency. Timeframe: First semester of 2024.",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 47,
+      "title": "success stories, and examples of responsible AI applications.",
+      "text": "success stories, and examples of responsible AI applications. This platform should incorporate mechanisms for contact, participation, and citizen engagement, facilitating an ongoing relationship between institutional bodies and the broader local AI community. Responsible Institutions: MSTKI, DGD and the Government Laboratory. Timeframe: 2024 - 2025 Development of AI Strategies for Local Governments AI strategies primarily focus on national-level developments, presenting significant challenges at the local government level. Conversely, developing AI systems with an emphasis on local communities provides an opportunity to extend AI beyond major cities. It is recommended to formulate AI strategies at the municipal level, following the lead of cities such as Barcelona or Helsinki. To achieve this, given the heterogeneous nature of municipalities, they should commence by evaluating their preparedness to establish a baseline for reference. Considering that this measure remains relatively novel due to limited comparative experience, it is advisable to collaborate with international organisations to facilitate research and pilot development funding in rural local governments. Responsible Institutions: MSTKI and Undersecretariat of Administrative and Regional Development (SUBDERE, by its name in Spanish). Timeframe: 2024-2026. Update Chile’s National AI Policy (NAIP) and Action Plan Although AI governance and institutional structures are robust, NAIP does not explicitly incorporate UNESCO’s Recommendation principles. Therefore, it is recommended to revise the current NAIP to include these principles and any new initiatives arising from this integration. These updating initiatives and recommendations should be formulated based on the findings during the implementation of the RAM and the respective participation sessions conducted within the same context. In particular, the Axis 3 of the NAIP, which deals with Ethics, Regulatory Aspects and Socioeconomic Impacts of AI, should ",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 48,
+      "title": "Update the institutional framework and governance of the NAIP It is recommended to propose a new institutional formula within the national policy with the explicit mandate to implement the NAIP, overs",
+      "text": "Update the institutional framework and governance of the NAIP It is recommended to propose a new institutional formula within the national policy with the explicit mandate to implement the NAIP, oversee its degree of implementation and define evaluation mechanisms. The international experience showcases various models, including specialised agencies, ministries and public-private consortia, among others. Considering the current Chilean institutional framework, strengthening the existing governance led by MSTKI and formalising the Inter Ministerial Committee with greater faculties than sporadic consultations is suggested. Additionally, studying the formation of a permanent multi-stakeholder body for the development of recommendations on the ethical use of AI is recommended. This body could consist of actors from the public sector, industry, academia and civil society with an advisory role and the dissemination of best practices. Furthermore, this body can support the promotion and dissemination of public processes that require greater citizen participation. Responsible Institution: MSTKI. Timeframe: Last quarter of 2023 and 2024. Create early assessment mechanisms for the implementation of the NAIP Despite Chile having a wide range of ongoing programs for AI development, it still lacks tracking mechanisms to assess the effectiveness of these measures. Based on the findings from the application of the RAM, it is recommended to establish indicators and mechanisms for monitoring and evaluating the Action Plan and the NAIP. Considering the existing instruments in the country, the use of instances such as the Management Improvement Programme (PMG, by its name in Spanish) is recommended to report the fulfilment of committed actions within the public sector. Additionally, collaboration with multilateral organisations to fund the piloting of evaluation and measurement tools for compliance with these initiatives is recommended. It is suggested to include a compliance report f",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 49,
+      "title": "c. Review and Enhance Funding Mechanisms: It is recommended to continually monitor and evaluate the current mechanisms for funding and incentivizing human capital development. Consider reassessing com",
+      "text": "c. Review and Enhance Funding Mechanisms: It is recommended to continually monitor and evaluate the current mechanisms for funding and incentivizing human capital development. Consider reassessing compensation structures for funding instruments that support advanced human capital development. This revision should aim to facilitate international collaboration networks and prevent experts from returning without suitable academic or industry positions. d. Promote Integration of Ph.D. Holders into the Industry: Design, pilot, and implement measures to encourage the integration of Ph.D. holders into the industry, with a particular focus on information technologies, including AI. This may involve initiatives such as tax incentives for companies hiring Ph.D. holders, establishing collaborative Ph.D. programs with industry partners, and offering funding for research internships in the industry, among other strategies. e. Allocate Resources for Industry-University Collaboration: Allocate industry-university collaboration funds to support the digital transformation of industries through the application of AI. Prioritise industries with the most significant gaps in digitalization or those where AI implementation promises the highest productivity gains. f. Attract international conferences on AI: One of the gaps identified during the application of RAM is the absence of relevant international conferences on AI or AI ethics in the national territory. Therefore, it is recommended to provide funding to attract and organise high-level conferences on AI and its ethics in the country. g. Evaluate the Digital Transformation Strategy in Education: Monitor and assess the outcomes of the current Digital Transformation strategy in education to gauge its effectiveness and relevance in building human capital for AI. Based on these evaluations and lessons learned, consider the establishment of specific laws or policies related to the use of AI in the education system. h. Collect and Maintain",
+      "dimension": "Capacity Building",
+      "start_page": 0
+    },
+    {
+      "number": 50,
+      "title": "Establishing research funds focused on the environmental impact of large AI models, poorly optimised AI models and potential mitigation and remediation methods.",
+      "text": "Establishing research funds focused on the environmental impact of large AI models, poorly optimised AI models and potential mitigation and remediation methods. Responsible Institutions: Ministry of Environment, MSTKI, and MEDT. Timeframe: 2024 and 2025 Assess the impact of AI and automation on the workforce and define job retraining plans The Ministry of Labour and Social Welfare has initiated a forward-looking process and established a multi-stakeholder working group to address the future of work. To ensure a smooth transition for workers whose roles are impacted by the introduction of AI tools, it is recommended to expedite and enhance these efforts. Specific measures should be devised in the short term to support affected workers, which may include updates to regulations, considering changes in the working relationship between employees and employers, as well as the allocation of funds to assist individuals in their transition and retraining. Simultaneously, alongside the forward-looking discussions, it is advisable to foster a multi-stakeholder dialogue and establish a national cross-sector agreement on the responsible and ethical use of AI. This agreement should outline principles and commitments from all involved parties, signifying a significant milestone where industry, academia, the public sector, and civil society come together to endorse these principles. Subsequently, guidelines for ethical algorithm use within businesses should be developed, with incentives created to encourage companies to adopt or develop these guidelines as part of their ethical codes. Furthermore, in the context of training and certification, it is essential to broaden the public offerings of AI training. This expansion should encompass modules addressing the ethical and responsible use of AI. Additionally, qualifications frameworks should be reinforced by integrating AI-related topics into the Information Technologies training and employment route. Responsible Institutions: Minist",
+      "dimension": "Capacity Building",
+      "start_page": 0
+    },
+    {
+      "number": 51,
+      "title": "Further, building on initiatives like the study on harmful biases commissioned by the MEDT through APEC and the work on Ethical Algorithms supported by the IADB, it is recommended to create best pract",
+      "text": "Further, building on initiatives like the study on harmful biases commissioned by the MEDT through APEC and the work on Ethical Algorithms supported by the IADB, it is recommended to create best practice guides and certification systems for the use of AI in government. These guides should cover, at a minimum, best practices related to topics such as citizen participation processes, benefit allocation, alert systems and process automation. Additionally, it is advisable to explore the establishment of a certification system for AI solution providers serving the public sector. Responsible Institutions: SUBDERE, DGD, Government Laboratory. Timeframe: 2025-2026. Creation of a Working Group to Assess the Impact of AI on Culture The application of RAM in Chile has highlighted a noticeable absence of the use and measurement of AI in this field. It is recommended to establish a working group that will produce a report on the potential impact of AI, especially in the context of generative AI, on culture and the creative industries. Based on the content of this report, proposals for actions are expected to be developed for the training and retraining of stakeholders in the cultural ecosystem, as well as for fostering new developments using technological tools. It is suggested to discuss methods of regulatory experimentation in the field of culture, addressing the challenge of new intellectual property regimes that align with international agreements in this area. Considering the lack of data in this area during the implementation of RAM, it is recommended to study the opportunities and impacts of AI systems on the preservation of the country’s cultural heritage and to develop a roadmap to leverage the potential of AI and establish recommendations to protect it from potential harm. Additionally, it is recommended to promote the development of open databases for training models in Chilean Spanish and in the dialects of indigenous peoples of the national territory, with the corre",
+      "dimension": "Capacity Building",
+      "start_page": 0
+    },
+    {
+      "number": 52,
+      "title": "Enhancing Participation in International Standardisation Processes The results of the RAM confirm Chile’s limited involvement in international standardisation processes related to AI through ISO.",
+      "text": "Enhancing Participation in International Standardisation Processes The results of the RAM confirm Chile’s limited involvement in international standardisation processes related to AI through ISO. It is recommended to actively pursue participation in ISO’s JTC1 technical and ethical AI committees, moving beyond observer status. Responsible Institution: National Institute of Standardization. Timeframe: 2024. Table 5 summarizes the list of twenty recommendations stemming from this report, including a proposed timeframe to implement in accordance to their priority in advancing UNESCO’s recommendations for implement AI ethically and responsibly for all Chilean citizens. Table 6. List of recommendations based on RAM, participatory sessions and international experience DIMENSION NO. RECOMMENDATION TIMEFRAME PRIORITY Regulation",
+      "dimension": "Capacity Building",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Updating Personal Data Protection Law and Cybersecurity and Information Critical Infrastructure Bill 2023 - 2024 High",
+      "text": "Updating Personal Data Protection Law and Cybersecurity and Information Critical Infrastructure Bill 2023 - 2024 High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Create a multi-stakeholder and adaptive governance for AI regulation 2023 - 2024 High",
+      "text": "Create a multi-stakeholder and adaptive governance for AI regulation 2023 - 2024 High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Explore Regulatory Experimentation Mechanisms (e.",
+      "text": "Explore Regulatory Experimentation Mechanisms (e.g., Sandboxes) in Critical Areas",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 2024,
+      "title": "High",
+      "text": "High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Promote ethical principles of AI through purchasing regulations and standards",
+      "text": "Promote ethical principles of AI through purchasing regulations and standards",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 2024,
+      "title": "Medium",
+      "text": "Medium",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Utilise soft regulations and guidelines for the adoption of ethical principles in AI systems 1st semester 2024 Medium Institutional Framework",
+      "text": "Utilise soft regulations and guidelines for the adoption of ethical principles in AI systems 1st semester 2024 Medium Institutional Framework",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Improve data collection and statistics on the use of AI 2024 - 2025 High",
+      "text": "Improve data collection and statistics on the use of AI 2024 - 2025 High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Development of AI Strategies for Local Governments 2024 - 2026 High",
+      "text": "Development of AI Strategies for Local Governments 2024 - 2026 High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Update Chile’s National AI Policy (NAIP) and Action Plan 2023 - 2024 High",
+      "text": "Update Chile’s National AI Policy (NAIP) and Action Plan 2023 - 2024 High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Modification of the NAIP’s Action Plan 2023 - 1st semester 2024 Medium",
+      "text": "Modification of the NAIP’s Action Plan 2023 - 1st semester 2024 Medium",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Update the institutional framework and governance of the NAIP 2023 - 2024 Medium",
+      "text": "Update the institutional framework and governance of the NAIP 2023 - 2024 Medium",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Create early assessment mechanisms for the implementation of the NAIP 2024 - 2025 Low Capacity Building",
+      "text": "Create early assessment mechanisms for the implementation of the NAIP 2024 - 2025 Low Capacity Building",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Development of Human Capital in AI 2024 - 2026 High",
+      "text": "Development of Human Capital in AI 2024 - 2026 High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Attract investments in AI technological infrastructure and promote discussion on its environmental impacts 2024 - 2025 High",
+      "text": "Attract investments in AI technological infrastructure and promote discussion on its environmental impacts 2024 - 2025 High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Assess the impact of AI and automation on workforce and define job retraining plans 2024 - 2025 High",
+      "text": "Assess the impact of AI and automation on workforce and define job retraining plans 2024 - 2025 High",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Promotion of Diversity, Inclusion and Gender Equality in STEM 2nd semester 2024 Medium",
+      "text": "Promotion of Diversity, Inclusion and Gender Equality in STEM 2nd semester 2024 Medium",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Training for Local Government Officials on the Ethical Use of AI and development of Certifications for AI Use in Government 2025 - 2026 Medium",
+      "text": "Training for Local Government Officials on the Ethical Use of AI and development of Certifications for AI Use in Government 2025 - 2026 Medium",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Creation of a Working Group to Assess the Impact of AI on Culture 2024 - 2025 Medium",
+      "text": "Creation of a Working Group to Assess the Impact of AI on Culture 2024 - 2025 Medium",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Study the perception and trust in the use of AI in the public and private sectors",
+      "text": "Study the perception and trust in the use of AI in the public and private sectors",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 2024,
+      "title": "Low",
+      "text": "Low",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "Enhance the Country’s AI Patent Ecosystem",
+      "text": "Enhance the Country’s AI Patent Ecosystem",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 2024,
+      "title": "Low",
+      "text": "Low",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "Enhancing Participation in International Standardisation Processes",
+      "text": "Enhancing Participation in International Standardisation Processes",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    },
+    {
+      "number": 2024,
+      "title": "Low",
+      "text": "Low",
+      "dimension": "Recommendation\nTimeframe\nPriority",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 35,
+  "page_count": 59,
+  "rankings_indices": [
+    {
+      "context": "For example, in the case of open data, Chile is ranked 75th in the Open Data Inventory, but is a signatory of the International Open Data Charter and is working to provide guidelines to government bodies on publishing open datasets.",
+      "index_name": "Open Data Inventory",
+      "rank": 75
+    },
+    {
+      "context": "DATA PROTECTION AND PRIVACY LAWS Chile is ranked 74th in the Global Cybersecurity Index 2020 by the International Telecommunication Union, placing 7th among the countries in the Americas region, with an overall score of 68.83 (ITU, 2021).",
+      "index_name": "Global Cybersecurity Index",
+      "rank": 74,
+      "score": 68.83,
+      "year": 2020
+    },
+    {
+      "context": "Regarding Open Data, Chile scored 52.9 in the Global Data Barometer 2022 and is ranked 75st among 195 countries in the Open Data Inventory (ODIN) by Open Data Watch.",
+      "index_name": "Global Data Barometer",
+      "rank": 75,
+      "score": 52.9,
+      "total_countries": 195,
+      "year": 2022
+    },
+    {
+      "context": "PUBLIC ENGAGEMENT AND TRUST Chile is ranked 36th among 193 countries in the Online Services Index (OSI), scoring 0.8280 (UN E-GK, 2022a).",
+      "index_name": "Online Services Index",
+      "rank": 36,
+      "score": 0.828,
+      "total_countries": 193,
+      "year": 2022
+    },
+    {
+      "context": "Chile is ranked 43rd among 193 countries in the Electronic Participation Index (EPI), scoring 0.6932 (UN E-GK, 2022b).",
+      "index_name": "EPI",
+      "rank": 43,
+      "score": 0.6932,
+      "total_countries": 193,
+      "year": 2022
+    },
+    {
+      "context": "Chile is ranked 40th among 100 countries in Trust in Government websites and apps according to the Inclusive Internet Index (III), scoring 52% (Economist Impact, 2022).",
+      "index_name": "Inclusive Internet Index",
+      "rank": 40,
+      "score": 52.0,
+      "total_countries": 100,
+      "year": 2022
+    },
+    {
+      "context": "On the other hand, Chile is ranked 72nd out of 102 countries in data science in the Coursera Global Skills Report.",
+      "index_name": "Coursera Global Skills Report",
+      "rank": 72,
+      "total_countries": 102
+    }
+  ]
+}

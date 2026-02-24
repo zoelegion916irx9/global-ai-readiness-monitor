@@ -1,0 +1,670 @@
+{
+  "country_code": "TZ",
+  "country_name": "TANZANIA",
+  "language": "en",
+  "metadata": {
+    "page_count": 81,
+    "creation_date": "D:20251010165502+02'00'",
+    "modification_date": "D:20251013090849+02'00'",
+    "country_name": "TANZANIA",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "The regulatory framework within which Artificial Intelligence is situated is crucial to ensuring the ethical deployment of AI systems.",
+        "The legal and regulatory framework should include effective mechanisms for safeguarding and upholding citizens’ rights, as well as monitoring, mitigating and compensating for any unforeseen adverse outcomes resulting from the deployment and use of AI systems.",
+        "Examples of the legal framework include regulations concerning Artificial Intelligence, data protection and privacy, data sharing and accessibility and freedom of information, among others.",
+        "AI Policy and Regulation Table 1: Key Tanzanian Digital/ ICT Policies and Strategies Relevant to AI Policy/Strategy Status (as of May, 2025) Key Provisions/Pillars Relevant to AI Tanzania Development Vision 2050 Draft Sets broad socio-economic goals where ICT/Digitalisation is recognised as a key en",
+        "National ICT Policy (2023/2024 Version) Active/ Draft/ Approve draft Cornerstone for the digital economy.",
+        "e-Government Strategy (2022-2027) Active Pillars: Connected Gov, Collaboration, e-Services, Research/Innovation, Cybersecurity, Human Capital, Policy/Legal.",
+        "Aims to leverage ICT for public service delivery, potentially via AI.",
+        "https://www.utumishi.go.tz/uploads/documents/sw-1688121445-Tanzania%20e-Government%20Strategy%202022.pdf 21 Policy/Strategy Status (as of early 2025) Key Provisions/Pillars Relevant to AI Personal Data Protection Act (PDPA) 2022 Active (Operational since May 2023) Establishes principles for data pro"
+      ],
+      "strengths": [
+        "Digital Economy Strategic Framework (2024-2034) Active (Launched July 2024) Pillars: Infrastructure, Governance, Literacy/Skills, Innovation/Emerging Tech (incl.",
+        "The national AI strategy aims to foster ethical, inclusive, and innovative AI development to support socio-economic goals, such as improving healthcare, agriculture, finance, education, and governance.",
+        "Furthermore, Tanzania’s strategy is informed by the African Union (AU) Continental Strategy on AI, adopted in 2024, which promotes African-led innovation, ethical AI use, and regional collaboration.",
+        "These domain-specific frameworks address unique sectoral needs but would benefit from alignment with a comprehensive national AI strategy.",
+        "Enacted by Parliament in November 2022 and brought into force on May 1, 2023 , the PDPA aims to establish a minimum legal threshold for the collection and processing of personal data, thereby strengthening privacy rights.",
+        "More recently, the Zanzibar Digital Government Strategy for 2023-2027 was launched, aiming to transform Zanzibar into a strong digital economy.",
+        "By embedding specific requirements—such as mandatory bias audits, transparency documentation, ethical compliance certifications, and robust security standards—into tender specifications and evaluation criteria, the government, as a major AI consumer, can significantly influence market practices.",
+        "This could drive adherence to responsible AI principles even before comprehensive AI-specific legislation is fully enacted.",
+        "This creates a potential disparity in transparency rights regarding the use of AI by public bodies in Zanzibar for non- Union matters, unless Zanzibar has enacted equivalent access to information legislation."
+      ],
+      "gaps": [
+        "Although the Five-Year Development Plan (FYDP) III mentions emerging technologies such as AI and blockchain, it lacks detailed implementation plans to support the development of these technologies.",
+        "Tanzania Vision 2050, which aspires to transform the country into a technology-driven, high- productivity economy, the Vision emphasizes the urgent need to develop and apply emerging technologies to accelerate digital economic growth.",
+        "Stakeholder consultations emphasised the need for \"culturally contextualised AI frameworks that honour Tanzania traditions and cultural values\" and called for coordinated policy implementation between mainland Tanzania and Zanzibar through information and data sharing.",
+        "Scope and Definitions: The Act applies throughout Mainland Tanzania and Zanzibar, with the crucial caveat that its application in Zanzibar is limited to Union matters.",
+        "Processing must be adequate, relevant, and limited to what is necessary (data minimization).",
+        "While the country has not yet signed the international Open Data Charter, several initiatives have been implemented to improve data sharing and accessibility.",
+        "Despite the efforts still there are missing gaps in data quality, quantity and other sectors such as economic opportunities.",
+        "However, standard procurement processes may struggle to adequately address the unique complexities of AI systems.",
+        "Achieving this, however, requires updating procurement guidelines and regulations (issued by PPRA and ZPPDA) and building specialized capacity within procuring entities' Procurement Management Units (PMUs) to understand and evaluate AI technologies effectively.",
+        "However, practical application faces hurdles."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranks 81st in the",
+          "context": "ecret, Confidential, Restricted, and Unclassified) to guide appropriate sharing protocols. Tanzania ranks 81st in the Open Data Inventory 2022 with an overall score of 54, reflecting moderate progress"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "National ICT Policy",
+          "year": "",
+          "status": "draft"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Financial autonomy often limits women's ability to purchase data bundles even if they own a phone.",
+        "This fundamental lack of access and basic literacy forms a significant barrier to entry into more advanced tech training and participation in the digital economy.",
+        "While mobile data plans might be competitively priced compared to regional neighbors, they remain unaffordable for a large segment of the population when considered as a proportion of income.",
+        "The AI RAM stakeholder(s) consultation(s) emphasized the importance of gender inclusion strategies, including women-focused AI clubs, competitions, and community outreach.",
+        "Inclusion and equality in the digital and AI ecosystem are further shaped by cultural factors and the impact of AI on Tanzania’s cultural and creative industries.",
+        "AI is beginning to transform the creative sector with collaboration between the National Arts Council (BASATA) and the African Research Institute for Artificial Intelligence (ARIFA).",
+        "This partnership marks a significant step toward integrating AI into Tanzania’s creative landscape, with the potential to enhance productivity, expand creative possibilities, and increase the global reach of Tanzanian art, music, and content.",
+        "Furthermore there are other initiatives, Database Kiswahili project, The Mozilla Common Voice and The Lacuna Fund, working to develop resources for Kiswahili language processing, which is essential for making AI systems accessible to Tanzania's primary language speakers."
+      ],
+      "strengths": [
+        "Nonetheless, gaps persist, especially in achieving balanced gender representation, capturing dialectal variation, and scaling up data collection to meet the needs of advanced AI systems.",
+        "Avoiding this outcome 33 requires a deliberate national strategy that includes targeted investment, innovative approaches (such as transfer learning and community-driven data creation), and dedicated initiatives specifically aimed at documenting and digitally empowering Tanzania's ultra-low-resource"
+      ],
+      "gaps": [
+        "Social and Cultural The digital landscape in Tanzania has seen continuous growth, however substantial gaps remain, such as access and active participation across gender and socioeconomic position.In 2023, Tanzania had 33 million internet subscriptions, with internet penetration reaching 31.6% of the",
+        "Gender Gap Index in Tanzania Mobile connectivity is widespread, yet urban areas benefit disproportionately from digital infrastructure, and rural communities remain underserved.",
+        "The government aims to reach 80% internet subscription coverage by 2025, but bridging the urban-rural divide remains a challenge.",
+        "On the other hand, According to ITU, only 17% of women have mobile internet access compared to 35% of men, and also women’s participation in STEM fields remains low, with just 4.4% of female students enrolled in STEM- related tertiary programs versus 21.6% for males.",
+        "Access and Basic Skills: Mobile phone ownership shows a gap, with 86% of men owning a mobile compared to 77% of women, based on 2019 data.",
+        "Broader statistics indicate that 60% of Tanzanians lack basic digital skills, with the situation being more acute in rural areas where 80% lack access to digital technologies.",
+        "https://www.unesco.org/en/articles/adolescent-girls-and-young-women-tanzania-expand-digital-literacy-and-skills 29 Skills and Literacy: Low levels of digital literacy and a lack of awareness regarding the potential benefits of the internet and digital tools represent another critical barrier to adop",
+        "Tanzania scored relatively low on the Digital Skills Gap Index, and surveys indicate a strong desire among citizens, particularly youth, for better digital skills training.",
+        "20% in formal employment), often due to barriers like gender discrimination in hiring (cited by 29% of women), balancing family responsibilities (26%), and lack of access to credit (18%).",
+        "While education improves formal job prospects (72% of formally employed women have degrees), many lack post-secondary education."
+      ],
+      "key_stats": [
+        {
+          "stat": "31.6% of the population",
+          "context": "osition.In 2023, Tanzania had 33 million internet subscriptions, with internet penetration reaching 31.6% of the population. Figure 2. Gender Gap Index in Tanzania Mobile connectivity is widespread, y",
+          "value": 31.6,
+          "unit": "%"
+        },
+        {
+          "stat": "80% internet subscription coverage",
+          "context": "from digital infrastructure, and rural communities remain underserved. The government aims to reach 80% internet subscription coverage by 2025, but bridging the urban-rural divide remains a challenge.",
+          "value": 80.0,
+          "unit": "%"
+        },
+        {
+          "stat": "17% of women have mobile internet acc",
+          "context": "plans to auction 3.5 GHz spectrum to boost connectivity. On the other hand, According to ITU, only 17% of women have mobile internet access compared to 35% of men, and also women’s participation in ST",
+          "value": 17.0,
+          "unit": "%"
+        },
+        {
+          "stat": "35% of men",
+          "context": "ity. On the other hand, According to ITU, only 17% of women have mobile internet access compared to 35% of men, and also women’s participation in STEM fields remains low, with just 4.4% of female stud",
+          "value": 35.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4.4% of female students enrolled in ST",
+          "context": "access compared to 35% of men, and also women’s participation in STEM fields remains low, with just 4.4% of female students enrolled in STEM- related tertiary programs versus 21.6% for males. Access a",
+          "value": 4.4,
+          "unit": "%"
+        },
+        {
+          "stat": "21.6% for males",
+          "context": "s remains low, with just 4.4% of female students enrolled in STEM- related tertiary programs versus 21.6% for males. Access and Basic Skills: Mobile phone ownership shows a gap, with 86% of men owning",
+          "value": 21.6,
+          "unit": "%"
+        },
+        {
+          "stat": "86% of men owning a mobile compared t",
+          "context": "programs versus 21.6% for males. Access and Basic Skills: Mobile phone ownership shows a gap, with 86% of men owning a mobile compared to 77% of women, based on 2019 data. The disparity widens signifi",
+          "value": 86.0,
+          "unit": "%"
+        },
+        {
+          "stat": "77% of women",
+          "context": "s and Basic Skills: Mobile phone ownership shows a gap, with 86% of men owning a mobile compared to 77% of women, based on 2019 data. The disparity widens significantly concerning mobile internet acce",
+          "value": 77.0,
+          "unit": "%"
+        },
+        {
+          "stat": "17% of women compared to",
+          "context": "2019 data. The disparity widens significantly concerning mobile internet access, utilized by only 17% of women compared to 35% of men. Financial autonomy often limits women's ability to purchase data ",
+          "value": 17.0,
+          "unit": "%"
+        },
+        {
+          "stat": "60% of Tanzanians lack basic digital",
+          "context": "women's ability to purchase data bundles even if they own a phone. Broader statistics indicate that 60% of Tanzanians lack basic digital skills, with the situation being more acute in rural areas wher",
+          "value": 60.0,
+          "unit": "%"
+        },
+        {
+          "stat": "80% lack access to digital technol",
+          "context": "% of Tanzanians lack basic digital skills, with the situation being more acute in rural areas where 80% lack access to digital technologies. This fundamental lack of access and basic literacy forms a ",
+          "value": 80.0,
+          "unit": "%"
+        },
+        {
+          "stat": "25% of technology",
+          "context": "The culmination of these access and skills gaps is starkly evident in the labor market. Women hold 25% of technology-related jobs in Tanzania. Statistics from the Tanzania ICT Commission showed 170 re",
+          "value": 25.0,
+          "unit": "%"
+        },
+        {
+          "stat": "65% of women vs",
+          "context": "ed to 1,011 males. More broadly, women are disproportionately represented in the informal sector (65% of women vs. 20% in formal employment), often due to barriers like gender discrimination in hiring",
+          "value": 65.0,
+          "unit": "%"
+        },
+        {
+          "stat": "20% in formal employment",
+          "context": ". More broadly, women are disproportionately represented in the informal sector (65% of women vs. 20% in formal employment), often due to barriers like gender discrimination in hiring (cited by 29% of",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "29% of women",
+          "context": "vs. 20% in formal employment), often due to barriers like gender discrimination in hiring (cited by 29% of women), balancing family responsibilities (26%), and lack of access to credit (18%). While ed",
+          "value": 29.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "The national data indicate that gross domestic expenditure on R&D has historically been low but is gradually increasing.",
+        "Research Output Tanzania is home to a blooming AI research ecosystem, with institutions such as the University of Dodoma (UDOM), Nelson Mandela African Institutions of Science and Technology (NM-AIST), University of Dar-es- salaam(UDSM), Sokoine University of Agriculture (SUA), and AfriAI Lab suppor",
+        "While Tanzania's overall contribution to African research output is modest (around 2%), there is a growing body of research related to AI, ML, and Data science.",
+        "The documented research projects demonstrate a strong focus on applied AI, aiming to address specific developmental challenges within Tanzania.",
+        "Examples include: Health: AI for diagnostics (cardiomyopathy, TB, pneumonia, malaria), mental healthcare support systems, EHR analysis.",
+        "Agriculture & Environment: AI for crop disease surveillance, fish farming, poultry health, soil analysis, and farmer information chatbots.",
+        "Education: AI for dropout prevention, STEM content generation, and university services chatbot.",
+        "Governance & Public Sector: AI is used for transparency in tendering processes, as well as smart infrastructure monitoring (speed detection)."
+      ],
+      "strengths": [
+        "Strengthening these centres and fostering greater collaboration among them, as well as with specialised institutions like KCMUCo and SUZA/IMS, will be crucial for building a cohesive and robust national AI research ecosystem.",
+        "KCMUCo approved a comprehensive institutional AI Policy and Procedures in 2024, addressing ethical use, privacy, data protection, bias, fairness, transparency, disclosure requirements, and academic integrity within the context of health education and research.",
+        "The Policy Framework for AI in the Tanzanian Health Sector (2022) explicitly incorporates ethical considerations, mandating that AI solutions meet standards of safety, efficacy, and equity, align with established medical ethics, and that new guidelines be created to address emerging AI-specific ethi",
+        "Other startups like Ramani and Tushop have also established a presence.",
+        "4.Assessment and Evaluation: Advocating for AI-driven assessment tools that provide fair, unbiased, and continuous evaluations, with robust data protection and transparency.",
+        "8.Data Use and Management: Requiring robust data protection policies, compliance with privacy laws, transparency in data handling, and promoting data literacy among stakeholders.",
+        "/ Cyber Security Likely includes foundational AI/ML courses University of Dodoma (UDOM) MSc Active CIVE Computer Engineering / Cyber Security Likely includes advanced AI/ ML/ Security topics AI concepts, design/development (details pending) Nelson Mandela African Inst."
+      ],
+      "gaps": [
+        "However, the Digital Economy Strategic Framework 2024-2034 implicitly recognises the importance of investment in research and development through its strategic focus on digital transformation.",
+        "However, the apparent scarcity of fundamental AI research (e.g., development of novel algorithms or theoretical frameworks) noted in the reviewed projects might pose a long-term challenge to developing truly indigenous innovation capacity and staying at the forefront of AI advancements.",
+        "Recognizing this gap, some universities are taking initiative.",
+        "Despite these positive steps, a 2024 study indicated that many Tanzanian Higher Education Institutions (HEIs) lacked specific AI policies, often relying on broader ICT or anti- plagiarism policies that may be insufficient.",
+        "These include the potential for algorithmic bias and lack of fairness, particularly given existing societal inequalities; issues of transparency and explainability in AI decision-making; risks to data privacy and security when handling sensitive information; challenges to academic integrity due to A",
+        "Studies also point to low awareness among students regarding ethical AI use and copyright laws, and a need for targeted ethics training for IT professionals developing AI systems.",
+        "Furthermore, even where general research ethics structures like COSTECH's NRCC exist, their capacity to effectively evaluate AI-specific ethical challenges (like subtle biases in algorithms or the implications of opaque models) may be limited without explicit updates to guidelines and targeted capac",
+        "AI Talent According to stakeholder consultations, Tanzania faces critical skills gaps in AI, with participants identifying the need for both technical skills in programming, data engineering, and statistical analysis, and complementary soft skills in critical thinking, problem-solving, and AI ethics",
+        "The FemAI Lab conducted 2 Training sessions for women, one targeted at Members of Parliament (MP) and the second for the citizens, covering topics such as “The role of MPs in inclusive AI legislations” and tools for women-led businesses Despite the proliferation of university programs and skills ini",
+        "Ensuring curriculum agility, strong industry linkages, and continuous professional development opportunities are essential to bridge this gap."
+      ],
+      "key_stats": [
+        {
+          "stat": "1% of its GDP on R",
+          "context": "historically been low but is gradually increasing. In 2005, Tanzania committed to spending at least 1% of its GDP on R&D, which was in line with African Union targets, but the actual expenditure rate ",
+          "value": 1.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.3% of GDP at that time",
+          "context": "DP on R&D, which was in line with African Union targets, but the actual expenditure rate was around 0.3% of GDP at that time. By 2014, this figure had risen to approximately 0.52% of GDP, demonstratin",
+          "value": 0.3,
+          "unit": "%"
+        },
+        {
+          "stat": "0.52% of GDP",
+          "context": "penditure rate was around 0.3% of GDP at that time. By 2014, this figure had risen to approximately 0.52% of GDP, demonstrating progress but still falling short of the national and continental targets",
+          "value": 0.52,
+          "unit": "%"
+        },
+        {
+          "stat": "24% in",
+          "context": "Status Report 2024 by the Tanzania Startup Association (TSA), the number of active startups grew by 24% in 2024, reaching 1,041 ventures. This growth was accompanied by a surge in investment: Foreign ",
+          "value": 24.0,
+          "unit": "%"
+        },
+        {
+          "stat": "112% increase from the previous yea",
+          "context": "investment: Foreign Direct Investment (FDI) into these startups more than doubled to $53 million (a 112% increase from the previous year), while Domestic Direct Investment (DDI) also saw substantial 4",
+          "value": 112.0,
+          "unit": "%"
+        },
+        {
+          "stat": "85.5% to",
+          "context": "-and-tanzania-launch-third-phase-korea-funds-trust-project-enhance-ict-skills 37 growth, rising by 85.5% to $43.4 million. The FinTech sector emerged as the dominant recipient of FDI, attracting $41.4",
+          "value": 85.5,
+          "unit": "%"
+        },
+        {
+          "stat": "78.3% of the total FDI",
+          "context": "Tech sector emerged as the dominant recipient of FDI, attracting $41.4 million, which accounted for 78.3% of the total FDI, with AgriTech also demonstrating a strong presence. A separate report from M",
+          "value": 78.3,
+          "unit": "%"
+        },
+        {
+          "stat": "35% women and",
+          "context": "mpleting studies annually. The amount of STEM graduates from Tanzania is still low, with average of 35% women and 65% men; however, less than 25% are in engineering. With low enrollment of female ICT ",
+          "value": 35.0,
+          "unit": "%"
+        },
+        {
+          "stat": "65% men",
+          "context": "es annually. The amount of STEM graduates from Tanzania is still low, with average of 35% women and 65% men; however, less than 25% are in engineering. With low enrollment of female ICT students at un",
+          "value": 65.0,
+          "unit": "%"
+        },
+        {
+          "stat": "25% are in engineering",
+          "context": "TEM graduates from Tanzania is still low, with average of 35% women and 65% men; however, less than 25% are in engineering. With low enrollment of female ICT students at universities. In the vocationa",
+          "value": 25.0,
+          "unit": "%"
+        },
+        {
+          "stat": "10% in the year",
+          "context": "in diploma programs. Moreover, in AI related postgraduate programs women participation are of only 10% in the year 2021. These gender gaps in STEM/ICT/AI education reflect broader societal and institu",
+          "value": 10.0,
+          "unit": "%"
+        },
+        {
+          "stat": "10% of students earning degrees in co",
+          "context": "capability. This skills gap is reflected in educational pathways. Women and girls constitute only 10% of students earning degrees in computer science in Tanzania. While initiatives exist to promote ST",
+          "value": 10.0,
+          "unit": "%"
+        },
+        {
+          "stat": "14% in",
+          "context": "RIP), are working to increase female enrollment in STEM fields. DIT saw female enrollment rise from 14% in 2016/17 to 23% in 2022/23 through targeted outreach, but the overall numbers remain low. Cate",
+          "value": 14.0,
+          "unit": "%"
+        },
+        {
+          "stat": "23% in",
+          "context": "to increase female enrollment in STEM fields. DIT saw female enrollment rise from 14% in 2016/17 to 23% in 2022/23 through targeted outreach, but the overall numbers remain low. Category Female Repres",
+          "value": 23.0,
+          "unit": "%"
+        },
+        {
+          "stat": "25% of AI",
+          "context": "Coursera 53 54 55 Table 3: Female and Male Representation 41 persist, with women comprising only 25% of AI/data science learners. This is caused by high dropout rates in AI courses due to math prerequ",
+          "value": 25.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "economic development and AI readiness, while being tailored to Tanzania's unique context and priorities.",
+        "At all levels, the alignment of activities with applicable frameworks, including the African Union Continental Strategy on AI, the UNESCO Recommendation on the Ethics of AI, and the United Nations Global Digital Compact, should be taken into consideration.",
+        "This balanced approach recognizes that the most powerful AI solutions will emerge from the creative tension between universal technological capabilities and contextual human wisdom.",
+        "The insights from over 240 stakeholders across Dar es Salaam, Dodoma, and Zanzibar reflect a sophisticated understanding that AI development is fundamentally about expanding human capabilities rather than replacing them.",
+        "As Tanzania develops its AI readiness through policy frameworks, institutional capacity, and human capital development, this human-centered perspective offers a compelling alternative to techno-deterministic approaches that dominate much global discourse.",
+        "By placing cultural context, ethical considerations, and human experience at the center of technological development, Tanzania has the opportunity to create AI systems that enhance rather than diminish human agency—systems that amplify human creativity, strengthen cultural identity, and address pres",
+        "With continued attention to inclusive development, ethical implementation, and sustainable approaches, Tanzania can forge a distinctly human-centred path toward AI readiness—one that may offer important lessons for countries worldwide grappling with similar challenges.",
+        "In this vision, AI becomes not merely a technological revolution but a platform for human advancement, expanding our collective capabilities, preserving cultural heritage, promoting social cohesion, and addressing pressing development challenges."
+      ],
+      "strengths": [
+        "Yet the foundation being established through frameworks like the Tanzania Digital Economy Strategic Framework 2024-2034 and emerging sectoral policies provides reason for optimism.",
+        "AI Initiatives Name Ada Health (Swahili) Type Sector Description / Mission International Implementation Health (Digital Health) An AI-powered health guidance app that was launched in Swahili for Tanzania.",
+        "Altitude-X Drone Technologies Using drones and satellite data for data collection, gather valuable insights and provide clients with advanced analytics and decision-making capabilities.Including Drone Surveys & Mapping, Drone Inspections, and utilising the data to train AI & ML systems.",
+        "Ifakara Health Institute (AI Projects) Research Institute Health Research A leading health research institute in Tanzania that has incorporated AI/ML in its work.",
+        "MANKA (by Tausi Africa) Product (Fintech) Finance (AI Analytics) Manka is an AI-powered financial analytics platform launched in 2024 by Tausi Africa to improve credit assessments in the informal economy.",
+        "LimaBot AI Startup Agriculture LimaBot combines AI, drones, satellites, and soil sensors to provide comprehensive crop health monitoring and agricultural optimization.",
+        "Parrot positions itself as a leading AI-as-a-service provider in Tanzania.",
+        "Sokoine University of Agriculture Academic Institution Higher Education (Agriculture) Tanzania’s leading agricultural university (Morogoro) that integrates data science and AI in agriculture.",
+        "Established through a World Bank initiative, dLab has been instrumental in nurturing Tanzania’s data science talent pool.",
+        "In a test at Grumeti Reserve, it successfully helped park rangers seize ~1,300 lbs of illegal bushmeat and arrest 30 poachers."
+      ],
+      "gaps": [
+        "DataGirls Tanzania runs training, mentorship and workshops to close the gender gap in AI and data science.",
+        "Winner of the 2018 Fondation Botnar challenge at Sahara Sparks.",
+        "Aims to bridge the educational resource gap for students in remote areas.",
+        "Elsa), Nena was created to fill the gap in social media analysis for Tanzanian content (most analytics tools didn’t support Swahili)."
+      ],
+      "key_stats": [
+        {
+          "stat": "96% in pilot regions",
+          "context": "workers), CHAIN could predict immunization attendance and was able to reduce vaccine wastage by 96% in pilot regions. This project demonstrated the power of AI in health logistics and was piloted acro",
+          "value": 96.0,
+          "unit": "%"
+        },
+        {
+          "stat": "91% accuracy",
+          "context": "artificial intelligence on ultrasound images to detect breast cancer at an early stage (achieving ~91% accuracy). The team also partnered with UNDP Accelerator Lab to apply AI for COVID-19 “infodemic”",
+          "value": 91.0,
+          "unit": "%"
+        },
+        {
+          "stat": "75\nInstitution",
+          "context": "utbreak prediction, AI for TB screening in HIV patients, AI in detection of dilated cardiomyopathy 75 Institution Name Sokoine University of Agriculture (SUA) Relevant Department/ Lab/ Center Key AI P"
+        },
+        {
+          "stat": "76\nInstitution",
+          "context": "Publication: \"Unveiling the Potential of Artificial Intelligence in Human Resources Management\" 76 Institution Name Open University of Tanzania (OUT) Relevant Department/ Lab/ Center Key AI Programs O"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "This reliance on older technologies limits the ability to access data-intensive services, including many potential AI applications.",
+        "The growth of Machine-to-Machine (M2M) subscriptions, reaching over 1 million by December 2024, signifies an emerging opportunity for IoT applications, which often serve as crucial data sources for AI systems.",
+        "Regarding quality, Ookla's Speedtest Global Index provides insights, though recent data shows significant volatility.",
+        "This dramatic jump warrants caution and further investigation to determine if it reflects sustained improvement or a data anomaly.",
+        "For mobile broadband, Ookla data for March 2025 showed Tanzania ranking 82nd globally with a median download speed of 52.23 Mbps.",
+        "Average download speeds in Africa have generally increased, reaching 8.18 Mbps in 2022 from 2.68 Mbps in 2019, alongside decreasing data prices.",
+        "The current reliance on mobile networks, while crucial for basic access, may not be sufficient for widespread development and deployment of sophisticated AI applications, potentially limiting them to areas with the best mobile coverage or requiring dedicated, costly infrastructure solutions.",
+        "Applied Standards The Tanzania Bureau of Standard (TBS) has produced a draft standard on “Information technology — Artificial intelligence — Guidance on risk management”, an adoption of the International Standard ISO/IEC 23894:2023, Information technology — Artificial intelligence — Guidance on risk"
+      ],
+      "strengths": [
+        "Advanced AI applications, including model training, large dataset transfers, and real-time high-resolution data processing, often demand the high speed, stability, and low latency typically offered by fixed fiber connections.",
+        "It has established itself as the most interconnected data center in Tanzania, boasting connections to 13 different operators.",
+        "Government Institutions Policy and Regulatory Bodies: Ministry of Communication and Information Technology (MoCIT): Leading the draft national AI strategy development and overseeing broad digital transformation initiatives.",
+        "Ministry of Health: Developed the AI Policy Framework for the health sector in 2022, pioneering sectoral AI governance.",
+        "Tanzania Atomic Energy Commission (TAEC): Regulating nuclear and radiation technology with potential intersections with advanced computing technologies.",
+        "Zanzibar Information Communication Technology Infrastructure Agency (ZICTIA): Established by law in 2020, ZICTA focuses on managing and maintaining core ICT infrastructure, including the fiber optic backbone, the Zanzibar Data Centre, and the Zanzibar domain name.",
+        "Fintech Startups: Developing innovative financial services leveraging AI and data analytics.",
+        "Enhanced Connectivity: The call for connectivity improvements through 5G, fibre optic expansion, and satellite technologies demonstrated understanding that next-generation applications require robust connectivity.",
+        "Practical Solutions: Participants proposed solutions including incubation labs, business model support, and innovative approaches to data collection, demonstrating problem-solving orientation."
+      ],
+      "gaps": [
+        "The National ICT Broadband Backbone (NICTBB) serves as a critical infrastructure component, though coverage remains a challenge particularly in rural areas.",
+        "However, a significant portion of the population, particularly in Sub-Saharan Africa, still relies on 3G or even 2G connections and devices.",
+        "However, underinvestment in backbone and especially last-mile fiber connectivity remains a constraint.",
+        "The stark difference between mobile and fixed broadband penetration, coupled with relatively low fixed speeds, presents a significant challenge.",
+        "However, details about the NIDC's own capacity, services, or direct role in supporting AI workloads are not provided.",
+        "However, more recent documents, including the DIT's 2023/2024 prospectus and other contemporary mentions, do not provide updates on its current operational status, capacity, or specific relevance to AI research.",
+        "However, the country faces notable challenges in the foundational aspects of its statistical system, with lower scores in Data Sources (50) and Data Infrastructure (55).",
+        "This suggests that while Tanzania is strong in making data available and accessible, it needs to improve the underlying systems for data collection, management, and technology, as well as strengthen its legal and institutional frameworks.",
+        "The challenge—and opportunity—lies in coordinating these diverse entities toward coherent AI development that leverages Tanzania's unique assets while addressing its specific challenges.",
+        "Regional Coordination: Participants highlighted the need for coordinated policy implementation between mainland Tanzania and Zanzibar, acknowledging the political complexity of the United Republic while recognising the value of policy coherence."
+      ],
+      "key_stats": [
+        {
+          "stat": "15.5% surge",
+          "context": "scriptions, rising from 58.1 million in September 2022 to 67.1 million in September 2023, marking a 15.5% surge. Internet users have expanded from 31.1 million in September 2022 to 34.5 million in Sep",
+          "value": 15.5,
+          "unit": "%"
+        },
+        {
+          "stat": "11.0% increase",
+          "context": "have expanded from 31.1 million in September 2022 to 34.5 million in September 2023, signifying an 11.0% increase. Mobile broadband population coverage has increased from 72% in September 2022 to 83% ",
+          "value": 11.0,
+          "unit": "%"
+        },
+        {
+          "stat": "72% in September",
+          "context": "ptember 2023, signifying an 11.0% increase. Mobile broadband population coverage has increased from 72% in September 2022 to 83% in September 2023, recording an 11-percentage point increase. The Natio",
+          "value": 72.0,
+          "unit": "%"
+        },
+        {
+          "stat": "83% in September",
+          "context": "an 11.0% increase. Mobile broadband population coverage has increased from 72% in September 2022 to 83% in September 2023, recording an 11-percentage point increase. The National ICT Broadband Backbon",
+          "value": 83.0,
+          "unit": "%"
+        },
+        {
+          "stat": "91% for",
+          "context": "d and Zanzibar. As of December 2024, population coverage for mobile broadband technologies stood at 91% for 3G and 88% for 4G. Geographical coverage was lower but also expanding, reaching 67% for 3G a",
+          "value": 91.0,
+          "unit": "%"
+        },
+        {
+          "stat": "88% for",
+          "context": "As of December 2024, population coverage for mobile broadband technologies stood at 91% for 3G and 88% for 4G. Geographical coverage was lower but also expanding, reaching 67% for 3G and 55% for 4G by",
+          "value": 88.0,
+          "unit": "%"
+        },
+        {
+          "stat": "67% for",
+          "context": "es stood at 91% for 3G and 88% for 4G. Geographical coverage was lower but also expanding, reaching 67% for 3G and 55% for 4G by September 2023 , with further growth likely reflected in the December 2",
+          "value": 67.0,
+          "unit": "%"
+        },
+        {
+          "stat": "55% for",
+          "context": "for 3G and 88% for 4G. Geographical coverage was lower but also expanding, reaching 67% for 3G and 55% for 4G by September 2023 , with further growth likely reflected in the December 2024 base station",
+          "value": 55.0,
+          "unit": "%"
+        },
+        {
+          "stat": "98% of the population and",
+          "context": "ly reflected in the December 2024 base station deployments. 2G coverage remains extensive, covering 98% of the population and 81% geographically as of December 2024. The rollout of 5G is nascent but g",
+          "value": 98.0,
+          "unit": "%"
+        },
+        {
+          "stat": "81% geographically as of December",
+          "context": "er 2024 base station deployments. 2G coverage remains extensive, covering 98% of the population and 81% geographically as of December 2024. The rollout of 5G is nascent but growing. Population coverag",
+          "value": 81.0,
+          "unit": "%"
+        },
+        {
+          "stat": "20% by December",
+          "context": "phically as of December 2024. The rollout of 5G is nascent but growing. Population coverage reached 20% by December 2024, up from 15% in June 2024, with geographical coverage at 2%. The number of 5G b",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "15% in\nJune",
+          "context": "The rollout of 5G is nascent but growing. Population coverage reached 20% by December 2024, up from 15% in June 2024, with geographical coverage at 2%. The number of 5G base stations increased by 8% i",
+          "value": 15.0,
+          "unit": "%"
+        },
+        {
+          "stat": "8% in the quarter\nending December",
+          "context": "rom 15% in June 2024, with geographical coverage at 2%. The number of 5G base stations increased by 8% in the quarter ending December 2024, reaching 900 sites, primarily concentrated in urban areas. T",
+          "value": 8.0,
+          "unit": "%"
+        },
+        {
+          "stat": "99.983% uptime guarantee",
+          "context": "signed to meet Tier III standards for concurrent maintainability, ensuring high availability with a 99.983% uptime guarantee. With the completion of Phase 2, the data center houses a total of 110 rack",
+          "value": 99.983,
+          "unit": "%"
+        },
+        {
+          "stat": "$50 million",
+          "context": "ngu Africa inaugurated the second phase of its Dar es Salaam data center in March 2025, backed by a $50 million investment. The facility is designed to meet Tier III standards for concurrent maintaina",
+          "value": 50000000.0,
+          "unit": "USD"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "The UNESCO Ethical Impact Assessment tool should be deployed.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Organisations like Muhimbili National Hospital have implemented IoT solutions for patient monitoring, while universities including The Nelson Mandela African Institution of Science and Technology (NM-AIST) and The Sokoine University of Agriculture (SUA) are researching AI applications for agriculture.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "AI Policy and Regulation Table 1: Key Tanzanian Digital/ ICT Policies and Strategies Relevant to AI Policy/Strategy Status (as of May, 2025) Key Provisions/Pillars Relevant to AI Tanzania Development Vision 2050 Draft Sets broad socio-economic goals where ICT/Digitalisation is recognised as a key enabler.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Data Sharing and Accessibility The country has implemented several data sharing initiatives, including a national data sharing framework for science, technology, and innovation developed by COSTECH, and electronic data sharing and exchange guidelines provided by the e-Government Authority (eGA).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "While the country has not yet signed the international Open Data Charter, several initiatives have been implemented to improve data sharing and accessibility.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Notably, the Tanzania Commission for Science and Technology (COSTECH) has developed a National Data Sharing Framework for Science, Technology, and Innovation (STI), aiming to centralize and standardize STI data sharing among stakeholders, and the e-Government Authority (eGA) has issued electronic data sharing and exchange guidelines that classify data by security levels to guide sharing protocols.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Both laws are founded on core principles of value for money, fairness, competition, transparency, non- discrimination, and accountability.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Recognizing the growing threat landscape, Tanzania developed a National Cybersecurity Strategy (NCSS) in 2018.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Public Sector Capacity A significant impediment to the effective adoption and governance of AI in Tanzania is the recognized limitation in relevant skills and capabilities within the workforce and among key stakeholders.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "By collecting, curating, and sharing large-scale Kiswahili datasets-including text and speech-the project empowers developers and researchers to create language technologies such as speech recognition, translation, and conversational AI tools tailored for Kiswahili speakers.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Common Voice has amassed thousands of hours of audio data by mobilizing volunteers to donate and validate voice recordings, making it one of the largest free resources for training speech recognition systems.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "FinTech: NuruPay (digital financial services), Ramani (SME financing for distributors), AI for Face Recognition for Loans.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Other startups like Ramani and Tushop have also established a presence.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "The guidelines are built upon four guiding principles: 1.Ethical Use: Ensuring transparency, fairness, accountability, and responsibility.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "40 Educational Attainment According to the Digital Economy Strategic Framework, by 2022, Tanzania was producing approximately 2,200 graduates from universities and degree-awarding technical colleges (certificate to degree level) and about 2,000 graduates from technical and vocational training colleges in ICT-related programs.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The National ICT Broadband Backbone (NICTBB) has deployed over 7,910 km of fiber optic cable, connecting regions and neighboring countries.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "Following its initial launch in 2022, Wingu Africa inaugurated the second phase of its Dar es Salaam data center in March 2025, backed by a $50 million investment.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "Participants recognized that without indigenous language capabilities, AI systems risk reinforcing linguistic hierarchies and excluding significant portions of the population.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Public-Private Collaboration: Recognition that successful AI implementation requires coordinated efforts across sectors demonstrated understanding of the collaborative nature of effective innovation.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The UNESCO Ethical Impact Assessment is a suitable tool to assess individual AI systems in use or planning and should be deployed across the country.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "These regulations should incorporate Tanzania's cultural values and priorities, ensuring that AI systems deployed in the country respect local contexts and ethical frameworks, while also aligning with continental and global standards.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "These facilities should develop testing methodologies that address both technical performance and ethical considerations, ensuring that AI systems deployed in Tanzania meet appropriate standards.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "International experts could be deployed to assist this process, including through the UNESCO AI Ethics Experts without Borders facility.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "It should establish processes for ongoing monitoring of deployed systems while providing guidance for addressing unanticipated ethical issues that may emerge.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "4.Implement targeted programs to increase women's participation in AI: Specific programs should be implemented to increase women's participation in AI education and careers, including scholarships, mentorship, and women-focused AI clubs as suggested in stakeholder consultations.",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 17.0,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.5,
+      "unit": "% GDP",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 2023,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "Tanzania ranks 81st in the Open Data Inventory 2022 with an overall score of 54, reflecting moderate progress in making government data accessible and usable.",
+      "index_name": "Open Data Inventory",
+      "rank": 81,
+      "score": 54.0,
+      "year": 2022
+    },
+    {
+      "context": "Public Engagement and Trust According to the 2022 Inclusive Internet Index, Tanzania is ranked 87th globally and 13th out of 26 Sub-Saharan African countries evaluated.",
+      "index_name": "Inclusive Internet Index",
+      "rank": 87,
+      "year": 2022
+    }
+  ],
+  "executive_summary": "Acknowledgements\nAcronyms and Abbreviations\nForeword\nExecutive Summary\nDiagnosis of the National AI Landscape\nLegal and Regulatory\nAI Policy and Regulation\nData Protection and Privacy Laws\nZanzibar: Policy and Institutional Landscape\nData Sharing and Accessibility\nProcurement Laws and Policies\nFreedom of Information Acts/Access to Knowledge Acts\nDue Process and Accountability\nOnline Safety and Integrity of Speech\nPublic Sector Capacity\nSocial and Cultural\nDiversity, Inclusion and Equality\nPublic Engagement and Trust\nEnvironmental and Sustainability Policy\nHealth and Social Well-being\nCulture\nTanzania’s Linguistic Tapestry: Challenges & Opportunities for AI/NLP\nTable of Contents\n08\n13\n16\n20\n21\n21\n23\n24\n25\n26\n26\n27\n27\n28\n29\n29\n31\n32\n32\n32\n33\nii\n5\n\nScientific and Educational\nEducation\nEconomic\nAI in the Private Sector\nTechnical and Infrastructural\nInfrastructure and Connectivity\nCompute Infrastructure\nStatistical Performance\nDeveloping a National AI Multi-Stakeholder Roadmap\nGovernment Institutions\nAcademic and Research Institutions\nPrivate Sector Entities\nResearch and Innovation\nR & D Expenditure\nResearch Output\nEthical AI Research\nAI Talent\nInnovation Output\nEducation Strategy\nEducational Attainment\nPublic Access to AI Education\nMobile Network Coverage and Technology (3G, 4G, 5G)\nBroadband Access and Quality (Fixed Vs Mobile)\nApplied Standards\nCivil Society Organizations\nInternational Partners\nKey Insights from Stakeholder Consultations\n35\n35\n39\n45\n45\n50\n50\n51\n52\n53\n54\n54\n55\n56\n56\n57\n57\n6\n\nNational AI Strategy: Main Policy Recommendations\nInstitutional Framework\nCapacity Building and Training\nSummary: Tanzania’s Human Centered Path to AI Readiness\nRegulation\n60\n60\n61\n62\n65\n7\nAnnex\n66\nAcademic Institutions offering AI related course and/or research\nResearch Work\nAI Initiatives\n66\n74\n77\n\nAfCFTA\nAfDB\nAI\nAI4D\nAMCS\nAML\nARIFA\nAU\nBADEA\nBAKITA\nBASATA\nBIG-Z\nBoT\nCBE\nCIVE\nCNN\nCoCSE\nCoICT\nCOSTECH\nCSE\nCSO\nDAO\nDIH\nDIT\ndLab\nDPIA\nDTBi\nDTP\nAcronyms and Abbreviations\nAfrican Continental Free Trade Area\nAfrican Development Bank\nArtificial Intelligence\nArtificial Intelligence for Development\nApplied Mathematics & Computational Science (NM-AIST)\nAnti-Money Laundering\nAfrican Research Institute for Artificial Intelligence\nAfrican Union\nArab Bank for Economic Development in Africa\nBaraza la Kiswahili la Taifa (National Kiswahili Council)\nBaraza la Sanaa la Taifa (National Arts Council)\nBoosting Inclusive Growth for Zanzibar\nBank of Tanzania\nCollege of Business Education\nCollege of Informatics and Virtual Education (UDOM)\nConvolutional Neural Network\nComputational and Communication Sciences and Engineering\nCollege of Information and Communication Technologies (UDSM)\nTanzania Commission for Science and Technology\nComputer Science and Engineering (UDSM)\nCivil Society Organisation\nDecentralised Autonomous Organisation\nDigital Innovation Hub\nDar es Salaam Institute of Technology\nTanzania Data Lab - dLab\nData Protection Impact Assessment\nDar Teknohama Business Incubator\nDigital Tanzania Project\n8\n\nEAC\nEASTRIP\neGA\neGAZ\nEHR\nEMoS\nFYDP\nGDP\nGEPG\nGERD\nGovESB\nHEI\nICANN\nICSE\nICT\nICTC\nIEEE\nIIT-M\nIMS\nIoT\nISNS\nISP\nITU\nIVR\nKCMUCo\nKencorpus\nKFIT III\nKYC\nEast African Community\nEast Africa Skills for Transformation and Regional Integration Project\ne-Government Authority\nZanzibar e-Government Agency\nElectronic Health Record\nEmbedded & Mobile Systems (NM-AIST)\nNational Five-Year Development Plan\nGross Domestic Product\nGovernment Electronic Payment Gateway\nGross Expenditure on Research and Development\nGovernment Enterprise Service Bus\nHigher Education Institution\nInternet Corporation for Assigned Names and Numbers\nInformation and Communication Sciences and Engineering\nInformation and Communication Technology\nICT Commission\nInstitute of Electrical and Electronics Engineers\nIndian Institute of Technology - Madras\nInstitute of Marine Sciences\nInternet of Things\nInformation Systems & Network Security (NM-AIST)\nInternet Service Provider\nInternational Telecommunication Union\nInteractive Voice Response\nKilimanjaro Christian Medical University College\nKenya Language Corpus\nKorea Funds-in-Trust III (project)\nKnow Your Customer\n9\n\nL1\nL2\nLGA\nM2M\nMAKISATU\nMDA\nMeTL Group\nMoCIT\nMKUZA II\nML\nMNO\nMobC\nMOICT\nMP\nMSc DSAI\nMUHAS\nMUST\nNACTE\nNBC\nNBS\nNCSS\nNDES\nNFAST\nNICTBB\nNIDA\nNIDC\nNLP\nNM-AIST\nFirst Language\nSecond Language\nLocal Government Authority\nMachine-to-Machine\nMashindano ya Kitaifa ya Sayansi, Teknologia na Ubunifu (National Competition on Science,\nTechnology and Innovation)\nMinistries, Departments, and Agencies\nMohammed Enterprises Tanzania Limited Group\nMinistry of Communication and Information Technology\nZanzibar Strategy for Growth and Reduction of Poverty\nMachine Learning\nMobile Network Operator\nMobile Computing (NM-AIST)\nMinistry of Infrastructure, Communication and Transport (Zanzibar)\nMember of Parliament\nMasters of Science in Data Science and Artificial Intelligence\nMuhimbili University of Health and Allied Sciences\nMbeya University of Science & Technology\nNa",
+  "recommendations": [
+    {
+      "number": 60,
+      "title": "country and internationally with partner governments.",
+      "text": "country and internationally with partner governments. An assessment should be undertaken as to whether current data protection frameworks and regulations are adequately reflecting the challenges posed by AI systems. Institutional Framework 1.Establish a National AI Council with multi-stakeholder representation: A National AI Council should be established with representatives from government, academia, private sector, and civil society. This council would provide oversight for national AI initiatives, coordinate activities across sectors, and advise on policy development as well as international engagement and coordination with other African countries on AI policy and government. The multi-stakeholder approach would ensure diverse perspectives are considered in AI governance. This council should serve as a forum for addressing emerging ethical, social, and legal issues related to AI deployment. It should facilitate ongoing dialogue across sectors while providing authoritative guidance on responsible AI development. Its diverse composition should ensure that multiple perspectives— including those of traditionally marginalized groups—are represented in AI governance. 2.Create a National AI Research Centre: Tanzania should establish a National AI Research Centre to drive innovation, conduct locally relevant research, and develop solutions to national challenges. The centre would serve as a hub for collaboration between researchers, industry, and government, focusing on applied research that addresses Tanzania's unique needs. This research centre should prioritize projects that leverage Tanzania's distinctive assets—including linguistic diversity, cultural heritage, and ecological knowledge— while addressing local challenges. It should establish collaboration mechanisms with international research networks while ensuring that research priorities reflect national development goals. The centre should also build strategic partnerships with international AI research networks",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 61,
+      "title": "Capacity Building and Training 1.",
+      "text": "Capacity Building and Training 1.Integrate AI literacy into educational curricula at all levels: AI literacy should be integrated into educational curricula from primary to tertiary levels, with age-appropriate content that builds a foundational understanding, technical knowledge, and skills. This would include both technical aspects and ethical considerations, preparing students to participate in an AI-enabled society. This curricular integration should move beyond narrow technical skills to address the broader social, ethical, and cultural dimensions of AI. It should cultivate critical thinking about technology while developing both practical skills and ethical frameworks for responsible participation in technological development. 2.Develop specialised AI degree programs and professional certifications: Universities and technical institutions should develop specialized degree programs and professional certifications in AI-related fields. These programs should be designed in collaboration with industry partners to ensure relevance to market needs, addressing critical skills gaps, while also advancing scientific discovery and knowledge in the field. These educational programs should balance technical depth with interdisciplinary breadth, ensuring that graduates understand both the technical foundations of AI and its broader implications. They should incorporate hands-on projects addressing real-world challenges while developing the ethical reasoning capabilities essential for responsible AI development. For responsible and sustainable AI growth, these programs should also promote ethical awareness, critical thinking and an understanding of AI’s social and economic implications. 3.Create public awareness programs on AI benefits and risks: Public awareness campaigns should be developed to educate citizens about the benefits and potential risks of AI technologies, as well as existing initiatives in the country. These campaigns would build understanding, reduce fear and",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 62,
+      "title": "Category Potential Partners Regulation TCRA, ICT Commission, Academic institutions, Private sector Recommendation Timeframe Responsible Agency Finalise and adopt the national AI strategy with ethical ",
+      "text": "Category Potential Partners Regulation TCRA, ICT Commission, Academic institutions, Private sector Recommendation Timeframe Responsible Agency Finalise and adopt the national AI strategy with ethical guidelines and an implementation roadmap Short-term (1- 2 years) Regulation TCRA, ICT Commission, International organizations Develop specific regulations for AI ethics, accountability, and transparency, in alignment with global standards Medium-term (2-3 years) MoCIT, Attorney General's Office MoCIT Regulation Legal experts, Private sector Establish a liability regime for AI systems Medium-term (2-3 years) Attorney General's Office, MoCIT Regulation MoCIT, ICT Commission, Industry associations Develop sectoral AI guidelines for priority areas including healthcare, agriculture, education Short-term (1- 2 years) Sector ministries Regulation Data protection authorities Create data sharing frameworks with strong privacy protections, and updating existing frameworks and acts Medium-term (2-3 years) MoCIT, TCRA Institutional Framework Government agencies, Academia, Private sector, Civil society Establish a National AI Council with multi- stakeholder representation Short-term (1 year) MoCIT Institutional Framework Universities, Research institutions Create a National AI Research Centre Medium-term (2-3 years) MoCIT, Ministry of Education, COSTECH Institutional Framework Private sector, International standards bodies Develop AI testing and certification facilities Medium-term (2-3 years) TCRA, Tanzania Bureau of Standards, ICT Commission Institutional Framework Private sector, Universities Create regional AI innovation hubs Medium to long-term (3-5 years) MoCIT, ICT Commission, Local governments Institutional Framework Ethics experts, Civil society Establish an independent AI ethics review board Short-term (1- 2 years) MoCIT Table 5. Recommendations Summary Table",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 63,
+      "title": "Category Potential Partners Capacity Building MoCIT, Educational institutions Recommendation Timeframe Responsible Agency Integrate AI literacy into educational curricula at all levels Medium-term (2-",
+      "text": "Category Potential Partners Capacity Building MoCIT, Educational institutions Recommendation Timeframe Responsible Agency Integrate AI literacy into educational curricula at all levels Medium-term (2-3 years) Capacity Building Industry partners Develop specialized AI degree programs and professional certifications Medium-term (2-3 years) Universities, Technical institutions Ministry of Education Capacity Building Media, Civil society Create public awareness programs on AI benefits and risks Short-term (1- 2 years) MoCIT, TCRA, ICT Commission Capacity Building Women's organizations, Universities Implement targeted programs to increase women's participation in AI Short to medium-term (1-3 years) Ministry of Education, MoCIT Capacity Building Private sector, Development partners Build infrastructure capacity for AI computing and data centers Medium to long-term (3-5 years) MoCIT, Ministry of Works",
+      "dimension": "Costech",
+      "start_page": 0
+    },
+    {
+      "number": 64,
+      "title": "Summary: Tanzania's Human-Centred Path to AI Readiness Tanzania stands at a transformative moment in its technological journey—one that presents both profound challenges and extraordinary opportunitie",
+      "text": "Summary: Tanzania's Human-Centred Path to AI Readiness Tanzania stands at a transformative moment in its technological journey—one that presents both profound challenges and extraordinary opportunities. The stakeholder consultations revealed a vision of technological advancement that transcends binary perspectives of either uncritical adoption or wholesale rejection. Instead, participants articulated a thoughtful path forward that honors Tanzania's cultural heritage while engaging with global technological developments in ways that center human flourishing. This balanced approach recognizes that the most powerful AI solutions will emerge from the creative tension between universal technological capabilities and contextual human wisdom. It acknowledges that technological advancement is never culturally neutral—that meaningful innovation must be rooted in local contexts, values, and aspirations while leveraging global knowledge. The insights from over 240 stakeholders across Dar es Salaam, Dodoma, and Zanzibar reflect a sophisticated understanding that AI development is fundamentally about expanding human capabilities rather than replacing them. Participants consistently emphasized the importance of education, ethical frameworks, cultural preservation, and inclusive participation—demonstrating an intuitive understanding that technology must serve human purposes rather than subordinating human experience to technological imperatives. As Tanzania develops its AI readiness through policy frameworks, institutional capacity, and human capital development, this human-centered perspective offers a compelling alternative to techno-deterministic approaches that dominate much global discourse. By placing cultural context, ethical considerations, and human experience at the center of technological development, Tanzania has the opportunity to create AI systems that enhance rather than diminish human agency—systems that amplify human creativity, strengthen cultural identity, and a",
+      "dimension": "Costech",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 5,
+  "page_count": 81
+}

@@ -1,0 +1,610 @@
+{
+  "country_code": "JM",
+  "country_name": "JAMAICA",
+  "language": "en",
+  "metadata": {
+    "page_count": 61,
+    "creation_date": "D:20250831204730-05'00'",
+    "modification_date": "D:20250908155927+02'00'",
+    "country_name": "JAMAICA",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY DIMENSION AI POLICY AND REGULATION DATA PROTECTION AND CYBERCRIME LAWS Jamaica currently has no standalone national AI strategy or statute; instead, AI governance relies on indirect instruments—the DPA (2020)27, Cybercrimes Act (2015)28 , and Open Data Policy (2021)29 —and the N",
+        "The National AI Task Force, comprised government, academia, civil society, and private-sector representatives.",
+        "A permanent AI Regulatory Authority is proposed to oversee implementation, yet no binding AI-specific regulation or procurement guidelines have been enacted, and no drafts are publicly available—reflecting both legislative inertia and the need for capacity building before adopting comprehensive AI l",
+        "Jamaica Overall Score (Global Cybersecurity Index 2024)34 Jamaica’s DPA represents a landmark achievement in the country’s digital governance landscape and positions Jamaica as a regional leader in data privacy and ethical digital transformation.",
+        "The OIC plays a central role in ensuring transparency and accountability across public and private sectors, especially as AI systems become more widely deployed in Jamaica.",
+        "Data Sharing and Accessibility Jamaica has made admirable strides in promoting open data initiatives, notably through the establishment of the national Open Data Portal in 2016 and the approval of the GOJ’s Open Data Policy by the Cabinet in July 2021.",
+        "This policy provides a strategic framework aimed at enhancing transparency, accountability, and public participation by facilitating access to government-held data.",
+        "The Open Data Portal serves as a centralized platform for disseminating datasets from various MDAs, promoting data-driven decision-making and innovation."
+      ],
+      "strengths": [
+        "Jamaica has attained a distinguished position in Tier 3 of the ITU’s Global Cybersecurity Index (GCI)31, achieving a commendable score range of 55-85.",
+        "This reflects Jamaica’s significant commitment to cybersecurity and its role as a global leader and underscores its dedication to establishing a robust, secure, and resilient digital landscape, setting a high standard for cybersecurity practices.",
+        "It enshrines comprehensive data subject rights, including the right to access personal data, the right to object to processing, the right to rectification and erasure, and specific protections around automated decision-making—all of which are highly relevant in the context of AI adoption.",
+        "Critically, the Act established the OIC, a robust and independent oversight authority empowered to monitor compliance, investigate complaints, issue enforcement notices, and impose penalties for violations.",
+        "Key initiatives include upgrading the Open Data Portal to automate data updates, developing a comprehensive data inventory, and conducting user demand surveys to align data offerings with stakeholder needs.",
+        "PROCUREMENT LAWS AND POLICIES Jamaica’s public procurement framework, established by the Public Procurement Act of 2015, is grounded in principles of fairness, transparency, and value for money.",
+        "The Act also mandates that data controllers implement robust technical and organizational safeguards to protect biometric data from unauthorized access, unlawful processing, and accidental loss or destruction.",
+        "Stakeholders advocated for strengthening these protections by ensuring that the Section 12 provisions of the Act are consistently applied and supported by robust implementation guidelines.",
+        "Jamaica has not enacted any AI-specific law or policy for social-media transparency, misinformation, disinformation, or hate speech.",
+        "Jamaica’s first state-of-the-art AI lab will be established at UTech, in partnership with the Amber Group."
+      ],
+      "gaps": [
+        "However, concerns have been raised regarding the timeliness and relevance of the datasets.",
+        "On the Bank of Jamaica’s National Summary Data Page (NSDP)- Jamaica there exists additional data sets that seem disaggregated from the Jamaica Open Data Portal.35 Despite these initiatives, the portal’s current state reflects a need for more consistent data maintenance and user engagement.",
+        "However, the Act does not specifically address emerging technologies like AI, creating challenges in assessing the ethical, legal, and technical dimensions of AI systems during procurement—especially for high-risk uses such as facial recognition, predictive policing, or automated social services.",
+        "However, civil society organizations have expressed concern that these efforts do not fully reach marginalized communities.",
+        "This provision ensures that individuals have a mechanism to challenge and seek human review of automated decisions that impact them.",
+        "Although no legislation mandates diversity in the AI workforce or requires diversity reporting by firms or universities, outreach programmes have emerged: UWI Mona’s FiWi Science Initiative, UNESCO-UWI’s “Walking in Her Footsteps” STEM tour, and SRC’s “Conversations in Science” series.",
+        "English-language digital content is abundant, but Jamaican Patois lacks a formal corpus for AI training.",
+        "Jamaica lacks AI-specific cultural-heritage preservation policies.",
+        "However, its mandate for “full participation of communities” (sec.",
+        "The absence of AI frameworks in these domains highlights a significant governance gap for cultural and linguistic preservation."
+      ],
+      "key_stats": [
+        {
+          "stat": "50% government ownership",
+          "context": "including government ministries, statutory bodies, executive agencies, and companies with at least 50% government ownership. The Act promotes accountability and public participation in decision-making",
+          "value": 50.0,
+          "unit": "%"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "Open Data Policy",
+          "year": "2021",
+          "status": "enacted"
+        },
+        {
+          "name": "Cybercrimes Act",
+          "year": "2015",
+          "status": "enacted"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Yet trust metrics for government platforms and AI remain undefined.",
+        "Sustainability frameworks—the 2015 Climate Change Policy Framework and Vision 2030—align with SDGs but omit AI-specific environmental impact assessments (EIAs) and energy-carbon considerations.",
+        "Existing climate and development frameworks—such as the 2015 Climate Change Policy Framework and Vision 2030 Jamaica43—align with the SDGs but omit references to AI or digital‐technology impacts on land, water, energy, or carbon emissions.",
+        "EIAs are mandatory under NEPA44 legislation for major projects but do not cover AI systems or require social components.",
+        "No provisions exist for AI‐specific EIAs, nor for evaluating use‐case impacts (e.g., autonomous vehicles or AI‐driven resource extraction).",
+        "In response, the MOHW has shown openness to AI, establishing the AI-TECH Council of Experts55 with J$30 million from the National Health Fund to guide AI applications in areas like radiology, chronic care support, and remote monitoring.",
+        "Notably, the Council approved an AI-enhanced portable breast-cancer screening tool56 in July 2025.",
+        "HEALTH AND SOCIAL WELLBEING AI in Health-Related Policies 43Ministry of Economic Growth and Job Creation, Climate Change Policy Framework for Jamaica (Kingston: MEGJC, September 2015), https://climate-laws.org/document/climate-change-policy- framework-for-jamaica_f5e2."
+      ],
+      "strengths": [
+        "While these steps are promising, integrating AI solutions in a comprehensive digital health policy—especially focusing on youth and mental health—remains a critical area for development.",
+        "Conceptual View graphical representation of the vision for a National Health Information System and e-Health for Jamaica55 ### Page 27 25 CULTURE Jamaica has not enacted any AI‐specific policy for cultural‐heritage preservation.",
+        "6.1(c)), offering a basis for stakeholder engagement in any future AI–heritage initiatives.58 Likewise, Jamaica has not adopted any policy on using AI for minority or indigenous‐language preservation."
+      ],
+      "gaps": [
+        "Despite the absence of policy, experimentation with AI continues.",
+        "U-Report Jamaica52 also gathers data on youth engagement with social media and its effects on mental health, highlighting the need for targeted interventions.",
+        "However, despite these initiatives, Jamaica still lacks a standalone digital-health policy.",
+        "The National Health Information System Strengthening and e-Health Strategic Plan 2014–2018,53 as well as the 2023 EHR rollout,54 have yet to fully address the integration of AI, mental health, or paediatric impacts, and do not require AI impact assessments.",
+        "18.2) but makes no mention of AI or digital‐technology standards.56 No independent evaluation of its technology provisions has been published.57 However, the Policy mandates “the full participation of communities in cultural expression and cultural development” (sec.",
+        "6.1(g)) recognizes the importance of safeguarding linguistic heritage but does not reference digital or AI considerations.59 No efficacy assessments exist, and no framework currently allows community members to participate specifically in AI–language‐preservation regulation or development."
+      ],
+      "key_stats": [
+        {
+          "stat": "85%\nMale",
+          "context": "lation that uses the Internet, by gender Note: Measurement methods vary by country. 2021 Female: 85% Male: 80% ### Page 24 22 PUBLIC ENGAGEMENT AND TRUST E-government readiness is moderate: Jamaica sc",
+          "value": 85.0,
+          "unit": "%"
+        },
+        {
+          "stat": "$30 million",
+          "context": "In response, the MOHW has shown openness to AI, establishing the AI-TECH Council of Experts55 with J$30 million from the National Health Fund to guide AI applications in areas like radiology, chronic ",
+          "value": 30000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "rank 96 out of",
+          "context": ".6678 in the 2024 E-Government Development Index (UN E-government database), which translates to a rank 96 out of 193. Figure 7. Jamaica 2024 Ranking on E-Government Development Index 0 0.1 0.2 0.3 0."
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "There is no breakdown for AI‐specific public or private R&D.",
+        "The 2022 National Science Technology and Innovation Policy sets a target of 1.5 percent GERD by 2029—equivalent to Singapore’s investment in 1998—implying a 21-fold increase in both GERD and full-time equivalent researchers per million people, and a seven- fold rise in publications per capita.",
+        "With only eight new STEM PhDs produced annually (2016/17–2022/23), meeting these goals in five years presents a formidable undertaking.63 Between 2019 and 2024, Jamaican researchers authored 13 AI-related publications according to the OECD.AI database.64 Local innovators like Adrian Dunkley, named “",
+        "Institutions such as UTech and the Scientific Research Council increasingly integrate AI into applied projects, while Sandals Corporate University’s award-winning generative AI training underscores private-sector engagement.",
+        "These outputs signal Jamaica’s emergence as a contributor to AI research and innovation.",
+        "Jamaica OECD AI Publications 2019-202465 Jamaica Publications 2001 ### Page 29 27 Jamaican institutions are beginning to provide workshops on ethics education and governance.",
+        "In November 2024, Mona Academy of Science and Technology at the UWI, Mona in collaboration with StarApple AI held an I.M.P.A.C.T.",
+        "Workshop Series—“AI Foundations for Science, Ethics, Integrity and Innovation”—which blended technical AI training with modules on information ethics, research integrity, and social implications of technology66."
+      ],
+      "strengths": [
+        "Public access to AI education in Jamaica is being actively advanced through initiatives led by the Broadcasting Commission.",
+        "The AI4IA Conference panel—“Generative AI: Impact on Misinformation and Disinformation”—organized by the Broadcasting Commission with UNESCO and open to all online, spotlights AI’s societal challenges and launched the Caribbean AI Policy Roadmap.78 Broadcasting Commission’s School Outreach Programme",
+        "As Jamaican businesses advance beyond experimentation, sustained progress will depend on a supportive policy environment, robust talent pipelines, and collaborative industry ecosystems."
+      ],
+      "gaps": [
+        "Despite growing interest in AI research, Jamaica has yet to record any AI-specific patent filings, as there is no publicly available data from the Jamaica Intellectual Property Office to support such claims.",
+        "The Jamaica Patents and Designs Act (2020) does not explicitly address AI- generated inventions, though it permits patent applications for new technologies.",
+        "This near absence of AI patenting indicates that innovation in Jamaica largely remains at the research stage, underscoring the need for greater efforts to bridge the gap between academic research and commercialization.",
+        "This progress is part of the government’s broader efforts to enhance digital connectivity in education, which also includes the establishment of 260 ICT labs and 21 STEM labs in primary schools, the distribution of 1,500 tablets to early-childhood institutions, and the provision of 144 interactive s",
+        "Even though 68% of schools are connected to the internet75, in some schools, broadband access is limited to administrative offices, restricting students’ ability to utilize digital learning tools.",
+        "These initiatives align with the goals outlined in the Jamaica Education Transformation Commission Report76, which emphasizes the need for equitable access to technology to prepare learners for a digitally driven future.",
+        "Curriculum Content In education, no law mandates AI integration into curricula however a draft AI policy was found77.",
+        "An analysis of Tertiary programmes found only 1 dedicated AI degree—UTech’s BSc in Applied AI; however, it was noted that while UWI, Mona campus does not currently offer a standalone bachelor’s or master’s degree titled “Artificial Intelligence”, AI is embedded within existing computing programmes s",
+        "NCU’s Department of Computer and Information Sciences also does not offer degree programmes in AI but incorporates AI courses in a variety of applied degrees.",
+        "R&D spending is reported only in aggregate form—GERD stands at 0.06 percent of GDP—without a breakdown for AI‐specific public or private R&D.84 Government budgets for grants, loans, or tax incentives targeting AI development are similarly unsegmented, making it impossible to gauge state‐led stimulus"
+      ],
+      "key_stats": [
+        {
+          "stat": "0.06% of Jamaica",
+          "context": "Innovation Output While R&D figures for AI specifically are not readily available, GERD represented 0.06% of Jamaica’s GDP69 in 2021. Despite growing interest in AI research, Jamaica has yet to record",
+          "value": 0.06,
+          "unit": "%"
+        },
+        {
+          "stat": "68% of schools in Jamaica have broadb",
+          "context": "of AI in Schools (Kingston: MoEY, 2024). Education Infrastructure As of early 2025, approximately 68% of schools in Jamaica have broadband internet access, marking a significant advancement in the cou",
+          "value": 68.0,
+          "unit": "%"
+        },
+        {
+          "stat": "68% of schools are connected to the i",
+          "context": "t boards across the education system.74 Despite these improvements, challenges remain. Even though 68% of schools are connected to the internet75, in some schools, broadband access is limited to admin",
+          "value": 68.0,
+          "unit": "%"
+        },
+        {
+          "stat": "$1.3 trillion",
+          "context": "‐specific public or private R&D. The GOJ’s Estimates of Expenditure for fiscal year 2025/26 total J$1.3 trillion61, making the R&D investment approximately J$780 million. Notably, there is an Accelera",
+          "value": 1.3,
+          "unit": "USD"
+        },
+        {
+          "stat": "$780 million",
+          "context": "penditure for fiscal year 2025/26 total J$1.3 trillion61, making the R&D investment approximately J$780 million. Notably, there is an Accelerated Capital Allowance regime proposed in the budget but it",
+          "value": 780000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$30 million",
+          "context": "sh Jamaica’s first AI Lab at UTech—launching September 1, 202588 —and the MOHW secured an initial J$30 million from the National Health Fund to seed its AI-TECH Council of Experts, tasked with integra",
+          "value": 30000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$8.2 billion",
+          "context": "l Service Fund and eLearning Jamaica Company Limited have supported digital learning by investing J$8.2 billion in tablets and laptops for schools—laying groundwork for AI literacy90 The GOJ appears t",
+          "value": 8199999999.999999,
+          "unit": "USD"
+        },
+        {
+          "stat": "$8.2 Billion",
+          "context": "nister- announces-council-of-experts-to-look-at-ai-in-healthcare/. 90Jamaica Information Service, “$8.2 Billion Invested to Enhance Education Technology,” Jamaica Information Service, March 26, 2025, ",
+          "value": 8199999999.999999,
+          "unit": "USD"
+        },
+        {
+          "stat": "ranked 6th in Latin",
+          "context": "61 out of 109 countries in the Coursera Global Skills Report 2025. In the same report, Jamaica is ranked 6th in Latin America and ranked 83rd on its AI Maturity Index. Public access to AI education in"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Timeline: 2025-2030 Priority: High INVESTMENT ECOSYSTEM The investment ecosystem framework provides strategic guidance for nurturing AI startups and enhancing capital market infrastructure.",
+        "This dimension emphasizes fostering deeper partnerships between funding entities and AI ventures while directing specialized investment resources toward rapid market expansion and technological advancement.",
+        "Many SMEs in Jamaica face barriers to adopting AI due to a lack of resources, technical expertise, and the high cost of advanced technologies.",
+        "By providing pre-trained AI models, low-code platforms, and digital assistants, Jamaica can empower these businesses to leverage AI for tasks such as inventory management, automated marketing, and customer service.",
+        "Providing SMEs with affordable access to AI resources will enable them to become more competitive, driving innovation and efficiency.",
+        "By fostering an AI-friendly environment for SMEs, Jamaica can unlock the full potential of its entrepreneurial ecosystem, enabling small businesses to thrive in the digital economy.",
+        "Timeline: 2025-2030 Priority: Medium INTEGRATE AI INTO NATIONAL PRODUCTIVITY AND MSME STRATEGIES Jamaica should integrate AI into its National Productivity Strategy and policies for MSMEs to drive economic growth and enhance competitiveness.",
+        "AI can be a powerful tool for improving productivity across various sectors, particularly in industries where Jamaica faces challenges such as agriculture, tourism, and manufacturing."
+      ],
+      "strengths": [
+        "Corrine Duffus, “First AI Lab to Be Established at UTech,” Ministry of Education, Skills, Youth and Information, June 10 2025, https://moey.gov.jm/first-ai-lab-to-be-established-at-utech/.",
+        "UNESCO, “Recommendation on the Ethics of Artificial Intelligence,” adopted November 2021, https://unesdoc.unesco.org/ ark:/48223/pf0000377897."
+      ],
+      "gaps": [
+        "eGov Jamaica Limited, “eGov Primary Data Center Specifications,” accessed June 2025, https://egovja.com/datacenter.",
+        "Wright, “Girls Dominate, Boys Left Behind: Decomposing the Gender Gap in Education Outcomes in Jamaica,” Economía LACEA Journal 24, no."
+      ],
+      "key_stats": [
+        {
+          "stat": "$1.3 trillion",
+          "context": "6-Estimates-of-Expenditure.pdf; Fayval Williams, Budget Debate Speech, March 11, 2025 (noting the J$1.3 trillion expenditure budget). Government of Jamaica, National Cultural Policy of Jamaica (Kingst",
+          "value": 1.3,
+          "unit": "USD"
+        },
+        {
+          "stat": "$8.2 Billion",
+          "context": "nveiled-supercomputer-promises- fireworks-climate-research-caribbean. Jamaica Information Service, “$8.2 Billion Invested to Enhance Education Technology,” Jamaica Information Service, March 26, 2025,",
+          "value": 8199999999.999999,
+          "unit": "USD"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "In 2021, urban internet usage was approximately 87%, compared to 77% in rural areas.98 Though updated rural-urban disaggregated data is unavailable for 2025, this divide remains a key policy concern.",
+        "The average cost of 1 GB of mobile data in Jamaica is approximately USD 1.65—among the lowest in the Caribbean—but still burdensome for families living in rural or economically challenged areas.",
+        "To build institutional readiness, Jamaica would benefit from participating in global standards-development processes and developing a national AI conformity framework that applies across sectors.",
+        "On the private side, Digicel’s Caymanas Data Centre, recognized by the Uptime Institute, provides enterprise hosting and cloud services.",
+        "Funded by the Inter-American Development Bank (IDB) under the Pilot Programme for Climate Resilience,108 SPARKS has significantly improved the speed and resolution of climate simulations, enabling more localized and timely data for decision-making in sectors such as agriculture, health, and urban pl",
+        "These services are accessed through regional infrastructure, typically from data centres in other Caribbean locations or North America.",
+        "Apart from this index, equally important is modernizing Jamaica’s Open Data Portal to better support AI experimentation.",
+        "Creating Data Stewardship Units within key ministries could support ethical data management and responsible sharing across government and private actors."
+      ],
+      "strengths": [
+        "Jamaica has made notable strides in expanding broadband access, supported by national projects like the “Connect JA” and “Community Wi-Fi Programme” initiatives under the Universal Service Fund.",
+        "Launched in 2016 at the UWI Mona campus, SPARKS107 is a HPC and storage platform designed to enhance climate modelling and research capabilities in the Caribbean region.",
+        "This meeting established national ownership of the RAM process and aligned strategic priorities across sectors.",
+        "Stakeholder Identification and Mapping: A comprehensive Stakeholder Mapping Document was developed, identifying key actors across five RAM dimensions—legal, technical, economic, scientific/educational, and social/cultural.",
+        "Academic Institutions: Robust participation from UWI, UTech, NCU, Caribbean Maritime University, College of Agriculture, Science and Education and other educational entities.",
+        "Government: Comprehensive involvement across relevant ministries and agencies.",
+        "Additionally, there is no comprehensive AI legal framework that defines the rights and responsibilities surrounding AI development and deployment, leaving Jamaica vulnerable to legal and ethical challenges.",
+        "Furthermore, aligning AI governance with regional and international frameworks remains complex, as the country must navigate various governance models to determine the most effective approach suited to its context Opportunities: Jamaica has the opportunity to build a robust institutional framework b",
+        "Without inclusive educational strategies, certain groups may be excluded from the benefits of AI, leading to further digital divides and reduced opportunities for engagement in the AI-driven economy.",
+        "These conclusions, which reflect the collective insights gathered from all participating stakeholders, serve as essential building blocks for formulating comprehensive high-level recommendations that will assist Jamaica in strengthening development of a national strategy for data and AI: 1."
+      ],
+      "gaps": [
+        "This reflects a slight decline from the previous year’s 85.1%, signaling the need for renewed attention to connectivity equity.97 While digital access has improved overall, disparities persist, especially between urban and rural communities.",
+        "However, reliable high-speed internet is still unevenly distributed across the island.",
+        "Service reliability remains a challenge, particularly during hurricanes or tropical storms, when power outages and damaged infrastructure frequently disrupt connectivity for extended periods.",
+        "These vulnerabilities underscore the need for more resilient digital infrastructure across the island.",
+        "Data Centres The Jamaica’s government Primary Data Centre in Kingston is Tier 2–compliant with 1,300 TB of storage, a private-cloud platform, a 31 km fibre network linking 700 entities, and a USD 600 million 2024 upgrade; it can run basic CPU-based AI tasks but lacks dedicated GPU/TPU clusters for l",
+        "105 eGov Jamaica Limited, “eGov Primary Data Center Specifications,” accessed June 2025, Data Centre Services - eGov Jamaica Limited 107Datacentres capacity in JAMAICA: https://www.",
+        "Local and Regional Players: Companies like Cloud Carib provide regional Caribbean-focused cloud services, while local Information Technology companies like tTech limited, Astra Service Desk, Solutech Innovation, and Inova Solutions offer cloud implementation and support services.",
+        "Participants also emphasized the need to curate interoperable, high-value datasets in sectors like health, agriculture, education, and justice.",
+        "The absence of clear liability structures and oversight mechanisms makes it difficult to govern AI systems effectively.",
+        "There is also a need for more specialized AI training, as current educational frameworks do not fully equip the workforce with the necessary skills to engage with AI effectively."
+      ],
+      "key_stats": [
+        {
+          "stat": "77% in rural areas",
+          "context": "ween urban and rural communities. In 2021, urban internet usage was approximately 87%, compared to 77% in rural areas.98 Though updated rural-urban disaggregated data is unavailable for 2025, this div",
+          "value": 77.0,
+          "unit": "%"
+        },
+        {
+          "stat": "85%\nof the population used the intern",
+          "context": "iber-optic networks.100 ### Page 35 33 Figure 13. Internet Penetration Percentages in Jamaica 101 85% of the population used the internet at least once over a 3-month period 2022 85% Americas average ",
+          "value": 85.0,
+          "unit": "%"
+        },
+        {
+          "stat": "85%\nAmericas average",
+          "context": "es in Jamaica 101 85% of the population used the internet at least once over a 3-month period 2022 85% Americas average 101 DataReportal, “Digital 2024: Jamaica,” DataReportal, January 15, 2024, https",
+          "value": 85.0,
+          "unit": "%"
+        },
+        {
+          "stat": "87%\nRural",
+          "context": "age Download Speed Based on average of 300 users 62.33 mbps Broadband 28.49 mbps Mobile 2023 Urban: 87% Rural: 77% Urban and Rural Internet Penetration Percentage of the population that uses the Inter",
+          "value": 87.0,
+          "unit": "%"
+        },
+        {
+          "stat": "77%\nUrban and Rural Internet Penet",
+          "context": "d Speed Based on average of 300 users 62.33 mbps Broadband 28.49 mbps Mobile 2023 Urban: 87% Rural: 77% Urban and Rural Internet Penetration Percentage of the population that uses the Internet in rura",
+          "value": 77.0,
+          "unit": "%"
+        },
+        {
+          "stat": "40% of STEM graduates and a smaller p",
+          "context": "er disparities persist in STEM fields, particularly in AI and computing. Women account for only 35–40% of STEM graduates and a smaller percentage of AI professionals. To address these disparities, tar",
+          "value": 40.0,
+          "unit": "%"
+        },
+        {
+          "stat": "USD 600 million",
+          "context": "h 1,300 TB of storage, a private-cloud platform, a 31 km fibre network linking 700 entities, and a USD 600 million 2024 upgrade; it can run basic CPU-based AI tasks but lacks dedicated GPU/TPU cluster",
+          "value": 600000000.0,
+          "unit": "USD"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "• International Awards Jamaican AI innovators have begun earning international accolades.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Sandals Corporate University secured the Global Council of Corporate Universities Bronze Award for Best Generative AI Implementation, its second consecutive win.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "20“Jamaican Adrian Dunkley Awarded Top Caribbean AI Innovator,” Our Today, June 14, 2025, https://our.today/jamaican-adrian-dunkley-awarded-top-caribbean-ai-innovator/.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Jamaican institutions contributed 13 AI publications to the OECD.AI database from 2019–202419, entrepreneur Adrian Dunkley was named “Top Caribbean AI Innovator” by CEO Monthly,20 and Sandals Corporate University won consecutive Global Corporate Universities Bronze Awards for generative AI training.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The ITU developed the GCI to monitor the cybersecurity measures implemented across the five work areas of the ITU Global Cybersecurity Agenda.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The OIC plays a central role in ensuring transparency and accountability across public and private sectors, especially as AI systems become more widely deployed in Jamaica.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "However, the Act does not specifically address emerging technologies like AI, creating challenges in assessing the ethical, legal, and technical dimensions of AI systems during procurement—especially for high-risk uses such as facial recognition, predictive policing, or automated social services.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Institutions such as UTech and the Scientific Research Council increasingly integrate AI into applied projects, while Sandals Corporate University’s award-winning generative AI training underscores private-sector engagement.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "On the private side, Digicel’s Caymanas Data Centre, recognized by the Uptime Institute, provides enterprise hosting and cloud services.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This meeting established national ownership of the RAM process and aligned strategic priorities across sectors.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "These training programmes will help demystify AI technologies, such as ChatGPT and facial recognition, ensuring they are understandable and usable by the general public.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Jamaica Observer, “Sandals Corporate University Cops Global CCU Award for AI-Powered Training,” Jamaica Observer, May 23, 2025, https://www.jamaicaobserver.com/2025/05/23/sandals-corporate-university-cops-global-ccu-award-ai-powered- training/.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Our Today , “Jamaican Adrian Dunkley Awarded Top Caribbean AI Innovator,” June 14, 2025, https://our.today/jamaican-adrian- dunkley-awarded-top-caribbean-ai-innovator/.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 83.4,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "AI Publications",
+      "value": 13,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "executive_summary": "Table of Contents\nAcknowledgements\t\n2\nAcronyms and Abbreviations\t\n4\nForeword\t\n6\nExecutive Summary\t\n7\nDiagnosis Of The National AI Landscape\t\n12\nLegal And Regulatory Dimension \t\n16\nAI Policy and Regulation\t\n16\nData Protection and Cybercrime Laws\t\n16\nProcurement Laws and Policies \t\n18\nFreedom of Information Acts and Access to Knowledge Acts\t\n19\nDue Process and Accountability\t\n19\nOnline Safety and Integrity of Speech\t\n20\nPublic Sector Capacity \t\n20\nSocial And Cultural Dimension\t\n21\nDiversity, Inclusion and Equality\t\n21\nPublic Engagement and Trust\t\n22\nEnvironmental and Sustainability Policies \t\n23\nHealth and Social Wellbeing\t\n24\nCulture                                                                                                                                                                25\nScientific And Educational Dimension\t\n26\n\n3\nResearch and Innovation \t\n26\nEducation\t\n27\nEconomic Dimension\t\n30\nLabour Markets\t\n30\nIntermediate Consumption \t\n30\nInvestments and Output \t\n30\nTechnical And Infrastructural Dimension\t\n32\nInfrastructure and Connectivity\t\n32\nApplied Standards\t\n34\nComputing Capabilities \t\n34\nStatistical Performance\t\n35\nDeveloping A National AI Multi‑Stakeholder Roadmap\t\n37\nOverview of stakholder engagement process\t\n37\nMain Challenges identified through previous consultations                                                39\nConclusion                                                                                                                                                        41\nTowards A National AI Strategy: High Level Recommendations                43\nLaws and Regulation                                                                                                                                  45\t\nInstitutional Frameworks and Governance                                                                                   46\nCapacity Building                                                                                                                                         47\nResponsible Technologies and Governance                                                                                   48\n\t\nInclusion and Well-Being                                                                                                              49\nInvestment Ecosystem                                                                                                                   50\nEnvironmental Sustainability                                                                                                    52\n\nAcronyms and Abbreviations\nAI  \nArtificial Intelligence\nAPIs\nApplication Programming Interface\nBI  \nBusiness Intelligence\nCARICOM  \nCaribbean Community\nCDB\nCaribbean Development Bank\nCSV\nComma-Separated Values\nCTU\nCaribbean Telecommunications Union\nCSEC\nCaribbean Secondary Education Certificate\nDPA\nData Protection Act\nDPIAs\nData Protection Impact Assessments\nEGDI\nE-Government Development Index\nEIAs\nEnvironmental Impact Assessments\nEU\nEuropean Union\nGDP\nGross Domestic Product\nGDPR\nGeneral Data Protection Regulation\nGERD\nGross Expenditure on Research and Development\nGOJ\nGovernment of Jamaica\nGPU\nGraphics Processing Unit\nHEART/NSTA\nHuman Employment and Resource Training / National Service Training Agency Trust\nHPC\nHigh-Performance Computing\nICT\nInformation and Communications Technology\nIDB\nInter-American Development Bank\nIEEE \nInstitute of Electrical and Electronics Engineers\nISO\nInternational Organization for Standardization\nITU\nInternational Telecommunication Union\nJAMPRO\nJamaica Promotions Corporation\nJLA\nJamaica Learning Assistant\nLAC\nLatin America and the Caribbean\nMDAs\nMinistries, Departments and Agencies\nMSME\nMicro, Small, and Medium Enterprise\nMOESYI\nMinistry of Education, Skills, Youth and Information \nMOHW\nMinistry of Health and Wellness\nNCU\nNorthern Caribbean University\n4\n\n5\nNEPA\nNational Environment and Planning Agency\nNIDS\nNational Identification System\nNIRA\nNational Innovation and Research Agenda\nOECD\nOrganisation for Economic Co-operation and Development\nOIC\nOffice of the Information Commissioner\nOPM\nOffice of the Prime Minister\nPDF\nPortable Document Format\nPPPs\n Public Private Partnerships\nR&D\nResearch and Development\nRAM\nReadiness Assessment Methodology\nRUN\nReskilling; Upskilling and New-Skilling (RUN) Project\nSDG\nSustainable Development Goals\nSIDS\nSmall Island Developing States\nSMEs\nSmall and Medium Enterprises  \nSTEM\nScience, Technology, Engineering, and Mathematics\nTPU\nTensor Processing Unit\nUK\nUnited Kingdom\nUN\nUnited Nations\nUNESCO\nUnited Nations Educational, Scientific and Cultural Organization\nUSD\nUnited States Dollar\nUTECH\nUniversity of Technology\nUWI\nUniversity of the West Indies\nWIPO\nWorld Intellectual Property Organization\n\n6\nForeword\nWe have officially entered the Age of Artificial Intelligence (AI). This technology is transforming the world at a pace not seen in \ngenerations. AI-based tools are becoming integral to everyday life—helping us work, learn, move, comm",
+  "recommendations": [
+    {
+      "number": "1.1",
+      "title": "Expand existing laws to address AI- specific challenges",
+      "text": "",
+      "dimension": "Laws and Regulation",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.2",
+      "title": "Develop AI-specific legislation",
+      "text": "",
+      "dimension": "Laws and Regulation",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.3",
+      "title": "Create AI compliance and oversight mechanisms",
+      "text": "",
+      "dimension": "Laws and Regulation",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "2.1",
+      "title": "Establish the national AI oversight and implementation council",
+      "text": "",
+      "dimension": "Institutional Frameworks and Governance",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "2.2",
+      "title": "Strengthen regional collaboration through CARICOM",
+      "text": "",
+      "dimension": "Institutional Frameworks and Governance",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "2.3",
+      "title": "Enhance data collection and sharing capabilities",
+      "text": "",
+      "dimension": "Institutional Frameworks and Governance",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "3.1",
+      "title": "Integrate AI education into all levels of the national curricula",
+      "text": "",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "3.2",
+      "title": "Promote and equal access to STEM education",
+      "text": "",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "3.3",
+      "title": "Expand community-based AI literacy and training",
+      "text": "",
+      "dimension": "Capacity Building",
+      "timeline": "2025-2028",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "4.1",
+      "title": "Strengthen innovation ecosystem and invest in open infrastructure",
+      "text": "",
+      "dimension": "Responsible Technologies and Innovation",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "4.2",
+      "title": "Enhance open data systems for transparency and innovation",
+      "text": "",
+      "dimension": "Responsible Technologies and Innovation",
+      "timeline": "2025-2027",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "4.3",
+      "title": "Invest in AI applied R&D ecosystem to increase AI output and patents",
+      "text": "",
+      "dimension": "Responsible Technologies and Innovation",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.1",
+      "title": "Address gender imbalance in STEM education",
+      "text": "",
+      "dimension": "Inclusion and Well-being",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.2",
+      "title": "Incorporate AI research on Jamaican culture, language, and traditional knowledge",
+      "text": "",
+      "dimension": "Inclusion and Well-being",
+      "timeline": "2025-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "5.3",
+      "title": "Promote e-health and well-being initiatives through AI",
+      "text": "",
+      "dimension": "Inclusion and Well-being",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "6.1",
+      "title": "Pilot AI solutions in high- impact sectors",
+      "text": "",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2024-2030",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "6.2",
+      "title": "Develop accessible AI toolkits for SMEs",
+      "text": "",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2025-2030",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "6.3",
+      "title": "Integrate AI into national productivity and MSME strategies",
+      "text": "",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "6.4",
+      "title": "Establish AI-focused investment funds and partnerships",
+      "text": "",
+      "dimension": "Investment Ecosystem",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "7.1",
+      "title": "Develop and implement a green AI procurement and deployment framework",
+      "text": "",
+      "dimension": "Dimension 7",
+      "timeline": "2025-2030",
+      "priority": "Medium",
+      "start_page": 0
+    },
+    {
+      "number": "7.2",
+      "title": "Promote AI solutions for climate action and sustainability",
+      "text": "",
+      "dimension": "Dimension 7",
+      "timeline": "2025-2028",
+      "priority": "Medium",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 21,
+  "page_count": 61,
+  "rankings_indices": [
+    {
+      "context": "Absent from the Stanford AI Index, Jamaica ranks 76th in the 2022 Global Innovation Index (input 88, output 60).",
+      "index_name": "Stanford AI Index",
+      "rank": 76,
+      "year": 2022
+    },
+    {
+      "context": "Online Service Index (OSI) – Jamaica scored 0.5677 above the subregion average of 0.4256 and just below the World Average of 0.5754.",
+      "index_name": "Online Service Index",
+      "score": 0.5677
+    },
+    {
+      "context": "E-Participation Index (EPI) – Jamaica scored 0.4384 giving it a world rank of 102.",
+      "index_name": "E-Participation Index",
+      "score": 0.4384
+    },
+    {
+      "context": "40E-Government Development Index, United Nations, 2024: https://publicadministration.un.org/egovkb/Data-Center 41 E-Government Development Index, United Nations, 2024: https://publicadministration.un.org/egovkb/Data-Center 2024 United E-Government Development Index40 : Jamaica is currently scoring 0.6678 in the 2024 E-Government Development Index (UN E-government database), which translates to a rank 96 out of 193.",
+      "index_name": "E-Government Development Index",
+      "rank": 96,
+      "score": 0.6678,
+      "year": 2024
+    },
+    {
+      "context": "Jamaica 2024 Ranking on E-Government Development Index (UN E-government database) 2024 United Nations Online Services index42 : Jamaica is currently scoring 0.5677 in the 2024 Online Services Index (UN E-government database).",
+      "index_name": "E-Government Development Index",
+      "score": 0.5677,
+      "year": 2024
+    }
+  ]
+}

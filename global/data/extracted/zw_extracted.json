@@ -1,0 +1,802 @@
+{
+  "country_code": "ZW",
+  "country_name": "ZIMBABWE",
+  "language": "en",
+  "metadata": {
+    "page_count": 56,
+    "creation_date": "D:20250618090232+02'00'",
+    "modification_date": "D:20250711172007+02'00'",
+    "country_name": "ZIMBABWE",
+    "language": "en"
+  },
+  "chapters": [
+    {
+      "chapter": 11,
+      "title": "22]. Printed by the Government Printer, Harare. Available at: https://www.veritaszim.net/sites/veritas_d/files/Data%20Protection%20Act%205%20",
+      "start_page": 17
+    },
+    {
+      "chapter": 10,
+      "title": "33]. Available at: https://media.zimlii.org/files/legislation/akn-zw-act-2020-1-eng-2020-07-01.pdf",
+      "start_page": 18
+    },
+    {
+      "chapter": 9,
+      "title": "23] No. 23/2004. Available at: https://www.jsc.org.zw/upload/Acts/2017/0923updated.pdf",
+      "start_page": 18
+    },
+    {
+      "chapter": 26,
+      "title": "05) may influence people’s rights to understand how an AI-",
+      "start_page": 19
+    },
+    {
+      "chapter": 12,
+      "title": "07] .https://www.ictministry.gov.zw/wp-content/uploads/2024/01/Cyber-and-Data-Protection-Act-Chapter-1207.pdf",
+      "start_page": 20
+    },
+    {
+      "chapter": 25,
+      "title": "11]. Available at: https://www.law.co.zw/download/national-museums-and-monuments-act/",
+      "start_page": 27
+    }
+  ],
+  "dimensions": {},
+  "executive_summary": "Contents\nAcronyms     \b\n02\nForeword     \b\n04\nBy the Assistant Director-General ad interim for Social and Human Sciences, UNESCO    \b\n04\nForeword     \b\n06\nBy the Minister of Information Communication Technology, Postal and Courier Services     \b\n06\nForeword     \b\n08\nBy the Permanent Secretary for the Ministry of ICT, Postal and Courier Services\b\n08\nExecutive Summary     \b\n10\nDiagnosis of the national AI landscape     \b\n12\nLegal and regulatory     \b\n14\nAI policy and regulation     \b\n14\nData protection and privacy laws     \b\n15\nFreedom of information act     \b\n16\nConsumer protection acts     \b\n17\nCopyright and neighbouring rights act     \b\n17\nCyber and data protection act     \b\n18\nOnline safety and integrity speech     \b\n19\nFurther legislation needed     \b\n20\nEnablers and challenges      \b\n21\nSocial and cultural     \b\n22\nDiversity, inclusion and equality     \b\n22\nEnvironmental and sustainability costs     \b\n24\nHealth and social wellbing     \b\n24\nCulture     \b\n25\nPublic engagement and trust     \b\n26\nScientific and educational     \b\n29\nResearch and innovation     \b\n29\nEducation infrastructure     \b\n33\nEconomic     \b\n35\nLabour markets     \b\n37\nIntermediate consumption     \b\n38\nInvestments and output     \b\n38\nTechnical and infrastructural     \b\n40\nInfrastructure and connectivity     \b\n40\nApplied standards     \b\n42\nStatistical performance     \b\n42\nNational AI Strategy: Main Policy Recommendations     \b\n44\nLaws and regulations     \b\n44\nInstitutional frameworks and governance     \b\n46\nCapacity building     \b\n47\nReferences     \b\n48\nAnnex: results of the in-country consultations     \b\n51\n01\n\nAcronyms\n4IR\n Fourth Industrial Revolution \nAI\n Artificial intelligence \nChatGPT\nChat Generative Pre-Trained Transformer\nCUT\nChinhoyi University of Technology \nDPA\nData Protection Authority\nEGDI\nE-Government Development Index \nEPI\nE-Participation Index \nFOI\nFreedom of information \nGII\nGlobal Innovation Index \nHIT\nHarare Institute of Technology\nICA\nInterception of Communications Act \nICT\nInformation and communication technologies\nITU\nInternational Telecommunication Union \nKYC\nKnow-your-customer\nMICTPCS\nMinistry of ICT, Postal and Courier Services\nNGOs\nNon-governmental organizations \n02\n\nNUST\nNational University for Science and Technology \nODIN\nOpen data inventory\nOECD\nOrganisation for Economic Co-operation and Development\nOVC\nOrphans and vulnerable children \nPOTRAZ\nPostal and Telecommunications Regulatory Authority of Zimbabwe \nPPPs\nPublic-private partnerships\nRAM\nReadiness assessment methodology \nSARFAI\nSouthern Africa sub-Regional Forum on Artificial Intelligence \nSIRDC\nScientific and Industrial Research and Development Centre\nSPI\nStatistical performance indicators \nSDGs\nSustainable Development Goals \nUNESCO\nUnited Nations Educational, Scientific and Cultural Organization\nVAR\nVirtual augmented reality \nZCHPC\nZimbabwe Centre for High Performance Computing \nZPRS\nZimbabwe Population Registry System \n03\n\nWe have officially entered the Age of Artificial Intelligence. The world is now \nset to change at a pace not seen in decades, even centuries. AI-based tools and \napplications make our lives easier, smoother, and richer. They help us move efficiently, \nget informed, get credit, get a job, and get our taxes done.\nBut in its current form, AI reproduces and amplifies many of the social challenges we face. It is not acceptable that \naround a third of the world’s population still lacks adequate internet access. Upstream, the AI industry is highly \nconcentrated, with just two countries – the United States and China – and a dozen companies accounting for a \nmajor share of the sector. This can lead only to greater inequality of outcomes – including gender disparities – \ndownstream. Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, \nparticularly to those who are already vulnerable, whether companies or individuals, children and young people, \nwomen, or entire democracies.\nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 \nby 193 countries to make sure AI delivers fair, sustainable, and inclusive outcomes. The Recommendation is based \non the protection and promotion of human rights, human dignity, and environmental sustainability, and these \nvalues are then translated into principles such as accountability, transparency, and privacy. The Recommendation \nalso sets out concrete policy actions that governments can draw on to steer technological developments in a \nresponsible direction, premised on the belief that light-touch regulation, which has until now remained the norm, is \ninsufficient. We need capable governments that are well equipped, in terms of competencies, institutions and laws, \nto frame responsible AI development and protect the rule of law online, and public and private developers who are \naccountable for putting human rights and fundamental freedoms – not profits or geopolitical considerations – first.\nForeword\nLidia Brit",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Laws and regulations\nEthics and AI governance framework",
+      "text": "The multidisciplinary AI Ethics Think Tank proposed in December 2023 and formalized in February 2025 to",
+      "dimension": "",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "oversee the implementation of the UNESCO Recommendation on the Ethics of AI must develop and enforce",
+      "text": "ethical guidelines to ensure AI deployment aligns with Zimbabwe’s values and priorities. The think tank must also institutionalize procedures for ongoing participation and engagement from key stakeholders, such as MDAs, academia, civil society, and international bodies like UNESCO. Responsible institutions: The following institutions would play important roles in the process of formalizing the AI Ethics Think Tank: • Ministry of Information Communication Technology, Postal and Courier Services •",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Ministry of Higher and Tertiary Education, Science and Technology Development",
+      "text": "• Members from academia● Civil society, and UNESCO●",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Ministry of Skills Audit and Development",
+      "text": "• Ministry of Information, Publicity and Broadcasting Services •",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Ministry of Finance, Economic Development and Investment Promotion",
+      "text": "•",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Ministry of Primary and Secondary Education",
+      "text": "•",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Ministry of Youth Empowerment, Development, and Vocational Training",
+      "text": "•",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Ministry of Transport and Infrastructural Development",
+      "text": "•",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Scientific and Industrial Research and Development Centre",
+      "text": "• Ministry of Public Service, Labour and Social Welfare • Ministry of Sport, Arts and Culture ● Ministry of Defence and Security •",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Ministry of Home Affairs and Cultural Heritage",
+      "text": "• Government commissions Timeline: 2025",
+      "dimension": "Laws and regulations",
+      "timeline": "2025",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "National AI Strategy: Main Policy",
+      "text": "Recommendations 44",
+      "dimension": "Laws and regulations",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Open data directive \nZimbabwe needs a legally binding Open Data Directive, enacted under the Data Protection Act, mandating that",
+      "text": "non-personal public sector data be made available for public use. This directive must cover national, regional, and",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "a regulatory framework that promotes innovation by enabling access to data that fuels AI development while \nmaintaining strong data protection and privacy standards. This would strengthen the capacity to create and",
+      "text": "maintain high-quality, reliable data sets, such as cultural heritage datasets, while ensuring data sovereignty, security",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "establishing an Open Data Directive:",
+      "text": "• Ministry of Information Communication Technology, Postal and Courier Services (coordinating ministry). •",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Ministry of Justice, Legal and Parliamentary Affairs",
+      "text": "• Meteorological Department • Zimbabwe National Statistics Agency • Telecommunication operators • Internet service providers (ISPs) • National Population Registry • National Archives of Zimbabwe •",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Scientific and Industrial Research and Development Centre",
+      "text": "• National Museums and Monuments Department •",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Ministry of Home Affairs",
+      "text": "Timeline: 2025",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "2025",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Development and harmonization of AI-related laws and policies\nSeveral key pieces of legislation in Zimbabwe already lay a foundation for AI policy, addressing areas like data \nprotection, cybersecurity, ICT policy, consumer protection, digital transformation, and innovation. The government",
+      "text": "must audit, if necessary, develop or review, and harmonize these laws by aligning them with AI’s unique challenges and opportunities. Zimbabwe can create a strategic framework that guides AI technologies’ ethical, responsible,",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "and inform global discussions on the use of AI in law enforcement, for example, addressing bias and discrimination \nin facial recognition technologies, and in the military, for example, the use of algorithms and AI-enabled decision",
+      "text": "support systems. Responsible institutions: The following institutions would play relevant roles in the process of harmonizing existing",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "legislation to support AI development and deployment:",
+      "text": "• Ministry of Information Communication Technology, Postal and Courier Services • The Zimbabwean Parliament • Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ) •",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "Ministries of Home Affairs and Defence.",
+      "text": "• Relevant civil society organisations Timeline: 2025 45",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "2025",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "Institutional frameworks and governance\nNational AI strategy coordination\nTo maximize the benefits of AI while mitigating risks, Zimbabwe requires a comprehensive national AI strategy that",
+      "text": "builds on its existing legislative and policy frameworks. A comprehensive national AI strategy should be drafted to",
+      "dimension": "National AI Strategy: Main Policy",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "ensure a coordinated and transparent approach to AI governance that on the one hand reflect Zimbabwe’s shared",
+      "text": "values, norms, and aspirations and on the other hand the transnational nature of AI. This strategy must include a clearly defined organogram with specified roles for each responsible institution/stakeholder. Additionally, there must",
+      "dimension": "Institutional frameworks and governance",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "be standard procedures for engaging civil society, academia, and industry in the development and implementation \nof AI policies.",
+      "text": "Responsible institutions: The following institutions/stakeholders would play relevant roles in developing and",
+      "dimension": "Institutional frameworks and governance",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "adopting a national AI strategy:",
+      "text": "• Ministry of Information Communication Technology, Postal and Courier Services •",
+      "dimension": "Institutional frameworks and governance",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "Ministry of Higher and Tertiary Education, Science and Technology Development",
+      "text": "•",
+      "dimension": "Institutional frameworks and governance",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "Scientific and Industrial Research and Development Centre",
+      "text": "• UNESCO • Civil society groups • Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ) • Office of the President and the Cabinet. Timeline: 2025",
+      "dimension": "Institutional frameworks and governance",
+      "timeline": "2025",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "Data governance and coordination\nClear data governance structures must be established to define the roles of stakeholders in data collection, storage,",
+      "text": "protection, and sharing, especially in relation to AI readiness indicators. These procedures must prioritize open-",
+      "dimension": "Institutional frameworks and governance",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 29,
+      "title": "The proposed AI Ethics Think Tank",
+      "text": "• POTRAZ • Zimbabwe National Statistics Agency • Ministry of Health and Child Care of Zimbabwe • Academic institutions • OECD • World Bank • ITU Timeline: 2025 46 Capacity building Zimbabwe’s development of a human capital plan could attract investment in AI infrastructure and spur discussions on its environmental implications. It would also evaluate the effects of AI and automation on the workforce, business, government processes (e-government), and establish job retraining programmes.",
+      "dimension": "Institutional frameworks and governance",
+      "timeline": "2025",
+      "start_page": 0
+    },
+    {
+      "number": 30,
+      "title": "Education and public engagement on AI policies\nGovernment departments must collaborate with the AI Ethics Think Tank to raise public awareness about AI-related",
+      "text": "policies, including Zimbabwe’s Digital Strategy, 4IR Strategy, and e-Health frameworks. A national public education and",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 31,
+      "title": "outreach plan should be developed to ensure that the public and private sectors are informed about AI standards and",
+      "text": "their practical implications. Additionally, there is a need to update curricula for primary and secondary schools to include",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 32,
+      "title": "Ministry of Higher and Tertiary Education, Science and Technology Development",
+      "text": "•",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 33,
+      "title": "Ministry of Primary and Secondary Education",
+      "text": "•",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 34,
+      "title": "Zimbabwe Council for Higher Education",
+      "text": "• POTRAZ • AI Ethics Think Tank • Academic institutions Timeline: 2025-ongoing",
+      "dimension": "Capacity building",
+      "timeline": "2025",
+      "start_page": 0
+    },
+    {
+      "number": 35,
+      "title": "Inclusive AI workforce development and infrastructural support\nThe national AI strategy must prioritise socio-economic inclusion by ensuring that AI policy promotes gender equality,",
+      "text": "cultural and linguistic diversity, and addresses the evolving labour market. Measures should be taken to retain and attract a skilled workforce, while also preventing “brain drain”. The government could, for example, continue to invest in the Presidential Scholarship Programme. The strategy should establish mechanisms for the ongoing evaluation of inclusion and",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 36,
+      "title": "to address potential job displacement caused by AI, including retraining programmes and support for affected workers.",
+      "text": "In addition, there is a need to establish an enabling environment for infrastructural support and coordination in AI",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 37,
+      "title": "development by investing in and upgrading technological infrastructure, such as data centres, telecommunication and \ncomputer networks, open science cloud, virtual and augmented reality to facilitate AI research and deployment. The",
+      "text": "government should continue to drive policy implementation as contained in the National ICT Policy to facilitate public-",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 38,
+      "title": "private-partnerships as an approach to enable empowerment of local firms to participate in the development of the ICT",
+      "text": "sector and use of new material. This can partly be achieved by granting Special Economic Zone status to ICT technology parks. Responsible institutions: • Ministry of Information Communication Technology, Postal and Courier Services •",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 39,
+      "title": "Ministry of Higher and Tertiary Education, Science and Technology Development",
+      "text": "• Ministry of Public Service, Labour and Social Welfare •",
+      "dimension": "Capacity building",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 40,
+      "title": "Ministry of Finance and Investment Promotion",
+      "text": "• Office of the President and the Cabinet • Business, labour, and private sectors Timeline: 2025 47",
+      "dimension": "Capacity building",
+      "timeline": "2025",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 40,
+  "page_count": 56,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Legal and regulatory AI policy and regulation 14 ### Page 17 The 2017 e-Health Strategy The strategy identifies opportunities for drawing on data to support decisions in the industry while ensuring patient control over personal data use (Zimbabwe’s E-Health Strategy, p.24)3.",
+        "National population registry data policy Zimbabwe’s Ministry of Home Affairs and Cultural Heritage in September 2023 announced that a process is underway to upgrade the Zimbabwe Population Registry System (ZPRS) and link it to several vital government services, making it possible to apply for docume",
+        "The ZPRS is the central database containing all Zimbabwean citizens’ biographical and biometric data.",
+        "It is crucial to note that such improvement would require access to highly sensitive personal data and thus would have to be governed by the Cyber and Data Protection Act.",
+        "Data protection and privacy laws The Cyber and Data Protection Act8 (CPDA) provides the foundational guidance for the collection, storage, use and transfer of data, including the privacy of genetic, biometric, sensitive, and health data.",
+        "It serves as a foundational legislation to regulate AI development.",
+        "Data from the Open Data Inventory (ODIN) shows that between 2020 and 2022, Zimbabwe’s score decreased from 48 to 42.",
+        "The overall score is a combination of a data coverage sub score and a data openness sub score, which measures how complete a country’s statistical offerings are and how well that data meets international standards of openness."
+      ],
+      "strengths": [
+        "Zimbabwe to Launch Advanced Online Platform for Passport and ID Applications.",
+        "Available at: https://www.thezimbabwemail.com/business/ zimbabwe-to-launch-advanced-online-platform-for-passport-and-id-applications/ 6 Macdonald, A.",
+        "Zimbabwe to Launch Advanced Online Platform for Passport and ID Applications.",
+        "Available at: https://www.thezimbabwemail.com/business/ zimbabwe-to-launch-advanced-online-platform-for-passport-and-id-applications/ 8 Data Protection Act [Chapter 11:22].",
+        "Freedom of information act On 1 July 2020, Zimbabwe adopted the Freedom of Information (FOI) Act10 to give effect to section 61 of the Constitution of Zimbabwe, which provides for the freedom of expression and freedom of the media."
+      ],
+      "gaps": [
+        "There is a need to ensure that PPPs and other large-scale contracts or concessions do not result in unregulated exploitation of personal data or erosion of trust in AI-based systems."
+      ],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Internet usage denotes the percentage of respondents who report using a mobile phone or the internet to pay bills in the past 12 months Sub-Saharan Africa Lower middle income World Female Male 25.1% 18.1% 19.4% 14.1% 14.8% 8.4% 37.0% 31.8% Figure 2: Internet usage between men and women in Zimbabwe S",
+        "Figure 3: Zimbabwe’s digital divide by gender Source: World Bank Group Gender Data Portal.",
+        "24 https://genderdata.worldbank.org/en/economies/zimbabwe 25 https://genderdata.worldbank.org/en/economies/zimbabwe 53.9% of girls and 57.6% of boys complete lower secondary school in Zimbabwe as of 2021 data Used a mobile phone or the internet to pay bills in the past year, by sex (% age 15+) Zimba",
+        "While Zimbabwe’s Environmental and Climate Change Policy provides a foundational framework for environmental protection, further amendments to cover AI are required.",
+        "As AI technologies continue to evolve and be integrated into various sectors, their environmental implications are becoming increasingly apparent.",
+        "These could range from energy consumption, as AI algorithms often require substantial computational power, which can lead to increased energy consumption and greenhouse gas emissions; to a significant environmental footprint, including land use, water consumption, and waste generation to operate dat",
+        "While Zimbabwe’s specific legislation may not directly address AI’s environmental impacts, there are several international frameworks that could provide guidance: • Paris Agreement: This international agreement aims to limit global warming to well below 2 degrees Celsius.",
+        "AI can play a role in developing sustainable solutions to climate change."
+      ],
+      "strengths": [
+        "• Sustainable Development Goals (SDGs): The SDGs, adopted by the United Nations, outline a global agenda for sustainable development."
+      ],
+      "gaps": [
+        "Social and cultural 22 ### Page 25 More men than women used a mobile phone or the internet to pay bills in 2021 Used a mobile phone or the internet to pay bills in the past year, by sex (% age 15+) Zimbabwe The gap in internet usage between men and women in Zimbabwe, 7, is larger than the gap of Sub",
+        "Sub-Saharan Africa Lower middle income Female Male 40% 60% 80% 23 ### Page 26 Environmental and sustainability costs Although Zimbabwe has an Environmental and Climate Change Policy26 , the policy does not discuss the impact of AI on the environment.",
+        "However, it is crucial to ensure that AI technologies themselves do not contribute to the problem.",
+        "This approach, while necessary, needs to be enhanced to be able to address the complex issues surrounding children’s well-being in the digital age.",
+        "There is a need for more proactive measures to educate children about online safety, foster digital literacy, and support their healthy development in the digital world.",
+        "Available at: https://faolex.fao.org/docs/pdf/zim203760.pdf 24 ### Page 27 Culture Although the National Museums and Monuments Act27 precedes AI, its protection of culture in Zimbabwe could be extended to AI, for example, through a ministerial instrument.",
+        "25:06 provides for the storage and preservation of protected historical records and the declaration and conservation of protected historical records.28 The framework has yet to be updated to cover the digital age.",
+        "While African countries are pushing for regulations (relating to gene sequencing) that impede the flow of information, the European Seed Association offers a different view—a study on the use of digital sequence information on genetic resources in Germany.29 Zimbabwe has not yet implemented any poli",
+        "It has yet to pass a specific law protecting minority languages and cultures in the offline environment.",
+        "While there have been periods of improvement, particularly between 2012 and 2016, the country’s overall score needs to improve to match the global and regional averages."
+      ],
+      "key_stats": [
+        {
+          "stat": "31.8%\nFigure",
+          "context": "s Sub-Saharan Africa Lower middle income World Female Male 25.1% 18.1% 19.4% 14.1% 14.8% 8.4% 37.0% 31.8% Figure 2: Internet usage between men and women in Zimbabwe Source: World Bank Group Gender Dat",
+          "value": 31.8,
+          "unit": "%"
+        },
+        {
+          "stat": "53.9% of girls and",
+          "context": "a.worldbank.org/en/economies/zimbabwe 25 https://genderdata.worldbank.org/en/economies/zimbabwe 53.9% of girls and 57.6% of boys complete lower secondary school in Zimbabwe as of 2021 data Used a mobi",
+          "value": 53.9,
+          "unit": "%"
+        },
+        {
+          "stat": "57.6% \nof boys complete lower \nsecondary",
+          "context": "economies/zimbabwe 25 https://genderdata.worldbank.org/en/economies/zimbabwe 53.9% of girls and 57.6% of boys complete lower secondary school in Zimbabwe as of 2021 data Used a mobile phone or the int",
+          "value": 57.6,
+          "unit": "%"
+        },
+        {
+          "stat": "ranks 84th globally",
+          "context": ", indicating strong legal protections for user data. • Despite comprehensive regulations, Zimbabwe ranks 84th globally in trust in online privacy. This suggests a gap between the country’s legal frame"
+        },
+        {
+          "stat": "ranks 86th in trust",
+          "context": "s a gap between the country’s legal framework and public perception of online privacy. • Zimbabwe ranks 86th in trust in government websites and apps, which measures the extent to which citizens trust"
+        },
+        {
+          "stat": "ranks 17th in trust",
+          "context": "xtent to which citizens trust the information received from government websites and apps. Zimbabwe ranks 17th in trust in non- government websites and apps, suggesting a relatively high level of trust"
+        },
+        {
+          "stat": "ranks 69th in trust",
+          "context": "nd apps, suggesting a relatively high level of trust in private sector online services. The country ranks 69th in trust in information from social media, suggesting that there are concerns about the r"
+        },
+        {
+          "stat": "ranks 77th in e",
+          "context": "re concerns about the reliability and accuracy of information shared on social media platforms. It ranks 77th in e-commerce safety, indicating that there is room for improvement in protecting consumer"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Some of the links used include research output, ethical AI research, innovation output etc.",
+        "Similarly, there is no publicly available dataset of education strategy, curriculum content, educational attainment, or public access to AI education other than what is stipulated in section 4.2 of this report.",
+        "Regarding AI talent, Zimbabwe’s education allocation is 14 per cent, and it is estimated that less than 5 per cent goes to R&D.",
+        "32 ### Page 35 Figure 11: AI research per capita Source: OECD AI – AI research publications vs GDP per capita by country, region, in time (OpenAlex, 2023)36 The number of AI researchers (computer scientists, data scientists, roboticists, AI ethics researchers) in universities/ PRO per capita is esti",
+        "There are many Zimbabwean researchers on AI based outside the country, including Tapiwa Chiwewe, Mavis Machirori, Arthur Gwagwa, and James Manyika.",
+        "Still, if we interpret ethics more broadly, as we suggested earlier, the number will slightly increase to include researchers on data privacy from legal, human rights, and other social science angles.",
+        "36 https://oecd.ai/en/work-innovation-productivity-skills/live-data 37 A detailed explanation of the 22% figure can be found at — SDG Indicators Database, United Nations, Department of Economic and Social Affairs.",
+        "Available at: https://unstats.un.org/sdgs/dataportal/database 33 ### Page 36 Zimbabwe Secondary schools connected Secondary scholls connected to the internet % 39/100 Progress score 2020 2020 Progress status Limited 50 0.0 2015 100 2020 Target met Advanced Satisfactory Limited Zimbabwe Figure 12: In"
+      ],
+      "strengths": [
+        "To show its understanding of recent developments, the ICT Policy also contains plans to support AI development through enabling policies such as: • Developing comprehensive guidelines and legal frameworks for the responsible and ethical use of AI and emerging technologies like IoT and BDA."
+      ],
+      "gaps": [
+        "However, some Zimbabweans based abroad have probably patented AI inventions, including Pasi William Sachiti, founder and CEO of Academy of Robotics, an autonomous technology company primarily known for developing street-legal self-driving vehicles and solutions for road maintenance.",
+        "However, this is below the Dakar Framework for Action, which recommends a 20 per cent budget threshold for the education sector.",
+        "As a key recommendation, the government needs to avail datasets on this dimension where some are available and implement data collection mechanisms where data has not been historically collected.",
+        "This positive momentum continued in subsequent years, although at a slower pace.",
+        "However, many rural and underserved areas in Zimbabwe face significant internet connectivity challenges, hampering the ability to provide quality computer science education45 .",
+        "Despite progress, internet penetration remains limited in Zimbabwean rural, formerly marginalized and underserved areas.",
+        "Costs are relatively affordable, but widespread access is lacking.",
+        "However, the lack of high-speed fixed broadband limits overall internet connectivity.",
+        "For businesses, data on business internet connectivity is insufficient, making it difficult to assess the extent of digital adoption in the commercial sector.",
+        "Data centers and education: A study on the need for modern infrastructure in Zimbabwean schools."
+      ],
+      "key_stats": [
+        {
+          "stat": "75%\nFigure",
+          "context": "and educational 0 - 5 11 - 15 6 - 10 Undergraduate Programmes related to AI 8 responses 12.5% 12.5% 75% Figure 7: Undergraduate Programmes Yes Maybe No 12.5% 87.5% Masters / MPhil Programmes done at y",
+          "value": 75.0,
+          "unit": "%"
+        },
+        {
+          "stat": "87.5%\nMasters",
+          "context": "mes related to AI 8 responses 12.5% 12.5% 75% Figure 7: Undergraduate Programmes Yes Maybe No 12.5% 87.5% Masters / MPhil Programmes done at your univeristy 8 responses Figure 8: Masters / MPhil Progr",
+          "value": 87.5,
+          "unit": "%"
+        },
+        {
+          "stat": "37.5%\nYes\nMaybe\nPhD in Information S",
+          "context": "of Research and Development. https://unesdoc.unesco.org/ark:/48223/pf0000228806 12.5% 12.5% 37.5% 37.5% Yes Maybe PhD in Information Systems No PhD / DPhil students studying towards AI or applications",
+          "value": 37.5,
+          "unit": "%"
+        },
+        {
+          "stat": "0% GDP",
+          "context": "housands 0.088 0.086 0.084 0.082 0.008 2016 2015 180 Index value 160 140 120 2022 2019 2021 2020 0% 0% GDP 2023 0.4% % GDP 0.3% 0.2% 0.1% 0% 2022 2017 2021 2020 2019 2018 25% % of total manufacturing ",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "11.11% from the year prior",
+          "context": "0.01% 0% 2016 2013 2015 2014 6.1.1 Patents by origin was equal to 0,008 Thousands in 2016, down by 11.11% from the year prior - and equivalent to an indicator rank of 100 6.1.5 Citable documents H-ind",
+          "value": 11.11,
+          "unit": "%"
+        },
+        {
+          "stat": "7.93% from the year prior",
+          "context": "tor rank of 100 6.1.5 Citable documents H-index was equal to an index value of 177 in 2022, up by 7.93% from the year prior - and equivalent to an indicator rank of 89. 6.2.2 Unicorn valuation, % GDP ",
+          "value": 7.93,
+          "unit": "%"
+        },
+        {
+          "stat": "0% GDP in",
+          "context": "ar prior - and equivalent to an indicator rank of 89. 6.2.2 Unicorn valuation, % GDP was equal to 0% GDP in 2023 - and equivalent to an indicator rank of 48. 6.2.3 Software spending, % GDP was equal t",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.207% GDP in",
+          "context": "P in 2023 - and equivalent to an indicator rank of 48. 6.2.3 Software spending, % GDP was equal to 0.207% GDP in 2022, up by 0.016 percentage points from the year prior - and equivalent to an indicato",
+          "value": 0.207,
+          "unit": "%"
+        },
+        {
+          "stat": "17.46% of total \nmanufacturing output in",
+          "context": "prior - and equivalent to an indicator rank of 70. 6.2.4 High-tech manufacturing, % was equal to 17.46% of total manufacturing output in 2017, down by 2.91 percentage points from the year prior - and ",
+          "value": 17.46,
+          "unit": "%"
+        },
+        {
+          "stat": "0.047% total trade in",
+          "context": "lent to an indicator rank of 70. 6.3.1 Intellectual property receipts, % total trade was equal to 0.047% total trade in 2016, up by 0.0057 percentage points from the year prior - and equivalent to an ",
+          "value": 0.047,
+          "unit": "%"
+        },
+        {
+          "stat": "22% figure can be found at",
+          "context": "https://oecd.ai/en/work-innovation-productivity-skills/live-data 37 A detailed explanation of the 22% figure can be found at — SDG Indicators Database, United Nations, Department of Economic and Socia",
+          "value": 22.0,
+          "unit": "%"
+        },
+        {
+          "stat": "22.6%\nThe target is met if at \nleast",
+          "context": "e internet % Lower-secondary schools connected Lower-secondary schools connected to the internet % 22.6% The target is met if at least 95% of primary schools is connected 21.2% The target is met if at",
+          "value": 22.6,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of primary \nschools is connected",
+          "context": "connected Lower-secondary schools connected to the internet % 22.6% The target is met if at least 95% of primary schools is connected 21.2% The target is met if at least 95% of lower-secondary schools",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "21.2%\nThe target is met if at least",
+          "context": "nected to the internet % 22.6% The target is met if at least 95% of primary schools is connected 21.2% The target is met if at least 95% of lower-secondary schools is connected 70.7% The target is met",
+          "value": 21.2,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of lower",
+          "context": "arget is met if at least 95% of primary schools is connected 21.2% The target is met if at least 95% of lower-secondary schools is connected 70.7% The target is met if at least 95% of upper-secondary ",
+          "value": 95.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Available at: https://zimlii.org/akn/zw/act/2002/5/eng@2016-12-31 12 Criminal Law (Codification and Reform) Act [Chapter 9:23] No.",
+        "Available at: https://www.veritaszim.net/sites/veritas_d/files/Freedom%20of%20Information%20Act%20No.%201%20of%202020.pdf Zimbawe 48 ODIN SCORE 2020 42 ODIN SCORE 2022 COVERAGE SCORE Out of 100 2020 2022 46 32 OPENNESS SCORE Out of 100 2020 2022 50 51 16 ### Page 19 The data above is from the 2024 P",
+        "However, in June 2023, the Zimbabwean government adopted a “patriotic bill”, criminalizing any “attack on sovereignty and national interest”, a legislation that threatens the work of journalists.",
+        "The FOI Act, by promoting transparency and accountability in Zimbabwe, is central to the digital transformation and AI agenda.",
+        "It ensures that citizens have access to information about how AI is being used and its potential impacts.",
+        "AI monitoring, if not implemented carefully, could lead to violations of freedom of expression and privacy, while the FOI Act’s provisions for access to information can help ensure public oversight and accountability in the development and use of AI.",
+        "Zimbabwe’s Consumer Rights Competition Act 234, and Consumer Protection Act 235 serve as crucial foundational legislations for the development and implementation of AI within the country.",
+        "Establishing clear guidelines and regulations, these laws create a conducive environment for AI innovation while safeguarding the interests of consumers."
+      ],
+      "strengths": [
+        "These Acts provide a comprehensive framework for protecting consumer rights, fostering fair competition, and ensuring the ethical use of technology.",
+        "Cyber and data protection act Laws and regulations On 3 December 2021, Zimbabwe adopted the Cyber and Data Protection Act.15 This Act provides for data protection with due regard to the Declaration of Rights under the Constitution and the public and national interest; establishes a cyber security ce",
+        "The Cyber and Data Protection Act designates the Postal and Telecommunications Regulatory Authority, established in terms of the Postal and Telecommunications Act, as the national data protection authority.",
+        "https://www.jsc.org.zw/upload/Acts/2014/1120done.pdf 18 ### Page 21 (POTRAZ), established under the Postal and Telecommunications Act, as the implementing authority.",
+        "Comprehensive data sharing legislation should also be established to create clear protocols for data exchange while safeguarding personal data.",
+        "Additionally, independent oversight bodies, instead of current government aligned entities, should be established to enhance the objectivity and fairness in implementing and enforcing freedom of information and data protection laws, along with protection for whistle blowers.",
+        "Some of the specific challenges include: • Resource constraints: Developing comprehensive AI regulations requires funding for research, expert consultations, public engagement, and policy drafting.",
+        "Considering this, Zimbabwe may face limitations in funding, technical infrastructure, and research capabilities necessary for robust AI policy development and implementation.",
+        "Building a team of experts knowledgeable about AI technology, its societal implications, and legal intricacies would go a long way in developing comprehensive AI regulations and policies.",
+        "• Infrastructure challenges: A recent assessment of Zimbabwe’s digital environment notes that several core infrastructure elements are in place to support more advanced digital services."
+      ],
+      "gaps": [
+        "However, potential conflicts with other legislation, like the Criminal Law Act, may need to be addressed.",
+        "For example, a clause in the Act permits a person to ‘decompile’ a computer program “to obtain information needed to enable the program to operate with other programs.”14 The Act provides a legal framework for the protection of Intellectual Property (IP) rights in the country.",
+        "However, the increasing capabilities of AI to generate creative content raise questions about the ownership 14 See Part III, clause 40 of Zimbabwe - Copyright and Neighbouring Rights Act [Chapter 26:05] amended up to No.",
+        "Firstly, the lack of clear guidelines on copyright ownership for AI-generated works can lead to legal uncertainty and discourage investment in AI research and development.",
+        "Finally, the Act may not be well-suited to protect the rights of AI developers themselves, who may need to protect their algorithms and other IP associated with AI development.",
+        "Similarly, the Zimbabwe Media Commission (instead of a court or independent commission) is the authority responsible for administration of the FOI Act, including handling appeals.17 However, the government administers procurement policies and practices in coordination, especially given the massive i",
+        "However, government needs to cohere and unite the distributed practices and make them public.",
+        "The ICA does, however, treat terms “monitoring” and “interception” differently, as far as it only defines the latter.",
+        "The Act lacks provisions on how to handle copyright infringement or harmful AI-generated content hosted on encrypted platforms.",
+        "Since the Act does not address ownership of AI-generated works, it is unclear who can be held liable for copyright infringements or harmful content creation."
+      ],
+      "key_stats": [
+        {
+          "stat": "100,000 people",
+          "context": "n Zimbabwe by posting blogs and pseudonymous articles on state corruption and was followed by over 100,000 people. See analysis here: https://www.academia.edu/11751312/Are_privacy_and_expression_right"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Technical and infrastructural 40 ### Page 43 Figure 18: Zimbabwe’s internet connectivity status Source: Data Hub – Zimbabwe Universal and Meaningful Connectivity.49 49 Data Hub.",
+        "Fixed broadband cost Fixed-broadband Internet basket % GNI per capita Advanced 88 4.76% The target is considered met if the cost does not exceed 2% of monthly GNI per capita.",
+        "Mobile broadband cost Data-only mobile broadband basket % GNI per capita No data - The target is considered met if at least 95% of businesses (0 or more staff) use the internet.",
+        "Businesses (10+ staff) connected Business with 10+ staff using Internet % No data 100 1.03% Internet use gender parity.",
+        "By offering access to high-performance computing clusters, it enables complex simulations, data analysis, and research projects that would otherwise be unattainable.",
+        "Zimbabwe has not been actively involved in the standardization of AI and digital technologies through organizations like ISO/IEC and IEEE7000.",
+        "It is worth exploring whether Zimbabwe could benefit from joining these initiatives to ensure alignment with global best practices and contribute to shaping the future of AI and digital technologies Table 7: Participation in standardisation of AI and digital technologies Is your country involved in ",
+        "No Statistical performance Data from the World Bank52 Statistical Performance Indicators (SPI) provides an overview of Zimbabwe’s performance in various aspects of data management and publication, as measured by the SPI framework."
+      ],
+      "strengths": [
+        "Mobile phone use gender parity Mobile phone use gender parity Target met 41 ### Page 44 Applied standards The Zimbabwe Centre for High-Performance Computing (ZCHPC) stands as a significant piece of technical infrastructure that supports advanced computational research and education.",
+        "Table 8: Zimbabwe’s Statistical Performance Scoring Statistical Performance Indicators (SPI Overall Score) 45 Score on Data Products 70.237 Score on Data Sources 43.092 Score on Data Infrastructure 45 Are any laws or policies providing a comprehensive framework for consistent data management and pub",
+        "Computing and Advanced Technologies Journal, 15(1), 75-89."
+      ],
+      "gaps": [
+        "Available at: https://datahub.itu.int/dashboards/ umc/?e=ZWE&i= Limited 32 Internet users Individuals aged 15+ using the internet % 32.6% Target is considered met if at least 95% of the individuals use the Internet.",
+        "Limited 47 47% The target is met if at least 95% of the population own a mobile phone.",
+        "Mobile phone ownership Individuals who own a mobile cellular telephone % Indicator Status Progress Score Target = 100 Value Satisfactory 68 12.8% The target is considered met if the cost does not exceed 2% of monthly GNI per capita.",
+        "High-speed fixed broadband Equal to or above 10 Mbit/s % fixed broadband subscriptions Limited - The target is considered met if at least 95% of businesses (0 or more staff) use the internet."
+      ],
+      "key_stats": [
+        {
+          "stat": "32.6%\nTarget is considered met if at",
+          "context": ".int/dashboards/ umc/?e=ZWE&i= Limited 32 Internet users Individuals aged 15+ using the internet % 32.6% Target is considered met if at least 95% of the individuals use the Internet. Satisfactory 52 H",
+          "value": 32.6,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of the individuals use \nthe Inter",
+          "context": "ternet users Individuals aged 15+ using the internet % 32.6% Target is considered met if at least 95% of the individuals use the Internet. Satisfactory 52 Homes connected Households with Internet acce",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "52.8%\nThe target is met if at least",
+          "context": "duals use the Internet. Satisfactory 52 Homes connected Households with Internet access at home % 52.8% The target is met if at least 95% of households have internet access. Limited 47 47% The target ",
+          "value": 52.8,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of \nhouseholds have internet acces",
+          "context": "y 52 Homes connected Households with Internet access at home % 52.8% The target is met if at least 95% of households have internet access. Limited 47 47% The target is met if at least 95% of the popul",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "47%\nThe target is met if at least",
+          "context": "s at home % 52.8% The target is met if at least 95% of households have internet access. Limited 47 47% The target is met if at least 95% of the population own a mobile phone. Mobile phone ownership In",
+          "value": 47.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% \nof the population own a mobile \np",
+          "context": "t if at least 95% of households have internet access. Limited 47 47% The target is met if at least 95% of the population own a mobile phone. Mobile phone ownership Individuals who own a mobile cellula",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "12.8%\nThe target is considered met i",
+          "context": "n a mobile cellular telephone % Indicator Status Progress Score Target = 100 Value Satisfactory 68 12.8% The target is considered met if the cost does not exceed 2% of monthly GNI per capita. Fixed br",
+          "value": 12.8,
+          "unit": "%"
+        },
+        {
+          "stat": "2% of \nmonthly GNI per capita",
+          "context": "Target = 100 Value Satisfactory 68 12.8% The target is considered met if the cost does not exceed 2% of monthly GNI per capita. Fixed broadband cost Fixed-broadband Internet basket % GNI per capita Ad",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4.76%\nThe target is considered met i",
+          "context": "GNI per capita. Fixed broadband cost Fixed-broadband Internet basket % GNI per capita Advanced 88 4.76% The target is considered met if the cost does not exceed 2% of monthly GNI per capita. Mobile br",
+          "value": 4.76,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of businesses",
+          "context": "-only mobile broadband basket % GNI per capita No data - The target is considered met if at least 95% of businesses (0 or more staff) use the internet. Businesses (0+ staff) connected Business with 0+",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "13%\nThe target is considered met i",
+          "context": "aff) use the internet. Businesses (0+ staff) connected Business with 0+ staff using Internet % 12 13% The target is considered met if at least 95% of fixed broadband subscriptions have an advertised s",
+          "value": 13.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of fixed broadband \nsubscriptions",
+          "context": "connected Business with 0+ staff using Internet % 12 13% The target is considered met if at least 95% of fixed broadband subscriptions have an advertised speed of at least 10 Mbit/s. High-speed fixed ",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1.03%\nInternet use gender parity",
+          "context": "e internet. Businesses (10+ staff) connected Business with 10+ staff using Internet % No data 100 1.03% Internet use gender parity. Internet use gender parity Internet use gender parity % Target met 1",
+          "value": 1.03,
+          "unit": "%"
+        },
+        {
+          "stat": "1.04%\nThe target is met if the gende",
+          "context": "parity % Target met 100 Mobile phone ownership gender parity Mobile phone ownership gender parity 1.04% The target is met if the gender parity score - defined as the % of women using a mobile phone di",
+          "value": 1.04,
+          "unit": "%"
+        },
+        {
+          "stat": "2025\nNational AI Strategy",
+          "context": "and Security • Ministry of Home Affairs and Cultural Heritage • Government commissions Timeline: 2025 National AI Strategy: Main Policy",
+          "year": "2025"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "The Government of Zimbabwe has recognised the pivotal role of the Fourth Industrial Revolution (4IR) technologies—such as AI, blockchain, and the Internet of Things (IoT)—in propelling economic growth and innovation.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "To systematically exploit the potential of ICTs for natural development, Zimbabwe through the MICPCS developed a Smart Zimbabwe 2030 Master Plan with the key pillars anchored on; policy, regulation and statutes; secure and shared infrastructure; partnerships, skills and capacity building; content development; and confidence and security of network services.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "It will be implemented through key specific sector-focused integrated pillars that will create a Smart Solutions ecosystem and these include Smart Brains, Smart Government; Smart Cities; Smart Agriculture; Smart Education; Smart Transport; Smart Health; Smart Tourism; and Smart Mining; among others.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Zimbabwe Govt Selects CloudWalk for Mass Facial Recognition Project.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "biometricupdate.com/201804/zimbabwe-govt-selects-cloudwalk-for-mass-facial-recognition-project.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "AI monitoring, if not implemented carefully, could lead to violations of freedom of expression and privacy, while the FOI Act’s provisions for access to information can help ensure public oversight and accountability in the development and use of AI.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This Act helps to ensure that AI systems are developed and deployed in a manner that is safe and beneficial to consumers.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This Act protects various origins, including built heritage, rock art, paleontological materials, and sites.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "While African countries are pushing for regulations (relating to gene sequencing) that impede the flow of information, the European Seed Association offers a different view—a study on the use of digital sequence information on genetic resources in Germany.29 Zimbabwe has not yet implemented any policy regarding using AI to preserve minority and Indigenous languages.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Zimbabwe should also partake and inform global discussions on the use of AI in law enforcement, for example, addressing bias and discrimination in facial recognition technologies, and in the military, for example, the use of algorithms and AI-enabled decision support systems.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Available at: www.biometricupdate.com/201804/zimbabwe-govt- selects-cloudwalk-for-mass-facial-recognition-project.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The Permanent Secretary is a senior civil servant in the ministry responsible for the administrative and operational aspects of the ministry, ensuring policies are implemented effectively.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 52.8,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    }
+  ],
+  "rankings_indices": []
+}

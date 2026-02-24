@@ -1,0 +1,379 @@
+{
+  "country_code": "DO",
+  "country_name": "DOMINICAN REPUBLIC",
+  "language": "en",
+  "metadata": {
+    "page_count": 39,
+    "creation_date": "D:20241002101328-06'00'",
+    "modification_date": "D:20250430034924+02'00'",
+    "country_name": "DOMINICAN REPUBLIC",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Social and cultural dimensions are crucial to evaluating ethical components in the deployment of AI systems, such as mechanisms to avoid the appearance of biases throughout the life cycle of the AI system and the creation of a fair and inclusive AI ecosystem.",
+        "In this sense, this section addresses topics such as the inclusion of women in the development environment of science, technology, engineering, mathematics (STEM) and AI, as well as the incorporation of social and cultural diversity to ensure the ethical application of AI.",
+        "In addition, it includes the level of acceptance and attitudes of the general public towards AI, the consideration of environmental and sustainable criteria, health, social well-being and culture in creating AI solutions.",
+        "DIVERSITY, INCLUSION AND EQUITY IIn this area, various gaps are measured that can leave groups excluded and vulnerable to the impacts of AI.",
+        "This policy lasts four years, covering from 2021 to 2024.",
+        "This policy is under the framework of the National Plan for Gender Equality and Equity (PLANEG III) 24, which incorporates various areas such as education, health, economic autonomy, participation in political and social, environmental, gender violence and digital technologies.",
+        "This policy has neither been evaluated nor has instruments to do so.",
+        "Specifically, regarding diversity in the IA staff, there are currently no measures or policies, but diversity is discussed in the ENIA."
+      ],
+      "strengths": [
+        "•• Develop technical and conceptual capacities in the institutions responsible for implementing Planet III, including the Ministry of Women, to strategically use digital technologies that contribute to effective, timely and innovative management of their policy-leading functions.",
+        "Additionally, action plans have been established to fulfil these objectives (p."
+      ],
+      "gaps": [
+        "In terms of internet use, it is measured that the gender gap in internet use (woman/man) is 0.963 17, but there is no data in the ITU 18 to measure the urban-rural gap, but based on the ONE 19 In 2022, 49.2% of urban households surveyed had internet access compared to only 30.6% of rural households.",
+        "This represents a gap between the two of more than 35%.",
+        "In terms of education and participation in Science, Technology, Engineering and Mathematics (STEM), higher education graduates are 20.27% men and 7.02% women 20, which reveals a relevant gap.",
+        "When analysing the expectations of girls and boys to study STEM careers, there is no data in the OECD report on PISA 21, but girls have a better performance in mathematics and science than boys (324 versus 327 in mathematics and 331 versus 340 in sciences) 22, which reveals that a gap is being gener",
+        "To address the urban-rural gap, there is no specific agenda, but there are actions and measures in the 2030 Digital Agenda 26 that aim to reduce the gap.",
+        "However, according to what OGTIC reports, the second does not apply since there are no indigenous languages in the country.",
+        "However, in the Caribbean and Central America context, the Dominican Republic is above average in leadership positions.",
+        "ENVIRONMENTAL AND SUSTAINABILITY POLICIES The Dominican Republic does not have policies to address the impact of AI on the environment and sustainability; the ENIA only addresses its use to confront elements of the climate crisis.",
+        "However, beyond this action plan, the progress of the aforementioned initiatives was not found."
+      ],
+      "key_stats": [
+        {
+          "stat": "49.2% of urban households surveyed had",
+          "context": "ut there is no data in the ITU 18 to measure the urban-rural gap, but based on the ONE 19 In 2022, 49.2% of urban households surveyed had internet access compared to only 30.6% of rural households. Th",
+          "value": 49.2,
+          "unit": "%"
+        },
+        {
+          "stat": "30.6% \nof rural households",
+          "context": "ased on the ONE 19 In 2022, 49.2% of urban households surveyed had internet access compared to only 30.6% of rural households. This represents a gap between the two of more than 35%. In terms of educa",
+          "value": 30.6,
+          "unit": "%"
+        },
+        {
+          "stat": "20.27% men and",
+          "context": "ipation in Science, Technology, Engineering and Mathematics (STEM), higher education graduates are 20.27% men and 7.02% women 20, which reveals a relevant gap. When analysing the expectations of girls",
+          "value": 20.27,
+          "unit": "%"
+        },
+        {
+          "stat": "7.02% women",
+          "context": "nce, Technology, Engineering and Mathematics (STEM), higher education graduates are 20.27% men and 7.02% women 20, which reveals a relevant gap. When analysing the expectations of girls and boys to st",
+          "value": 7.02,
+          "unit": "%"
+        },
+        {
+          "stat": "3%ADsticas",
+          "context": "ons about science-related issues. 23 https://www.one.gob.do/media/0lubszdn/estrategia-de-estad%C3%ADsticas-de-g%C3%A9nero-rd-2021-2024.pdf 24 https://mujer.gob.do/transparencia/phocadownload/Publicaci",
+          "value": 3.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Since scientific and educational components contribute significantly to the advancement of AI, assessing them becomes a relevant method to assess a country’s readiness for AI development.",
+        "The scientific aspect is measured by the country’s performance in research and innovation (R&I), which includes research and development (R&D) spending, research production, ethical AI research, and AI innovation production.",
+        "On the other hand, the educational aspect is evaluated through the country’s performance in educational aspects such as educational strategy, educational infrastructure, curriculum content, educational achievements, and public access to AI education.",
+        "INVESTIGATION AND DEVELOPMENT There is no data on the Gross Expenditure on R&D (GERD) of the Dominican Republic as an average of GDP in the OECD or World Bank, but based on a source from the Dominican government, 0.086% of GDP is reported 34, which is low in comparison to world or regional leaders.",
+        "When trying to disaggregate the data to Natural Sciences and Engineering, there is no data in international sources or the Public Investment Report of the Dominican government 35.",
+        "Particularly in AI, there is no data on state R&D funding.",
+        "According to data calculated by the National Center for Artificial Intelligence of Chile (CENIA) 37, between 2014 and 2023 the Dominican Republic has published 68 articles related to AI, equivalent to 0.006 publications per thousand inhabitants.",
+        "When using CENIA data, 1073 citations are obtained, corresponding to 0.096 citations per thousand inhabitants."
+      ],
+      "strengths": [],
+      "gaps": [
+        "In terms of budget allocations for R&D, data does not exist at the OECD level either, but if the public investment report is taken, there was a programmed expenditure of RD$9 million in 2022 in general administration and 0 in education.",
+        "Year Authors 2014 6 2016 6 2017 7 2018 12 2019 10 2020 7 2021 17 2022 15 The Dominican Republic does not have Grandmasters on Kaggle 38.",
+        "The Dominican Republic does not have AI patents between 2020 and 2022, which follows the pattern of most countries in the region, whose level of patenting is low in this area."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.086% of GDP is reported",
+          "context": "an average of GDP in the OECD or World Bank, but based on a source from the Dominican government, 0.086% of GDP is reported 34, which is low in comparison to world or regional leaders. When trying to ",
+          "value": 0.086,
+          "unit": "%"
+        },
+        {
+          "stat": "23.16% internet access",
+          "context": "n. In terms of infrastructure, according to UNESCO data from 2016 40. Primary establishments have 23.16% internet access. In addition, based on 2013 data, primary establishments have 46.48% access to ",
+          "value": 23.16,
+          "unit": "%"
+        },
+        {
+          "stat": "46.48% access to computers for pedago",
+          "context": "ishments have 23.16% internet access. In addition, based on 2013 data, primary establishments have 46.48% access to computers for pedagogical purposes, and secondary schools have 71.83% based on 2018 ",
+          "value": 46.48,
+          "unit": "%"
+        },
+        {
+          "stat": "71.83% based on",
+          "context": "stablishments have 46.48% access to computers for pedagogical purposes, and secondary schools have 71.83% based on 2018 data. In terms of curricular content, a total of 11 tertiary education programs ",
+          "value": 71.83,
+          "unit": "%"
+        },
+        {
+          "stat": "54% that places it within the comp",
+          "context": "eport 54 The Dominican Republic is in 63rd place globally and, particularly in data science, has a 54% that places it within the competitive group. Regarding public access to educational material in A",
+          "value": 54.0,
+          "unit": "%"
+        },
+        {
+          "stat": "3%BAblica",
+          "context": "ssion 40 http://sdg4-data.uis.unesco.org/ 23 41 http://161.111.47.11/es/Latin_America_es/Rep%C3%BAblica%20Dominicana 42 https://www.intec.edu.do/oferta-academica/grado/ingenieria/item/licenciatura-en-",
+          "value": 3.0,
+          "unit": "%"
+        },
+        {
+          "stat": "$9 million",
+          "context": "level either, but if the public investment report is taken, there was a programmed expenditure of RD$9 million in 2022 in general administration and 0 in education. Particularly in AI, there is no dat",
+          "value": 9000000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "ECONOMIC DIMENSION The economic dimension considers relevant aspects within the ecosystem in which AI systems are developed and deployed, such as those related to the labour market, intermediate consumption, and AI investment and production.",
+        "The dynamism and skill level of the labour market and spending on intermediate consumption, investment, and production are crucial aspects for assessing the performance and readiness of the specific ecosystems in which AI is implemented.",
+        "LABOR MARKETS There is no data on job offers requiring AI skills or on employees working as data science experts.",
+        "It is also impossible to measure the relative penetration of AI skills or concentration of AI talent by LinkedIn, as there is not enough data to be representative.",
+        "INTERMEDIATE CONSUMPTION There is no data on companies’ spending on AI services.",
+        "There is also no data on the national production and import of AI products and services, but inferring information from Innovation in Formal Business Activity in 2022 56 Since most innovations are new for companies but not for the market, it can be inferred that they are mainly imported.",
+        "INVESTMENT AND PRODUCTION There is no data on commercial companies’ spending on R&D in programming, consulting, and other computer-related activities.",
+        "There is also no data on GDP per capita for SIC code 62.0 (Programming, consulting and other computer-related activities) based on publications from the National Statistics Office .57 In terms of high-tech exports as a percentage of trade 58, the Dominican Republic has a score of 2.9 and is in posit"
+      ],
+      "strengths": [
+        "COMPUTATIONAL CAPABILITIES In the Dominican Republic, there are no data centres in the Data Center Locations base 68 and the Data Center Map 69, which groups the leading companies.",
+        "On the other hand, based on what was reported to the Global Data Barometer, the standards are established by the NORTIC A3 document from 2014 78 and the 2018 update and guide79, which incorporate quality control processes for government data."
+      ],
+      "gaps": [
+        "Despite the absence of data, a relevant topic in the ENIA is the impact of AI on labor market.",
+        "In terms of Gap, according to data from the Economist index 66, the gender gap score for internet access is 66.8, which is worsened by 8 points from the previous version.",
+        "In terms of the urban-rural gap in household internet access, there is no information from international sources; however, based on data provided by the OGCTIC, the ONE 67.",
+        "This represents a gap between the two of more than 35%.",
+        "However, these policies have not been evaluated.",
+        "However, the recommendations are linked to the draft that was accessed."
+      ],
+      "key_stats": [
+        {
+          "stat": "88% of the population",
+          "context": ", according to the World Bank 60, the percentage of people with a mobile telephone subscription was 88% of the population, and the percentage of people with a fixed broadband subscription was 10%. Acc",
+          "value": 88.0,
+          "unit": "%"
+        },
+        {
+          "stat": "85% of the population",
+          "context": "2. Thus, in 2021, according to the World Bank 63, the percentage of people who use the internet is 85% of the population. In terms of mobile networks, the population covered by at least a 3G mobile ne",
+          "value": 85.0,
+          "unit": "%"
+        },
+        {
+          "stat": "99% based on ITU information",
+          "context": "population. In terms of mobile networks, the population covered by at least a 3G mobile network is 99% based on ITU information 64. Finally, in terms of 2021, according to the World Bank 65, the perce",
+          "value": 99.0,
+          "unit": "%"
+        },
+        {
+          "stat": "98.1% of the population",
+          "context": "ms of 2021, according to the World Bank 65, the percentage of people with access to electricity is 98.1% of the population. In terms of Gap, according to data from the Economist index 66, the gender g",
+          "value": 98.1,
+          "unit": "%"
+        },
+        {
+          "stat": "49.2% of urban households surveyed had",
+          "context": "on from international sources; however, based on data provided by the OGCTIC, the ONE 67. In 2022, 49.2% of urban households surveyed had internet access, compared to 30.6% of rural households. This r",
+          "value": 49.2,
+          "unit": "%"
+        },
+        {
+          "stat": "30.6% of rural households",
+          "context": "e OGCTIC, the ONE 67. In 2022, 49.2% of urban households surveyed had internet access, compared to 30.6% of rural households. This represents a gap between the two of more than 35%. APPLIED STANDARDS ",
+          "value": 30.6,
+          "unit": "%"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "10 The Dominican Republic has recognized the challenges it faces and has an ENIA that aims to advance in covering the gaps and taking advantage of AI’s potential.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "pdf 52 https://data.miraquetemiro.org/sites/default/files/documentos/NIVEL-SECUNDARIO-PC.pdf 53 See http://data.uis.unesco.org/ 54 https://www.coursera.org/skills-reports/global/ 24 ECONOMIC DIMENSION The economic dimension considers relevant aspects within the ecosystem in which AI systems are developed and deployed, such as those related to the labour market, intermediate consumption, and AI investment and production.",
+      "dimension": "economic"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 30.6,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.086,
+      "unit": "% GDP",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 33,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "For example, in the case of open data, the Dominican Republic is ranked 60 out of 187 in the Open Data Inventory and has an existing Open Data Policy, but the country has not signed the International Open Data Charter.",
+      "index_name": "Open Data Inventory",
+      "rank": 60
+    },
+    {
+      "context": "The Dominican Republic has a score of 59 on the Open Data Inventory 8, ranking it 60th out of 187.",
+      "index_name": "Open Data Inventory",
+      "score": 59.0
+    },
+    {
+      "context": "To date, the open data policy has not been evaluated and does not cover issues such as the availability and access to research data DATA SHARING AND ACCESSIBILITY The Dominican Republic has a score of 59 on the Open Data Inventory , ranking it 60th out of 187.",
+      "index_name": "Open Data Inventory",
+      "score": 59.0
+    },
+    {
+      "context": "There is also no data on GDP per capita for SIC code 62.0 (Programming, consulting and other computer-related activities) based on publications from the National Statistics Office .57 In terms of high-tech exports as a percentage of trade 58, the Dominican Republic has a score of 2.9 and is in position 50 based on the Global Innovation Index 59.",
+      "index_name": "osi",
+      "score": 2.9
+    }
+  ],
+  "executive_summary": "Table of Contents\nACRONYMS AND ABBREVIATIONS\t\n5\nFOREWORD\t\n7\nEXECUTIVE SUMMARY\t\n9\nDIAGNOSIS OF THE NATIONAL SITUATION IN ARTIFICIAL INTELLIGENCE\t\n11\nLEGAL DIMENSION\t\n12\n            AI Policy and Regulation\t\n12\nData protection and privacy\t\n12\nData sharing and accessibility\t\n13\nProcurement Laws and Policies\t\n13\nFreedom of Information Laws and Access to Knowledge Laws\t\n14\nProcedural guarantees and accountability\t\n14\nOnline security and content integrity\t\n14\nPublic Sector Capacity\t\n14\nSOCIAL AND CULTURAL DIMENSION\t\n16\nDiversity, inclusion and equity\t\n16\nPublic participation and trust\t\n17\nEnvironmental and sustainability policies\t\n18\nHealth and social well-being\t\n18\nCulture\t\n19\n2\n\n3\nSCIENTIFIC AND EDUCATIONAL DIMENSION\t\n20\nInvestigation and development \n20\nEducation\t\n21\nECONOMIC DIMENSION \n25\nLabour Markets\t\n24\nIntermediate Consumption \n24\nInvestment and Production \n24\nTECHNICAL AND INFRASTRUCTURE DIMENSION \n25\nInfrastructure and Connectivity\t\n25\nApplied Standards\t\n25\nComputing Capabilities \n25\nStatistical Performance\t\n26\nRAM IMPLEMENTATION\t\n27\nRECOMMENDATIONS\t\n28\n1. Develop and implement ENIA\t\n28\n1.1. National Artificial Intelligence Strategy (ENIA).\t\n28\n1.2. Evaluation and Compliance Indicators.\t\n28\n2. Regulatory update\t\n28\n2.1. Regulation of AI.\t\n28\n2.2. Complementary regulations\t\n29\n3. Public sector capabilities\t\n29\n4. Diversity and inclusion policies\t\n29\n4.1. Promote a gender diversity agenda in AI.\t\n29\n4.2 .Promote an agenda with a rural focus.\t\n29\n5. Culture and environment\t\n29\n5.1. Drive an agenda on the impact of AI on culture and heritage.\t\n29\n5.2. Drive an agenda on opportunities and impacts of AI on the environment.\t\n30\n6. Data collection\t\n30\n6.1. Collect data on research, development, innovation and entrepreneurship (R+D+i+e).\t\n30\n6.2. Collect economic and labour data.\t\n30\n7. Development of the R&D&I ecosystem\t\n30\n7.1. Drive research and innovation in AI.\t\n30\n7.2. Promote industry-university collaboration for national AI development.\t\n30\n8. Participate in the discussion of standards.\t\n31\n\n4\nREFERENCES\t\n32\nLAWS AND REGULATIONS\t\n36\n\n5\nAcronyms and Abbreviations\nAI\t\nArtificial Intelligence\nCAF\t\nDevelopment Bank of Latin America and the Caribbean\nETO\t\nEmerging Technologies Observatory\nENIA\t\nNational Artificial Intelligence Strategy\nEPI\t\nElectronic Participation Index\nESG\t\nEnvironmental, Social and Governance Criteria\nFDT\t\nTelecommunications Development Fund\nGBARD\t\nGovernment budget allocations for R&D\nGDP\t\nGross Domestic Product\nGERD\t\nGross Expenditure in Research and Development\nIDB\t\nInter-American Development Bank\nIODC\t\nInternational Open Data Charter\nISOC\t\nInternet Society\nLAC\t\nLatin America and the Caribbean\nNGO\t\nNon-Governmental Organization\nODIN\t\nOpen Data Inventory\nOECD\t\nOrganization for Economic Cooperation and Development\nSDG\t\nSustainable Development Goals\nOGP\t\nGovernment Office of Information and Communication Technologies\nOGTIC\t\nNational Artificial Intelligence Policy\nONE\t\nNational Statistics Office\nOSI\t\nOnline Services Ranking Index\nPNI\t\nNational Innovation Policy\nPLANEG\t\nGender Equality and Equity Plan\nPPP\t\nPurchasing Power Parity\nRAM\t\nReadiness Assessment Methodology\nR&D\t\nResearch and Development\n\n6\nR&D+i+e\t\nResearch, development, innovation and entrepreneurship\nSNS\t\nNational Health Service\nSTEM\t\nScience, Technology, Engineering and Mathematics\nUNESCO\t\nUnited Nations Educational, Scientific and Cultural Organization\n\n7\nForeword\nWe have officially entered the Age of Artificial Intelligence. The world is now set to change at a pace not seen in decades, \neven centuries. AI-based tools and applications make our lives easier, smoother, and more prosperous. They help us move efficiently, \nget informed, get credit, get a job, and get our taxes done.\nBut in its current form, AI reproduces and amplifies many social challenges we face. It is unacceptable that around a third of the \nworld’s population still lacks adequate internet access. Upstream, the AI industry is highly concentrated, with just two countries\n– the United States and China – and a dozen companies accounting for a more significant sector share. This can lead only to greater \ninequality of outcomes – including gender disparities – downstream. Non-diverse AI teams, unrepresentative datasets, and opaque \nand biased algorithms can cause harm, particularly to those already vulnerable, whether companies or individuals, children and \nyoung people, women, or entire democracies.\nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, adopted in 2021 by 193 countries to ensure \nAI delivers fair, sustainable, and inclusive outcomes. The Recommendation is based on the protection and promotion of human \nrights, human dignity, and environmental sustainability, and these values are then translated into principles such as accountability, \ntransparency, and privacy. The Recommendation also sets out concrete policy actions that governments can draw on to steer \ntechnological developments in a responsible direction, premi",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Evaluation and Compliance Indicators.",
+      "text": "Evaluation and Compliance Indicators. While the proposal includes quantitative measurement indicators, it is also crucial to design a qualitative process, such as the legal dimension of RAM, which could be a new application of RAM in the future, to complement the quantitative indicators. Moreover, it is essential to seek support from international organizations in creating these indicators, as some, like AI adoption rates, have proven to be complex to design and measure. In line with this, it is important to advance the incorporation of the Dominican Republic in international indices and indicators, such as the OECD, the Latin American AI Index, and the Stanford Index, among others. 2. REGULATORY UPDATE 2.1. Regulation of AI. While the ENIA does propose legal and regulatory initiatives in various areas, it lacks a clear impetus to discuss the relevance of a specific AI regulation in the country and/or develop it. In the rapidly evolving AI landscape, it is imperative to initiate a focused discussion that takes into account the national and regional reality, rather than simply importing discussions from entities like the",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "European Union. This is crucial for the Dominican Republic to stay at the forefront of AI regulation.",
+      "text": "European Union. This is crucial for the Dominican Republic to stay at the forefront of AI regulation. In line with the above, it is recommended that dialogues be established and the experience of countries in Latin America that have initiated regulatory discussions on AI be studied. In particular, it is recommended that cases such as Brazil, Chile, and Peru, which have bills in different processing stages, be reviewed. In line with this, although the ENIA proposes developing a Code of Ethics, the implementation and control mechanisms must be reviewed so that this is more than a declaration and effectively protects people from the potential harm of AI systems.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Finally, it is recommended to study the development of regulatory experimentation spaces such as sandboxes in this aspect. These",
+      "text": "Finally, it is recommended to study the development of regulatory experimentation spaces such as sandboxes in this aspect. These are being discussed and developed in various countries and are incorporated in laws such as those of the European Union or the",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Chilean project since they would be mechanisms that promote regulatory learning and innovation simultaneously.",
+      "text": "Chilean project since they would be mechanisms that promote regulatory learning and innovation simultaneously. 29 2.2. Complementary regulations. While some of this is addressed in the ENIA, there is a lag in creating and updating relevant regulations. In particular, the rules on",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Personal Data Protection, Cybersecurity and Critical Digital Infrastructure, Procurement and Procedural Guarantees must be updated",
+      "text": "Personal Data Protection, Cybersecurity and Critical Digital Infrastructure, Procurement and Procedural Guarantees must be updated in light of the challenges of AI systems. At this point, in addition to the urgency in matters of data protection, the regulation of AI",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Acquisitions, which is addressed in the ENIA, should be a priority since it has been discussed 80 that it allows for promoting good",
+      "text": "Acquisitions, which is addressed in the ENIA, should be a priority since it has been discussed 80 that it allows for promoting good practices in a faster and more agile way than strict regulation. 3. PUBLIC SECTOR CAPABILITIES Although some initiatives aim to strengthen the ICT capabilities of public officials, they are still incipient and do not contemplate mandatory nature or certifications. In this line, having an institutional framework with trained personnel is relevant, so training officials and establishing compulsory and constant updating mechanisms should be a priority. This is partially covered in the ENIA, promoting training for officials and an AI Center of Excellence. The design of incentives is a challenge that needs to be addressed so that certification and education instruments are effectively used 4. DIVERSITY AND INCLUSION POLICIES 4.1. Promote a gender diversity agenda in AI. A significant gender gap was identified in STEM and although there is no data, it can be inferred that AI must be the same or worse, which coincides with existing reports 81 Although the ENIA covers the issue of focusing talent policies, this is not enough. The underrepresentation of women in AI, a significant gender gap identified in STEM, is a pressing issue that must be urgently addressed. According to the RAM, there is no gap in performance but instead in graduates and the prospects of entering the STEM field. Along these lines, work must be done on the design of positive discrimination initiatives, dissemination and visibility of female references in AI, and incentives through public purchases for diversity in teams. 4.2. Promote an agenda with a rural focus. The ENIA does not cover the existing infrastructure gap between rural and urban areas. The development of AI and its use in different areas can increase the gap in terms of quality of life if there is no adequate agenda to address it. In line with this, it is recommended to study promoting policies in local governme",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Promoting policies in this area has a dual purpose. On the one hand, it is recommended to study the uses of AI for culture and",
+      "text": "Promoting policies in this area has a dual purpose. On the one hand, it is recommended to study the uses of AI for culture and heritage preservation, promote positive adoption, and take advantage of its opportunities for creation and preservation. However, the impact often involving regulatory discussions in areas such as those mentioned above regarding intellectual property and copyright must also be addressed. 30 5.2. Drive an agenda on opportunities and impacts of AI on the environment. While mentioned in the ENIA as a potential area from a mission-driven policy perspective, there is no specific prioritisation towards using AI to mitigate the climate crisis. Furthermore, there is no mention of the potential impacts that AI and its development may have on the environment, and no regulation addresses it. Along these lines, it is recommended to start discussions with multiple stakeholders on the relevance of rules around the impact of AI on the environment and move forward with a prioritised agenda both in this sense and in the use of AI for conservation and preservation. It is relevant that the discussion be in-depth and anchored in the local reality. This is because incorrect regulations can curb potential positive uses of AI. For example, the environmental impact assessment generates an extra burden on researchers and entrepreneurs and would only be justified if, in fact, models were being developed in the Dominican Republic, whose high energy consumption could harm the environment. Otherwise, it could be overregulated and end up harming development. 6. DATA COLLECTION 6.1. Collect data on research, development, innovation and entrepreneurship (R+D+i+e).",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Hand in hand with the ENIA initiatives to strengthen statistical systems, the Dominican Republic must work to make R&D&i&e",
+      "text": "Hand in hand with the ENIA initiatives to strengthen statistical systems, the Dominican Republic must work to make R&D&i&e expenditure data available that allow for the design of policies based on evidence in the matter, since in the application of the",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "RAM lack of data and granularity was evident. Along these lines, they should start with general data such as those collected by the",
+      "text": "RAM lack of data and granularity was evident. Along these lines, they should start with general data such as those collected by the OECD at the country level and then more granular in the ICT sector, particularly AI. It is recommended that the data required by the OECD in the Frascati and Oslo manuals be reviewed, together with those used in AI indices such as the ILIA, the Government",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "AI Readiness Index 82,  and the AI index 83 .",
+      "text": "AI Readiness Index 82, and the AI index 83 . 6.2. Collect economic and labour data. A significant gap in RAM is data on talent demand, adoption levels, and AI spending at the industry level. Along these lines, relevant action must be taken to collect this information from the state and in alliance with the private sector. For many of these data, there is no standardised methodology for collecting them, so it is suggested not only to determine if it is possible to collect the data requested in the RAM but also to explore and propose methodologies that inform public policies in these areas 7. DEVELOPMENT OF THE R&D&I ECOSYSTEM 7.1. Drive research and innovation in AI. The Dominican Republic has low scientific productivity in AI, which is explained by publications, the number of authors, and citations.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Along these same lines, there are no patents, and it has low participation in open-source repositories such as GitHub. The ENIA must",
+      "text": "Along these same lines, there are no patents, and it has low participation in open-source repositories such as GitHub. The ENIA must promote both academic research and the generation of incentives for patenting and involvement in open-source development spaces. For this, it is recommended that international experience be followed and scholarship policies promoted for the formation of advanced capital, the creation of research centres, and academic exchanges, among others. 7.2. Promote industry-university collaboration for national AI development..",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "AI is not only developed in academia; in fact, the great advances of recent times have come from the industry. Therefore, it is",
+      "text": "AI is not only developed in academia; in fact, the great advances of recent times have come from the industry. Therefore, it is recommended to promote policies that facilitate and encourage industry-university collaboration and technology transfer. It is also recommended to explore instruments such as tax incentives for hiring experts or R&D activities in the industry and collaborative financing instruments, among others. 31 8. PARTICIPATE IN THE DISCUSSION OF STANDARDS. The Dominican Republic is not part of the international groups discussing AI standards and certifications. Therefore, it is recommended that it join them not only as observers but also as members.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Table 5. Prioritisation of recommendations",
+      "text": "Table 5. Prioritisation of recommendations RECOMMENDATION PRIORITY Implementation of the ENIA High Data collection High Public sector capabilities High Regulatory update Half",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Diversity and inclusion policies",
+      "text": "Diversity and inclusion policies Half Culture and environment Low",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Participate in standards discussion",
+      "text": "Participate in standards discussion Low 80 https://ieeexplore.ieee.org/document/9540751 81 https://unesdoc.unesco.org/ark:/48223/pf0000367416.page=1 82 https://oxfordinsights.com/ai-readiness/ai-readiness-index/ 83 https://aiindex.stanford.edu/report/",
+      "dimension": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 15,
+  "page_count": 39
+}

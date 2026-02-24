@@ -1,0 +1,420 @@
+{
+  "country_code": "PH",
+  "country_name": "PHILIPPINES",
+  "language": "en",
+  "metadata": {
+    "page_count": 64,
+    "creation_date": "D:20250909100547+07'00'",
+    "modification_date": "D:20250909143746+02'00'",
+    "country_name": "PHILIPPINES",
+    "language": "en"
+  },
+  "chapters": [
+    {
+      "chapter": 7,
+      "title": ", Section 22 specifies the responsibilities of the heads of government agencies as",
+      "start_page": 25
+    },
+    {
+      "chapter": 8,
+      "title": ", Sections 25 to 32, the DPA identifies the penalties for unauthorized processing, authorized access",
+      "start_page": 25
+    },
+    {
+      "chapter": 2,
+      "title": ".1: Improve education and lifelong",
+      "start_page": 33
+    },
+    {
+      "chapter": 4,
+      "title": "Increase Income-earning Ability).",
+      "start_page": 33
+    },
+    {
+      "chapter": 6,
+      "title": "Revitalize",
+      "start_page": 33
+    }
+  ],
+  "dimensions": {
+    "Legal and Regulatory": {
+      "chapter": 2,
+      "title": ".1: Improve education and lifelong",
+      "start_page": 33
+    },
+    "Scientific and Educational": {
+      "chapter": 4,
+      "title": "Increase Income-earning Ability).",
+      "start_page": 33
+    },
+    "Technical and Infrastructural": {
+      "chapter": 6,
+      "title": "Revitalize",
+      "start_page": 33
+    }
+  },
+  "executive_summary": "iii\nTable of Contents\nAcknowledgements\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nii\nTable of Contents\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\niii\nForeword\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nv\nAbbreviations and Acronyms\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nvi\nExecutive Summary\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nvii\nPHASE 1: DIAGNOSIS OF THE NATIONAL AI LANDSCAPE\t \t\n\t\n\t\n2\nLegal and Regulatory\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n2\nSocial-cultural\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n2\nScientific and Educational\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n2\nEconomic\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n3\nTechnical and Infrastructure\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n3\nPHASE 2: DEVELOPING THE NATIONAL AI MULTISTAKEHOLDER ROADMAP\t 4\nAchieving a Whole of Nation Approach to AI Policy\t\n\t\n\t\n\t\n\t\n4\nEthical Considerations\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n4\nLagging Education and Capacity-building \t\t\n\t\n\t\n\t\n\t\n\t\n4\nLow Research and Development Investments and Outputs\t\n\t\n\t\n\t\n5\nPrevailing Internet and Energy Infrastructure Gaps\t\n\t\n\t\n\t\n\t\n5\nEnhancing Data protection and Cross-border Data Flow\t\n\t\n\t\n\t\n\t\n5\nCybersecurity – AI Nexus\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n6\nPHASE 3: ADVANCING ACTIONABLE POLICY RECOMMENDATIONS\t\n\t\n7\nExplore a dual-track approach to improve and enhance AI policy coordination \nand regulation\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n7\nEmbed Ethics in AI policy\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n7\nIncrease funding for capacity building, research and development\t\n\t\n\t\n8\nLaunch a comprehensive policy reform in the Philippines’ ICT sector\t\n\t\n\t\n8\nDevelop industry responsive educational curricula\t\n\t\n\t\n\t\n\t\n8\nClarify and establish a shared terminology on the design, deployment, and \nevaluation of AI systems, models, and capabilities\t\t\n\t\n\t\n\t\n\t\n8\nLEGAL DIMENSION\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n10\nAI policy and regulation\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n10\nDepartment of Trade and Industry\t\n\t\n\t\n\t\n\t\n\t\n\t\n10\nDepartment of Science and Technology (DOST)\t\n\t\n\t\n\t\n\t\n11\nDepartment of Information and Communications Technology (DICT)\t \t\n\t\n11\nData protection and privacy laws\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n14\nData Privacy Act (DPA) of 2012\t\n\t\n\t\n\t\n\t\n\t\n\t\n14\nCybercrime Prevent Act of 2012\t\n\t\n\t\n\t\n\t\n\t\n\t\n15\nData sharing and accessibility \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n16\nProcurement laws and policies \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n18\nFreedom of information acts/access to knowledge acts \t\n\t\n\t\n\t\n\t\n19\nDue Process and Accountability\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n19\nOnline safety and integrity of speech\t\n\t\n\t\n\t\n\t\n\t\n\t\n20\nPublic Sector Capacity\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n21\n\niv\nSOCIAL AND CULTURAL DIMENSION\t \t\n\t\n\t\n\t\n\t\n\t\n22\nDiversity, inclusion, and equality\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n22\nPublic engagement and trust\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n26\nEnvironmental and sustainability policies\t \t\n\t\n\t\n\t\n\t\n\t\n26\nHealth and social well-being\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n26\nCulture\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n27\nSCIENTIFIC AND EDUCATIONAL DIMENSION\t\n\t\n\t\n\t\n\t\n28\nResearch and Innovation\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n28\nResearch Output and Ethical AI research\t\n\t\n\t\n\t\n\t\n\t\n28\nAI Talent and Innovation Output\t\n\t\n\t\n\t\n\t\n\t\n\t\n29\nEducation\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n29\nEducation Strategy\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n29\nEducation infrastructure\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n30\nCurriculum Content\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n31\nEducational Attainment\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n31\nPublic Access to Education\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n32\nECONOMIC DIMENSION\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n33\nLabor Markets\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n33\nInvestments and Output\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n33\nTECHNICAL AND INFRASTRUCTURE DIMENSION\t \t\n\t\n\t\n\t\n35\nInfrastructure and connectivity\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n35\nApplied standards\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n37\nComputing capabilities\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n37\nStatistical Performance\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n38\nDEVELOPING THE NATIONAL AI MULTISTAKEHOLDER ROADMAP\t\n\t\n39\nAchieving a Whole of Nation Approach to AI policy\t\n\t\n\t\n\t\n\t\n39\nOvercoming siloed policy making\t\n\t\n\t\n\t\n\t\n\t\n\t\n39\nThriving industry, academia, and civil society collaboration\t\n\t\n\t\n\t\n40\nLight touch approach on regulations\t \t\n\t\n\t\n\t\n\t\n\t\n41\nEthical Considerations\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n41\nDigital Inequity\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n42\nPublic (dis)trust\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n43 \nAutomation and Displacement\t\n\t\n\t\n\t\n\t\n\t\n\t\n43 \nLanguage, culture and the arts\t\n\t\n\t\n\t\n\t\n\t\n\t\n45\nHyper Economic and Technological determinism\t\n\t\n\t\n\t\n\t\n45 \nLagging Education and Capacity-building\t\n\t\n\t\n\t\n\t\n\t\n46\nLow Research and Development Investments and Outputs\t\n\t\n\t\n\t\n47\nPrevailing Internet and Energy Infrastructure Gaps\t\n\t\n\t\n\t\n\t\n48\nEnhancing Data Protection and Cross-border Data Flows\t \t\n\t\n\t\n\t\n49\nCybersecurity – AI Nexus\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n50\nADVANCING ACTIONABLE POLICY RECOMMENDATIONS\t\n\t\n\t\n51\n\nv\nForeword\nWe have officially entered the Age of Artificial \nIntelligence. The world is now set to change \nat a pace not seen in decades, even centuries. \nAI-based tools and applications make our lives \neasier, smoother, and richer. They help us move \nefficiently, get informed, get credit, get a job, and \nget our taxes done.\nBut in its current form, AI reproduces and \namplifies many of the social challenges we face. It \nis not acceptable that around a third of the world’s \npopulation still lacks adequate internet access. \nUpstream, the AI industry is highly concentrated, \nwith just two countries – the United States and \nChina – and a dozen companies accounting for \na major share of the sector. This can lead only to \ngreater inequality of outcomes – including gender disparities – downstream. Non-diverse AI teams, \nun",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "State- and privately-owned universities and colleges must forge closer collaboration with the industry to cultivate an applied and market-oriented approach in doing research and/or enhancing education",
+      "text": "State- and privately-owned universities and colleges must forge closer collaboration with the industry to cultivate an applied and market-oriented approach in doing research and/or enhancing educational curriculum. HEIs and industry associations must enhance consultative mechanisms to anticipate employment trends to maximize job opportunities amid rapid technological changes. Clarify and establish a shared terminology on the design, deployment, and evaluation of AI systems, models, and capabilities Priority: Medium",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Establishing a shared definition and taxonomies on AI and its related applications will improve communication and coordination across all concerned stakeholders. This will help establish and streamlin",
+      "text": "Establishing a shared definition and taxonomies on AI and its related applications will improve communication and coordination across all concerned stakeholders. This will help establish and streamline the conception and consistent implementation of standards, frameworks, and guidelines throughout the Philippines AI community.",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "The DICT, DOST, Department of Education (DoE) and the Commission on Higher Education (CHED) can convene consultations and publish the official AI lexicon that is consistent to best global AI best prac",
+      "text": "The DICT, DOST, Department of Education (DoE) and the Commission on Higher Education (CHED) can convene consultations and publish the official AI lexicon that is consistent to best global AI best practices but tailored to the local context. 53 Incentivize Public-Private partnerships to spur domestic innovation Priority: Medium",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "The Philippine Government through DTI and DOST must create incentives for private companies on data-sharing, research outputs, and joint IP protection especially among local start-ups to strengthen op",
+      "text": "The Philippine Government through DTI and DOST must create incentives for private companies on data-sharing, research outputs, and joint IP protection especially among local start-ups to strengthen open domestic innovation. An enhanced IP regime can support research institutions, universities and industries to efficiently commercialize valuable IP assets. Relatedly, the DOST and the Intellectual Property Office of the Philippines should support AI venture capital funds and co-funding models for AI R&D. This will involve fast-tracking AI-related patent applications under IPO Philippines.",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Proposing tax incentives or grants for private companies will encourage the development of AI-driven start-ups and broader industry-academia collaborations. Such closer academia-industry dynamic will",
+      "text": "Proposing tax incentives or grants for private companies will encourage the development of AI-driven start-ups and broader industry-academia collaborations. Such closer academia-industry dynamic will facilitate cross-pollination of ideas among students and industry professionals. Establish a data sharing, and cybersecurity through policy frameworks and practical drills Priority: Medium",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "NPC and DICT should establish a broader data governance policy framework to drive public and private sector collaboration on data exchanges.",
+      "text": "NPC and DICT should establish a broader data governance policy framework to drive public and private sector collaboration on data exchanges. help facilitate sharing of usable data between public and private sector and adopting a risk-based approach to data classification with respect to other existing laws.",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "DICT, DTI, DOST and NPC must convene regular red-teaming activities to identify the cybersecurity risks, weaknesses, and vulnerabilities of AI systems prior to application and release. Routinely condu",
+      "text": "DICT, DTI, DOST and NPC must convene regular red-teaming activities to identify the cybersecurity risks, weaknesses, and vulnerabilities of AI systems prior to application and release. Routinely conducting red-teaming events will help raise awareness and formulate remediation strategies to address the cybersecurity aspects of AI systems, and thus, increases the stake for cooperation as well as the responsibility and liability on the part of AI developers. Social and Human Sciences Sector 7, place de Fontenoy 75352 Paris 07 SP France ai-ethics@unesco.org on.unesco.org/Ethics-of-AI Follow us @UNESCO #AI #HumanAI",
+      "dimension": "Investment",
+      "timeline": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 7,
+  "page_count": 64,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Legal and Regulatory A patchwork of AI strategies and roadmaps exists, led by the Department of Trade and Industry (DTI), and Department of Science and Technology (DOST), and the Department of Information and Communications Technology (DICT), that demonstrate the country’s upbeat trajectory on AI po",
+        "Currently, several legislations concerning AI regulations are tabled in the Philippine congress to comprehensively regulate the dual-use technology, especially its inherent risks and harms, and maximize its prospects for economic growth.",
+        "In the interim, a mix of regulations, guidelines and legal frameworks—such as the Data Privacy Act of 2020 and the Cybercrime Prevention Act of 2012—aid in bridging the regulatory gaps in data protection, cybersecurity, and cross-border data flow.",
+        "There is also a growing awareness on the importance of AI ethics in government, industry, academia, and civil society.",
+        "But trust surrounding AI technologies is mixed.",
+        "Major concerns include job displacement, explainability, transparency, regulatory compliance, and data misuse.",
+        "The overall picture of AI applications in arts and culture is pixelated.",
+        "Conversely, AI’s environmental, health and well-being implications demand further analysis."
+      ],
+      "strengths": [
+        "In response, the government has launched various initiatives to boost digital connectivity, especially in remote areas, as well as empower local innovators and entrepreneurs.",
+        "Scientific and Educational Recognizing the urgency of providing students with adequate skills and competencies fit for the demands of the emerging data driven economy, several government bodies have launched initiatives to retrofit current educational curriculum at the primary, secondary, and tertia"
+      ],
+      "gaps": [
+        "However, there remains a huge gap on the lack of a dedicated lead agency tasked to consolidate the country’s approach towards AI policy implementation.",
+        "The root cause lies in the lack of affordable, reliable, and accessible broadband internet, which hinders efforts to effectively raise digital competency through education, training and capacity-building.",
+        "Despite such challenges, the Philippines has shown progress in narrowing gender disparity.",
+        "On one hand, cases of AI use to promote local languages abound, on the other, the lack of capacity stifles the preservation of cultural artifacts.",
+        "Due to insufficient funding support, the Philippines is underperforming in research and development, which consequently impacts its AI research competitiveness and yields low levels of ethical AI research outputs."
+      ],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "It also seeks to improve data systems for the government and better linkage to employment opportunities, among others.",
+        "Of particular importance are the RA 7687 and RA 10612 which are implemented through DOST- Science Education Institute (DOST-SEI) that provides scholarships for high-performing students to undertake AI-related courses in data science, engineering, and computer science.",
+        "Retrieved from https://fma.ph/wp-content/up­ loads/2022/01/A5-Filipino-Womens-Digital-Rights-A-Policy-Overview-FINAL-Copypdf-1.pdf 61 Ibid.",
+        "usaid.gov/philippines/press-releases/jul-19-2022-usaid-leads-dialogue-improving-womens-digital-inclusion-philippines ### Page 35 25 • National Broadband Plan (NBP) stipulates the necessary policy, regulatory, and infrastructure interventions to deliver universal, fast, reliable, affordable broadband",
+        "Annually, they provide two batches of 30 scholarships for underprivileged women and girls to be trained under their 14week training on data visualization and modeling.",
+        "The Government Procurement Policy Board (GPPB) Resolution No.",
+        "Furthermore, RA 12009 or the New Government Procurement Act (RA 12009) mandates the procuring entities to prioritize inclusivity across all procurement activities, focusing on gender equity, ethnic diversity, poverty alleviation, and adherence to labor standards.66 The Philippines has a score of 0 i",
+        "CAIR has emphasized that the Philippines still has more opportunities to be more data-driven, particularly on AI and culture."
+      ],
+      "strengths": [
+        "The private sector and several civil society organizations (CSOs) provide programs that enhance diversity in STEM (i.e., inclusion of girls and women in STEM): UNILAB Foundation through STEM+PH, its flagship program has launched the Pinays can STEM to support young girls and women with opportunities",
+        "In response, CAIR has established partnership with AI Singapore to develop language models that reflects the diverse languages and cultures in Southeast Asia.",
+        "Retrieved from https://ehealth.doh.gov.ph/index.php/pehsp/overview ### Page 37 27 Culture RA 10066 or the National Cultural Heritage Act of 2009 provides a comprehensive framework on the protection, conservation, and promotion of the Philippines’ cultural heritage."
+      ],
+      "gaps": [
+        "The estimated figure is based on the Facebook Gender Gap Index (GGI) and offline indicators (e.g., Human Development Index or HDI).43 The study claims that there is equal internet use among females and males.",
+        "Navigating the Gender Wage Gap in Today’s Modern World.",
+        "Retrieved from https://seads.adb.org/solutions/navigating-gender-wage-gap-todays-modern-world#:~:tex­ t=Significant%20disparities&text=dominated%20by%20men.-,In%20the%20Philippines%2C%20just%2041%25%20of%20STEM%20 graduates%20are%20women,compared%20to%2035%25%20of%20boys.",
+        "The Index also noted that gender gap in internet and mobile phone accessed widened.",
+        "Perceptions of Filipino Youth Around STEM and the Need to Understand It.",
+        "In addressing the digital socio-economic gap, including the rural-urban gap, the DICT implements the following programs to address the digital divide: • Technology for Education – Digital Transformation Centers (Tech4Ed-DTC) program provides access for communities and individuals to bridge the digit",
+        "Aside from this, there is also a need to gather more data on languages and arts, e.g., dances.",
+        "CAIR also raised the need to look beyond the implementation of AI not only in Luzon, but also in Visayas and Mindanao.",
+        "Despite this, the Philippines latest ranking is a positive improvement to the country’s standing in 2022 at 89, with an index/value of 0.65230.",
+        "However, there is no mention on the use of AI on the preservation of cultural heritage."
+      ],
+      "key_stats": [
+        {
+          "stat": "43\t\nUniversity",
+          "context": "a year after that.50 For the 2021 graduation cohort, has a drop- off of 5.6 percentage points.51 43 University of Oxford. (n.d.) Digital Gender Gaps. Retrieved from https://www.digitalgendergaps.org/ "
+        },
+        {
+          "stat": "ranks 78 out of",
+          "context": "(PISA)53 2022, the Filipino learners’ mean score in science performance is the one of the lowest (ranks 78 out of 80 PISA- participating countries) with a 356 PISA Score.54 The Filipino boys’ performa"
+        },
+        {
+          "stat": "ranked 53rd globally",
+          "context": "PISA score) is lower than that of Filipino girls’ (rank 77/80, 363 PISA score). 55 The Philippines ranked 53rd globally (54th in 2021) and 14th among the 22 countries in Asia in the Inclusive Internet"
+        },
+        {
+          "stat": "ranking 54th in 2021",
+          "context": "lusive Internet Index56 2022.57 Although, the country improved in the Relevance 58 category from ranking 54th in 2021 to 32nd in 2022, affordability of internet worsened (ranked 54th in 2021 and 58th "
+        },
+        {
+          "stat": "ranked 54th in 2021",
+          "context": "levance 58 category from ranking 54th in 2021 to 32nd in 2022, affordability of internet worsened (ranked 54th in 2021 and 58th in 2022) due to increasing postpaid tariffs and fixed-line broadband cos"
+        },
+        {
+          "stat": "ranks 73rd globally",
+          "context": "mprovement from its 0.6303 in 2022.72 In the 2024 E-Government Development Index, the Philippines ranks 73rd globally and has a score of 0.7621— a figure lower than leading countries like Denmark (0.9"
+        },
+        {
+          "stat": "rank 80th \nglobally",
+          "context": "s improved its E-participation index from 0.4886 in 2022 to 0.7260 in 2024. The country moved from rank 80th globally in 2022 to 49th in 2024. The sub-region leader is Singapore at 0.9589.73 Under the"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "According to UNESCO Institute for Statistics (UIS Stat Bulk Data Download Service, the Philippines’ Gross Expenditure on Research and Development (GERD) as a share of its gross domestic product is 0.32 as of 2018.",
+        "On AI, the Philippine government has allocated PHP350.5 million to support the operationalization of CAIR.",
+        "Focusing on the country’s R&D priorities on AI, DOST has crafted an AI R&D Program framework for 2019-2029 to increase the Philippines Global Innovation Index that will effectively translate innovation investments into outputs.",
+        "Research Output and Ethical AI research Based on the Country Activity Tracker (CAT) on Artificial Intelligence, the Philippines has published a total of 4,359 articles, 1,037 articles with international collaborations, and 29,644 citations.78 In the same tracker, the Philippines ranked sixth in ASEA",
+        "Likewise, there is no existing data available on ethical AI research.",
+        "Retreieved from https://cat.eto.tech/?coun­ tries=Philippines&countryGroups=&expanded=Summary-metrics%2CCountry-co-authorship%2CTop-ten-cited-articles%2CChang­ es-over-time%2CTop-ten-organizations ### Page 39 29 AI Talent and Innovation Output The Global Innovation Index shows that there are 172 res",
+        "Currently there are 674 patent applications (resident and abroad) in 2022, but no disaggregated data is available, especially, whether they are AI patents.",
+        "Education Education Strategy Legal and policy frameworks have emphasized the importance of integrating digital technologies in the Philippines to equip students, and graduates with adequate competencies in the emerging digital economy: • NAISR 2.0 has emphasized the importance of transforming educat"
+      ],
+      "strengths": [
+        "For its part, the DOST Grants-In-Aid (GIA) Program was launched to harness the country’s scientific and technological capabilities to spur sustainable economic growth and development.",
+        "It has established a multidisciplinary UP AI Advancement Committee (AIAC) to convene the UP community to discuss the benefits and perils of using AI and formulate better policies and guidelines.",
+        "The Teacher Education Council has launched nationwide survey to review and redesign preservice education for teachers.",
+        "The Polytechnical University of the Philippines has launched its own research program focusing on AI ethics and governance."
+      ],
+      "gaps": [
+        "Despite such progress, the Philippines must strive to further improve its R&D funding allocation.",
+        "However, according to FAccT publications per capita, there are no accepted papers from the Philippines from 2021 onwards.",
+        "• The National Technical Education and Skills Development Plan (NTESDP) 2023 – 2028 identifies AI as an emerging sector that necessitates the development of adequate skills, and the need for the TVET sector to prioritize digital transformation.",
+        "But despite the sharp uptick, the Philippines has a long way to go in realizing universal internet access.",
+        "gov.ph/CDN/PUBLICATIONS/pidsdps2210.pdf ### Page 41 31 Primary schools Year Target Accomplishment 2017 95 78 2018 99 78 2019 100 79 Junior high schools Year Target Accomplishment 2017 95 82 2018 99 81 2019 100 80 Experts suggest that the Philippines inability to achieve its computer package delivery",
+        "The net primary enrollment rate remains low at 90.3.",
+        "Despite such increase, Coursera’s Global Skills Report in 2023 ranked the Philippines 99 out of 100 countries.",
+        "Retrieved from https://www.bworldonline.com/infograph­ ics/2023/06/16/529017/philippines-still-lags-in-courseras-2023-global-skills-ranking/#:~:text=The%20Philippines%20placed%20 last%20among,2 ### Page 42 32 By 2028, the tech industry in the Philippines is expected to generate 1.1 million new jobs.",
+        "According to a UNESCAP study, almost 90 percent of the Filipino population lacks basic ICT skills such as word-processing, internet and email skills.86 Although upskilling and reskilling opportunities abound, many obstacles remain pervasive such as poor internet access, lack of time, and the high co",
+        "However, the research pointed out the limitations of AI in contextualizing experiences."
+      ],
+      "key_stats": [
+        {
+          "stat": "$772.10M",
+          "context": "age 43 33 ECONOMIC DIMENSION Labor Markets The Philippines’ AI market size is projected to reach US$772.10M in 2024. It is expected to grow in the coming years at the rate of 28.57 percent, possibly r",
+          "value": 772100000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "23 data centers",
+          "context": "2: Artificial Intelligence Computing capabilities According to Data Center Map, there are currently 23 data centers in the Philippines.110 The country is bullish in capitalizing on the increasing dema"
+        },
+        {
+          "stat": "110\t\nData Center",
+          "context": "109 ISO – Philippines. Retrieved from https://www.iso.org/member/2041.html?view=participation&t=PT 110 Data Center Map – Philippines Data Centre. Retrieved from https://www.datacentermap.com/philippin"
+        },
+        {
+          "stat": "ranked 53 out of",
+          "context": "elease-2024-work-trend-index-on-ai-use-at-work-in-the-philippines/ ### Page 44 34 The Philippines ranked 53 out of 133 economies in the 2024 Global Innovation Index. It is a key exporter of computers,"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "The country’s AI market size is projected to reach US$3,4877 million by 2030.",
+        "AI adoption is higher than the global average of 75 percent, driven in large part by private companies’ positive outlook on the technology’s contribution to overall productivity.",
+        "Technical and Infrastructure The Philippines is an active participant to various committees and working groups involved in international technical standard setting, including the ISO/IEC/JTC 1/SC 42: Artificial intelligence.",
+        "There is growing number of data centers due to the influx of foreign investments.",
+        "The deliberations and consultations highlighted the following gaps in the current realization of ethical AI: Achieving a Whole of Nation Approach to AI Policy The consultations revealed a siloed approach underpinning the government’s current AI policy and strategy implementation.",
+        "To a large degree, this circumstance has debilitated the practical implementation of the Philippines’ AI strategy.",
+        "Stakeholders from such sectors act as the connective tissue, moving the policy discussions and implementations through informal channels, to hopefully shape high-level government decisions.",
+        "Persons with Disabilities, and Indigenous communities are often left out of policy consultations."
+      ],
+      "strengths": [
+        "Leading government agencies like DOST continue to rely on external funding partners.",
+        "Developing and implementing a robust data governance framework will help facilitate sharing of usable data between both sectors and adopting a risk-based approach to data classification, with respect to other existing laws such as the Revised First Cloud policy, will also be difficult.",
+        "Without robust cybersecurity in both policy and practice, achieving an ethical, safe, and reliable AI ecosystem that champions the transparent processing and training of data will remain wishful thinking.",
+        "Once established, the proposed interagency mechanism can rapidly ease the current siloed approach to AI policymaking and implementation.",
+        "• Another pathway is adopting a soft-touch or normative regulatory approach that is flexible enough to anticipate rapid AI innovation while remaining robust in ensuring cybersecurity and data protection standards.",
+        "To fast- track the Philippines conceptualization and implementation of NAISR 2.0., DTI has established the Center for AI Research in July 2024 to operationalize the strategic priority areas enshrined under the NAISR 2.0.",
+        "CAIR has begun to explore international collaboration with regional partners like AI Singapore as well as leading tech companies in Southeast Asia and beyond to further explore R&D opportunities.",
+        "Against the backdrop of the NAISR 2.0, it should be noted that the NAISR launched in 2024 elicited mixed reactions from the public.",
+        "After the AI roadmap was launched in 2023, DOST has embarked on various projects which are progressing at various stages.6 DOST’s Philippine Council for Industry, Energy and Emerging Technology Research and Development (DOST-PCIEERD) has identified 9 R&D projects in collaboration with the country’s ",
+        "It also launched the e-GOVPH, one-stop online system, as well as various self-development programs and webinars via Tech Trends."
+      ],
+      "gaps": [
+        "To sustain growth and become globally competitive, the Philippines needs to improve its domestic innovation capacity.",
+        "Internet penetration is on an upward trajectory; however, more investment is required to upgrade upload and download speeds.",
+        "Several participants have noted their knowledge and awareness of the existing roadmaps, strategies and initiatives, but that the lack of a dedicated lead agency makes it difficult to ensure consistency and coordination in policy implementation.",
+        "In the absence of an intragovernmental coordinating mechanism, the trifecta of industry, academia, and civil society has stepped up to the plate.",
+        "Although enthusiasm on AI is palpable, there remains skepticism surrounding its negative implications such as the spread disinformation to undermine democratic and political institutions and processes, job displacements, increased carbon footprint, human-labor exploitation, and intellectual property",
+        "Clearly, the lack of access to reliable and affordable broadband internet services further widens the gap between the rich and the poor, the urban and the rural areas.",
+        "With limited internet connectivity, Filipino youth and professionals cannot seize learning opportunities to acquire fundamental digital skills and competencies.",
+        "Weak teaching capacity due to low salary, poor working conditions, and lack of professional development also undercuts student learning experience.",
+        "Filipino youth and adults continue to underperform in basic ICT skills compared to its regional peers, which, consequently, exacerbates exclusion and the digital skills gap.",
+        "However, funding remains a huge challenge to promoting domestic innovation."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranked 56th out of",
+          "context": "its prospects. For instance, the Government AI Readiness Index in 2024 showed that the Philippines ranked 56th out of 188 countries. It garnered 58.51 out of 100 which is higher than the global averag"
+        },
+        {
+          "stat": "ranks 36th out of",
+          "context": "ement authorities.17 Data sharing and accessibility With an overall score of 69, the Philippines ranks 36th out of 195 countries in the Open Data Inventory in 2020. The overall score is based on the c"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "The cross-sectoral conversations contextualize the findings and data gathered from the diagnosis phase.",
+        "PHASE 3: ADVANCING ACTIONABLE POLICY RECOMMENDATIONS Combining insights and findings obtained from the diagnosis and consultation, the final phase entails the advancement of actionable, pragmatic, and fit- for-context policy recommendations to address the gaps identified in the context of the Philip"
+      ],
+      "strengths": [
+        "PHASE 2: DEVELOPING THE NATIONAL AI MULTISTAKEHOLDER ROADMAP The development of a National AI Multistakeholder Roadmap encompasses three national consultations in Manila, Cebu and Davao, involving leading experts and practitioners from government, industry, academia and civil society.",
+        "To ensure comprehensive data- gathering, the roundtable discussions were also supplemented with one-on-one interviews with select experts."
+      ],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "Similarly, according to the Foundation of Media Alternatives and Privacy International, the Supreme Court has recognized the 15 consolidated petitions seeking to declare several provisions of the CPA as null and unconstitutional because it provides law enforcement agencies too much sweeping power and lacks restraints.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "The procurement of AI-enabled facial recognition systems and technologies37 poses serious questions regarding mass surveillance and its possible impingement on human rights.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "It also outlines the responsibilities of service providers: Section 12 deals with the real-time collection of traffic data where third party service providers assist law enforcement authorities in the collection or recording of the 37 Philippines unveils new CCTV system command center, plans facial recognition procurement.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Retrieved from https://www.biomet­ ricupdate.com/202307/philippines-unveils-new-cctv-system-command-center-plans-facial-recognition-procurement 38 Baker McKenzie.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In 2023, the Technical Education and Skills Development Authority (TESDA) had launched a partnership with Microsoft Philippines to provide access and resources among technical and vocational educational learners to gain technical certifications in cybersecurity, AI, data, and digital literacy.42 40 DICT Initiatives Bridging the Digital Gap in the Philippines.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Of particular importance are the RA 7687 and RA 10612 which are implemented through DOST- Science Education Institute (DOST-SEI) that provides scholarships for high-performing students to undertake AI-related courses in data science, engineering, and computer science.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The National Commission for Culture and the Arts (NCCA) raised that digitalization is recognized within the organization, but there is no specialized unit to address AI concerns.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "It has established a multidisciplinary UP AI Advancement Committee (AIAC) to convene the UP community to discuss the benefits and perils of using AI and formulate better policies and guidelines.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "During the Cebu and Davao consultations, several participants had noted that there is awareness of the existing roadmaps, strategies and initiatives which are developed and implemented by DTI, DOST, and DICT but the lack of a dedicated agency makes it difficult to ensure consistency in policy implementation.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "With the prevailing fearful sentiment on job displacements, NEDA has launched a digital skills mapping study in collaboration with the United Nations Development Programme (UNDP).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "With ongoing digitization projects, NCCA has recognized the implications of AI on the country’s cultural artifacts and practices.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "In regional areas like Cebu, participants echoed the lack of strong recognition of such fields that may amplify the adverse and unintended effects of AI systems.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Both the NPC and DICT are facing extreme challenges in monitoring compliance checks and conducting audit due to the limited familiarity on AI as a fast-changing technology, and has recognized that they too need technical, policy, and legal skills upgrade to ensure the proper enforcement of cybersecurity and data privacy, and protection audits.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "While some have recognized that without robust cybersecurity, achieving an ethical, safe, and reliable AI ecosystem that champions the transparent processing and training of data will remain wishful thinking.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [],
+  "rankings_indices": [
+    {
+      "context": "For instance, the Government AI Readiness Index in 2024 showed that the Philippines ranked 56th out of 188 countries.",
+      "index_name": "Government AI Readiness Index",
+      "rank": 56,
+      "total_countries": 188,
+      "year": 2024
+    },
+    {
+      "context": "There is also no provision for the requirements for the issuance of a court warrant by law enforcement authorities.17 Data sharing and accessibility With an overall score of 69, the Philippines ranks 36th out of 195 countries in the Open Data Inventory in 2020.",
+      "index_name": "Open Data Inventory",
+      "rank": 36,
+      "score": 69.0,
+      "total_countries": 195,
+      "year": 2020
+    },
+    {
+      "context": "55 The Philippines ranked 53rd globally (54th in 2021) and 14th among the 22 countries in Asia in the Inclusive Internet Index56 2022.57 Although, the country improved in the Relevance 58 category from ranking 54th in 2021 to 32nd in 2022, affordability of internet worsened (ranked 54th in 2021 and 58th in 2022) due to increasing postpaid tariffs and fixed-line broadband cost.",
+      "index_name": "Inclusive Internet Index",
+      "rank": 53,
+      "year": 2021
+    },
+    {
+      "context": "Furthermore, RA 12009 or the New Government Procurement Act (RA 12009) mandates the procuring entities to prioritize inclusivity across all procurement activities, focusing on gender equity, ethnic diversity, poverty alleviation, and adherence to labor standards.66 The Philippines has a score of 0 in the language and data governance under the Global Data Barometer.67 Most of the AI applications in the country use English and foreign language.",
+      "index_name": "Global Data Barometer",
+      "score": 0.0
+    },
+    {
+      "context": "The sub-region leader is Singapore at 0.9589.73 Under the Readiness category of the Inclusive Internet Index 2022, the Philippines ranked 67th.",
+      "index_name": "Inclusive Internet Index",
+      "rank": 67,
+      "year": 2022
+    },
+    {
+      "context": "com/en-ph/2024/05/23/microsoft-and-linkedin-release-2024-work-trend-index-on-ai-use-at-work-in-the-philippines/ ### Page 44 34 The Philippines ranked 53 out of 133 economies in the 2024 Global Innovation Index.",
+      "index_name": "Global Innovation Index",
+      "rank": 53,
+      "year": 2024
+    },
+    {
+      "context": "Based on the Global Data Barometer that measures a country’s strengths, and weaknesses on data capabilities, governance, availability and impact, the Philippines got high score of 45 in the governance pillar due to its DPA alongside its Implementing Rules and Regulations and the Advisor Opinions that provide a detailed framework for personal data protection.",
+      "index_name": "Global Data Barometer",
+      "score": 45.0
+    }
+  ]
+}

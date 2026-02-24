@@ -1,0 +1,688 @@
+{
+  "country_code": "CU",
+  "country_name": "ACRONYMS AND ABBREVIATIONS",
+  "language": "en",
+  "metadata": {
+    "page_count": 37,
+    "creation_date": "D:20250325104426-04'00'",
+    "modification_date": "D:20250430161032+02'00'",
+    "country_name": "ACRONYMS AND ABBREVIATIONS",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Social and cultural dimensions are crucial to evaluating ethical components in the deployment of AI systems, such as mechanisms to avoid the appearance of biases throughout the life cycle of the AI system and the creation of a fair and inclusive AI ecosystem.",
+        "In this sense, this section addresses topics such as the inclusion of women in the development environment of science, technology, engineering, mathematics (STEM) and AI, as well as the incorporation of social and cultural diversity to ensure the ethical application of AI.",
+        "In addition, it includes the level of acceptance and attitudes of the general public towards AI, the consideration of environmental and sustainable criteria, health, social well-being and culture in creating AI solutions.",
+        "Based on internal data, the counterpart reports that of the total internet population in 2021, 45.6% are men and 54.4% are women.",
+        "When analysed at the level of children and adolescents, no data allows for the evaluation of their performance or expectations by gender.",
+        "The program addresses seven areas of interest: (1) economic empowerment of women, (2) media, (3) education, prevention and social work, (4) access to decision-making, (5) legislation and law as a regulatory framework for protection against all forms of discrimination and violence, (6) sexual and rep",
+        "Various initiatives address the urban-rural gap, including the Comprehensive Policy for the Improvement of the Computerization of Society in Cuba, Law 145 of Territorial Planning18 and Urban Planning with its state plan, the New Urban Agenda, and the National Territorial Planning Scheme.",
+        "There are no programs or policies specifically promoting diversity in AI, and there are no obligations regarding the publication of statistics related to diversity in any area."
+      ],
+      "strengths": [],
+      "gaps": [
+        "The above shows that the gap favors women, contrary to the global trend.",
+        "Regarding the gender gap in STEM higher education, 12.16% of men and only 6.15% of women graduate, according to the World Economic Forum16 .",
+        "Policies have not been monitored, but a data observatory on the gender gap was implemented: https://www.genero.onei.gob.cu .",
+        "HEALTH AND SOCIAL WELL-BEING Although there is no specific law on digital health, its aspects are addressed in the Public Health Law20, approved in December 2023.",
+        "However, the previous law does not explicitly address AI or its impact on the mental health of children..",
+        "CULTURE Currently, Cuba does not have policies on using AI to preserve cultural heritage, and, according to the counterpart, since there are no indigenous languages, there is no policy in this regard."
+      ],
+      "key_stats": [
+        {
+          "stat": "73.2% of the population uses the Intern",
+          "context": "creating AI solutions. DIVERSITY, INCLUSION AND EQUITY According to the ITU (2022)15, in Cuba, only 73.2% of the population uses the Internet, and only 40.1% of homes have internet. Regarding gender, ",
+          "value": 73.2,
+          "unit": "%"
+        },
+        {
+          "stat": "40.1% of homes have internet",
+          "context": "TY According to the ITU (2022)15, in Cuba, only 73.2% of the population uses the Internet, and only 40.1% of homes have internet. Regarding gender, 75.1% of women use the Internet, while only 60.7% of",
+          "value": 40.1,
+          "unit": "%"
+        },
+        {
+          "stat": "75.1% of women use the Internet",
+          "context": "3.2% of the population uses the Internet, and only 40.1% of homes have internet. Regarding gender, 75.1% of women use the Internet, while only 60.7% of men do so. Based on internal data, the counterpa",
+          "value": 75.1,
+          "unit": "%"
+        },
+        {
+          "stat": "60.7% of men do so",
+          "context": "d only 40.1% of homes have internet. Regarding gender, 75.1% of women use the Internet, while only 60.7% of men do so. Based on internal data, the counterpart reports that of the total internet popula",
+          "value": 60.7,
+          "unit": "%"
+        },
+        {
+          "stat": "45.6% are men and",
+          "context": "so. Based on internal data, the counterpart reports that of the total internet population in 2021, 45.6% are men and 54.4% are women. The above shows that the gap favors women, contrary to the global ",
+          "value": 45.6,
+          "unit": "%"
+        },
+        {
+          "stat": "54.4% are women",
+          "context": "nal data, the counterpart reports that of the total internet population in 2021, 45.6% are men and 54.4% are women. The above shows that the gap favors women, contrary to the global trend. In geograph",
+          "value": 54.4,
+          "unit": "%"
+        },
+        {
+          "stat": "84.1% of people in urban areas use the",
+          "context": "n. The above shows that the gap favors women, contrary to the global trend. In geographical terms, 84.1% of people in urban areas use the Internet, which contrasts sharply with only 13.8% in rural are",
+          "value": 84.1,
+          "unit": "%"
+        },
+        {
+          "stat": "13.8% in rural areas",
+          "context": "raphical terms, 84.1% of people in urban areas use the Internet, which contrasts sharply with only 13.8% in rural areas. Regarding the gender gap in STEM higher education, 12.16% of men and only 6.15%",
+          "value": 13.8,
+          "unit": "%"
+        },
+        {
+          "stat": "12.16% of men and only",
+          "context": "ntrasts sharply with only 13.8% in rural areas. Regarding the gender gap in STEM higher education, 12.16% of men and only 6.15% of women graduate, according to the World Economic Forum16 . Specificall",
+          "value": 12.16,
+          "unit": "%"
+        },
+        {
+          "stat": "6.15% of women graduate",
+          "context": "nly 13.8% in rural areas. Regarding the gender gap in STEM higher education, 12.16% of men and only 6.15% of women graduate, according to the World Economic Forum16 . Specifically, regarding ICT, only",
+          "value": 6.15,
+          "unit": "%"
+        },
+        {
+          "stat": "4.31% of men and",
+          "context": "15% of women graduate, according to the World Economic Forum16 . Specifically, regarding ICT, only 4.31% of men and 1.63% of women. When analysed at the level of children and adolescents, no data allo",
+          "value": 4.31,
+          "unit": "%"
+        },
+        {
+          "stat": "1.63% of women",
+          "context": "uate, according to the World Economic Forum16 . Specifically, regarding ICT, only 4.31% of men and 1.63% of women. When analysed at the level of children and adolescents, no data allows for the evalua",
+          "value": 1.63,
+          "unit": "%"
+        },
+        {
+          "stat": "62.8% while",
+          "context": "essionals in exact sciences and in which the proportion of enrollment that corresponds to women is 62.8% while 37.2% are men. Additionally, Cuba has a National Program for the Advancement of Women, pu",
+          "value": 62.8,
+          "unit": "%"
+        },
+        {
+          "stat": "37.2% are men",
+          "context": "exact sciences and in which the proportion of enrollment that corresponds to women is 62.8% while 37.2% are men. Additionally, Cuba has a National Program for the Advancement of Women, published in Pr",
+          "value": 37.2,
+          "unit": "%"
+        },
+        {
+          "stat": "37.5% in the indicator of citizens t",
+          "context": "e e-participation index (EPI) ranking, with just 0.1364 points. In addition to this, Cuba has only 37.5% in the indicator of citizens trust in government applications and websites, according to the In",
+          "value": 37.5,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Since scientific and educational components contribute significantly to the advancement of AI, assessing them becomes a relevant method to determine a country's readiness for AI development.",
+        "The country's performance in research and innovation (R&I) measures the scientific aspect, including research and development (R&D) spending, research production, ethical AI research, and AI innovation production.",
+        "On the other hand, the educational aspect is evaluated through the country's performance in educational elements such as educational strategy, educational infrastructure, curriculum content, educational achievements, and public access to AI education.",
+        "RESEARCH AND DEVELOPMENT According to Statista data (2024)22 , Cuba had R&D spending of 0.52% of GDP in 2020, but there was no granularity in natural sciences and engineering.",
+        "In addition, the existence of the National Automatic CTI, Robotics and AI Program is reported where the expenditure planning for five years (2020-2025) was 19,237,200 CUP (approx.",
+        "The number of publications per capita on AI and related topics depends on the source and the methodology used to narrow down the topic.",
+        "There is no data on publications in FAccT or, more generally, on ethics.",
+        "There are no AI ethics conferences organised in the country."
+      ],
+      "strengths": [],
+      "gaps": [
+        "Although there is no consolidated data on investment related to AI, the counterpart also reports two projects with expenditure associated with this topic of 197,722.05 CUP (approx.",
+        "Although both sources correspond to OpenAlex data when considering different labelling criteria and types of publications, the number changes between the Emerging Technology Observatory25 , which reports 0.000014 publications per capita, and the National AI Center of Chile, which reports 0.000087 pu",
+        "However, some related initiatives are reported, such as IADES (Artificial Intelligence Applied to Sustainable Development) 2023, UCIENCIA 2023, and CiberSociedad 2023, where panels on ethics in AI have been developed.",
+        "However, there are no grandmasters on Kaggle."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.52% of GDP in",
+          "context": "education. RESEARCH AND DEVELOPMENT According to Statista data (2024)22 , Cuba had R&D spending of 0.52% of GDP in 2020, but there was no granularity in natural sciences and engineering. On the other ",
+          "value": 0.52,
+          "unit": "%"
+        },
+        {
+          "stat": "0.32% of GDP in",
+          "context": "an Network of Science and Technology Indicators (2024)23 , in which Cuba has an R&D expenditure of 0.32% of GDP in 2021. The above translates into low R&D spending as a percentage of GDP compared to w",
+          "value": 0.32,
+          "unit": "%"
+        },
+        {
+          "stat": "42.2% of primary schools and",
+          "context": "g of teachers and educators on the subject. Regarding infrastructure, the counterpart reports that 42.2% of primary schools and 67.36% of secondary schools have Internet access for pedagogical purpose",
+          "value": 42.2,
+          "unit": "%"
+        },
+        {
+          "stat": "67.36% of secondary schools have Interne",
+          "context": "on the subject. Regarding infrastructure, the counterpart reports that 42.2% of primary schools and 67.36% of secondary schools have Internet access for pedagogical purposes. In terms of connected sch",
+          "value": 67.36,
+          "unit": "%"
+        },
+        {
+          "stat": "100% access to computers for pedago",
+          "context": "ncial Education Directorates. The counterpart reports that both primary and secondary schools have 100% access to computers for pedagogical purposes, but there is no international data to contrast thi",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "14.4% of enrollment",
+          "context": "cal sciences or natural sciences and mathematics from the Statistical Yearbook of Cuba26, which is 14.4% of enrollment, which, in turn, is only 12.65%. % of the total. There are no specific data for I",
+          "value": 14.4,
+          "unit": "%"
+        },
+        {
+          "stat": "USD 70.5 \nmillion",
+          "context": "ublic spending, current expenditures on science and technology from state sources are approximately USD 70.5 million in 2022, according to the Cuban Statistical Yearbook24 . Although there is no conso",
+          "value": 70500000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "ECONOMIC DIMENSION The economic dimension considers relevant aspects within the ecosystem in which AI systems are developed and deployed, such as The economic dimension considers relevant aspects within the ecosystem in which AI systems are developed and deployed, such as those related to the labour",
+        "The dynamism and skill level of the labour market and spending on intermediate consumption, investment, and production are crucial aspects for assessing the performance and readiness of the specific ecosystems in which AI is implemented.",
+        "This data is crucial for understanding the labour market's readiness for AI implementation.",
+        "INTERMEDIATE CONSUMPTION In general, there is no required data on intermediate consumption that allows us to know companies' spending on AI services or the production of goods and services.",
+        "At the end of 2022, the ONEI records in its Statistical Yearbook total expenditure on science and technology activities more than 4,785 million CUP (approximately USD 170.8 million), but its granularity cannot be determined at the AI level.",
+        "This data is crucial for understanding the level of investment in AI development.",
+        "USD 0.7 million) are recorded as expenses in Research, Development and innovation, of which it is estimated that more than 60% is allocated to disruptive technologies (AI, Big Data and Blockchain).",
+        "27 https://www.onei.gob.cu/sites/default/files/publicaciones/2024-04/aec-2022_0.pdf 20 TECHNICAL AND INFRASTRUCTURE DIMENSION The technical and infrastructure dimensions refer to countries' installed capacity for developing and deploying AI solutions, whether through their computing power, the avail"
+      ],
+      "strengths": [],
+      "gaps": [
+        "LABOR MARKETS The absence of data on the percentage of job openings requiring AI-related skills, the current number of employees with data science expertise, the relative penetration of AI skills, and the concentration of AI talent is a significant gap.",
+        "Similarly, the lack of public policies addressing AI's impact on the labour market is a notable concern.",
+        "INVESTMENT AND PRODUCTION The absence of data on companies' spending on R&D in programming, consulting, and other computer-related activities is a significant data gap.",
+        "Another notable gap is the absence of dataon high technology exports in Cuba.",
+        "APPLIED STANDARDS Cuba does not participate as a member or observer in the relevant normalisation committees30 , nor has it been requested to be part of them.",
+        "COMPUTATIONAL CAPABILITIES Cuba does not have data centres31 32 ; the closest one is 360 km away, in Miami, Florida, USA.",
+        "28 https://datahub.itu.int/data/?e=CUB&i=242 29 https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx 30 https://www.iso.org/member/1629.html 31 https://www.technologyreview.com/2022/04/25/1051115/global-cloud-ecosystem-index-2022/ 32 https://www.datacentermap.com/ 21 RAM IMPLEMENTATION Cu",
+        "The Ministry of Communications has initiated a process with working groups to develop its ENIA, but it does not include broad and open citizen participation processes.",
+        "However, it was circulated with government counterparts and experts they considered relevant for review and complementation regarding data and political priorities.",
+        "Despite the above, there is a significant gap in terms of information availability."
+      ],
+      "key_stats": [
+        {
+          "stat": "60% is \nallocated to disruptive te",
+          "context": "corded as expenses in Research, Development and innovation, of which it is estimated that more than 60% is allocated to disruptive technologies (AI, Big Data and Blockchain). Another notable gap is th",
+          "value": 60.0,
+          "unit": "%"
+        },
+        {
+          "stat": "67.4% of the population subscribes to m",
+          "context": "he processed information. INFRASTRUCTURE AND CONNECTIVITY According to the ITU28 29 , in Cuba, only 67.4% of the population subscribes to mobile telephony, 42% to active mobile broadband, and 3.25% to",
+          "value": 67.4,
+          "unit": "%"
+        },
+        {
+          "stat": "42% to active mobile broadband",
+          "context": "Y According to the ITU28 29 , in Cuba, only 67.4% of the population subscribes to mobile telephony, 42% to active mobile broadband, and 3.25% to fixed broadband. This leads to a low average internatio",
+          "value": 42.0,
+          "unit": "%"
+        },
+        {
+          "stat": "3.25% to fixed broadband",
+          "context": ", only 67.4% of the population subscribes to mobile telephony, 42% to active mobile broadband, and 3.25% to fixed broadband. This leads to a low average international band of 147 kbits, with no data o",
+          "value": 3.25,
+          "unit": "%"
+        },
+        {
+          "stat": "73.2% have access to the internet",
+          "context": "rnational band of 147 kbits, with no data on average download speeds. In terms of connection, only 73.2% have access to the internet, of which 74.3% have access to 3G, but only 49.5% to LTE/ WiMAX and",
+          "value": 73.2,
+          "unit": "%"
+        },
+        {
+          "stat": "74.3% have access to",
+          "context": "average download speeds. In terms of connection, only 73.2% have access to the internet, of which 74.3% have access to 3G, but only 49.5% to LTE/ WiMAX and no one to 5G. Furthermore, only 96.2% of the",
+          "value": 74.3,
+          "unit": "%"
+        },
+        {
+          "stat": "49.5% to LTE",
+          "context": "s of connection, only 73.2% have access to the internet, of which 74.3% have access to 3G, but only 49.5% to LTE/ WiMAX and no one to 5G. Furthermore, only 96.2% of the population has electricity acce",
+          "value": 49.5,
+          "unit": "%"
+        },
+        {
+          "stat": "96.2% of the population has electricity",
+          "context": "of which 74.3% have access to 3G, but only 49.5% to LTE/ WiMAX and no one to 5G. Furthermore, only 96.2% of the population has electricity access, which is not necessarily permanent. APPLIED STANDARDS",
+          "value": 96.2,
+          "unit": "%"
+        },
+        {
+          "stat": "USD \n170.8 million",
+          "context": "k total expenditure on science and technology activities more than 4,785 million CUP (approximately USD 170.8 million), but its granularity cannot be determined at the AI level. INVESTMENT AND PRODUCT",
+          "value": 170800000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 81 million",
+          "context": "total expenditure on R&D activities in 2022 is more than 2,281 million Cuban pesos (approximately USD 81 million). In the case of the Cuban Software Industry, some 20 million Cuban pesos (approx. USD ",
+          "value": 81000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 0.7 million",
+          "context": "USD 81 million). In the case of the Cuban Software Industry, some 20 million Cuban pesos (approx. USD 0.7 million) are recorded as expenses in Research, Development and innovation, of which it is esti",
+          "value": 700000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "In addition, it is urged to review repositories related to the topic, such as the OECD repositories, to identify the indicators that are not being built and the information that is not being collected in the country.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "For an AI strategy to be properly implemented and for the technology to effectively mean a positive change for citizens, they have to be able to take advantage of it and to do so, they require access through mobile devices and the internet.",
+      "dimension": "technological_infrastructural"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.52,
+      "unit": "% GDP",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 14,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "DATA PROTECTION AND PRIVACY Cuba is ranked 82 out of 182 in the 2020 Global Cybersecurity Index , placing it 10 out of 35 in the Americas with a score of 58.76 out of 100.",
+      "index_name": "Global Cybersecurity Index",
+      "rank": 82,
+      "score": 58.76,
+      "year": 2020
+    },
+    {
+      "context": "Cuba has no open data policy and was ranked 135 out of 195 in the Open Data Inventory8 classification in 2022 with 40 points.",
+      "index_name": "Open Data Inventory",
+      "rank": 135,
+      "year": 2022
+    },
+    {
+      "context": "15 PUBLIC PARTICIPATION AND TRUST Cuba ranks 170 out of 193 online services ranking (OSI), with just 0.2789 points and 175 out of 193 in the e-participation index (EPI) ranking, with just 0.1364 points.",
+      "index_name": "OSI",
+      "rank": 170
+    }
+  ],
+  "executive_summary": "Table of Contents\nACRONYMS AND ABBREVIATIONS\t\n4\nFOREWORD\t\n5\nEXECUTIVE SUMMARY\t\n7\nDIAGNOSIS OF THE NATIONAL SITUATION REGARDING ARTIFICIAL \nINTELLIGENCE\t\n9\nLEGAL DIMENSION\t\n10\nAI policy and regulation\t\n10\nData protection and privacy\t\n10\nData sharing and accessibility\t\n11\nProcurement Laws and Policies\t\n11\nFreedom of Information Laws and Access to Knowledge Laws\t\n12\nProcedural guarantees and accountability\t\n12\nOnline security and content integrity\t\n12\nPublic Sector Capacity\t\n12\nSOCIAL AND CULTURAL DIMENSION\t\n14\nDiversity, inclusion and equity\t\n14\nPublic participation and trust\t\n15\nEnvironmental and sustainability policies\t\n16\nHealth and social well-being\t\n16\nCulture\t\n16\n2\n\n3\nSCIENTIFIC AND EDUCATIONAL DIMENSION\t\n17\nResearch and development\t\n17\nEducation\t\n18\nECONOMIC DIMENSION\t\n19\nLabor markets\t\n19\nIntermediate Consumption\t\n19\nInvestment and Production\t\n19\nTECHNICAL AND INFRASTRUCTURE DIMENSION\t\n20\nInfrastructure and connectivity\t\n20\nApplied Standards\t\n20\nComputational capabilities\t\n20\nStatistical performance\t\n20\nRAM IMPLEMENTATION\t\n21\nRECOMMENDATIONS\t\n22\n1.\tREGULATION\t\n22\n2.\tDATA\t\n25\n3.\tCAPACITY DEVELOPMENT\t\n26\nREFERENCES\t\n30\nLAWS AND REGULATIONS\t\n33\n\n4\nACRONYMS AND ABBREVIATIONS\nAI\t\nArtificial Intelligence\nCUP\t\nCuban Pesos\nETO\t\nEmerging Technologies Observatory\nENIA\t\nNational Artificial Intelligence Strategy\nGERD\t\nGross Expenditure on Research and Development\nGBARD\t\nGovernment budget allocations for R&D\nIDB\t\nInter-American Development Bank\nICT\t\nInformation and Communication Technologies\nIEEE\t\nInstitute of Electrical and Electronics Engineers\nIODC\t\nInternational Open Data Charter\nISO\t\nInternational Organization for Standardization\nISOC\t\nInternet Society\nLAC\t\nLatin America and the Caribbean\nMINCOM\t\nMinistry of Communications\nODIN\t\nOpen Data Inventory\nOGP\t\nOpen Government Alliance\nONEI\t\nNational Office of Statistics and Information\nNGO\t\nNon-Governmental Organization\nGDP\t\nGross domestic product\nPPP\t\nPurchasing power parity\nRAM\t\nReadiness Assessment Methodology\nREIA\t\nRecommendation on the Ethics of Artificial Intelligence\nR&D\t\nResearch and Development\nR&I\t\nResearch and Innovation\nSDG\t\nSustainable Development Goals\nSTEM\t\nScience, Technology, Engineering and Mathematics\nUNESCO\t\nUnited Nations Educational, Scientific and Cultural Organization\nR&D+i+e\t\nResearch, development, innovation and entrepreneurship\nSNS\t\nNational Health Service\nSTEM\t\nScience, Technology, Engineering and Mathematics\nUNESCO\t\nUnited Nations Educational, Scientific and Cultural Organization\n\n5\nForeword\nWe have officially entered the Age of Artificial Intelligence. The world is now set to change at a pace not seen in decades, \neven centuries. AI-based tools and applications make our lives easier, smoother, and richer. They help us move efficiently, \nget informed, get credit, get a job, and get our taxes done.\nBut in its current form, AI reproduces and amplifies many of the social challenges we face. It is not acceptable that around a third of \nthe world’s population still lacks adequate internet access. Upstream, the AI industry is highly concentrated, with just two countries–\nthe United States and China–and a dozen companies accounting for a major share of the sector. This can lead only to greater \ninequality of outcomes–including gender disparities–downstream. Non-diverse AI teams, unrepresentative datasets, and opaque \nand biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children \nand young people, women, or entire democracies.\nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 \ncountries to make sure AI delivers fair, sustainable, and inclusive outcomes. The Recommendation is based on the protection and \npromotion of human rights, human dignity, and environmental sustainability, and these values are then translated into principles \nsuch as accountability, transparency, and privacy. The Recommendation also sets out concrete policy actions that governments can \ndraw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which \nhas until now remained the norm, is insufficient. We need capable governments that are well equipped, in terms of competencies, \ninstitutions and laws, to frame responsible AI development and protect the rule of law online, and public and private developers \nwho are accountable for putting human rights and fundamental freedoms–not profits or geopolitical considerations–first.\nThe Readiness Assessment Methodology (RAM) is a diagnostic tool intended to assist Member States in upholding their commitment \nto the Recommendation by helping them understand how prepared they are to implement AI ethically and responsibly for all their \ncitizens. By highlighting any institutional, regulatory, or data gaps and obstacles, it enables UNESCO to tailor support for governments \nto fill those gaps to ensure an ethical AI ecosystem aligned wit",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Cuba is behind in terms of AI ecosystem and governance development, which means a double challenge: addressing institutionality",
+      "text": "Cuba is behind in terms of AI ecosystem and governance development, which means a double challenge: addressing institutionality and technological development gaps and developing a roadmap to promote ethical and human rights-respectful use of AI. AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Along these lines, the recommendations presented below point to these two challenges, but they start from previous elements",
+      "text": "Along these lines, the recommendations presented below point to these two challenges, but they start from previous elements that enable an exemplary deployment of AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Table 1. List of the ten priority recommendations",
+      "text": "Table 1. List of the ten priority recommendations 1.REGULATION 1.1. Creation and implementation of a National Artificial Intelligence Strategy. 1.2. Create multi-stakeholder governance with the participation of international observers. 1.3. International assessment of personal data laws, freedom of information and access to knowledge, and online security and content integrity laws. 2.DATA 2.1. Improve data collection of the R&D&i ecosystem 2.2. Open data policy 2.3. International consultancies to improve e-participation indicators and digital services. 2.4. Collect specific data from the AI ecosystem. 3.CAPACITY DEVELOPMENT 3.1. Priority promotion of policies to improve connectivity. 3.2. Rural policy to address the gap in access to electricity and internet. 3.3. Updating education curricula at all levels. 1.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Along these lines, to develop the ENIA, it is recommended that a process that includes open deliberation sessions and public",
+      "text": "Along these lines, to develop the ENIA, it is recommended that a process that includes open deliberation sessions and public consultation with the support and observation of international expert. . Elements such as information given to citizens when subjected to AI systems, decision-challenging mechanisms, and guarantees of transparency and accountability to citizens must be incorporated. The development of an ENIA must go beyond AI in the State, addressing mechanisms to promote the private sector, infrastructure and human capital development, and mechanisms to safeguard and control abuse of the same public institutions. In the strategy launched in May 2024, 6 axes and objectives are established, but there are no details about its implementation or the specific public policy instruments that will be used. Along these lines, progress must be made in the implementation mechanisms and specific actions. 1.2. Create multi-stakeholder governance with the participation of international observers",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "One of the weakest elements in the RAM are the digital services indicators (OSI) and electronic participation (EPI). In this line, the ENIA",
+      "text": "One of the weakest elements in the RAM are the digital services indicators (OSI) and electronic participation (EPI). In this line, the ENIA should be developed with a robust institutional framework to improve these indicators.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Along these lines, it is recommended that a governance body be created that is made up of people from different sectors of society",
+      "text": "Along these lines, it is recommended that a governance body be created that is made up of people from different sectors of society and observers from international organisations. The latter will provide an expert and neutral look at more developed organisations and countries in terms of their AI ecosystem and governance. This body should review the policy's implementation and observe the impacts of technology in general and state initiatives. It must also publish open reports on government performance and the use of AI in Cuba. 1.3. Evaluate the development of an Artificial Intelligence Law The relevance and need for broad AI regulation must be evaluated. For this, it is relevant to study the risks in the uses of AI and how they could be addressed in specific legislation without harming research and innovation in this area. Along these lines, the systems that will be considered AI and the associated risk levels must be adequately defined. Furthermore, principles must be incorporated in specific legislation or an eventual general regulation that covers issues such as proportionality and harm, safety and security, equity and non-discrimination, supervision and human decision-making, transparency and explainability, and accountability and responsibility. In an eventual regulation, whether broad or sectoral regulations, the following elements must be addressed:. •",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Prohibition of unacceptable uses.",
+      "text": "Prohibition of unacceptable uses. • Equity and non-discrimination. •",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Technical and ethical standard.",
+      "text": "Technical and ethical standard. Cuba should follow up on existing regulatory experiences and discussions, such as the recently published European law or the debate of Chile, Brazil, and Peru laws, among others. 1.4. Develop regulations for the ethical acquisition of AI systems.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Legislation and public procurement procedures are essential elements for the ethical use of AI. Appropriate procurement",
+      "text": "Legislation and public procurement procedures are essential elements for the ethical use of AI. Appropriate procurement mechanisms, especially in a country with a large State, can promote good ethical practices that give proper signals to the private and academic sectors. In the RAM, it was seen that there is no specific regulation for the acquisition of AI systems that have adequate elements for their correct purchase and operation in the State. Furthermore, these procedures can incorporate UNESCO recommendations and use the ethical impact assessment instrument. 24 1.5. Participation in normalisation and standards organisations related to AI",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Currently, Cuba does not participate in any discussion on technical and ethical standards related to AI, such as ISO or EEEI. Along",
+      "text": "Currently, Cuba does not participate in any discussion on technical and ethical standards related to AI, such as ISO or EEEI. Along these lines, it is recommended to start conversations with organisations to join as observers in the relevant groups (e.g., JTC1) and, over time, as full members. The latter applies to having a voice that allows the Cuban reality to be brought to the standards, which are usually dominated by the countries of the Global North. 1.6. Creation of specific guides on the ethical and responsible use of AI in the Cuban context A relevant problem in using AI, especially when the systems are developed primarily in the Global North, is that they do not necessarily adapt to the sociocultural environments of the Global South. Along these lines, it is recommended that use cases that require contextual analysis and issue guides be identified for recommendations and ethical use of AI in these areas. When appropriate, these guides can be accompanied by databases or specific tools that allow the impact of the systems to be evaluated, calibrated and trained appropriately for the Cuban context and audited.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Furthermore, the guides allow for promoting principles and good practices aligned with the UNESCO recommendation without",
+      "text": "Furthermore, the guides allow for promoting principles and good practices aligned with the UNESCO recommendation without necessarily resorting to the formulation of new laws. This allows for greater agility and potential for updating and adaptation. 1.7. Creation of sectoral policies that incorporate the impact of AI and its responsible use",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Currently, Cuba does not participate in any discussion on technical and ethical standards related to AI, such as ISO or EEEI. Along",
+      "text": "Currently, Cuba does not participate in any discussion on technical and ethical standards related to AI, such as ISO or EEEI. Along these lines, it is recommended to start conversations with organisations to join as observers in the relevant groups (e.g., JTC1) and, over time, as full members. The latter applies to having a voice that allows the Cuban reality to be brought to the standards, which are usually dominated by the countries of the Global North.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Various areas were detected in which, although AI advances may have a significant impact, no specific policies address them. Along",
+      "text": "Various areas were detected in which, although AI advances may have a significant impact, no specific policies address them. Along these lines, it is recommended to evaluate relevance and develop guidelines for at least the following four areas: 1.7.1. Working market",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Currently, there are no policies that address the impact of AI on employment. Along these lines, it must be analysed how automation",
+      "text": "Currently, there are no policies that address the impact of AI on employment. Along these lines, it must be analysed how automation through AI can generate unemployment and/or modify existing jobs significantly. Furthermore, the same labour relations and required skills change with the emergence of AI-based systems. Cuba should create a policy to address these impacts on the labour market. 1.7.2. Health The RAM detects that, although there are general policies that address general health, AI is not addressed as a specific issue. Along these lines, given the unique opportunities in the field of health as well as the emerging risks in this area, it is recommended to work on a specific sector policy and/or significantly update the existing Public Health policy with a section dedicated to AI. 1.7.3. Culture In the field of culture, AI also presents significant and novel opportunities and risks. On the one hand, the use of AI can foster new forms of art in collaboration with AI or facilitate the protection and preservation of existing cultural heritage. However, this same technology blurs the limits of what creativity, authorship and the minimum subsistence of a cultural identity means that can be lost in the generation of artistic products in an automated way and based on the training of systems. Thus, it is recommended to promote a policy that addresses the use of these technologies in the cultural field and promotes safeguards for artists and Cuban cultural heritage. 1.7.4. Environment In the environmental field, it must be analysed whether the development of AI in Cuba has a significant impact on the environment.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "If necessary, the development of a regulation that establishes impact evaluations can be discussed.",
+      "text": "If necessary, the development of a regulation that establishes impact evaluations can be discussed. 25 1.8. Review, evaluation and updating of related legislation The analysis shows that in several relevant cases, such as the protection of personal data, Cuba has updated legislation that came into force a few years ago. However, there are still areas where laws do not necessarily adapt to the impacts and challenges that AI brings with it or do not fully align with recommendations on its ethical use. 1.8.1.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "International evaluation of personal data laws, freedom of information and access to knowledge, and online security and",
+      "text": "International evaluation of personal data laws, freedom of information and access to knowledge, and online security and content integrity. It is recommended that the laws be evaluated by international experts on the subject and updated according to these reports. In particular, some challenges are detected in personal data, freedom of information and access to knowledge, online security, and content integrity that could put citizens at risk.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Along these lines, it is recommended that the laws and how they could adequately protect human rights in using digital technologies",
+      "text": "Along these lines, it is recommended that the laws and how they could adequately protect human rights in using digital technologies such as AI be subjected to an expert and external evaluation. For example, although the personal data law provides adequate rights to individuals, it has exceptions and limitations that should be considered so as not to leave citizens unprotected. 1.8.2.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Review and evaluation of the mechanisms and laws that provide procedural guarantees and accountability in the context",
+      "text": "Review and evaluation of the mechanisms and laws that provide procedural guarantees and accountability in the context of AI",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "There is no updated legislation regarding procedural guarantees and accountability that adequately adapts to the use of AI in",
+      "text": "There is no updated legislation regarding procedural guarantees and accountability that adequately adapts to the use of AI in public or private systems. Therefore, it is recommended that existing regulations be reviewed, external evaluations requested and updated so citizens have due process when AI systems are involved. 1.9. Training and certification programs for the public sector A relevant need revealed from the application of RAM is the lack of training and certification programs for public employees. Along these lines, it is necessary to promote the creation of essential technical training courses in the ethical use of AI systems to more extensive programs that provide certifications. It is recommended that training be provided in the application of tools such as UNESCO's Ethical Impact Assessment and audits of",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "AI systems, among others. This is not only for the use of technology in the State but also for the correct monitoring and supervision",
+      "text": "AI systems, among others. This is not only for the use of technology in the State but also for the correct monitoring and supervision of the private sector. 2. DATA 2.1. Improve data collection of the R&D&I ecosystem with a focus on AI",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "One of the main gaps detected in this evaluation is the lack of data on the economy, research, innovation, and the labour market",
+      "text": "One of the main gaps detected in this evaluation is the lack of data on the economy, research, innovation, and the labour market related to technology. Although the State generates statistics and has its Yearbook, it does not necessarily follow the international collection standards that allow their comparison and ensure their quality.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "Along these lines, it is recommended that data measurement from the R&D ecosystem be promoted in a granular and transparent",
+      "text": "Along these lines, it is recommended that data measurement from the R&D ecosystem be promoted in a granular and transparent manner, with the methodologies and databases for the correct construction of baselines made available. For data collection, it is recommended that standards and manuals such as those of Frascati and Oslo be followed. In addition, it is urged to review repositories related to the topic, such as the OECD repositories, to identify the indicators that are not being built and the information that is not being collected in the country. In line with the above, it is recommended that standards be followed and that data be reported to the corresponding international organisations (e.g., OECD, World Bank, World Economic Forum, United Nations). This will improve transparency and data quality. 2.2. Collect specific data from the AI ecosystem. It is recommended that data collection on the development and use of AI be promoted, mainly in companies. In particular, information on spending and adoption in the industry and information on employment and skills required for AI-related positions should be collected. To have more disaggregated information, these data must have gender, age, and urban/rural criteria. 26 2.3. Open data policy Cuba has no open data policy and has not signed commitments like the Open Data Charter. In line with the two previous actions, it is recommended that Cuba acquire commitments to open data and advance a policy that makes it public and available on a periodic and transparent basis. It is worth mentioning that it is not enough to publish statistics in a yearbook; we must move towards opening databases in machine-readable format33 , with different download options, clear responsible parties, and adequate metadata that are kept updated and usable. 2.4. International consultancies to improve e-participation and digital services indicators",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "One of the main gaps detected was in the e-participation (EPI) and digital services indicators (OSI). Along these lines, it is",
+      "text": "One of the main gaps detected was in the e-participation (EPI) and digital services indicators (OSI). Along these lines, it is recommended to generate a strategy to improve services and e-participation, working on the technological tools that serve citizens. Therefore, it is recommended that international organizations conduct consultancies and audits processes and suggest improvements. 3. CAPACITY DEVELOPMENT 3.1. Priority promotion of policies to improve connectivity",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "One of the main gaps detected in RAM is access to high-speed internet, electronic devices, and electricity. For an AI strategy to",
+      "text": "One of the main gaps detected in RAM is access to high-speed internet, electronic devices, and electricity. For an AI strategy to be properly implemented and for the technology to effectively mean a positive change for citizens, they have to be able to take advantage of it and to do so, they require access through mobile devices and the internet.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "Thus, the goal should be to advance Internet access levels, improve upload and download speeds, and facilitate international",
+      "text": "Thus, the goal should be to advance Internet access levels, improve upload and download speeds, and facilitate international data transfer. For this, connectivity infrastructure must be improved, and policies must be designed to allow households to access technology. As mentioned, speed must also be improved. Thus, work must be done to ensure access to higher-speed networks (4G, 5G). 3.2. Rural policy to address the gap in access to electricity and internet The urban-rural access gap is significant, probably one of the largest in the region. Along these lines, the government should prioritise addressing this situation and promoting the connection of rural areas to the Internet.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "However, when access is so low, simply deploying connectivity infrastructure is not enough; education and training programs in",
+      "text": "However, when access is so low, simply deploying connectivity infrastructure is not enough; education and training programs in digital technologies must accompany it. If people without access are exposed to the infrastructure and not shown its opportunities, change is slower, and the risks of misuse or abuse are more significant. 3.3. Updating education curricula at all levels A global challenge to which Cuba is no stranger is updating educational curricula at all levels. This should not be done by focusing on technical skills such as programming. Still, work should be done to deliver skills that allow people to adapt to rapid technological advances, approach their development, and use them critically.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "Along these lines, the primary and secondary school curriculum must incorporate elements such as critical thinking, computational",
+      "text": "Along these lines, the primary and secondary school curriculum must incorporate elements such as critical thinking, computational thinking, algorithmic thinking, ethics in digital environments, etc. Along the same lines, work should be done in computer science-related careers to include courses on critical analysis of technologies, which allow them to go beyond their development and use and analyse the values involved and the impact of technological systems on different stakeholders and how to navigate value tensions in light of the ethical recommendations of UNESCO and other international organisations.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "Along these lines, it is recommended that tertiary education programs focused on AI incorporate significant components of ethical",
+      "text": "Along these lines, it is recommended that tertiary education programs focused on AI incorporate significant components of ethical use. This should be done not only at the university level but also at the professional technical level. 27 3.4. Policy for the use of AI in educational environments",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 29,
+      "title": "AI not only presents the challenge of teaching its use but can also be used in educational settings to promote learning. There is",
+      "text": "AI not only presents the challenge of teaching its use but can also be used in educational settings to promote learning. There is evidence of AI's potential to offer personalised pathways in academic environments and support children's education in more creative and adaptive ways. However, if the above is done carelessly, there is a risk of harming learning and children. On the other hand, the emergence of generative AI puts this technology within reach from a very early age. By being able to interact with AI systems through natural language, children and adolescents can use it to support themselves in learning, deepen topics, and improve in various areas ranging from writing to programming and art. However, if not appropriately used, interaction with generative systems can harm skills by not allowing learning from mistakes and generating false information, among other things.",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 30,
+      "title": "All of the above requires the generation of a specialised policy on the use of AI in educational environments that allows extracting",
+      "text": "All of the above requires the generation of a specialised policy on the use of AI in educational environments that allows extracting its benefits while protecting people in their learning processes. 3.5. Training program for teachers and educators on AI and its ethical use A fundamental need beyond updating the curriculum or a policy for the use of AI in educational environments is the training of teachers and educators. If those in charge of leading the learning process are not trained, the rest of the educational policies become very difficult to implement and/or may promote bad practices or partial knowledge that harm students. The government should prioritise teacher training programs in AI and its ethical use so that educational policies around the",
+      "dimension": "REGULATION",
+      "start_page": 0
+    },
+    {
+      "number": 31,
+      "title": "Cubans to travel abroad to obtain doctorates related to both the technical and ethical fields of AI. These programs must have",
+      "text": "Cubans to travel abroad to obtain doctorates related to both the technical and ethical fields of AI. These programs must have adequate incentives and control mechanisms so that people can reintegrate into the Cuban ecosystem and, thus, strengthen it.",
+      "dimension": "technology are correctly implemented.",
+      "start_page": 0
+    },
+    {
+      "number": 32,
+      "title": "Along these same lines, it is recommended that collaboration programs with universities from other countries be established that",
+      "text": "Along these same lines, it is recommended that collaboration programs with universities from other countries be established that allow the exchange of students and academics in projects related to the development and use of AI. 3.7. Incentive program for participation in software development spaces such as GitHub and Kaggle",
+      "dimension": "technology are correctly implemented.",
+      "start_page": 0
+    },
+    {
+      "number": 33,
+      "title": "Activity around AI is measured through publications and patents and participation in open software development environments",
+      "text": "Activity around AI is measured through publications and patents and participation in open software development environments such as GitHub or development competitions such as Kaggle. The RAM application revealed meagre participation of Cubans in these environments, which shows the need to encourage the country's developers to participate in these instances to contribute and improve the area. Along these lines, it is recommended to design an incentive program that promotes this participation. 3.8. Development of courses open to the general public on basic concepts of AI and its ethical use",
+      "dimension": "technology are correctly implemented.",
+      "start_page": 0
+    },
+    {
+      "number": 34,
+      "title": "AI is a general-purpose technology found in various areas of people's daily lives. Therefore, the general population must have basic",
+      "text": "AI is a general-purpose technology found in various areas of people's daily lives. Therefore, the general population must have basic knowledge of interacting with AI systems responsibly and safely. Consequently, it is recommended that massive and free courses on AI, its applications, and its ethical and safe use be developed. 3.9. Increase AI R&D spending Although the data does not allow us to identify specific spending on R&D in AI, it can be seen that R&D spending in general is low in Cuba. Along these lines, it is recommended that the state increase investment in R&D and focus primarily on AI to develop it as a critical sector for the economy and public use in Cuba. It is recommended that funds be created focused on basic research and AI technology transfer. These can promote research and development both locally and in collaboration with universities and companies outside the country. 3.10.. Increase AI R&D spending",
+      "dimension": "technology are correctly implemented.",
+      "start_page": 0
+    },
+    {
+      "number": 35,
+      "title": "One key component for developing AI systems that adapt to local reality is data. Along these lines, it is recommended to create",
+      "text": "One key component for developing AI systems that adapt to local reality is data. Along these lines, it is recommended to create open repositories for the training of Cuban systems in different industrial and government sectors. These repositories are complex and must be evaluated and audited periodically by international experts to review potential biases that could harm users of the systems trained in them.. 28 3.11. Promote entrepreneurship in AI In this evaluation, an ecosystem of ventures related to AI or private investment in this area was not detected. It is recommended that innovation and entrepreneurship in the private sector be promoted in an environment open to potential international investments and with an adequate regulatory framework for this.",
+      "dimension": "technology are correctly implemented.",
+      "start_page": 0
+    },
+    {
+      "number": 36,
+      "title": "Table 2 summarizes the recommendations made based on the report's results, along with their priority to advance the",
+      "text": "Table 2 summarizes the recommendations made based on the report's results, along with their priority to advance the implementation of UNESCO principles that promote the development and ethical use of AI in Cuba.",
+      "dimension": "technology are correctly implemented.",
+      "start_page": 0
+    },
+    {
+      "number": 37,
+      "title": "Table 2. List of recommendations based on RAM and international experience",
+      "text": "Table 2. List of recommendations based on RAM and international experience DIMENSION NO. RECOMMENDATION PRIORITY",
+      "dimension": "technology are correctly implemented.",
+      "start_page": 0
+    },
+    {
+      "number": 38,
+      "title": "Create multi-stakeholder governance with the",
+      "text": "Create multi-stakeholder governance with the participation of international observers High 3",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 39,
+      "title": "Participation in normalisation and standards",
+      "text": "Participation in normalisation and standards organisations related to AI Low 6",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 40,
+      "title": "Creation of specific guides on the ethical and",
+      "text": "Creation of specific guides on the ethical and responsible use of AI in the Cuban context Half 7",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 41,
+      "title": "Creation of sectoral policies that incorporate the",
+      "text": "Creation of sectoral policies that incorporate the impact of AI and its responsible use Half 8",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 42,
+      "title": "Collect specific data from the AI ecosystem",
+      "text": "Collect specific data from the AI ecosystem High 12 Open data policy High 13",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 43,
+      "title": "International consultancies to improve",
+      "text": "International consultancies to improve e-participation indicators and digital services. Half Capacity Development 14",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 44,
+      "title": "Rural policy to address the gap in access to",
+      "text": "Rural policy to address the gap in access to electricity and internet High 16",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 45,
+      "title": "Policy for the use of AI in educational environments",
+      "text": "Policy for the use of AI in educational environments Half 18",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 46,
+      "title": "Incentive program for participation in software",
+      "text": "Incentive program for participation in software development spaces such as GitHub and Kaggle Low 21",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 47,
+      "title": "Development of courses open to the general public",
+      "text": "Development of courses open to the general public on basic concepts of AI and its ethical use Half 22 Increase AI R&D spending Low 23",
+      "dimension": "Regulation",
+      "start_page": 0
+    },
+    {
+      "number": 48,
+      "title": "Enable data repositories for AI development",
+      "text": "Enable data repositories for AI development Low 24 Promote entrepreneurship in AI Low 29 33 See https://opendatahandbook.org/glossary/en/terms/machine-readable/",
+      "dimension": "Regulation",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 48,
+  "page_count": 37
+}

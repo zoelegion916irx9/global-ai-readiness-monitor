@@ -1,0 +1,689 @@
+{
+  "country_code": "KH",
+  "country_name": "INVESTMENTS AND PRODUCTION",
+  "language": "en",
+  "metadata": {
+    "page_count": 66,
+    "creation_date": "D:20250821104049+07'00'",
+    "modification_date": "D:20250828095158+02'00'",
+    "country_name": "INVESTMENTS AND PRODUCTION",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "5 \nTable of Contents \n \nACKNOWLEDGEMENTS \n4 \nACRONYMS AND ABBREVIATIONS \n7 \nFOREWORD - UNESCO \n9 \nFOREWORD - MPTC \n11 \nEXECUTIVE SUMMARY \n13 \nDIAGNOSIS OF THE NATIONAL SITUATION REGARDING ARTIFICIAL \nINTELLIGENCE \n15 \nLEGAL AND REGULATORY \n17 \nAI POLICY AND REGULATION \n17 \nDATA PROTECTION AND PRIVACY LAWS \n17 \nPROCUREMENT LAWS AND POLICIES \n20 \nFREEDOM OF INFORMATION ACTS AND ACCESS TO KNOWLEDGE ACTS \n21 \nPROCEDURAL GUARANTEES AND ACCOUNTABILITY \n21 \nONLINE SAFETY, INTEGRITY OF SPEECH, AND CYBERSECURITY \n21 \nPUBLIC SECTOR CAPACITY \n22 \nSOCIAL AND CULTURAL \n24 \nDIVERSITY, INCLUSION AND EQUITY \n24 \nPUBLIC PARTICIPATION AND TRUST \n26 \nENVIRONMENTAL AND SUSTAINABILITY POLICIES \n29 \nHEALTH AND SOCIAL WELLBEING \n29 \nCULTURE \n30 \nSCIENTIFIC AND EDUCATIONAL \n31 \nRESEARCH AND INNOVATION \n31 \nEDUCATION \n33 \nECONOMIC \n35 \nGENERAL CONTEXT \n35 \nLABOUR MARKETS \n35 \nINTERMEDIATE CONSUMPTION \n36\n\n6 \nINVESTMENTS AND PRODUCTION \n36 \nTECHNICAL AND INFRASTRUCTURAL \n37 \nINFRASTRUCTURE AND CONNECTIVITY \n37 \nAPPLIED STANDARDS \n38 \nCOMPUTING CAPABILITIES \n38 \nSTATISTICAL PERFORMANCE \n38 \nRAM IMPLEMENTATION AND MULTISTAKEHOLDER CONSULTATION \n40 \nRESEARCH PHASE AND GOVERNMENT-LEVEL CONSULTATION \n40 \nMULTISTAKEHOLDER VALIDATION \n41 \nLESSONS LEARNED \n42 \nMAIN POLICY RECOMMENDATIONS \n43 \nINSTITUTIONAL FRAMEWORK FOR AI GOVERNANCE \n43 \nLAWS AND REGULATIONS \n46 \nRESPONSIBLE AI, INCLUSION AND WELL-BEING \n49 \nINFRASTRUCTURE, DATA, AND CAPACITY BUILDING \n52 \nRESEARCH, DEVELOPMENT, AND INNOVATION ECOSYSTEM \n55 \nREFERENCES \n61 \nLAWS AND REGULATIONS \n65\n\n7 \nACRONYMS AND ABBREVIATIONS \nADGMIN  \nASEAN Digital Ministers' Meeting \nADGSOM \nASEAN Digital Senior Officials' Meeting \nAI \nArtificial Intelligence \nAIEB \nAI Ethics Experts without Borders \nASEAN \nAssociation of Southeast Asian Nations \nBSc \nBachelor of Science  \nCADT \nCambodia Academy of Digital Technology \nCamDX \nCambodia Data Exchange \nCENIA \nChilean National AI Centre \nCIO \nChief Information Officer \nCOP \nChild Online Protection \nCRC \nConvention on the Rights of the Child \nCSAM \nChild Sexual Abuse Material \nCSIC \nCambodia Standard Industrial Classification \nEGDI \nE-Government Development Index \ne-KYC \nelectronic Know-Your-Customer \nEPI \nE-Participation Index \nETO \nEmerging Technologies Observatory \nFAccT \nACM Conference on Fairness, Accountability, and Transparency \nGBARD \nGovernment budget allocations for R&D \nGDP \nGross domestic product \nGDPR \nGeneral Data Protection Regulation \nGERD \nGross Expenditure on Research and Development \nICT \nInformation and Communication Technologies \nIDB \nInter-American Development Bank \nIEEE \nInstitute of Electrical and Electronics Engineers \nIODC \nInternational Open Data Charter \nIP \nIntellectual Property \nISO \nInternational Organisation for Standardisation \nISOC \nInternet Society \nITU \nInternational Telecommunication Union \nLTE/WiMAX \nLong-Term Evolution / Worldwide Interoperability for Microwave Access \nMEF \nMinistry of Economy and Finance \nMISTI \nMinistry of Industry, Science, Technology, and Innovation \nMLVT \nMinistry of Labour and Vocational Training \nMOH \nMinistry of Health \nMoEYS \nMinistry of Education, Youth, and Sport \nMPTC \nMinistry of Post and Telecommunications \nMSc \nMaster of Science\n\n8 \nNDC \nNationally Determined Contribution \nNGO \nNon-Governmental Organisation \nNIS \nNational Institute of Statistics \nOCSAE \nOnline Child Sexual Abuse and Exploitation \nODIN \nOpen Data Inventory \nOECD \nOrganisation for Economic Cooperation and Development \nOGP \nOpen Government Alliance \nPPP \nPurchasing power parity \nR&D \nResearch and Development \nR&I \nResearch and Innovation \nRAM \nReadiness Assessment Methodology \nREIA \nRecommendation on the Ethics of Artificial Intelligence \nSDF \nSkill Development Fund \nSDG \nSustainable Development Goals \nSDMX \nStatistical Data and Metadata Exchange \nSMEs \nSmall and Medium Enterprises \nSPI \nStatistical Performance Index \nSTEM \nScience, Technology, Engineering and Mathematics \nSTEMEOC \nSTEM Education Organisation for Cambodia \nUNESCO \nUnited Nations Educational, Scientific and Cultural Organisation \nUN-ESCAP \nUnited Nations Economic and Social Commission for Asia and the Pacific \nWG-AI \nASEAN Working Group on AI Governance \nWHO \nWorld Health Organisation\n\n9 \nFOREWORD - UNESCO \nWe have officially entered the Age of Artificial \nIntelligence. The world is now set to change at a pace \nnot seen in decades, even centuries. AI-based tools and \napplications make our lives easier, smoother, and richer. \nThey help us move efficiently, get informed, get credit, \nget a job, and get our taxes done. \nBut in its current form, AI reproduces and amplifies \nmany social challenges we face. It is not acceptable that \naround a third of the world’s population still lacks \nadequate internet access. Upstream, the AI industry is \nhighly concentrated, with just two countries – the United \nStates and China – and a dozen companies accounting \nfor a major share of the sector. This can lead only to \ngreater inequality of outcomes, including gender \ndisparit",
+  "recommendations": [
+    {
+      "number": "2.1",
+      "title": "Adapt Regulations to Integrate Ethics of AI",
+      "text": "Adapt Regulations to Integrate Ethics of AI Cambodia should create and amend regulations across several key areas to develop and deploy AI responsibly. These regulations should foster innovation while mitigating potential risks and upholding ethical principles and human rights. ● Enact the draft Law on Personal Data Protection, aligning it with international standards. The draft should be analysed to protect people from data use in the public sector and by the government. ● Revise the Procurement law to adapt to acquiring AI systems safely in government. ● Revise and update the Criminal Code to adequately address specific AI harms not covered in the regulatory framework. Mechanisms of liability and readdress specific to AI harms should be developed. ● Enact a Freedom and Access to Information law: Revise the current draft to incorporate elements that can grant people access to information regarding the government's use of AI. 95 https://www.iso.org/standard/81230.html 47 ● Deliberative process towards AI regulation: Start a regulatory agenda and discussion to assess how to regulate AI, analysing how existing trends (e.g., risk-based approach, sectoral regulation, self-regulation, etc.) fit Cambodia’s reality to design a specific framework for the country. Timeline: 2025-2026 Priority: High Potential partners: Industry associations, academia, NGOs that work in digital-related areas, and international organisations 2.2. Implement AI Regulatory Sandboxes Different recommendations advocate for a shift towards more flexible, agile, and risk-based approaches to AI regulation. Regulatory sandboxes are highlighted as a potential mechanism to achieve this flexibility by providing controlled environments for experimentation, learning, and adaptation of regulatory frameworks in response to the rapid advancements in AI technologies. Cambodia should adopt a structured and phased approach to develop a regulatory sandbox for AI, considering its current AI ecosystem, legal framewor",
+      "dimension": "Laws And Regulations",
+      "timeline": "2025-2026",
+      "priority": "High",
+      "start_page": 0
+    },
+    {
+      "number": "1.1",
+      "title": "Finalise and deploy the National AI Strategy",
+      "text": "Finalise and deploy the National AI Strategy 202-2026 High",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.2",
+      "title": "Establish Multistakeholder Governance",
+      "text": "Establish Multistakeholder Governance 2025-2026 High",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "1.3",
+      "title": "Strengthen International Cooperation and Standards Adoption",
+      "text": "Strengthen International Cooperation and Standards Adoption 2025-2028 Medium Laws and Regulations",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.1",
+      "title": "Adapt Regulations to Integrate Ethics of AI",
+      "text": "Adapt Regulations to Integrate Ethics of AI 2025-2026 High",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "2.2",
+      "title": "Implement AI Regulatory Sandboxes",
+      "text": "Implement AI Regulatory Sandboxes 2026-2027 Medium Responsible AI, Inclusion and Well-being",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.1",
+      "title": "Elaborate and Deploy Sectoral Guidelines for an Ethical Use of",
+      "text": "Elaborate and Deploy Sectoral Guidelines for an Ethical Use of AI 2026-2027 Medium",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.2",
+      "title": "Conduct Public Awareness Campaigns",
+      "text": "Conduct Public Awareness Campaigns 2025-2028 Low",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.3",
+      "title": "Protect and Prepare Children for an AI-Powered World",
+      "text": "Protect and Prepare Children for an AI-Powered World 2026-2027 Medium",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "3.4",
+      "title": "Advance Gender Equality in the AI Ecosystem",
+      "text": "Advance Gender Equality in the AI Ecosystem 2026-2027 Medium Infrastructure, Data, and Capacity Building",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.1",
+      "title": "Expand Connectivity Infrastructure",
+      "text": "Expand Connectivity Infrastructure 2025-2027 Medium",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.2",
+      "title": "Enhance data collection and data sharing Ecosystem and",
+      "text": "Enhance data collection and data sharing Ecosystem and Policies 2025-2026 High",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.3",
+      "title": "Create and Foster AI Basic Literacy",
+      "text": "Create and Foster AI Basic Literacy 2025-2028 Medium",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "4.4",
+      "title": "Progressive Approach to Strengthen AI Skills",
+      "text": "Progressive Approach to Strengthen AI Skills 2025-2028 High Research, Development, and Innovation Ecosystem",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.1",
+      "title": "Foster and Increase Investment and Expenditure in Research",
+      "text": "Foster and Increase Investment and Expenditure in Research and Development 2026-2028 High",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.2",
+      "title": "Create an AI Resource Centre",
+      "text": "Create an AI Resource Centre 2026-2027 High",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    },
+    {
+      "number": "5.3",
+      "title": "Develop AI-focused Sectoral Policies",
+      "text": "Develop AI-focused Sectoral Policies 2026-2028 Medium 60",
+      "dimension": "Recommendation \nTimeline Priority",
+      "timeline": "",
+      "priority": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 17,
+  "page_count": 66,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY The regulatory framework in which AI governance is developed is crucial for ensuring AI systems' ethical development and deployment.",
+        "The legal and regulatory framework must include effective mechanisms to safeguard and defend citizens' rights and monitor, mitigate, and compensate for any unforeseen adverse outcomes from deploying AI systems.",
+        "The legal framework encompasses rules related to AI, data protection and privacy, data sharing and information access, procurement, due process and accountability, online security and content integrity, and public sector capacities AI POLICY AN D REGULATION AI POLICY AND REGULATION Cambodia has not ",
+        "The Cambodia Digital Economy and Society Policy Framework 2021–20355 and the Cambodia Digital Government Policy 2022–20356 outline AI-related initiatives, with the Digital Government Committee designated as the lead coordinator for AI infrastructure and adoption in public services.",
+        "Moreover, MPTC represents the royal government at the global and regional levels concerning AI.",
+        "MPTC actively engages in regional mechanisms to discuss and harmonise governance and ethics in the ADGMIN and ASEAN Digital Senior Officials' Meeting (ADGSOM), including the ASEAN Working Group on AI Governance (WG-AI), contributing to three key documents: the ASEAN Guide on AI Governance and Ethics",
+        "For example, the Telecommunications Law (2015)10 has some provisions related to data privacy, and Sub-Decree 110 of 201711 regulates ICT industry players, impacting the AI value chain.",
+        "Cambodia is also developing new legislation, including the Law on Personal Data Protection, which defines the responsibilities of data controllers, processors, and subjects and the Law on Cybersecurity, currently under inter-ministerial review, to strengthen national cybersecurity."
+      ],
+      "strengths": [
+        "Moreover, several key policy frameworks and regulations were established to lay the foundation for AI development and deployment.",
+        "The Digital Government Policy tasks the MPTC with formulating policies to promote advanced digital technologies, including AI, and leading international cooperation.",
+        "In this sense, assessing the country’s capabilities and institutions related to privacy and cybersecurity is crucial for developing a comprehensive AI governance framework.",
+        "The law grants data subjects a comprehensive suite of rights—including access, rectification, erasure, restriction, data portability, objection, and remedy—and establishes a robust notice and consent framework that positions consent as the primary lawful basis for data processing while allowing for ",
+        "Regarding data sharing, Cambodia has adopted the Cambodia Data Exchange (CamDX)20 as its national data-sharing platform, governed by Sub-Decree No.",
+        "11028 on the ICT Licensing Regime, which requires ICT operators and ICT-related individuals to comply with additional duties established by the MPTC.",
+        "Specialised units are established within these ministries to oversee digital content, identify illegal activities, and take legal action, including shutting down websites or social media accounts that violate regulations.",
+        "PUBLIC SECTOR CAPACITY PUBLIC SECTOR CAPACITY Cambodia has made significant progress in advancing digital skills development across various sectors through national policies, frameworks, and institutional initiatives.",
+        "The Cambodia Academy of Digital Technology (CADT)33, established by Royal Decree as an expansion of the former National Institute of Posts, Telecoms, and ICT (NIPTICT), plays a key role in training public sector employees by offering basic digital skill (digital skill essential); professional course",
+        "The Ministry of Posts and Telecommunications leads a structured Digital Skill Development Roadmap 2024–203536 to enhance advanced digital skills and digital literacy among new and existing workforce entrants."
+      ],
+      "gaps": [
+        "Although there are no AI-specific laws, relevant regulations are either in place or being drafted.",
+        "These efforts demonstrate Cambodia’s growing recognition of AI’s importance and commitment to establishing a governance framework despite lacking a dedicated AI strategy.",
+        "However, the MPTC is drafting an AI Ethics Guideline that is aligned with UNESCO’s Recommendation and the ASEAN Guide on AI Governance and Ethics.",
+        "Moreover, the current draft envisions a data protection regulator; however, this may change since the function is entirely within the competence of the MPTC.",
+        "Notably, the current draft does not include a compensation scheme for data breaches, and its application is limited to private entities processing the data.",
+        "Cambodia does not have specialised laws or policies explicitly addressing procuring AI systems or AI-enabled products and services.",
+        "Moreover, countries need to develop regulatory frameworks to achieve accountability and responsibility for the content and outcomes of AI systems at different phases of their life cycle.",
+        "However, there are no specific provisions regarding AI systems.",
+        "Thus, regulators or courts do not have a specialised way of requesting information about AI systems and their inner workings, nor are there specific liability regimes for AI harms ONLINE SAFETY, INTEGRITY OF SPEECH, AND CYBERSECURITY ONLINE SAFETY, INTEGRITY OF SPEECH, AND CYBERSECURITY The Recommen",
+        "Although Cambodia does not have a specific framework or notice-and-takedown policies for addressing content violations, such as online hate speech, misinformation, and disinformation, some relevant laws are in effect for specific areas, which serve as a good starting point."
+      ],
+      "key_stats": [
+        {
+          "stat": "34% female \nparticipants",
+          "context": "aining projects, totalling $14.28 million in funding, which will benefit 32,826 trainees, including 34% female participants. The program has shown strong outcomes, including an 88% employment rate, 85",
+          "value": 34.0,
+          "unit": "%"
+        },
+        {
+          "stat": "88% employment rate",
+          "context": "6 trainees, including 34% female participants. The program has shown strong outcomes, including an 88% employment rate, 85% employer satisfaction, and an average salary of $246 for participants, with ",
+          "value": 88.0,
+          "unit": "%"
+        },
+        {
+          "stat": "85% employer satisfaction",
+          "context": "34% female participants. The program has shown strong outcomes, including an 88% employment rate, 85% employer satisfaction, and an average salary of $246 for participants, with a notably low dropout ",
+          "value": 85.0,
+          "unit": "%"
+        },
+        {
+          "stat": "$14.28 million",
+          "context": "support of UNESCO. The Skill Development Fund (SDF) has approved 169 training projects, totalling $14.28 million in funding, which will benefit 32,826 trainees, including 34% female participants. The ",
+          "value": 14280000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "ranking 132nd \nout of",
+          "context": "ia is still lagging in cybersecurity. The country scored 19.12 in the Global Cybersecurity Index12, ranking 132nd out of 194 countries globally and 26th out of 38 in the Asia-Pacific region. By 2024, "
+        },
+        {
+          "stat": "ranking 152nd out of",
+          "context": "nce is still low in the Open Data Inventory (ODIN) 202418, in which Cambodia scored 42 out of 100, ranking 152nd out of 198 countries. The score reflects a coverage of 40/100 and an openness of 43/100"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "Telecommunications Law",
+          "year": "2015",
+          "status": "enacted"
+        },
+        {
+          "name": "of the Privacy Law",
+          "year": "",
+          "status": "draft"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "SOCIAL AND CULTURAL Social and cultural dimensions are crucial in evaluating the ethical components of AI system deployment, including mechanisms to mitigate bias throughout the system's life cycle and the creation of a fair and inclusive AI ecosystem.",
+        "In this sense, this section addresses topics such as the inclusion of women in the science, technology, engineering, and mathematics (STEM) development environment, as well as the incorporation of social and cultural diversity to ensure the ethical application of AI.",
+        "In addition, it encompasses the level of acceptance and attitudes of the general public towards AI and the consideration of environmental and sustainable criteria, health, social well-being, and cultural aspects when developing AI solutions.",
+        "DIVERSITY, INCLUSION AN D EQUITY A key principle in the Recommendation is Fairness and non-discrimination, which requires AI actors to promote social justice without discrimination.",
+        "Promoting equitable access, diverse and inclusive teams involved in the AI lifecycle, and supporting underrepresented groups in their interactions with the AI ecosystem are central to fostering an ethical and responsible development and adoption of AI.",
+        "Moreover, if only some people could interact with an AI system and generate data that would then be used to train it, the system might be biased towards the underrepresented and vulnerable population.",
+        "It recently expanded to include AI and machine learning fundamentals and workshops on ethical AI adoption.",
+        "▪ AI training and capacity building: - The Game Changers Coalition Program, in partnership with UNICEF, involves both genders in creating problem-solving games - The Fundamentals of Coding and Mobile App Development program introduces secondary students to app development through a visual programmin"
+      ],
+      "strengths": [
+        "Advancing towards this implies enabling citizens to be active actors in government decisions through robust and trustworthy digital channels.",
+        "- Healthcare providers will have access to comprehensive patient data, enabling improved clinical decisions and more targeted care.",
+        "While it might not explicitly mention AI, its broad provisions for protecting cultural heritage can be interpreted to include the use of advanced technologies like AI."
+      ],
+      "gaps": [
+        "However, this data is from 2017, so it is likely to have improved since then.",
+        "Lack of access to the internet leaves many people without the potential benefits of AI, which may contribute to widening the digital divide.",
+        "Addressing the gender gap is crucial to ensure fair and non-discriminatory AI systems.",
+        "In this sense, Cambodia needs to address a significant gender gap in STEM; however, there is a foundation for a less pronounced gap in internet usage and performance between boys and girls.",
+        "Data from 2019 shows that 51.7% of women and 53% of men use the internet, indicating a relatively narrow gender gap.",
+        "Internet gender gap over time in Cambodia Source: Digital Gender Gaps, University of Oxford.",
+        "In STEM and ICT higher education, this gap widens: according to the World Economic Forum40, 83.32% of men and only 16.68% of women graduate from STEM, and regarding ICT, 91.56% of the graduates are men while only 8.44% are women.",
+        "However, when analysing performance gaps, girls outperformed boys in both reading (+20) and science (+9) and had a similar performance in mathematics (+4).",
+        "The performance gap between girls and boys in Cambodia.",
+        "The gender gap in Cambodia extends to STEM and across various sectors, making it a multidimensional challenge to address."
+      ],
+      "key_stats": [
+        {
+          "stat": "60.7% of the population used the Intern",
+          "context": "and adoption of AI. Cambodia faces essential connectivity challenges. According to the ITU, only 60.7% of the population used the Internet in 2023. Geographically, 40% of people in urban areas and 30%",
+          "value": 60.7,
+          "unit": "%"
+        },
+        {
+          "stat": "40% of people in urban areas and",
+          "context": "ges. According to the ITU, only 60.7% of the population used the Internet in 2023. Geographically, 40% of people in urban areas and 30% in rural areas use the Internet. However, this data is from 2017",
+          "value": 40.0,
+          "unit": "%"
+        },
+        {
+          "stat": "30% in rural areas use the Interne",
+          "context": "0.7% of the population used the Internet in 2023. Geographically, 40% of people in urban areas and 30% in rural areas use the Internet. However, this data is from 2017, so it is likely to have improve",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "51.7% of women and",
+          "context": "pronounced gap in internet usage and performance between boys and girls. Data from 2019 shows that 51.7% of women and 53% of men use the internet, indicating a relatively narrow gender gap. This is co",
+          "value": 51.7,
+          "unit": "%"
+        },
+        {
+          "stat": "53% of \nmen use the internet",
+          "context": "internet usage and performance between boys and girls. Data from 2019 shows that 51.7% of women and 53% of men use the internet, indicating a relatively narrow gender gap. This is consistent with the ",
+          "value": 53.0,
+          "unit": "%"
+        },
+        {
+          "stat": "88.68% female vs",
+          "context": "esented in tertiary education and ICT. Enrolment favours women in primary and secondary education (88.68% female vs. 85.67% male and 63.01% female vs. 53.1% male), but this changes in tertiary educati",
+          "value": 88.68,
+          "unit": "%"
+        },
+        {
+          "stat": "85.67% male and",
+          "context": "y education and ICT. Enrolment favours women in primary and secondary education (88.68% female vs. 85.67% male and 63.01% female vs. 53.1% male), but this changes in tertiary education (15.95% male vs",
+          "value": 85.67,
+          "unit": "%"
+        },
+        {
+          "stat": "63.01% female vs",
+          "context": "ICT. Enrolment favours women in primary and secondary education (88.68% female vs. 85.67% male and 63.01% female vs. 53.1% male), but this changes in tertiary education (15.95% male vs. 14.06% female)",
+          "value": 63.01,
+          "unit": "%"
+        },
+        {
+          "stat": "53.1% male",
+          "context": "ours women in primary and secondary education (88.68% female vs. 85.67% male and 63.01% female vs. 53.1% male), but this changes in tertiary education (15.95% male vs. 14.06% female). In STEM and ICT ",
+          "value": 53.1,
+          "unit": "%"
+        },
+        {
+          "stat": "15.95% \nmale vs",
+          "context": "% female vs. 85.67% male and 63.01% female vs. 53.1% male), but this changes in tertiary education (15.95% male vs. 14.06% female). In STEM and ICT higher education, this gap widens: according to the ",
+          "value": 15.95,
+          "unit": "%"
+        },
+        {
+          "stat": "14.06% female",
+          "context": "7% male and 63.01% female vs. 53.1% male), but this changes in tertiary education (15.95% male vs. 14.06% female). In STEM and ICT higher education, this gap widens: according to the World Economic Fo",
+          "value": 14.06,
+          "unit": "%"
+        },
+        {
+          "stat": "83.32% of men and only",
+          "context": "male). In STEM and ICT higher education, this gap widens: according to the World Economic Forum40, 83.32% of men and only 16.68% of women graduate from STEM, and regarding ICT, 91.56% of the graduates",
+          "value": 83.32,
+          "unit": "%"
+        },
+        {
+          "stat": "16.68% of women graduate from STEM",
+          "context": "higher education, this gap widens: according to the World Economic Forum40, 83.32% of men and only 16.68% of women graduate from STEM, and regarding ICT, 91.56% of the graduates are men while only 8.4",
+          "value": 16.68,
+          "unit": "%"
+        },
+        {
+          "stat": "91.56% of the graduates \nare men while o",
+          "context": "ld Economic Forum40, 83.32% of men and only 16.68% of women graduate from STEM, and regarding ICT, 91.56% of the graduates are men while only 8.44% are women. However, when analysing performance gaps,",
+          "value": 91.56,
+          "unit": "%"
+        },
+        {
+          "stat": "8.44% are women",
+          "context": "16.68% of women graduate from STEM, and regarding ICT, 91.56% of the graduates are men while only 8.44% are women. However, when analysing performance gaps, girls outperformed boys in both reading (+2",
+          "value": 8.44,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "SCIENTIFIC AND EDUCATIONAL Since scientific and educational components contribute significantly to the advancement of AI, assessing them becomes a relevant method to determine a country's readiness for AI development and deployment.",
+        "The country's performance in research and innovation (R&I) measures the scientific aspect, including research and development (R&D) spending, research production, ethical AI research, and AI innovation production.",
+        "On the other hand, the educational aspect is evaluated through the country's performance in educational elements such as educational strategy, educational infrastructure, curriculum content, educational achievements, and public access to AI education.",
+        "RESEARCH AN D INNOVATION RESEARCH AND INNOVATION Cambodia has a low R&D expenditure, but there is little data to analyse the ICT sector, particularly AI.",
+        "According to Statista data (2024), Cambodia had R&D spending of 0.09% of GDP in 202258, but there was no granularity in natural sciences, engineering, or ICTs.",
+        "Moreover, there was no data on public expenditure on AI.",
+        "The number of publications per capita on AI and related topics depends on the source and the methodology used to narrow down the topic.",
+        "The Chilean National AI Centre (CENIA) reported 313 articles in 2014-2023."
+      ],
+      "strengths": [
+        "Similarly, CADT has recently (2024) launched a Master of Computer Science in AI and data science66, including a module in AI ethics designed with UNESCO.",
+        "Cambodia recently launched a strategy for developing e- services for businesses75 in this domain."
+      ],
+      "gaps": [
+        "Although both sources correspond to OpenAlex data, they differ in terms of labelling criteria and types of publications.",
+        "However, no publications with Cambodian authors were detected in the ACM Conference on Fairness, Accountability, and Transparency (FAccT), a relevant conference in the area.",
+        "Cambodia has yet to host conferences on AI and ethics, so there is still room for further development.",
+        "Although the total remains low compared to ASEAN, where the average is 11,596 articles in the last decade, Cambodia ranks as the fourth fastest-growing country in the region for article production, with a 185.71% increase from 2014 to 2024.",
+        "However, UNESCO and Cambodia announced their collaboration in addressing this topic, focusing on training teachers in digital skills and ethical use of AI62.",
+        "● UNESCO and MoEYS EdTech Summit64: This summit emphasised the importance of AI ethics in education and highlighted the need for teacher training in this area.",
+        "Similarly, computer access remained limited, with 5.34% of primary students, 14.53% of lower secondary students, and 25.39% of secondary students having access.",
+        "MOEYS reports that ICTs are integrated into primary and secondary curricula but does not specify which aspects of AI are covered.",
+        "In comparison, 25.4% have never used the tool due to limited knowledge, language barriers, privacy concerns, and lack of confidence in accuracy.",
+        "While the student survey finds that 85.3% of participating students have used generative AI for their studies, the other 14.7% have never used the tool due to reasons similar to the lecturer survey: the lack of knowledge of how to use the tools, language barriers, privacy concerns, and lack of confi"
+      ],
+      "key_stats": [
+        {
+          "stat": "0.09% of GDP in",
+          "context": "e the ICT sector, particularly AI. According to Statista data (2024), Cambodia had R&D spending of 0.09% of GDP in 202258, but there was no granularity in natural sciences, engineering, or ICTs. This ",
+          "value": 0.09,
+          "unit": "%"
+        },
+        {
+          "stat": "82% of which were conducted \nwith int",
+          "context": "lling criteria and types of publications. The ETO61 reports 406 publications over the past decade, 82% of which were conducted with international collaboration and 4,024 citations. The Chilean Nationa",
+          "value": 82.0,
+          "unit": "%"
+        },
+        {
+          "stat": "24.6% of the \ntotal publications",
+          "context": "en analysing publications about AI ethics, CENIA reports 77 publications in 2013-2023, constituting 24.6% of the total publications. This share of the total publications highlights that ethics represe",
+          "value": 24.6,
+          "unit": "%"
+        },
+        {
+          "stat": "185.71% increase from",
+          "context": "Cambodia ranks as the fourth fastest-growing country in the region for article production, with a 185.71% increase from 2014 to 2024. Meanwhile, CENIA’s data, as illustrated in Figure 9, highlights a ",
+          "value": 185.71,
+          "unit": "%"
+        },
+        {
+          "stat": "4.6% of primary school students access",
+          "context": "teacher training in this area. Educational infrastructure faces significant gaps65. In 2022, only 4.6% of primary school students accessed the Internet for pedagogical reasons, while this figure rose ",
+          "value": 4.6,
+          "unit": "%"
+        },
+        {
+          "stat": "15% for lower secondary school stu",
+          "context": "f primary school students accessed the Internet for pedagogical reasons, while this figure rose to 15% for lower secondary school students and 28.31% for secondary school students. Similarly, computer",
+          "value": 15.0,
+          "unit": "%"
+        },
+        {
+          "stat": "28.31% for secondary \nschool students",
+          "context": "net for pedagogical reasons, while this figure rose to 15% for lower secondary school students and 28.31% for secondary school students. Similarly, computer access remained limited, with 5.34% of prim",
+          "value": 28.31,
+          "unit": "%"
+        },
+        {
+          "stat": "5.34% of primary students",
+          "context": "udents and 28.31% for secondary school students. Similarly, computer access remained limited, with 5.34% of primary students, 14.53% of lower secondary students, and 25.39% of secondary students havin",
+          "value": 5.34,
+          "unit": "%"
+        },
+        {
+          "stat": "14.53% of lower \nsecondary students",
+          "context": "dary school students. Similarly, computer access remained limited, with 5.34% of primary students, 14.53% of lower secondary students, and 25.39% of secondary students having access. MOEYS reports tha",
+          "value": 14.53,
+          "unit": "%"
+        },
+        {
+          "stat": "25.39% of secondary students having acce",
+          "context": "r access remained limited, with 5.34% of primary students, 14.53% of lower secondary students, and 25.39% of secondary students having access. MOEYS reports that ICTs are integrated into primary and s",
+          "value": 25.39,
+          "unit": "%"
+        },
+        {
+          "stat": "74.5% of the lecturers have used genera",
+          "context": "6 lecturers and 921 students from 20 universities nationwide. For lecturers, the survey finds that 74.5% of the lecturers have used generative AI to assist them in teaching. In comparison, 25.4% have ",
+          "value": 74.5,
+          "unit": "%"
+        },
+        {
+          "stat": "25.4% have never used the tool due t",
+          "context": "nds that 74.5% of the lecturers have used generative AI to assist them in teaching. In comparison, 25.4% have never used the tool due to limited knowledge, language barriers, privacy concerns, and lac",
+          "value": 25.4,
+          "unit": "%"
+        },
+        {
+          "stat": "85.3% of participating students have us",
+          "context": "in learning how to integrate generative AI into their courses. While the student survey finds that 85.3% of participating students have used generative AI for their studies, the other 14.7% have never",
+          "value": 85.3,
+          "unit": "%"
+        },
+        {
+          "stat": "14.7% have never used the tool due t",
+          "context": "ey finds that 85.3% of participating students have used generative AI for their studies, the other 14.7% have never used the tool due to reasons similar to the lecturer survey: the lack of knowledge o",
+          "value": 14.7,
+          "unit": "%"
+        },
+        {
+          "stat": "10% of the",
+          "context": "d fields, but significant challenges in human capital persist. During the 2021–2022 academic year, 10% of the 200,000 students enrolled in higher education programs specialised in ICT, resulting in ap",
+          "value": 10.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Analysing some pillars, Cambodia scored 81.05 on data products, 42.05 on data sources, and 55 on data infrastructure.",
+        "Number of questions assigned to each institution After the initial desk research, the local team organised an in-person mission in which UNESCO’s consultant and CADT met the institutions with more questions and/or relevant mandates related to AI.",
+        "The institutions were briefed during the meetings about AI Ethics, UNESCO’s Recommendations, and the RAM.",
+        "MULTISTAKEHOLDER VALIDATION MULTISTAKEHOLDER VALIDATION A first draft of the RAM questionnaire was consolidated based on responses from government stakeholders, extensive desk research, and strategic collaboration with external partners, including GitHub and the Chilean National AI Centre (CENIA).",
+        "On February 4, 2025, over 120 government, academia, industry, and civil society stakeholders convened in a validation workshop to rigorously review the draft, provide critical feedback, and deliberate on key policy recommendations.",
+        "They also underscored the importance of drafting online child protection laws and enhancing safeguards for vulnerable groups through targeted auditing and data curation.",
+        "Moreover, the workshop highlighted the necessity of streamlining procurement processes, promoting open access to public data, and revising policies to improve transparency and accountability.",
+        "A clear and strong political will at the highest level to advance the ethics of AI in an early stage of AI adoption is vital."
+      ],
+      "strengths": [
+        "These include the Cloud First Policy, which promotes cloud services and a data classification framework; the Data Governance and Open Data Policy, aimed at establishing a robust legal and institutional framework; an Interoperability Framework to synchronise systems across sectors; and a forthcoming ",
+        "94 https://www.worldbank.org/en/programs/statistical-performance-indicators/explore-data#1 ### Page 40 40 RAM IMPLEMENTATION AND MULTISTAKEHOLDER CONSULTATION Cambodia began implementing the RAM on November 12, 2024, with CADT leading efforts in collaboration with UNESCO and the MPTC.",
+        "The initiative is designed to rigorously assess the nation’s digital and AI ecosystem against the ethical principles enshrined in the UNESCO 2021 Recommendation on the Ethics of AI, and develop a robust national AI strategy based on RAM recommendations.",
+        "Scheduled to run from November 2024 to March 2025, the process saw a dedicated team from CADT and a UNESCO expert from the AI Ethics Experts without Borders (AIEB) network develop a comprehensive questionnaire and secure critical information from various line ministries.",
+        "Then, a focal point in each institution was nominated, a methodology for working together was established, and the specific request for each institution was explained.",
+        "The workshop yielded comprehensive recommendations for advancing Cambodia's AI ecosystem.",
+        "Participants also advocated for establishing robust public-private partnerships, including working groups to study AI adoption within organisations, upgrading internal ICT systems, and developing public-private cloud and data centre solutions, particularly within the banking and fintech sectors.",
+        "Related to this, participants discussed the creation of an AI resource centre to support startups, the organisation of AI ethics conferences, public awareness campaigns, and the development of comprehensive AI guidelines in education.",
+        "CADT’s decisive leadership and robust connections with institutional stakeholders, in partnership with UNESCO, ensured the engagement of key actors."
+      ],
+      "gaps": [
+        "Cambodia needs to improve its statistical performance.",
+        "This indicates that the central gap lies in data sources and data infrastructure.",
+        "Participants emphasised the need for an extensive AI strategy implementation plan and rigorous evaluation and assessment processes."
+      ],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "AI-based tools and applications make our lives easier, smoother, and richer.",
+        "But in its current form, AI reproduces and amplifies many social challenges we face.",
+        "Upstream, the AI industry is highly concentrated, with just two countries – the United States and China – and a dozen companies accounting for a major share of the sector.",
+        "Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children and young people, women, or entire democracies.",
+        "We need capable governments that are well equipped, in terms of competencies, institutions and laws, to frame responsible AI development and protect the rule of law online, and public and private developers who are accountable for putting human rights and fundamental freedoms, not profits or geopoli",
+        "The Readiness Assessment Methodology (RAM) is a diagnostic tool intended to assist Member States in upholding their commitment to the Recommendation by helping them understand how prepared they are to implement AI ethically and responsibly for all their citizens.",
+        "By highlighting any institutional, regulatory, or data gaps and obstacles, it enables UNESCO to tailor support for governments to fill those gaps to ensure an ethical AI ecosystem aligned with the Recommendation.",
+        "Cambodia was selected to implement the RAM to support their efforts in the creation and implementation of a national AI strategy, an initiative that we applaud, as it seeks to put AI ethics and governance at the forefront, and we thank them for inviting UNESCO to assist in this effort."
+      ],
+      "strengths": [
+        "That is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 countries to ensure AI delivers fair, sustainable, and inclusive outcomes.",
+        "The report presented here reveals a panorama of challenges along with Cambodia's strong commitment to harnessing the benefits of AI while protecting its people.",
+        "Cambodia has witnessed promising growth in AI research publications, with a noteworthy emphasis on ethics, and innovative postgraduate programs are integrating ethical considerations from the outset.",
+        "Economically, while comprehensive data is still developing, pilot projects showcase local innovation, and analysis indicates AI's potential to significantly enhance GDP.",
+        "Technically, Cambodia has established a solid foundation with nearly universal electricity access and improved mobile connectivity.",
+        "It is far more than a baseline study; it is a strategic and comprehensive ecosystem mapping that will directly inform the drafting of Cambodia’s National AI Strategy.",
+        "Chea Vandeth Minister of Post and Telecommunications, Cambodia ### Page 13 13 EXECUTIVE SUMMARY In November 2021, 193 UNESCO Member States adopted the Recommendation on the Ethics of Artificial Intelligence.",
+        "The key recommendations going forward include finalising the National AI Strategy, building upon existing frameworks, creating clear Multistakeholder Governance structures, refining regulations (including enacting new laws and reviewing procurement processes), deploying flexible regulation framework",
+        "Additionally, the demand for advanced AI talent is critical.",
+        "To address these issues, the key recommendations are to bolster AI awareness and skills through public literacy initiatives, to integrate digital and computational thinking into the curriculum, to invest in teacher training, and to foster the development of advanced AI skills."
+      ],
+      "gaps": [
+        "It is not acceptable that around a third of the world’s population still lacks adequate internet access.",
+        "The Recommendation also sets out concrete policy actions that governments can draw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which has until now remained the norm, is insufficient.",
+        "The gender gap in internet usage is narrowing, and numerous initiatives are actively promoting digital skills and opportunities for women and girls.",
+        "However, there's still work to be done, as the country does not yet have a finalised national AI strategy, experiences some fragmentation in institutional roles, and has room to grow in cybersecurity maturity and open data performance.",
+        "Additionally, there is a need for specific laws surrounding AI procurement and access to information.",
+        "The social and cultural aspects show encouraging progress in bridging the gender gap in internet usage, along with good PISA results for girls in science and reading.",
+        "Many initiatives are working hard to close the STEM gender gap, and CADT is making strides by developing Khmer language datasets.",
+        "Despite these positive steps, Cambodia still faces several challenges, including connectivity issues, a persistent gender gap in STEM fields within higher education and the workforce, low performance in e-government services, and the need to integrate AI ethics into its developing strategies for Dig",
+        "However, Cambodia still faces several challenges: R&D spending remains on the lower side, many schools lack adequate digital and AI infrastructure, and there is an urgent need to refresh curricula to better equip students with digital skills.",
+        "Cambodia faces a challenge in having limited data to assess AI's economic aspects thoroughly."
+      ],
+      "key_stats": [
+        {
+          "stat": "43 \nINSTITUTION",
+          "context": "ONSULTATION 40 MULTISTAKEHOLDER VALIDATION 41 LESSONS LEARNED 42 MAIN POLICY RECOMMENDATIONS 43 INSTITUTIONAL FRAMEWORK FOR AI GOVERNANCE 43 LAWS AND REGULATIONS 46 RESPONSIBLE AI, INCLUSION AND WELL-"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "Technically, Cambodia has established a solid foundation with nearly universal electricity access and improved mobile connectivity.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The government has only deployed a few pilot projects utilising AI systems that impact service users.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The legal framework encompasses rules related to AI, data protection and privacy, data sharing and information access, procurement, due process and accountability, online security and content integrity, and public sector capacities AI POLICY AN D REGULATION AI POLICY AND REGULATION Cambodia has not yet established a national AI strategy; however, it has been conducting various processes that will ultimately lead to the development of such a policy.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "These efforts demonstrate Cambodia’s growing recognition of AI’s importance and commitment to establishing a governance framework despite lacking a dedicated AI strategy.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This is particularly relevant when AI systems are being deployed in the public sector, since individuals have the right to be informed and request information about the AI systems they interact with.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Finally, in terms of language inclusion, although the initiative is still in its infancy, CADT has collected numerous small datasets for Khmer NLP applications, including Khmer sign language recognition, Khmer ASR, and text-to-speech.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Similarly, CADT has recently (2024) launched a Master of Computer Science in AI and data science66, including a module in AI ethics designed with UNESCO.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Cambodia recently launched a strategy for developing e- services for businesses75 in this domain.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "● Policy or regulatory prototyping: Spaces in which new laws or policies are tested alongside emerging technologies before they are enacted, fully developed and deployed.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "The arrangement let all actors, including Singapore’s Personal Data Protection Commission, collaboratively probe risks through exercises like red‑teaming tailored to the city‑state’s multilingual setting while refining new domain‑ and culture‑specific benchmarks that fill recognised gaps in global evaluation practice.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Engaging with international organisations and learning from the experiences of other countries that have implemented AI sandboxes can provide valuable insights and help avoid potential pitfalls.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This campaign should incorporate elements such as: ● Multistakeholder effort: Campaigns should be co-designed with diverse stakeholders and implemented through joint efforts with academia, industry and civil society.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Public funding for R&D should be treated as a long-term investment to remain relevant in the AI race, in which the government provides material assistance, moral support, and public recognition to foster successful R&D performance.",
+      "dimension": "economic"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.09,
+      "unit": "% GDP",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 406,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    },
+    {
+      "label": "GDP",
+      "value": 42.34,
+      "unit": "billion",
+      "dimension": "economic"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "The country scored 19.12 in the Global Cybersecurity Index12, ranking 132nd out of 194 countries globally and 26th out of 38 in the Asia-Pacific region.",
+      "index_name": "Global Cybersecurity Index",
+      "rank": 132,
+      "score": 19.12,
+      "total_countries": 194
+    },
+    {
+      "context": "The country has not signed the International Open Data Charter16, nor is it a member of the Open Government Partnership17, and its performance is still low in the Open Data Inventory (ODIN) 202418, in which Cambodia scored 42 out of 100, ranking 152nd out of 198 countries.",
+      "index_name": "Open Data Inventory",
+      "rank": 152,
+      "score": 42.0,
+      "total_countries": 198,
+      "year": 2024
+    },
+    {
+      "context": "Cambodia ranks 102/146 in 2024 in the Global Gender Gap Index 202442, with educational attainment and political empowerment indicators hurting the most Figure 5.",
+      "index_name": "Global Gender Gap Index",
+      "rank": 102,
+      "year": 2024
+    },
+    {
+      "context": "In the E-Government Development Index (EGDI)49, Cambodia ranks 120 out of 193 (0.5754 points), which is below the world average (0.6382) and the subregion average (Southeast Asia with 0.6928).",
+      "index_name": "E-Government Development Index",
+      "rank": 120
+    },
+    {
+      "context": "According to the Inclusive Internet Index 2022,50 Cambodia ranked 95th out of 100 countries in terms of trust and safety.",
+      "index_name": "Inclusive Internet Index",
+      "rank": 95,
+      "total_countries": 100,
+      "year": 2022
+    },
+    {
+      "context": "Furthermore, Cambodia ranks 80th out of 109 countries in the Coursera Global Skills Ranking 202469.",
+      "index_name": "Coursera Global Skills",
+      "rank": 80,
+      "total_countries": 109,
+      "year": 2024
+    }
+  ]
+}

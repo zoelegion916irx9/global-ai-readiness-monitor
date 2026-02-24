@@ -1,0 +1,309 @@
+{
+  "country_code": "CW",
+  "country_name": "AI",
+  "language": "en",
+  "metadata": {
+    "page_count": 33,
+    "creation_date": "D:20250801185407Z",
+    "modification_date": "D:20250806092909+02'00'",
+    "country_name": "AI",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "General Questions As one of the first Caribbean nations assessing the readiness for adoption of the UNESCO Recommendation on the Ethics of AI, Curaçao aims to use the exercise as a means to better understand the landscape and craft the most efficient pathway to transpose these into laws, policy, and",
+        "At the moment, no specific sectors have been prioritized for government intervention in relation to AI.",
+        "Consultations have not been able to ascertain whether the government informs the public when they are subjected to the use of AI systems that profile or make decisions about them in the provision of public services.",
+        "Sectors currently utilizing and seeking AI-related skills include tourism, where AI is leveraged to better align offerings with potential visitors and enhance marketing strategies.",
+        "In this context, AI competencies are understood to include the ability to work with generative AI tools to analyze social media data and optimize the communication and promotion of both individual properties and the island as a whole.",
+        "AI governance in Curaçao is currently in a formative stage, with the national strategy being developed by the RAC.",
+        "This presents a valuable opportunity to establish a dedicated institutional framework that can guide the responsible and strategic implementation of AI across sectors.",
+        "As a result, AI governance is not led by one single ministry, and actions are being conducted across different sectors."
+      ],
+      "strengths": [
+        "Countries are ranked and scored based on their performance in these areas with scores ranging from 0 to 100, with a higher score indicating a more robust and mature cybersecurity framework.",
+        "Caribbean peers generally rank between evolving scores of 20-55, with some more advanced nations establishing scores between 55-85 (out of 100).",
+        "The use cases in the MBPD AI trajectory have not advanced to fields like transportation, and beyond."
+      ],
+      "gaps": [
+        "The AI RAM Consultations have highlighted the need for an impact assessment of AI in Curaçao to better inform the general public and economic sectors about ethical AI implementation.",
+        "Other aspects of an impact assessment, and monitoring and evaluation will be featured in the recommendations section of the document, as binding AI regulations and guidelines are very limited.",
+        "Curaçao has not yet been assessed in the Cybersecurity Index, where each country’s level of development or engagement is assessed (by the ITU) along five pillars – (i) Legal Measures, (ii) Technical Measures, (iii) Organizational Measures, (iv) Capacity Development, and (v) Cooperation - and then ag",
+        "This field is also challenged by a lack of enough human capital.",
+        "Curaçao has not yet been assessed by Open Data Inventory.",
+        "However, this initiative marks a significant step toward digital government transformation, laying the groundwork for future innovations in data-driven governance and cross-sector collaboration.",
+        "As a result, the effectiveness of any such policy has yet to be assessed, and there is currently little to no information on special approval processes -especially by the government- for the acquisition of AI systems or certification of vendors for AI-related services.",
+        "However, the present AI RAM has contributed significantly to raising awareness of the ethical considerations surrounding AI, the integration of AI systems into public frameworks, and the certification process.",
+        "The effectiveness of the National Ordinance has not yet been evaluated.",
+        "This includes protection against arbitrary actions, the right to a fair trial, legal representation, and the ability to challenge government decisions through judicial review."
+      ],
+      "key_stats": [
+        {
+          "stat": "87% of households \nhave internet conn",
+          "context": "e RAC indicating that there are 3 approximately mobiles per land line on the island, and that about 87% of households have internet connections (2024). Male graduates are overrepresented in the gradua",
+          "value": 87.0,
+          "unit": "%"
+        },
+        {
+          "stat": "80% of the educational institutions a",
+          "context": "or the use of AI tools like ChatGPT, and how to tailor coursework around the new technology. Over 80% of the educational institutions at primary, lower secondary, and secondary schools have access to ",
+          "value": 80.0,
+          "unit": "%"
+        },
+        {
+          "stat": "20% of secondary school graduates are",
+          "context": "r as part of basic information literacy, for use in research. Data from the schools show that about 20% of secondary school graduates are in training to enter tertiary education in STEM fields. While ",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "40% of those operating the space",
+          "context": "or in terms of matching the offering to potential visitors. A proxy for this is estimated at about 40% of those operating the space. IT services, on the other hand, have also benefited from the AI ecl",
+          "value": 40.0,
+          "unit": "%"
+        },
+        {
+          "stat": "7% in the public and private sect",
+          "context": "s per capita. Most users resort to foreign products and services, and usage is estimated between 5-7% in the public and private sector at the national level. It is noteworthy to mention that while dom",
+          "value": 7.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1% of traded services",
+          "context": "nsultations. 5.3. Investments and Output High-tech exports as a share of trade represent less than 1% of traded services, while Business Enterprise expenditure on R&D in the Computer programming, cons",
+          "value": 1.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1% by \nconsultations",
+          "context": "ng, consultancy and related activity sector per capita is also quite sparse, estimated at less than 1% by consultations. Computer programming, consultancy and related activities form part of a categor",
+          "value": 1.0,
+          "unit": "%"
+        },
+        {
+          "stat": "87% of Cura",
+          "context": "mation. 6.1. Infrastructure and Connectivity According to a recent publication by the RAC in 2024, 87% of Curaçao’s households have fixed broadband connections, while 68% is using the internet (2017) ",
+          "value": 87.0,
+          "unit": "%"
+        },
+        {
+          "stat": "68% is using the internet",
+          "context": "ublication by the RAC in 2024, 87% of Curaçao’s households have fixed broadband connections, while 68% is using the internet (2017) according to the Central Bureau of Statistics. With regards to acces",
+          "value": 68.0,
+          "unit": "%"
+        },
+        {
+          "stat": "100% of Cura",
+          "context": "he RAC records around 174.000 active mobile-cellular telephone subscriptions. This represents over 100% of Curaçao’s population. It must be indicated that the amount of active mobile broadband subscri",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "70% of the population",
+          "context": "his moment. It is assumed that the share of people with an active mobile data subscription is about 70% of the population, as revealed in consultations. This is also in line with the RAC’s market inte",
+          "value": 70.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1 million Eur",
+          "context": "zens. The University of Curaçao, in cooperation with partners in the Dutch Caribbean have secured 1 million Euros for the establishment of a network of Digital Competence Centers. This 4-year project ",
+          "value": 1000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "26 million USD",
+          "context": "the other hand, have also benefited from the AI eclipse, and while the industry contributes about 26 million USD in foreign exchange, as reported by SIMIA (2021), the association of software exporters",
+          "value": 26000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "10 million USD",
+          "context": "ed utility and usefulness of Generative AI tools. A report by SIMIA estimates R&D in tech to be at 10 million USD. The NAIS will have to take this into account, given the challenges of mismatches on t",
+          "value": 10000000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Artificial Intelligence (AI) has been identified as a growing global trend and a strategic opportunity for Curaçao.",
+        "With the advent of ChatGPT propelling the meteoric rise in attention for AI, Curaçao’s Parliament assigned the Regulatory Authority of Curaçao (RAC) with the task to develop a National AI Strategy (NAIS) in 2024.",
+        "The consultations in this endeavor are still ongoing, as Curaçao is currently underway to incorporate UNESCO’s Recommendation on the Ethics of Artificial Intelligence within this strategy.",
+        "Most recently in 2024, the Ministry of Governance, Planning, and Public Service (MBPD), together with the Public Internal Audit Department initiated a trajectory to familiarize the sector with AI and its implications for Government Operations, Public Services, Security and Ethical Use, and Human Res",
+        "The main obstacles identified by experts in the development of policies and regulations concerning AI in the country were as follows: 1 Substantial knowledge and skills gaps have been identified regarding technology and its governance in the public sector.",
+        "In the following sections, Curaçao’s national AI landscape will be discussed across various dimensions, including legal and regulatory,"
+      ],
+      "strengths": [
+        "Within the framework of the National Export Strategy (NES), AI is recognized as a means to diversify the economy by fostering the development of a more robust IT services sector."
+      ],
+      "gaps": [],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "Additionally, reskilling initiatives should be implemented to support workers transitioning into AI-related job.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The vision outlines 6 Pillars of Smart Nation development, each covering specific Sector Innovation Programs (SIPs) to be ultimately implemented through projects.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Within the framework of the National Export Strategy (NES), AI is recognized as a means to diversify the economy by fostering the development of a more robust IT services sector.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Culture Curaçao has not yet implemented a policy on the use of AI for the preservation of cultural heritage.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "The existing framework of policies on the preservation of cultural heritage, like the Malta Convention on the preservation of Cultural Heritage, also known as the European Convention on the Protection of the Archaeological Heritage, has yet to adopt provisions for the recognition, use, and application of AI in Curaçao.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Curaçao’s National Institute for Languages has not yet implemented any policy regarding the use of AI for the preservation of minority and indigenous languages.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The economic dimension considers relevant aspects within the ecosystem in which AI systems are developed and deployed, such as those related to the labor market, intermediate consumption and investment, and production for AI.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "The dynamism and qualification level of the labor market, along with the level of spending on intermediate consumption and investment, and production, are crucial aspects for evaluating the performance and readiness of the specific ecosystems in which AI is deployed.",
+      "dimension": "economic"
+    }
+  ],
+  "key_numbers": [],
+  "executive_summary": "5\nAcknowledgements\t\n2\nAcronyms and Abbreviations\t\n7\nForeword\t\n9\nExecutive Summary\t\n11\nDeveloping a National AI Strategy: Policy Recommendations\t\n11\nI.\t Diagnosis of the National AI Landscape\t\n13\n1. \tGeneral Questions\t\n14\n2. \tLegal and Regulatory Dimension\t\n15\n2.1. AI Policy and Regulation\t\n15\n2.2. Data Protection and Privacy Laws\t\n15\n2.3. Data Sharing and Accessibility\t\n16\n2.4. Procurement Laws and Policies\t\n16\n2.5. Freedom of Information Acts and Access to Knowledge Acts\t\n17\n2.6. Due Process and Accountability\t\n17\n2.7. Online Safety and Integrity of Speech\t\n18\n2.8. Public Sector Capacity\t\n18\n3. \tSocial and Cultural Dimension\t\n19\n3.1. Diversity, Inclusion, and Equality\t\n19\n3.2. Public Engagement and Trust\t\n19\n3.3. Environmental and Sustainability Policies\t\n20\nTable of Contents\n\n6\n3.4. Health and Social Well-being\t\n20\n3.5. Culture\t\n20\n4. \tScientific and Educational Dimension\t\n21\n4.1. Research and Innovation\t\n21\n4.2. Education\t\n21\n5. \tEconomic Dimension\t\n23\n5.1. Labor Markets\t\n23\n5.2. Intermediate Consumption\t\n23\n5.3. Investments and Output\t\n23\n6. \tTechnical and Infrastructural Dimension\t\n25\n6.1. Infrastructure and Connectivity\t\n25\n6.2. Applied Standards\t\n25\n6.3. Computing Capabilities\t\n25\nII.\tDeveloping a National Multi-stakeholder Roadmap\t\n27\nIII.\tNational AI Strategy: Main Policy Recommendations\t\n28\n1.\tSummary of Policy Recommendations\t\n28\n1.1. Regulation: Legal and Policy Framework for AI Governance\t\n29\n1.2. Institutional Framework: Governing AI in Curaçao\t\n29\n1.3. Capacity Building and Training\t\n29\nReferences\t\n32\n\n7\nAcronyms and Abbreviations\nAI \t\nArtificial Intelligence\nCARMABI \t\nCaribbean Research and Management of Biodiversity\nGDP \t\nGross Domestic Product\nGDPR \t\nGeneral Data Protection Regulation\nGenAI\t\nGenerative AI\nGERD \t\nGross Expenditure in Research and Development\nIADB \t\nInter-American Development Bank\nIODC \t\nInternational Open Data Charter\nISOC\t\nInternet Society\nLAC \t\nLatin America and the Caribbean\nMBPD \t\nMinistry of Governance, Planning, and Public Service \nMEO\t\nMinistry of Economic Development\nMOWCS \t\nMinistry of Education, Science, Culture, and Sports\nMVVRP \t\nMinistry of Traffic, Transportation, and Urban Planning\nMSDF \t\nMinistry of Social Development and Family\nMSTKI \t\nMinistry of Science, Technology, Knowledge and Innovation\nNAAM \t\nNational Archeological Anthropological Memory Management\nNAIS \t\nNational AI Strategy\nNES \t\nNational Export Strategy\nNGO \t\nNon-Government Organization\nNO \t\nNational Ordinance\nODIN \t\nOpen Data Inventory\nOECD \t\nOrganization for Economic Co-operation and Development\nOGP\t\nOpen Government Partnership\nPPP \t\nPurchasing Power Parity\nRAC \t\nRegulatory Authority of Curaçao\nRAM \t\nReadiness Assessment Methodology\n\n8\nR&D \t\nResearch and Development\nR&I \t\nResearch and Innovation\nSDGs \t\nSustainable Development Goals\nSIDS \t\nSmall Island Developing States \nSTEM \t\nScience, Technology, Engineering, and Mathematics\n\n9\nForeword\nArtificial Intelligence (AI) has ushered in a transformative era, reshaping societies, economies, and governance at an unprecedented \npace. AI-powered technologies enhance daily life, streamlining processes from accessing information to financial services, \ntransportation, and public administration. Yet, this rapid advancement is not without its challenges.\nThe benefits of AI remain unequally distributed, with significant disparities in access to digital infrastructure and technological \nresources. While some nations lead AI research and innovation, others face barriers that limit their ability to develop or regulate these \ntechnologies effectively. AI systems, if not governed responsibly, can exacerbate societal inequalities, reinforce biases, and challenge \nethical norms. The need for inclusive and ethical AI governance has never been more critical.\nIn response, UNESCO spearheaded the Recommendation on the Ethics of Artificial Intelligence, a landmark framework adopted \nin 2021 by 193 countries to ensure AI promotes human rights, dignity, and sustainable development. This global commitment \nunderscores the importance of accountability, transparency, and privacy in AI governance. However, implementing these principles \nrequires robust national frameworks, adaptive policies, and strong institutions.\nThe Readiness Assessment Methodology (RAM) serves as a diagnostic tool to help Member States evaluate their preparedness \nfor ethical AI adoption. By identifying regulatory gaps, technical challenges, and institutional needs, RAM provides a roadmap for \ncountries to navigate AI governance in alignment with the UNESCO Recommendation.\nIn 2024, Curaçao undertook the RAM assessment with support from the UNESCO Office for the Caribbean, engaging diverse \nstakeholders from government ministries, regulatory bodies, academia, civil society, and the private sector. The assessment involved \nconsultations with over 50 participants representing key sectors influencing AI policy and development in the country.\nThis report presents a comprehensive analysis of Curaçao’s AI landscap",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "1 Finalize National AI Strategy 1.",
+      "text": "1 Finalize National AI Strategy 1.2 Adopt/Transpose EU AI Act 1.4 Strengthen data privacy laws in line with GDPR standards. 1.3 Establish AI regulatory sandboxes for responsible AI innovation. 1.5 Implement AI procurement policies for ethical government AI use. Timeframe 2025 2025 2026 2026-27 2026 Responsible Agency RAC VVRP, Parliament BPD, Parliament VVRP, OWCS, BPD FIN, BPD Potential Partners UNESCO UNESCO, OECD, IDB CBCS, Aqualectra, CBA, CMC, SIMIA, UoC 29 29 1.1. Regulation: Legal and Policy Framework for AI Governance Curaçao must position itself to adopt an AI regulatory framework to govern the ethical and responsible use of AI over time. The first step in this process is the drafting and enactment of a NO on AI, which will set the legal foundation for AI development, deployment, and governance in the country. This legislation will ensure that AI applications in both the public and private sectors adhere to ethical principles, fairness, and non-discrimination while maintaining transparency and accountability. The NO will include AI impact assessments, which will evaluate the risks of AI applications before their deployment in high-risk areas such as public services, healthcare, and law enforcement. To further promote responsible AI development, Curaçao could implement AI regulatory sandboxes. These controlled environments will allow startups and enterprises to test AI applications while gradually working toward full regulatory compliance. The sandbox model will enable experimentation with AI-driven innovations in fields such as healthcare, finance, tourism, and e-government, while ensuring consumer protection and risk mitigation. Additionally, Curaçao must strengthen data privacy and cybersecurity regulations to protect personal data and ensure the safe deployment of AI systems. The existing data protection framework could include more GDPR alignment, ensuring that AI technologies adhere to stringent privacy standards. New cybersecurity regulations should b",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Draft and enact a National AI Ordinance (NO) to establish the legal foundation for AI development, ensuring ethical use, transparency, fairness, and...",
+      "text": "Draft and enact a National AI Ordinance (NO) to establish the legal foundation for AI development, ensuring ethical use, transparency, fairness, and accountability, with impact assessments for high-risk sectors.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Implement AI regulatory sandboxes for startups and enterprises to test AI applications in a controlled environment, ensuring compliance and consumer protection.",
+      "text": "Implement AI regulatory sandboxes for startups and enterprises to test AI applications in a controlled environment, ensuring compliance and consumer protection. 2.1 Assign/Create agency to oversee AI governance. 2.2 Develop AI Oversight and Ethics to assess risks. 2 Institutional Framework 2025 2026 UNESCO EU AI Office, Caribbean AI Coalition 3.1 Introduce AI and Data Science in national curricula. 3.3 Fund AI research centers in partnership with universities. 2.3 Establish a National AI Observatory to track AI trends. 3 Capacity Building 2026 2026-2027 2026 OWCS, UoC (AI Training Institute) MEO, OWCS, UoC MEO, CBS, UoC UNESCO, SIMIA, University of Curaçao EU Horizon/CAF IDB, UNDP BPD, VVRP, AZ CBP, VVRP 3.2 Establish AI bootcamps and certification programs. 2026 Chamber of Commerce, AI Training Institute OECD, IDB 3.4 Develop AI literacy programs and workforce retraining. 2026 OWCS, SOAW, UoC 30 30",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Strengthen data privacy and cybersecurity regulations by aligning with GDPR standards and addressing AI-driven threats like deepfakes, misinformation, and algorithmic bias.",
+      "text": "Strengthen data privacy and cybersecurity regulations by aligning with GDPR standards and addressing AI-driven threats like deepfakes, misinformation, and algorithmic bias.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Introduce ethical AI procurement policies for public services, defining standards for AI contracts and public-private partnerships to ensure fairness and transparency.",
+      "text": "Introduce ethical AI procurement policies for public services, defining standards for AI contracts and public-private partnerships to ensure fairness and transparency. 1.2. Institutional Framework: Governing AI in Curaçao To effectively regulate and promote AI development, it is recommended that Curaçao organize its AI Oversight across ministries. The agencies responsible will coordinate the oversight on policy implementation, regulatory compliance, and AI funding programs. The initiative will facilitate collaboration between government ministries, universities, private sector partners, and international organizations to ensure that AI development aligns with national economic goals and ethical standards. The AI Oversight should contain an Ethics Committee tasked with conducting AI audits, risk assessments, and ethical evaluations. This Committee will monitor AI systems in critical sectors such as finance, healthcare, and public administration, ensuring that they comply with ethical guidelines. The committee will also develop guidelines on AI fairness, bias detection, and accountability, protecting citizens from potential AI-related harms. To facilitate data-driven AI policymaking, Curaçao will establish an AI Policy Laboratory to help coordinate and assist integrated policy development. This laboratory will collect and analyze data on AI adoption trends, market impact, and research progress. Utilization of real-time data will enable policymakers to make informed decisions about AI regulation, funding priorities, and investment strategies. At the local level, the government can designate AI liaisons in neighborhood centers to oversee AI adoption in smart initiatives, public transportation, and urban planning. These efforts will ensure that AI-driven solutions are tailored to local needs and integrated into public services efficiently. Recommendations – Institutional Framework: Governing AI in Curaçao",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Organize AI Oversight across ministries to coordinate AI regulation and policy implementation through a mechanism that involves government...",
+      "text": "Organize AI Oversight across ministries to coordinate AI regulation and policy implementation through a mechanism that involves government ministries, universities, private sector partners, and international organizations to ensure effective governance and alignment with national goals.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Establish an Ethics Committee to conduct AI audits, risk assessments, and ensure ethical evaluations in critical sectors like finance, healthcare, and public administration.",
+      "text": "Establish an Ethics Committee to conduct AI audits, risk assessments, and ensure ethical evaluations in critical sectors like finance, healthcare, and public administration. This committee will develop guidelines for AI fairness, bias detection, and accountability.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Create an AI Policy Laboratory to collect and analyze data on AI adoption trends, market impact, and research progress, enabling data-driven...",
+      "text": "Create an AI Policy Laboratory to collect and analyze data on AI adoption trends, market impact, and research progress, enabling data-driven policymaking and informed decisions on AI regulation and investment strategies.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Designate AI Liaisons at the local level to oversee AI adoption in public services, such as smart initiatives, public transportation, and urban planning, ensuring AI solutions meet local needs.",
+      "text": "Designate AI Liaisons at the local level to oversee AI adoption in public services, such as smart initiatives, public transportation, and urban planning, ensuring AI solutions meet local needs. 1.3. Capacity Building and Training Curaçao must invest in AI education and workforce development to ensure that its citizens have the necessary skills to thrive in an AI-driven economy. A key priority is the integration of AI and Data Science in the national education system, starting from primary school through higher education. The training of teachers is essential to enable the introduction of AI in school curricula covering machine learning, data ethics, and computational thinking, while tertiary-level institutions would offer specialized degrees in AI, robotics, and automation. To accelerate AI skills training for professionals, Curaçao has the opportunity to establish AI training and certification programs within a broader framework for lifelong learning in order to consider the multifaceted aspects of AI. This aims to enable reselling and upskilling to roll out in a responsible and ethical manner. These programs will equip professionals from various industries, including finance, tourism, and healthcare, with practical AI knowledge. The government could also offer reskilling programs for workers at risk of displacement due to automation, ensuring a smooth transition into AI-related jobs. To foster AI innovation and research, the government could enable and facilitate an AI research agenda within the NAIS to promote collaboration between educational institutions and private sector partners, within the scope of the large-scale digitalization project. 31 31 The AI agenda should be centered around applications tailored to Curaçao’s economic landscape, such as AI in sustainable tourism, financial services, and digital governance. These efforts can be aligned with the National Export Strategy. These policy recommendations, if operationalized, would assist Curaçao to advance",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Curaçao should invest in AI education from primary school to higher education, integrating AI and Data Science into the national curriculum.",
+      "text": "Curaçao should invest in AI education from primary school to higher education, integrating AI and Data Science into the national curriculum.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Teacher training is key to introducing AI topics like machine learning, data ethics, and computational thinking, with tertiary institutions offering specialized degrees in AI and robotics.",
+      "text": "Teacher training is key to introducing AI topics like machine learning, data ethics, and computational thinking, with tertiary institutions offering specialized degrees in AI and robotics.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Curaçao should establish AI training and certification programs within a lifelong learning framework to support reskilling and upskilling in a responsible manner.",
+      "text": "Curaçao should establish AI training and certification programs within a lifelong learning framework to support reskilling and upskilling in a responsible manner.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "The government should support an AI research agenda within the National AI Strategy (NAIS) to encourage collaboration between education and the private sector.",
+      "text": "The government should support an AI research agenda within the National AI Strategy (NAIS) to encourage collaboration between education and the private sector.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "The research agenda should focus on AI applications for Curaçao’s economy, such as in sustainable tourism, finance, and digital governance.",
+      "text": "The research agenda should focus on AI applications for Curaçao’s economy, such as in sustainable tourism, finance, and digital governance. 32 32",
+      "dimension": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 14,
+  "page_count": 33,
+  "rankings_indices": []
+}

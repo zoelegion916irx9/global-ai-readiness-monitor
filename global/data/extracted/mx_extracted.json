@@ -1,0 +1,378 @@
+{
+  "country_code": "MX",
+  "country_name": "AGRADECIMIENTOS",
+  "language": "es",
+  "metadata": {
+    "page_count": 73,
+    "creation_date": "D:20240701164437-06'00'",
+    "modification_date": "D:20250501001246+02'00'",
+    "country_name": "AGRADECIMIENTOS",
+    "language": "en",
+    "translated": true,
+    "original_language": "es",
+    "translation_note": "Auto-translated from Spanish by AI"
+  },
+  "chapters": [
+    {
+      "chapter": 19,
+      "title": "“Comercio Digital” reconoce el Sistema CBPR como un mecanismo válido para facilitar",
+      "start_page": 21
+    },
+    {
+      "chapter": 7,
+      "title": "Aplicación móvil para la preservación de las lenguas originarias de México aplicando Inteligencia Artificial. https://www.ecorfan.org/handbooks/",
+      "start_page": 36
+    }
+  ],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [],
+  "key_numbers": [],
+  "rankings_indices": [],
+  "executive_summary": "",
+  "recommendations": [
+    {
+      "number": "1.1",
+      "title": "Map the AI ecosystem in Mexico.",
+      "text": "Map the AI ecosystem in Mexico.",
+      "dimension": "Mapa Del Ecosistema  \nDe La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.1",
+      "title": "Identify existing regulations that can be applied to AI, which ones need to be a",
+      "text": "Identify existing regulations that can be applied to AI, which ones need to be adapted, and which ones need to be created.",
+      "dimension": "Integrar El Marco  \nJurídico De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.2",
+      "title": "Raise awareness among different authorities and legal operators about the implic",
+      "text": "Raise awareness among different authorities and legal operators about the implications of AI and digital technologies in the interpretation of existing laws.",
+      "dimension": "Integrar El Marco  \nJurídico De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.3",
+      "title": "Innovate in the design of agile regulatory instruments that respond to the dynam",
+      "text": "Innovate in the design of agile regulatory instruments that respond to the dynamics of technological advancement and include mechanisms for institutional learning.",
+      "dimension": "Integrar El Marco  \nJurídico De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.4",
+      "title": "Define criteria for the ethical use of AI, regulating based on principles and ri",
+      "text": "Define criteria for the ethical use of AI, regulating based on principles and risk management, and consider prohibiting certain AI systems that pose unacceptable risks.",
+      "dimension": "Integrar El Marco  \nJurídico De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "3.1",
+      "title": "Promote Mexico's participation in international forums on AI governance and regu",
+      "text": "Promote Mexico's participation in international forums on AI governance and regulation.",
+      "dimension": "Diseño Institucional  \nY De Gobernanza De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "3.2",
+      "title": "Strengthen the institutional capacity of regulatory bodies to oversee AI develop",
+      "text": "Strengthen the institutional capacity of regulatory bodies to oversee AI development and deployment.",
+      "dimension": "Diseño Institucional  \nY De Gobernanza De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1",
+      "title": "Develop specific guidelines for AI use in public administration and government s",
+      "text": "Develop specific guidelines for AI use in public administration and government services.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1.1",
+      "title": "Create mechanisms for citizen participation in AI policy development.",
+      "text": "Create mechanisms for citizen participation in AI policy development.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1.2",
+      "title": "Establish transparency requirements for AI systems used in decision-making proce",
+      "text": "Establish transparency requirements for AI systems used in decision-making processes affecting citizens.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1.3",
+      "title": "Promote the development of AI impact assessments for high-risk applications.",
+      "text": "Promote the development of AI impact assessments for high-risk applications.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1.4",
+      "title": "Strengthen data protection frameworks in the context of AI applications.",
+      "text": "Strengthen data protection frameworks in the context of AI applications.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1.5",
+      "title": "Develop guidelines for responsible AI research and experimentation.",
+      "text": "Develop guidelines for responsible AI research and experimentation.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1.6",
+      "title": "Promote AI literacy and digital skills training across all educational levels.",
+      "text": "Promote AI literacy and digital skills training across all educational levels.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.2",
+      "title": "Invest in STEM education with emphasis on AI and data science programs.",
+      "text": "Invest in STEM education with emphasis on AI and data science programs.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.2.1",
+      "title": "Support the development of AI research centers and networks across the country.",
+      "text": "Support the development of AI research centers and networks across the country.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.2.2",
+      "title": "Foster collaboration between academia, industry, and government in AI research.",
+      "text": "Foster collaboration between academia, industry, and government in AI research.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.2.3",
+      "title": "Promote the inclusion of ethical considerations in AI curricula.",
+      "text": "Promote the inclusion of ethical considerations in AI curricula.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.2.4",
+      "title": "Develop programs to attract and retain AI talent in Mexico.",
+      "text": "Develop programs to attract and retain AI talent in Mexico.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.2.5",
+      "title": "Support the creation of AI-focused graduate programs in Mexican universities.",
+      "text": "Support the creation of AI-focused graduate programs in Mexican universities.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.3",
+      "title": "Promote diversity and inclusion in AI development teams and organizations.",
+      "text": "Promote diversity and inclusion in AI development teams and organizations.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.3.1",
+      "title": "Address the digital gender gap through targeted programs and policies.",
+      "text": "Address the digital gender gap through targeted programs and policies.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.3.2",
+      "title": "Develop cultural and linguistic AI applications that reflect Mexico's diversity.",
+      "text": "Develop cultural and linguistic AI applications that reflect Mexico's diversity.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.3.3",
+      "title": "Promote public awareness and understanding of AI technologies and their implicat",
+      "text": "Promote public awareness and understanding of AI technologies and their implications.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.3.4",
+      "title": "Support community-based AI initiatives that address local challenges.",
+      "text": "Support community-based AI initiatives that address local challenges.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.4",
+      "title": "Invest in digital infrastructure to ensure equitable access to AI technologies a",
+      "text": "Invest in digital infrastructure to ensure equitable access to AI technologies across regions.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.4.1",
+      "title": "Develop computing infrastructure including cloud services and high-performance c",
+      "text": "Develop computing infrastructure including cloud services and high-performance computing.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.4.2",
+      "title": "Promote open data initiatives to support AI development and research.",
+      "text": "Promote open data initiatives to support AI development and research.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "1.1",
+      "title": "Strengthen cybersecurity measures for AI systems and data protection.",
+      "text": "Strengthen cybersecurity measures for AI systems and data protection.",
+      "dimension": "Elaborar Un Mapa Del Ecosistema De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "2.1",
+      "title": "Develop interoperability standards for AI systems in the public sector.",
+      "text": "Develop interoperability standards for AI systems in the public sector.",
+      "dimension": "Integrar El Marco Jurídico De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "3.1",
+      "title": "Support the development of AI startups through funding, mentoring, and incubatio",
+      "text": "Support the development of AI startups through funding, mentoring, and incubation programs.",
+      "dimension": "Crear El Diseño Institucional Y De Gobernanza De La Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1",
+      "title": "Promote the adoption of AI in key economic sectors to boost productivity and com",
+      "text": "Promote the adoption of AI in key economic sectors to boost productivity and competitiveness.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.1.1",
+      "title": "Develop frameworks for assessing the economic impact of AI adoption.",
+      "text": "Develop frameworks for assessing the economic impact of AI adoption.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.2",
+      "title": "Foster public-private partnerships for AI innovation and deployment.",
+      "text": "Foster public-private partnerships for AI innovation and deployment.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.3",
+      "title": "Promote the use of AI for addressing social challenges including health, educati",
+      "text": "Promote the use of AI for addressing social challenges including health, education, and environment.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.3.1",
+      "title": "Develop guidelines for AI use in the labor market to protect workers' rights.",
+      "text": "Develop guidelines for AI use in the labor market to protect workers' rights.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.4",
+      "title": "Support the development of AI applications for environmental sustainability.",
+      "text": "Support the development of AI applications for environmental sustainability.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    },
+    {
+      "number": "4.4.1",
+      "title": "Establish mechanisms for monitoring and evaluating AI's impact on Mexican societ",
+      "text": "Establish mechanisms for monitoring and evaluating AI's impact on Mexican society and economy.",
+      "dimension": "Emitir La Estrategia Nacional De Ia",
+      "start_page": 0,
+      "language": "en"
+    }
+  ],
+  "recommendation_count": 38,
+  "page_count": 73
+}

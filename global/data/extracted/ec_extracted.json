@@ -1,0 +1,746 @@
+{
+  "country_code": "EC",
+  "country_name": "AWS",
+  "language": "en",
+  "metadata": {
+    "page_count": 104,
+    "creation_date": "D:20251121114812-05'00'",
+    "modification_date": "D:20251124150924+01'00'",
+    "country_name": "AWS",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "Social and Cultural Dimension ### Page 44 In addition, these policy instruments do not have monitoring and evaluation mechanisms with a gender equality ap- proach, which limits the production of indicators that allow the evaluation of existing progress and challenges.",
+        "According to Article 20 of the Statistics These policy instruments do not have monitoring and evaluation mechanisms with a gender equality approach.",
+        "© Adobe FireFly Ecuador: Artificial Intelligence Readiness Assessment Report 44 ### Page 45 Law, technology companies in Ecua- dor must publish statistics on diver- sity (Statistics Law, 1976).",
+        "In addition, the Regula- tions to the Organic Law of the National Public Procurement System establish a methodology for evaluating bids in government contracts based on inclu- sion criteria (Regulations to the Organic Law of the National Public Procurement System, 2009).",
+        "Finally, with regard to the availability of online content and data that allow AI systems to be trained in all official lan- guages and in the country's ancestral languages, the results of the Global Data Barometer indicate that Ecuador scores 0 in terms of language and data governance (IDRC et al.,",
+        "Regarding the percentage of trust in AI, 52% of Ecuadorians are confident that companies that use this tech- nology will protect their personal data (IPSOS, 2024).",
+        "Likewise, 69% express confidence that AI will not discriminate or be biased.",
+        "On the other hand, 66% of Ecuadorians consider that products and services that use AI present more advantages than risks (IPSOS, 2024)."
+      ],
+      "strengths": [
+        "In the Public Policy on Digital Trans- formation 2025-203012, the objec- tive of the emerging technologies for sustainable development axis is to promote the appropriation and sus- tainable, innovative and ethical devel- opment of new and emerging tech- nologies in industries.",
+        "The objective of the emerging technologies for sustainable development axis is to promote the appropriation and sustainable, innovative and ethical development of new and emerging technologies in industries.",
+        "In strategy 2 of this agenda, AI is explicitly men- tioned, since one of its lines of action is the development of pilots and proofs of concept of artificial intelligence al- gorithms to promote an innovative and intelligent health model."
+      ],
+      "gaps": [
+        "However, at the basic and secondary education levels, there are two initiatives underway: \"Schools that Inspire Me\" and the implementation of robotics clubs in public schools (MIN- EDUC, 2021, 2023).",
+        "In the case of universities, the LOES requires the publication of salaries, budgets, grad- uates, and strategic plans, although it does not include statistics on diversity (LOES, 2010).",
+        "As for the percentage of trust in gov- ernment websites and applications, Ecuador does not have official data10.",
+        "In this absence, MINTEL considers that cybersecurity plays an important role in strengthening citizen trust in these plat- forms (MINTEL, 2018).",
+        "However, there are three instruments that include an axis of emerging technologies for sustainable development.",
+        "Although sustainability is a principle of both the Policy for Digital Transforma- tion 2022-2025 and the Public Policy for Digital Transformation 2025-2030; these instruments do not make explicit mention of the Sustainable Develop- ment Goals (SDGs).",
+        "The agenda does not address mental health or con- sider the impact of AI on children and adolescents.",
+        "However, this normative instrument does not con- template the use of AI for the preserva- tion of cultural heritage, which limits the participation of the community for the development of AI or its regulations in this area.",
+        "This instrument also does not contem- plate the use of AI for the preserva- tion of ancestral languages nor does it highlight the importance of community participation in the development of AI The agenda commits to implementing AI services in the health sector to support decision- making (MSP, 2023)",
+        "Although Span- ish is the official language of Ecuador, Kichwa and Shuar are recognized as official languages in the context of in- terculturality (Constitution of the Re- public of Ecuador, 2008)."
+      ],
+      "key_stats": [
+        {
+          "stat": "52% of Ecuadorians are confident \ntha",
+          "context": "diate-high level of cybersecurity maturity. (ITU, 2024). Regarding the percentage of trust in AI, 52% of Ecuadorians are confident that companies that use this tech- nology will protect their personal",
+          "value": 52.0,
+          "unit": "%"
+        },
+        {
+          "stat": "69% express \nconfidence that AI wi",
+          "context": "hat companies that use this tech- nology will protect their personal data (IPSOS, 2024). Likewise, 69% express confidence that AI will not discriminate or be biased. On the other hand, 66% of Ecuadori",
+          "value": 69.0,
+          "unit": "%"
+        },
+        {
+          "stat": "66% \nof Ecuadorians consider that prod",
+          "context": ". Likewise, 69% express confidence that AI will not discriminate or be biased. On the other hand, 66% of Ecuadorians consider that products and services that use AI present more advantages than risks ",
+          "value": 66.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.45% of its GDP in gross \nexpenditure",
+          "context": "rom the Annual Bulletin of Higher Education, Science, Technology and Innovation, Ecuador invests 0.45% of its GDP in gross expenditure on R+D in 2020, a figure that represents the latest consolidated ",
+          "value": 0.45,
+          "unit": "%"
+        },
+        {
+          "stat": "0.0132% of GDP \nThis dimension \naddresses",
+          "context": "nts reported by 20 institutions (19 public universities and SENESCYT itself). These figures are: 0.0132% of GDP This dimension addresses the availability and development of skills for the management o",
+          "value": 0.0132,
+          "unit": "%"
+        },
+        {
+          "stat": "0.006% of \nGDP equivalent to",
+          "context": "ic and Educational Dimension ### Page 50 equivalent to 15,717,756.79 dollars as R+D expenditure; 0.006% of GDP equivalent to $7,195,191.42 as expenditure on natural sciences and engineering; and 0.000",
+          "value": 0.006,
+          "unit": "%"
+        },
+        {
+          "stat": "0.000036% of GDP \nequivalent to",
+          "context": ".006% of GDP equivalent to $7,195,191.42 as expenditure on natural sciences and engineering; and 0.000036% of GDP equivalent to 42,824.78 dollars as government funding for R+D in AI (SENESCYT, 2024a).",
+          "value": 3.6e-05,
+          "unit": "%"
+        },
+        {
+          "stat": "20 institutions",
+          "context": "WB or OECD portals. For the year 2023, SENESCYT shares the investment amounts reported by 20 institutions (19 public universities and SENESCYT itself). These figures are: 0.0132% of GDP This dimension"
+        },
+        {
+          "stat": "ranking 21st \nglobally",
+          "context": "ations, 2024). In addition, it registers a rating of 0.87 in the Elec- tronic Participation Index, ranking 21st globally and third in the Americas, after the United States and Canada, which have value"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "In addition, Ecuador has not designed a specific policy aimed at training edu- cators in the ethics of AI or digital tech- nologies.",
+        "There is no evaluation of the effectiveness of this policy.",
+        "Of this amount, only 45 are programs spe- cialized in AI, machine learning or data science, which represents 0.00025 programs per 100 inhabitants.",
+        "Fewer than 100 pro- grams have been identified that offer one or more modules in digital an- thropology, philosophy of technology, AI ethics, or related disciplines, rep- resenting 0.0006 programs per 100 population.",
+        "Of this amount, only 45 are programs specialized in AI, machine learning or data science, which represents 0.00025 programs per 100 inhabitants.",
+        "Ecuador: Artificial Intelligence Readiness Assessment Report 52 ### Page 53 © Pexels / Mikhail Nilov © Pexels / Mizuno K Educational level According to RICYT, in 2022, Ecuador has a graduation rate in STEM fields of 18.12%, with 4.68% in the area of natural sciences, mathematics and statistics, and ",
+        "There are no reli- able figures on the number of AI-related postdoctoral graduates, as this level is not recognised by the Higher Education Council, nor is there a public registry maintained by universities.",
+        "On the other hand, Ecuador ranks 13th regionally and 61st globally in the data science rankings in Coursera's World Skills Report."
+      ],
+      "strengths": [
+        "On the other hand, there is no reliable and robust information on the teaching of these topics in primary and secondary education at the na- tional level.",
+        "This indicator makes it pos- sible to measure the level of integration of advanced technologies in production processes and their impact on business efficiency and competitiveness, in an increasingly digitalised economic envi- ronment.",
+        "Sectors such as banking, online sales and logis- tics are leading this adoption, seeking to offer more efficient answers to their tar- get audience through investments in AI solutions for data analysis, automation and personalization of services.",
+        "High-tech ex- ports correspond to the sale of advanced products, the result of intensive research and development activities, such as electronic devices, pharmaceuticals and aerospace technology.",
+        "Finally, within the framework of the Public Policy for Digital Transformation 2025-2030, it is established to \"strengthen the exist- ing digital infrastructure in data centers and increase the provision of cloud ser- vices\" (MINTEL, 2025).",
+        "In addition, committees and spaces for technical discussion are established, such as the MINTEL AI Committee and the IEEE LA- TAM Committee, which seek to estab- lish strategies for the development of this technology in the country."
+      ],
+      "gaps": [
+        "This policy is also in the process of reform and does not have an evaluation of its effectiveness.",
+        "However, the Agenda Digital Educational Citizenship 2021 – 2025 proposes the \"construction of univer- sal, inclusive and intercultural Digital Citizenship\" through knowledge of the ethical, legal and political implications of the use of digital environments.",
+        "In the country, there are education- al programs that cover both technical and ethical aspects of AI; despite this, this training is mainly concentrated in university programs in the area of ICT, which has incorporated ethical content in technical careers.",
+        "Public access to AI education Regarding public access to AI educa- tion, several initiatives have been iden- tified from civil society, although they are not institutionalized.",
+        "However, according to the Manager of Controles Empre- sariales, a Microsoft partner in Ecua- dor, it is estimated that more than 70% of companies plan to implement AI- based solutions within their business operations.",
+        "Nonetheless, this information highlights the lack of official statistics that would allow for a more objective understanding of AI’s pene- tration into the national economy.",
+        "However, according to the Crunchbase platform, 25 AI startups have been identified at the national level.",
+        "This is a relatively low number compared to the 1.1 million companies registered in Ec- uador, indicating that the development of technology-based and AI-special- ized enterprises remains very limited.",
+        "Although the extent of AI adoption among these companies or their overall penetration into the Ecua- dorian economy has not been officially quantified, the ILIA Report (2024) pro- vides a regional benchmark.",
+        "However, this framework has not yet been officially approved."
+      ],
+      "key_stats": [
+        {
+          "stat": "33% in rural areas \nand",
+          "context": "and secondary education establishments with access to the Internet for peda- gogical purposes is 33% in rural areas and 55% in urban areas (Marotta et al., 2023). Likewise, the document estab- lishes ",
+          "value": 33.0,
+          "unit": "%"
+        },
+        {
+          "stat": "55% in urban areas",
+          "context": "n establishments with access to the Internet for peda- gogical purposes is 33% in rural areas and 55% in urban areas (Marotta et al., 2023). Likewise, the document estab- lishes that access to public ",
+          "value": 55.0,
+          "unit": "%"
+        },
+        {
+          "stat": "27% of establishments in rural areas",
+          "context": "ary and secondary edu- cation establishments, computers for pedagogical purposes is registered in 27% of establishments in rural areas and 44% of those in urban areas. Curricular content In Ecuador th",
+          "value": 27.0,
+          "unit": "%"
+        },
+        {
+          "stat": "44% of those in urban areas",
+          "context": "ts, computers for pedagogical purposes is registered in 27% of establishments in rural areas and 44% of those in urban areas. Curricular content In Ecuador there are 8664 higher edu- cation degrees, o",
+          "value": 44.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4.68% in the area of natural \nscienc",
+          "context": "l level According to RICYT, in 2022, Ecuador has a graduation rate in STEM fields of 18.12%, with 4.68% in the area of natural sciences, mathematics and statistics, and 13.44% in engineering, industry",
+          "value": 4.68,
+          "unit": "%"
+        },
+        {
+          "stat": "13.44% in engineering",
+          "context": "EM fields of 18.12%, with 4.68% in the area of natural sciences, mathematics and statistics, and 13.44% in engineering, industry and construction. This rate corresponds to a universe of a million peop",
+          "value": 13.44,
+          "unit": "%"
+        },
+        {
+          "stat": "2.19% of the \npopulation graduates",
+          "context": "tion. This rate corresponds to a universe of a million people (RICYT, 2023). In the field of ICT, 2.19% of the population graduates. There are no reli- able figures on the number of AI-related postdoc",
+          "value": 2.19,
+          "unit": "%"
+        },
+        {
+          "stat": "56% \nof the skills promoted in this re",
+          "context": "t globally in the data science rankings in Coursera's World Skills Report. It is highlighted that 56% of the skills promoted in this report are related to data science analysis (Cour- sera, 2024). Pub",
+          "value": 56.0,
+          "unit": "%"
+        },
+        {
+          "stat": "70% \nof companies plan to implement AI",
+          "context": "ager of Controles Empre- sariales, a Microsoft partner in Ecua- dor, it is estimated that more than 70% of companies plan to implement AI- based solutions within their business operations. These solut",
+          "value": 70.0,
+          "unit": "%"
+        },
+        {
+          "stat": "20% increase \ncompared to",
+          "context": "operations. These solutions reported- ly reached a revenue of $305 million in 2024, representing a 20% increase compared to 2023. Nonetheless, this information highlights the lack of official statisti",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.2% of the em",
+          "context": "ated that the percentage of employ- ees currently working as data science experts is equivalent to 0.2% of the em- ployed population nationwide. Relative penetration of AI skills Ecuador does not have",
+          "value": 0.2,
+          "unit": "%"
+        },
+        {
+          "stat": "5.1% \nmore than in",
+          "context": "on-Face-to-Face Transac- tions in Ecuador, in 2024 e-commerce sales of 5.5 billion are registered, 5.1% more than in 2023. It is expected that by 2025 these sales will reach 6 billion dollars (UESS, 2",
+          "value": 5.1,
+          "unit": "%"
+        },
+        {
+          "stat": "0.4% of the \ncountry",
+          "context": "on this aspect, but, according to the Global Innovation Index (2024), high-tech exports represent 0.4% of the country's total exports. In this regard, Ec- uador ranks 98th out of 133 countries in this",
+          "value": 0.4,
+          "unit": "%"
+        },
+        {
+          "stat": "3.0% of total \nservices exported by Ec",
+          "context": "ion and communication technology (ICT) services, including software, ac- counted for approximately 3.0% of total services exported by Ecuador, a figure lower than the 4.5% recorded in 2020 (World Bank",
+          "value": 3.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4.5% recorded in",
+          "context": "ac- counted for approximately 3.0% of total services exported by Ecuador, a figure lower than the 4.5% recorded in 2020 (World Bank, 2024). This percentage is low compared to the country's total expor",
+          "value": 4.5,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "AI- based tools and applications make our lives easier, smoother, and richer.",
+        "But in its current form, AI reproduc- es and amplifies many of the social challenges we face.",
+        "Upstream, the AI indus- try is highly concentrated, with just two countries – the United States and China – and a dozen companies accounting for a major share of the sector.",
+        "Non-diverse AI teams, unrepresen- tative datasets, and opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children and young peo- ple, women, or entire democracies.",
+        "That is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was ad- opted in 2021 by 193 countries to make sure AI delivers fair, sustain- able, and inclusive outcomes.",
+        "We need capable governments that are well equipped, in terms of competencies, institutions and laws, to frame re- sponsible AI development and pro- tect the rule of law online, and public and private developers who are ac- countable for putting human rights and fundamental freedoms – not profits or ",
+        "The Readiness Assessment Meth- odology (RAM) is a diagnostic tool intended to assist Member States in upholding their commitment to the Recommendation by helping them understand how prepared they are to Prologue Ecuador: Artificial Intelligence Readiness Assessment Report 10 ### Page 11 implement AI",
+        "By highlight- ing any institutional, regulatory, or data gaps and obstacles, it enables UNESCO to tailor support for gov- ernments to fill those gaps to ensure an ethical AI ecosystem aligned with the Recommendation."
+      ],
+      "strengths": [
+        "These include the creation of a comprehensive and coherent legal framework for AI, the promotion of multi-sectoral gover- nance mechanisms, targeted fiscal incentives, and the reinforcement of privacy, transparency, and digital rights.",
+        "LIDIA BRITO Assistant Director-General ad interim for Social and Human Sciences, UNESCO Ecuador: Artificial Intelligence Readiness Assessment Report 12 ### Page 13 Executive Summary In 2021, the government of Ecua- dor launched a strategy for the adop- tion, adaptation and development of emerging te",
+        "RAM is distinguished by its multidimen- sional and comprehensive approach, encompassing a set of quantitative and qualitative questions.",
+        "From the legal and regulatory field, al- though there is no specific law that regulates AI in a comprehensive way, several regulations in force protect the rights of citizens against the risks asso- ciated with its implementation.",
+        "The social and cultural dimension of- fers a comprehensive analysis on the development and implementation of ethical, diverse, and inclusive AI sys- tems.",
+        "The Ministry of Telecommunications (MINTEL) is currently leading efforts to shape a national AI policy, supported by initiatives from academia, civil society, and the private sector.",
+        "To achieve this goal, a thorough review of both offi- cial and alternative sources is carried out, allowing for a comprehensive under- standing of the country’s situation.",
+        "To achieve this purpose, various sourc- es of information are explored, among which the following stand out: Official State Sites: Review of data available on public institution websites through active trans- parency, as established by the LOTAIP.",
+        "Through this methodological process, the document of Ecuador’s State of Preparedness for Artificial Intelligence (AI) in Ecuador is generated, which seeks to present a comprehensive analysis of the challenges and oppor- tunities for the ethical use of AI in the country.",
+        "Additionally, there is currently no com- prehensive and robust public policy document from the executive branch that addresses this area."
+      ],
+      "gaps": [
+        "It is not accept- able that around a third of the world’s population still lacks adequate inter- net access.",
+        "The Recommendation also sets out concrete policy actions that governments can draw on to steer technological developments in a responsible direction, premised on the belief that light-touch regu- lation, which has until now remained the norm, is insufficient.",
+        "Prologue 11 ### Page 12 which results in fragmented efforts and a lack of strategic governance.",
+        "The report highlights the uneven availability of technical infrastruc- ture—particularly in rural areas— and the limited presence of detailed statistics on data centers and public data systems.",
+        "For example, while Ec- uador has a solid base of ICT gradu- ates, there remains a gap in training on the ethical and social dimensions of AI, and public entities often lack the internal capacity to collect and manage the data needed for in- formed decision-making.",
+        "The recommendations also stress the need to enhance digital literacy, promote equitable access to technology, and develop public-pri- vate-academic partnerships to sup- port innovation.",
+        "Currently, the country faces a lack of governance with a stra- tegic vision to promote responsible and sustainable ethical development and use.",
+        "However, the need to generate © Adobe FireFly One of the immediate challenges for AI in the country is the creation of a participatory governance environment.",
+        "However, as these are initiatives still in development, many legal adjustments are in the process of being implement- ed, while social learning processes linked to data culture and privacy are advancing more slowly.",
+        "However, there are persistent challenges, including educational dis- parities and unequal access to the in- ternet in urban and rural areas, or the lack of policies that promote diversity in the development of AI systems and ensure community participation in their governance."
+      ],
+      "key_stats": [
+        {
+          "stat": "73% \nof women use the Internet",
+          "context": "or, according to data from the International Telecommunication Union's (ITU) Gender Parity Index, 73% of women use the Internet, compared to 72.4% of men (ITU, 2023a). In terms of Internet use at the ",
+          "value": 73.0,
+          "unit": "%"
+        },
+        {
+          "stat": "72.4% of men",
+          "context": "Telecommunication Union's (ITU) Gender Parity Index, 73% of women use the Internet, compared to 72.4% of men (ITU, 2023a). In terms of Internet use at the territorial level, 81.1% of people in urban a",
+          "value": 72.4,
+          "unit": "%"
+        },
+        {
+          "stat": "81.1% of people in urban areas access",
+          "context": "ernet, compared to 72.4% of men (ITU, 2023a). In terms of Internet use at the territorial level, 81.1% of people in urban areas access the Internet, compared to 54.5% of the population in rural areas ",
+          "value": 81.1,
+          "unit": "%"
+        },
+        {
+          "stat": "54.5% of the \npopulation in rural areas",
+          "context": "net use at the territorial level, 81.1% of people in urban areas access the Internet, compared to 54.5% of the population in rural areas (ITU, 2023b). According to the results of the Glob- al Gender G",
+          "value": 54.5,
+          "unit": "%"
+        },
+        {
+          "stat": "8.03% of \nwomen graduate in science",
+          "context": "tion in rural areas (ITU, 2023b). According to the results of the Glob- al Gender Gap Report, only 8.03% of women graduate in science, technol- ogy, engineering, and mathematics (STEM), while 26.47% o",
+          "value": 8.03,
+          "unit": "%"
+        },
+        {
+          "stat": "26.47% of men obtain \ndegrees in these a",
+          "context": "only 8.03% of women graduate in science, technol- ogy, engineering, and mathematics (STEM), while 26.47% of men obtain degrees in these areas (World Eco- nomic Forum, 2021). The country does not have ",
+          "value": 26.47,
+          "unit": "%"
+        },
+        {
+          "stat": "73% of women \nuse the Internet",
+          "context": "Programme for Inter- national Student Assessment (PISA), which will be carried out for the first 73% of women use the Internet, compared to 72.4% of men. In Ecuador, according to data from the Interna",
+          "value": 73.0,
+          "unit": "%"
+        },
+        {
+          "stat": "72.4% of men",
+          "context": "ment (PISA), which will be carried out for the first 73% of women use the Internet, compared to 72.4% of men. In Ecuador, according to data from the International Telecommunica- tion Union's (ITU) Gen",
+          "value": 72.4,
+          "unit": "%"
+        },
+        {
+          "stat": "22%\nBasic Intermediate Sublevel\nBa",
+          "context": "actory Satisfactory Basic Elementary Sublevel Basic Elementary Sublevel 12% 21% 11% 24% 25% 24% 24% 22% Basic Intermediate Sublevel Basic Intermediate Sublevel 0% 1% 0% 2% 27% 19% 24% 17% Higher Basic",
+          "value": 22.0,
+          "unit": "%"
+        },
+        {
+          "stat": "17%\nHigher Basic Sublevel\nHigher B",
+          "context": "24% 25% 24% 24% 22% Basic Intermediate Sublevel Basic Intermediate Sublevel 0% 1% 0% 2% 27% 19% 24% 17% Higher Basic Sublevel Higher Basic Sublevel 0% 0% 0% 0% 60% 45% 57% 48% Source: INEVAL, 2024 Sou",
+          "value": 17.0,
+          "unit": "%"
+        },
+        {
+          "stat": "48%\nSource",
+          "context": "vel 0% 1% 0% 2% 27% 19% 24% 17% Higher Basic Sublevel Higher Basic Sublevel 0% 0% 0% 0% 60% 45% 57% 48% Source: INEVAL, 2024 Source: INEVAL, 2024 Ecuador: Artificial Intelligence Readiness Assessment ",
+          "value": 48.0,
+          "unit": "%"
+        },
+        {
+          "stat": "31\n\nInstitution",
+          "context": "ta Protection Authority. Ecuador: Artificial Intelligence Readiness Assessment Report 30 ### Page 31 Institutional Regulatory Plan for 2025, which indicates that the \"Regulation for the review and eva"
+        },
+        {
+          "stat": "803 institutions",
+          "context": "October 2, 2024 and, as of December 13 of that year, it had 167,268 regis- tered datasets from 1,803 institutions, both public and private (Ombudsman's Office, 2024). Version 2.0 of the portal can be "
+        },
+        {
+          "stat": "ranked 44th out of",
+          "context": "022 Global Data Barometer, compared to the global average score of 34 points. In addition, it is ranked 44th out of 195 countries in the Open Data Watch Open Data Inventory (ODIN) (2023). Although Ecu"
+        },
+        {
+          "stat": "ranked\n44th out\nof",
+          "context": "Global Data Barometer, compared to the global average score of 34 points. In addition, it is ranked 44th out of 195 countries in the Open Data Watch Open Data Inventory (ODIN) (2023). Ecuador: Artific"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "Advise on the identification and prioritization of Artificial Intelligence mechanisms and initiatives in Ecuador, to be implemented in 2025 within the framework of the Comprehensive Digital Agenda.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The right to the protection of personal data is recognized at the constitutional level in Article 66, paragraph 19, and the right to privacy is contemplated in paragraph 20 of the same Constitution (2008).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Among them is the principle of transparency in the use of data, recognized in Article 10.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Given that it is a modern regulation that is just beginning to be implemented in the country, it has not been subject to evaluation processes and such processes are not foreseen in the short term (Superintendence of Personal Data Protection, 2024).",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Although the Ombudsman's Office has not developed specific sectoral poli- cies or regulations for transparency in the use of AI systems to date, this in- stitution, in compliance with the Open Government Action Plan for the period 2022-2024, has created the National Transparency Portal (Ombudsman's Office, 2024).",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "On the other hand, Articles 37 to 46 of the LOPDP outline a set of guidelines for conducting con- tinuous verification, evaluation, and assessment of the efficiency, effica- cy, and effectiveness of the measures implemented to ensure and enhance the security of personal data process- ing (LOPDP, 2021).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Although Span- ish is the official language of Ecuador, Kichwa and Shuar are recognized as official languages in the context of in- terculturality (Constitution of the Re- public of Ecuador, 2008).",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "There are no reli- able figures on the number of AI-related postdoctoral graduates, as this level is not recognised by the Higher Education Council, nor is there a public registry maintained by universities.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "It remains to be seen how the regulation will be implemented and what incentives it will introduce to encourage AI adoption across different economic sectors.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Specific initiatives from academia and the private sector are also on the rise, as the importance of AI in society is recognized.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Therefore, it is necessary that the content of this policy be aligned with the bill that is currently advancing in the National Assembly, which could be built from tailored frameworks of IA based on regional debates such as PARLATINO Model Law and independent regional analysis such as Access Now´s Normative radiography (Access Now, 2024).",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Although technical standards have been implemented in accor- dance with Article 148 of the Organ- ic Code of the Social Economy of Knowledge, Creativity and Innova- tion, which establish an Information Technology Contracting System un- der the supervision of MINTEL, AI is mentioned only tangentially.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Responsible Institutions: Superintendence of Personal Data Protection, Ombudsman's Office Priority: Medium To date, no specific assessment or policy has been implemented on public policies related to AI-based cloud computing in Ecuador.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This regulation should aim to balance the promotion of innovation with the ef- fective protection of the country’s cultural, scientific, and creative heri- tage, with particular attention to na- tional authors and Indigenous peo- ples whose traditional knowledge is constitutionally recognized.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "It is recommended to incorporate an ethical approach in media and infor- mation literacy (MIL), recognized by UNESCO as a fundamental tool to promote critical thinking, civic partic- ipation and resilience to disinforma- tion.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "AI Companies",
+      "value": 25,
+      "unit": "count",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 15,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "executive_summary": "",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Establish AI laws and policies aligned with existing regulations",
+      "text": "Establish AI laws and policies aligned with existing regulations",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Implement safeguards for vulnerable groups through a differentiated risk approach In Ecuador, the policy for the use of AI continues to be a document under construction.",
+      "text": "Implement safeguards for vulnerable groups through a differentiated risk approach In Ecuador, the policy for the use of AI continues to be a document under construction. This situation, together with the dispersion of regulations related to digital issues, shows a fragmentation in AI competencies in the country (Ecuador Digital Observatory, 2024). Therefore, it is necessary that the content of this policy be aligned with the bill that is currently advancing in the National Assembly, which could be built from tailored frameworks of IA based on regional debates such as PARLATINO Model Law and independent regional analysis such as Access Now´s Normative radiography (Access Now, 2024). If the Artificial Intelligence Law is enacted, it is crucial that it has the sectoral regulations linked to the legal dimension of RAM. This consideration is intended to reform existing regulations, including the LOTDA, the RLOTDA and the specific regulations governing the Artificial Intelligence Committee. In this way, Ecuador must examine national proposals, such as the Guide to the Use of AI Artificial Intelligence Tools in the Superintendence of Economic Competition (SCE, 2025) Responsible Institutions: National Assembly of Ecuador, MINTEL Priority: High To establish a regulatory framework that regulates the use of AI holisti- cally, it is essential to include diverse groups in the discussion about their perspectives and needs. This inclu- sion is essential to prevent the am- plification of existing inequities and the creation of additional vulnera- bilities, as well as to ensure respect for the rights of all citizens. Currently, there is no evidence to support the participation of vulnerable groups in the formulation of the regulatory and policy framework for AI, nor its 77 National AI Strategy",
+      "dimension": "Establish AI laws and policies aligned with existing regulations",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Introduce financial and tax incentives to foster ethical AI development explicit mention in the criteria for the assessment and management of risks and their impact.",
+      "text": "Introduce financial and tax incentives to foster ethical AI development explicit mention in the criteria for the assessment and management of risks and their impact. In this sense, it is necessary to in- corporate specific safeguards for vulnerable populations and those groups historically excluded into the AI Law. These must be framed with- in a differentiated risk approach that allows for the visibility, evaluation and audit of the problems and risks de- rived from AI systems that may affect the population, especially in criti- cal areas such as health, education and the social sector. This approach necessarily aligns with ethical and rights-based approaches human rights, which allow for the delinea- tion of prevention, mitigation, repa- ration, and monitoring mechanisms (UNESCO, 2024d). The groups in- volved should be involved in the de- sign of such mechanisms, in order to ensure that the development and implementation of AI is carried out in an inclusive and equitable manner, thus protecting those who need it most. Responsible Institutions: National Assembly of Ecuador, MINTEL, Superintendence of Personal Data Protection Priority: High To strengthen Ecuador’s AI eco- system and encourage responsible innovation, it is crucial to introduce financial and tax incentives that sup- port the development, research, and deployment of ethical AI technolo- gies. These incentives can take the form of fiscal benefits for startups and companies that prioritize trans- parency, fairness, and inclusion in their AI systems, as well as for aca- demic institutions and civil society organizations engaged in ethical AI research. By promoting investment in ethical AI through public-private partnerships and targeted funding programs, Ecuador can stimulate local innovation while ensuring align- ment with international standards for human rights and digital ethics. Those could be included in the legal framework that is discussed in the National Assembly. Responsible Institutions: Minist",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Ensure personal data protection and privacy in AI systems",
+      "text": "Ensure personal data protection and privacy in AI systems",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Develop AI-specific procurement laws and policies",
+      "text": "Develop AI-specific procurement laws and policies",
+      "dimension": "Ensure personal data protection and privacy in AI systems",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Regulate the use of AI in legal proceedings In Ecuador, AI regulation in relation to the protection of personal data and privacy is found in an indirect way.",
+      "text": "Regulate the use of AI in legal proceedings In Ecuador, AI regulation in relation to the protection of personal data and privacy is found in an indirect way. The Personal Data Protection Law and its regulations cover a wide spectrum of application, establishing rights and obligations based on the best international practices in data protection. The governing body in charge of this area has the responsi- bility of guaranteeing the right to per- sonal data protection. This is one of the keys for guaranteeing an ethical use of AI during the whole life cycle. Responsible Institutions: National Assembly of Ecuador, Superintendence of Personal Data Protection Priority: High It is critical that Ecuador clearly de- velops laws and policies related to AI. Although technical standards have been implemented in accor- dance with Article 148 of the Organ- ic Code of the Social Economy of Knowledge, Creativity and Innova- tion, which establish an Information Technology Contracting System un- der the supervision of MINTEL, AI is mentioned only tangentially. There- fore, it is essential that the State de- fine an AI procurement system that promotes its ethical use, supported by public policies that support inno- vative public procurement processes in the public sphere. Responsible Institutions: SERCOP, National Assembly of Ecuador, MINTEL Priority: Medium It is key to regulate interaction with AI systems in judicial processes in Ecuador. At the moment, there is no procedural rule that requires users of the judicial system to be informed about their interaction with these systems. Although the principle of publicity of procedural information is 79 National AI Strategy present, it does not impose an active obligation to inform, which may com- promise access to justice. Therefore, the value of establishing a regulation that defines the ethical use of AI in the context of due process, since this is a critical sector for society. In this regard, it is valuable to follow the UN- ESCO Gui",
+      "dimension": "Develop AI-specific procurement laws and policies",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Define parameters for AI use in cybersecurity and content integrity",
+      "text": "Define parameters for AI use in cybersecurity and content integrity",
+      "dimension": "Develop AI-specific procurement laws and policies",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Promote the use of cloud services within the Regulation of the Digital and Audiovisual Transformation Law In the area of online safety and con- tent...",
+      "text": "Promote the use of cloud services within the Regulation of the Digital and Audiovisual Transformation Law In the area of online safety and con- tent integrity, it is essential to estab- lish standards that ensure that AI does not infringe on the right to free- dom of expression (UNESCO, 2017). Although the responsibility of online intermediaries is indirectly regulat- ed in Ecuador in the Law Reforming the Communications Law and, in the Telecommunications Law, it is imperative to develop policies that precisely regulate the ethical use of AI and that defend freedom of ex- pression in the country. The Super- intendence of Personal Data Protec- tion is responsible for ensuring the security of personal data stored on various portals, which indirectly but effectively contributes to the content integrity. Responsible Institutions: Superintendence of Personal Data Protection, Ombudsman's Office Priority: Medium To date, no specific assessment or policy has been implemented on public policies related to AI-based cloud computing in Ecuador. The above-mentioned Agreement is the only framework available for this matter. Therefore, it is necessary to raise the use of cloud services by Ministerial Agreement to a status that is part of the Regulations of the Digital and Audiovisual Transforma- tion Law, as well as other regulatory instruments of higher hierarchy. In addition, it is essential to involve the Ecuador: Artificial Intelligence Readiness Assessment Report 80 private sector in this policy, justifying its inclusion in the need to develop local capacities, promote innovation, guarantee security and security, as well as promote public-private co- operation schemes. Responsible Institutions: MINTEL Priority: Medium",
+      "dimension": "Define parameters for AI use in cybersecurity and content \nintegrity",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Establish clear intellectual property regulations for AI-generated content",
+      "text": "Establish clear intellectual property regulations for AI-generated content",
+      "dimension": "Define parameters for AI use in cybersecurity and content \nintegrity",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Integrate AI into labour reform discussions Ecuador should adopt clear regula- tions concerning works generated by artificial intelligence,...",
+      "text": "Integrate AI into labour reform discussions Ecuador should adopt clear regula- tions concerning works generated by artificial intelligence, distinguish- ing between fully automated out- puts with no substantial human input and those in which AI is used as an auxiliary tool. Legislation must clarify whether such content is eligible for copyright protection and, if so, de- termine the rightful rights holder— whether it be the model developer, the user, or another party. Addition- ally, it is recommended to regulate the use of copyrighted works for AI training, requiring prior consent, fair attribution, and the possibility of re- muneration for rights holders. This regulation should aim to balance the promotion of innovation with the ef- fective protection of the country’s cultural, scientific, and creative heri- tage, with particular attention to na- tional authors and Indigenous peo- ples whose traditional knowledge is constitutionally recognized. Responsible Institutions: National Assembly of Ecuador, SENADI (National Service for Intellectual Rights) Priority: Medium Labor regulation is a topic of constant debate in the country. It is crucial to consider the interrelationship be- tween the use of technology, process automation and employability in the context of labour reform, as well as the skills that need to be developed and their alignment with labour rights. Although currently the impact of AI on the labour sector is not evident, it is vital to recognize that this technolo- gy can increase productive efficiency, but it can also generate an increase in unemployment and informality. 81 National AI Strategy The Ministry of Labor must build la- bour reconversion policies that in- clude the promotion of digital com- petencies and skills in the use of AI. These initiatives should include training and awareness programs aimed at workers on the use of tech- nological tools and the implications of AI in the productive sector. At present, there is no national strate- gy ",
+      "dimension": "Establish clear intellectual property regulations for AI-generated \ncontent",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Broaden AI governance by involving multiple ministries, state levels, private sector, academia, and civil society Starting the path to implement par-...",
+      "text": "Broaden AI governance by involving multiple ministries, state levels, private sector, academia, and civil society Starting the path to implement par- ticipatory governance is essential to recognize the relevance of the private sector and academia in the economic dimension. This need highlights the importance of estab- lishing an approach that goes be- yond technical infrastructure and the role of the public sector. The integra- tion of actors linked to areas such as Ecuador: Artificial Intelligence Readiness Assessment Report 82 the labour market, investment, and competitiveness is required. In this context, the intervention of institu- tions such as the Ecuadorian Cham- ber of Innovation and Technology (CITEC), chambers of commerce, as well as academia and civil society organizations, becomes vital. Incor- porating these stakeholders ensures that issues related to production, re- search, citizen participation, and the protection of rights are adequately addressed in the discussion con- cerning the implications of artificial intelligence for Ecuadorian society. Therefore, it is recommended to ex- pand the stakeholder mapping con- ducted by MINTEL. Responsible Institutions: MINTEL, National Assembly of Ecuador, Chambers, Academy and Social Organizations Priority: High",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Empower MINTEL and SENESCYT to take a leading role in AI policy and coordination MINTEL is required to take a more active role in AI governance,...",
+      "text": "Empower MINTEL and SENESCYT to take a leading role in AI policy and coordination MINTEL is required to take a more active role in AI governance, focusing especially on closing gaps and gen- erating infrastructure and connectiv- ity policies, which are crucial for the advancement of AI in Ecuador. This involves resolving pending issues, such as the renewal of enabling ti- tles for mobile operators and the implementation of the 5G network, the application of which can signifi- cantly improve key sectors such as logistics. It is also urgent to reduce the digital divides that limit access to the Internet and the development of capacities in emerging technol- ogies. To achieve this, public policy instruments must incorporate com- ponents related to technological in- frastructure, equipment and training. The role of SENESCYT as the gov- erning body of the national science, technology, innovation and local knowledge system is vital for artic- ulating talent development policies, promoting applied research, and coordinating with higher education institutions, preventing duplications and maximising the potential of na- tional talent is underlined. Responsible Institutions: MINTEL and SENESCYT Priority: High 83 National AI Strategy",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Mainstream a transformative gender perspective in AI-related public policies and governance",
+      "text": "Mainstream a transformative gender perspective in AI-related public policies and governance",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Establish mechanisms for monitoring algorithmic and ethical transparency in AI At the regional level, most AI-related public policies, agendas,...",
+      "text": "Establish mechanisms for monitoring algorithmic and ethical transparency in AI At the regional level, most AI-related public policies, agendas, strategies and governance mechanisms do not explicitly or structurally incorporate fundamental elements that facili- tate the perspective of women and diverse groups in decision-making processes, as well as specific actions to address issues of inclusion, harm or bias (UNESCO, 2024c). Ecuador is no exception in this trend. It is urgent that MINTEL implement concrete mechanisms to integrate a transformative gender approach in the design, implementation and evaluation of AI public policies. Only in this way can ethical, fair and equi- table governance be achieved. Responsible Institutions: MINTEL, Ministry of Women and Human Rights, National Council for Gender Equality, Association of Municipalities of Ecuador. Priority: High In Ecuador, there are serious gaps in terms of information and account- ability, which reinforces the urgency to design regulatory and techni- cal frameworks for the continuous monitoring of algorithmic systems. Clear and accessible disclosure on the use of AI needs to be ensured, especially with regard to personal data. This helps to strengthen in- stitutional capacities to audit the algorithms used and to consolidate the country's active participation in regional initiatives such as ALTA, promoting common standards and technical cooperation. Finally, mechanisms can be estab- lished to ensure algorithmic trans- parency16 to assess the ethical im- 16 In 2024, the country joined the Latin American Alliance for Algorithmic Transparency (ALTA) and conducted its first algorithmic transparency study, which included 546 of 1675 state entities, representing 32.6% participation. 142 automated decision systems in public services were identified, of which 35.2% use personal data, but only 9 institutions report on this (Ombudsman's Office, 2024). Ecuador: Artificial Intelligence Readiness Assessment Report 84",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Ensure generation of high-quality and periodic AI-related information One of the challenges for the de- velopment of effective public poli- cies on...",
+      "text": "Ensure generation of high-quality and periodic AI-related information One of the challenges for the de- velopment of effective public poli- cies on AI and the digital society in Ecuador is the absence of consol- idated, up-to-date, and freely ac- cessible technical and statistical in- formation. Therefore, it is proposed to establish and strengthen a na- tional statistical system in telecom- munications, digital society, R+D, training and AI, which allows the production of relevant data such as the number of data centers, the economic impact of AI (including its contribution to GDP and intermedi- ate consumption), usage patterns, investments, training and other as- pects related to digital infrastruc- ture. This need is evident in the de- velopment of RAM for Ecuador and requires a framework of sustained inter-institutional cooperation be- tween INEC, as the governing body of the national statistical system, MINTEL, in charge of the digital sector, and SENESCYT, responsible for the National System of Science, Technology, Innovation. SENESCYT, in particular, must es- tablish mechanisms to collect, up- date and publish periodic and quality information on public and private in- vestment in R+D, as well as on human talent specialized in AI and AI ethics. This information should be accessi- ble both on a national portal and in international repositories (such as those of RICYT or the World Bank), which would allow monitoring the impact of policies and comparison over time between countries. Collab- oration and sustained engagement among these entities would help consolidate an open data ecosystem that underpins an evidence-based digital and scientific agenda. Responsible Institutions: MINTEL, INEC, SENESCYT Priority: High pact of AI in the provision of public services, prioritizing those institu- tions that apply AI in essential ser- vices, such as health and education, as well as in the allocation of social benefits, in contrast to administrative and transactional servi",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Promote coordination with transversal institutions on AI initiatives To facilitate participatory and effi- cient governance, and to cultivate a...",
+      "text": "Promote coordination with transversal institutions on AI initiatives To facilitate participatory and effi- cient governance, and to cultivate a culture of evaluation and monitoring, it is necessary to coordinate efforts with public sector actors in already established or developing spaces. For example, it is optimal to ensure the collaboration of entities such as ARCOTEL, INEC, INEN and SENA- DI to coordinate strategic actions. At the same time, cooperation with private sector actors and academia is imperative to create an enabling environment for AI adoption, devel- opment, and regulation. Responsible Institutions: MINTEL, ARCOTEL, INEC, INEN, SENADI Priority: Medium",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Strengthen the statistical system in telecommunications, emerging tech, and digital transformation One of the primary needs is the de- velopment and...",
+      "text": "Strengthen the statistical system in telecommunications, emerging tech, and digital transformation One of the primary needs is the de- velopment and strengthening of a robust statistical system, as well as relevant technical indicators, such as the number of data centers and the contribution of data centers to GDP. This aspect has been evidenced in the evaluation phase of the RAM in Ecuador (World Bank Group, 2024). The establishment of a framework for inter-institutional cooperation be- tween the National Institute of Statis- tics and Census (INEC) and MINTEL will facilitate the collection and im- provement of the collection of data and statistics on the use of AI. This, in turn, will strengthen the generation of evidence-based public policies. In addition, inter-institutional coor- dination with key entities such as SENESCYT and the Central Bank of Ecuador is required, to work on the construction and technical valida- tion of indicators related to emerging technologies, such as AI, and their impact on the economic sphere. These efforts are essential to en- sure a comprehensive and effective understanding of the role of AI in the country's development. Responsible Institutions: MINTEL, ARCOTEL, INEC, Central Bank of Ecuador. Priority: High Ecuador: Artificial Intelligence Readiness Assessment Report 86",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "Promote transparency and integrity in AI public procurement As part of a broader strategy to strengthen institutional integrity and transparency, it...",
+      "text": "Promote transparency and integrity in AI public procurement As part of a broader strategy to strengthen institutional integrity and transparency, it is recommended that Ecuador establish a national public registry of artificial intelligence contracts. This registry should doc- ument and systematize all acqui- sitions, developments, and agree- ments involving automated systems or algorithmic technologies entered into by public entities. It would serve as a proactive transparency tool, en- abling academic and social oversight of algorithm use in public adminis- tration. Additionally, it is advisable to include mandatory clauses on algorithmic accountability, non-dis- crimination, and transparency in pro- curement documents for AI systems, particularly in sensitive sectors such as health, justice, and security. Responsible Institutions: SERCOP, National Assembly of Ecuador, Comptroller General’s Office Priority: Medium",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Co-design a sectoral public policy agenda linking AI and environmental sustainability It is recommended to co-design a Sectoral Public Policy Agenda...",
+      "text": "Co-design a sectoral public policy agenda linking AI and environmental sustainability It is recommended to co-design a Sectoral Public Policy Agenda on AI and the environment, through a par- ticipatory process that integrates en- tities from the public, private and ac- ademic sectors. This agenda should follow the principles of proportional- ity (efficient use of data, energy and resources), precaution (prevention of negative impacts) and sustainability (continuous assessment of the hu- man, social, economic and ecologi- cal effects of AI, in line with the Sus- tainable Development Goals). This agenda should align regulations on emerging technologies with existing environmental policies, especially with regard to the use and consump- tion of natural resources, in line with the guidelines of the Circular Econ- omy White Paper of the Ministry of Environment, Water and Ecological Transition (MAATE). In this sense, MINTEL and MAATE must jointly articulate and lead an approach that links technological development with climate action, in- corporating environmental criteria in the design, training and application of AI systems. Also, it is important to strengthen Waste Electrical and Electronic Equipment (WEEE) man- agement strategies to maximize the social and environmental benefit of these technologies. Responsible Institutions: MINTEL, MAATE Priority: High 87 National AI Strategy",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "Develop strategic measures to align with international AI standards",
+      "text": "Develop strategic measures to align with international AI standards",
+      "dimension": "National AI Strategy",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "Include ethics and social implications of technology in higher education curricula The development of AI in Ecuador is related to various factors,...",
+      "text": "Include ethics and social implications of technology in higher education curricula The development of AI in Ecuador is related to various factors, includ- ing international technical standards established by bodies such as the International Standards Organization (ISO), the International Electrotechni- cal Commission (IEC) (ISO JTC1 IEC, 2025), and the Institute of Electrical and Electronics Engineers (IIEE). For this reason, it is necessary to carry out socialization processes with ac- tors such as companies, startups, universities and civil society orga- nizations, in order to discuss norms, standards and intellectual property at the national level. In addition to de- veloping complementary regulations that reflect the reality of the country. Responsible Institutions: MINTEL, MAATE Priority: Medium In the field of education, Ecuador has at least 45 higher education pro- grams specialized in AI, according to the website of the Council of Higher Education (CES, 2025). At the same time, there is a growing proliferation of continuing education initiatives aimed at a wider audience. Howev- er, most of these programs focus on technical itineraries, which are limited to the use of tools, leaving the impacts and social aspects of technology, and in particular of AI, almost unexplored. It is recommended to incorporate an ethical approach in media and infor- mation literacy (MIL), recognized by UNESCO as a fundamental tool to promote critical thinking, civic partic- ipation and resilience to disinforma- tion. This approach is not only limited to the understanding of traditional media content, but also empowers users to identify the biases inherent in AI systems, understand their basic functioning, and critically evaluate the provenance, intentionality, and consequences of artificially gener- ated texts, images, or audios (UNE- SCO, 2024d). Therefore, entities such as SENES- Capacity building Ecuador: Artificial Intelligence Readiness Assessment Report 88",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "Address and overcome technological determinism in educational and training approaches In Ecuador, there is a growing interest in incorporating artificial intelligence into education.",
+      "text": "Address and overcome technological determinism in educational and training approaches In Ecuador, there is a growing interest in incorporating artificial intelligence into education. However, many initia- tives tend to adopt a technologically deterministic perspective, focusing primarily on the tools rather than the socio-ethical implications of their use. It is essential to shift toward ed- ucational and training approaches that critically examine the broader impacts of AI on society, labor, and individual rights. Curricula at all levels should inte- grate interdisciplinary content that fosters digital literacy, ethical aware- ness, and critical thinking. Addition- ally, teacher training programs must include components on the social and cultural dimensions of technolo- gy. This will ensure that AI is not seen as a neutral or inevitable force, but as a human-centered tool shaped by collective values and democratic governance. Responsible Institutions: Ministry of Education, SENESCYT, Ministry of Labor, MINTEL Priority: High CYT, MINEDUC, MINTEL, universities and GADs must play a leading role in the design and implementation of courses and workshops that ad- dress these social dimensions. This includes the promotion of the ethical use of these technologies and media literacy (UNESCO, 2024d). Responsible Institutions: SENESCYT, MINEDUC, MINTEL, Universities and GAD Priority: High",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "Promote active engagement of the private sector in AI adoption and insights generation The private sector plays a central role in promoting an...",
+      "text": "Promote active engagement of the private sector in AI adoption and insights generation The private sector plays a central role in promoting an ethical use of AI in the country, so its participation must be increasingly proactive and committed to integrate the gener- ation of information into national statistics, which would facilitate evi- dence-based decision-making. This sector is instrumental in the adop- tion of new technologies and their 89 National AI Strategy application in various fields, and its commitment to the ethical use of AI is paramount to promote the appro- priate use of this technology at the national level. Thus, the approach to ethical use of AI should include strong private sector involvement, not restricted to public sector initia- tives alone. In terms of information collection, the private sector could invest in track- ing data related to R+D investment, as well as in contracting and imple- menting AI services. Actors such as CITEC and the Ministry of Produc- tion (Mipro) must assume a role that goes beyond the initial promotion and focus on the creation of informa- tion systems that provide evidence on the evolution and penetration of this technology in the market. Responsible Institutions: Private Sector Chambers, MINTEL Priority: High",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "Integrate ethics and social implications of technology in secondary education In Ecuador, secondary education programs are beginning to include...",
+      "text": "Integrate ethics and social implications of technology in secondary education In Ecuador, secondary education programs are beginning to include digital competencies; however, they often lack a critical perspective on the ethical and social implications of emerging technologies such as artificial intelligence. It is necessary to go beyond technical training and promote curricula that address is- sues such as algorithmic bias, data privacy, environmental impact, and digital rights. This integration should be interdisciplinary and adapted to the national context, with the aim of fostering responsible digital citizen- ship among youth. Including these topics early in the education system will contribute to a generation of in- formed users and creators of tech- nology who are capable of partici- pating in its ethical governance. Responsible Institutions: Ministry of Education, SENESCYT, Ombudsman's Office Priority: High Ecuador: Artificial Intelligence Readiness Assessment Report 90",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "Foster knowledge production on AI and ethics In the field of scientific knowledge production, Ecuador has generated 2,585 indexed publications, which is equivalent to 0.",
+      "text": "Foster knowledge production on AI and ethics In the field of scientific knowledge production, Ecuador has generated 2,585 indexed publications, which is equivalent to 0.015 publications per 100 inhabitants, considering a population of 17,715,301 inhabitants in 2022. Although this figure offers a starting point, its explanatory capac- ity is limited if it is not complemented by studies that analyse in detail the contents, impacts and applications of these publications. In view of this situation, it is recom- mended that SENESCYT and High- er Education Institutions implement a series of measures to strengthen and make the most of the existing re- search capacities in the country. First, bibliometric studies must be carried out to identify publication patterns, scientific collaboration networks and areas of specialization, facilitating more informed decision-making. In addition, it is suggested to devel- op institutional policies that promote the use of the scientific knowledge generated, promoting its application in local technological developments and solutions to specific problems. It is also imperative to have content on ethics and social studies of science and technology in the training of re- searchers and technicians, covering all educational levels. With these ac- tions, Ecuador can not only increase its scientific production, but also enhance its impact and relevance in society by promoting a cycle of knowledge that responds to local needs and contributes to the sus- tainable development of the country. Responsible Institutions: SENESCYT Priority: Medium",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "Enhance connections between national AI policies and local- level implementation Currently, the role, capacities, and resources of local governments...",
+      "text": "Enhance connections between national AI policies and local- level implementation Currently, the role, capacities, and resources of local governments in AI governance and management are virtually non-existent. Their role is not defined, which requires the implementation of mechanisms that ensure the representation of local levels in AI governance processes. It is important to develop data gov- ernance strategies for GADs that are using AI systems or automated procedures in the provision of pub- lic services, in order to ensure the transparency and explainability of these technologies. The inclusion of actors such as the Association of 91 National AI Strategy Municipalities of Ecuador (AME), the National Council of Provincial Gov- ernments (CONGOPE), the National Council of Rural Parish Governments (CONAGOPARE) and those GADs that present the greatest progress becomes a step to integrate the local level in this discussion. Responsible Institutions: MINTEL, AME, CONGOPE, CONAGOPARE, GAD Representatives Priority: Medium",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "Create a national repository of public algorithms It is recommended that Ecuador establish a national repository of public algorithms based on open...",
+      "text": "Create a national repository of public algorithms It is recommended that Ecuador establish a national repository of public algorithms based on open standards, consolidating informa- tion on algorithmic systems used or procured by state institutions. This repository must comply with securi- ty and data protection requirements and include technical documenta- tion, operational principles, training datasets, performance metrics, im- pact assessments, and mechanisms for oversight and redress. This is not intended as a passive storage platform, but rather as a tool for active transparency, citizen au- diting, regulatory improvement (e.g., input for regulatory sandboxes), and a driver for local experimentation and technological development. Its exis- tence would strengthen technologi- cal sovereignty, reduce dependence on algorithmic black boxes, and pro- mote open, trustworthy, and ethically grounded innovation. It would po- sition Ecuador as a regional leader in digital governance, aligned with international standards promoted by the OECD, UNESCO, and the Euro- pean Union. Responsible Institutions: MINTEL, National Assembly of Ecuador, Ombudsman's Office, Superintendence of Personal Data Protection Priority: High Ecuador: Artificial Intelligence Readiness Assessment Report 92",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "Bridge digital divides and promote inclusive digital transformation MINTEL has a central role in the ex- pansion of digital infrastructure.",
+      "text": "Bridge digital divides and promote inclusive digital transformation MINTEL has a central role in the ex- pansion of digital infrastructure. To achieve this goal, it is necessary to prioritize investment and coverage in rural areas, especially in the nego- tiation of investment contracts with companies that provide telephone and Internet services, where serious connectivity challenges remain. To address inequalities in access, use and appropriation of digi- tal technologies, it is essential to co-design a public policy instrument that integrates linguistic diversity with AI. This instrument should in- clude the creation of databases in Kichwa, Shuar and in the 14 ances- tral languages, ensuring their priority use in essential services based on AI and in automated decision-making processes. Likewise, multisectoral training and awareness-raising strategies must be designed and implemented that promote a critical understanding of the impacts, risks and challenges involved in the use of AI in sectors such as health, education, justice and the provision of social benefits. These actions will contribute to cre- ating a more inclusive society capa- ble of facing the transformations that technology imposes. Responsible Institutions: MINTEL Priority: Medium",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 29,
+      "title": "Develop AI-related skills for workforce retraining and adaptation AI skills and their integration into Ec- uador's economic and labor sectors are still limited.",
+      "text": "Develop AI-related skills for workforce retraining and adaptation AI skills and their integration into Ec- uador's economic and labor sectors are still limited. Currently, less than 1% of the professions in demand in the labour market are related to this sector (INEC, 2024d). Faced with this situation, it is essential to im- plement a job reconversion strategy that promotes effective collabora- tion between academia, the public sector and the private sector. This will strengthen AI capabilities and align them with global trends, thus facilitating a transformation of labor demand. Specifically, entities such as the Min- istry of Labor, SENESCYT, MINTEL, as well as universities and private sector companies, must play an ac- tive role in the creation of skills linked to AI. It is also critical to consider the 93 National AI Strategy occupational risks associated with the adoption of new technologies, which could replace jobs. Anticipat- ing these challenges would allow for the development of strategies that mitigate job losses, promoting labor reconversion initiatives that prepare workers for new opportunities in a constantly evolving market. Responsible Institutions: Ministry of Labor, SENESCYT, MINT- EL, academia, CITEC Priority:Medium © Freepik Ecuador: Artificial Intelligence Readiness Assessment Report 94 Bibliography Access Now. (2024). Normative radiography: where, what and how is Artificial Intelligence being regulated in Latin America? Report on public policies on AI in Latin America. ARCOTEL. (2024a). Fixed and mobile internet subscribers and users. Ecuador. ARCOTEL. (2024b). Active lines by service and density. Answer to request for information for RAM methodology. Ecuador. ARCOTEL. (2025). Official Letter No. ARCOTEL- CREG-2025-0003-OF. Ecuador. Association for Computing Machinery. (n.d.). ACM FAccT. ACM FAccT. Retrieved December 18, 2024, from https://facctconference.org/ Barragán, X. (2023). Situation of Artificial Intelligence in Ecuador in relation to t",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 2020,
+      "title": "Ecuador. MINTEL (2021). Diagnosis of Artificial Intelligence in Ecuador. Ecuador. MINTEL (2022a). Ministerial Agreement No. MDT- 2022-142. Ecuador....",
+      "text": "Ecuador. MINTEL (2021). Diagnosis of Artificial Intelligence in Ecuador. Ecuador. MINTEL (2022a). Ministerial Agreement No. MDT- 2022-142. Ecuador. MINTEL (2022b). Ministerial Agreement No. MINTEL-MINTEL-2022-0021. Ecuador. MINTEL (2022c). Ministerial Agreement No. MINTEL-MINTEL-2022-0032. Ecuador. MINTEL (2022d). Digital Transformation Agenda 2022-2025. Ecuador. MINTEL (2022e). Report on the results of the survey applied to institutional open data managers for the evaluation of the Open Data Policy and Guide. MINTEL (2022f). National Plan for Public Sector Education and Training 2022-2025. Ecuador. MINTEL (2022g). Policy for the Digital Transformation of Ecuador 2022-2025. www. gobiernoelectronico.gob.ec/wp-content/ uploads/2025/03/INSTRUMENTO-Politica- Publica-para-la-Transformacion-Digital-Ecuador- 2025-2030-MINTEL-signed_f.pdf. Ecuador. MINTEL (2023a). Ministerial Agreement 2023-",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "MINTEL https://www.telecomunicaciones. gob.ec/wp-content/uploads/2023/08/mintel- mintel- 2023-00150928737001689010972.pdf. Ecuador. MINTEL (2023b)....",
+      "text": "MINTEL https://www.telecomunicaciones. gob.ec/wp-content/uploads/2023/08/mintel- mintel- 2023-00150928737001689010972.pdf. Ecuador. MINTEL (2023b). Official Gazette No. 020. Ecuador. MINTEL (2024a). Minutes of Qualification and Selection of applicants to form the Artificial Intelligence Committee. Ecuador. MINTEL (2024b). Ministerial Agreement No. MINTEL-MINTEL-2024-0014. Ecuador. MINTEL (2024c). Official Letter No. MINTEL- DFTE-2024-0039-O. Ecuador. MINTEL (2024d). Draft Policy Project for the Development and Ethical and Responsible Use of Artificial Intelligence in Ecuador. Ecuador. MINTEL (2025). Digital Transformation Agenda 2025-2030. Ecuador. MSP. (2016). Manual of Health Care for Lesbian, Gay, Bisexual, Transgender, and Intersex (LGBTI) People. https://www.salud.gob.ec/wp- content/ uploads/2017/01/manual-lgbti-29-de-nov-2016_ mod.pdf. Ecuador. 99 Bibliography MSP. (2023). Digital Health Agenda 2023 -",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 2027,
+      "title": "https://www.salud.gob.ec/wp- content/ uploads/2023/06/Manual_Agenda_Digital_2023_ Seg.pdf. Ecuador. National Assembly of Ecuador. (2008)....",
+      "text": "https://www.salud.gob.ec/wp- content/ uploads/2023/06/Manual_Agenda_Digital_2023_ Seg.pdf. Ecuador. National Assembly of Ecuador. (2008). Constitution of the Republic of Ecuador. Official Gazette No. 449. https://www.oas.org/juridico/ pdfs/mesicic4_ecu_const.pdf. Ecuador. National Assembly of Ecuador. (2008). Organic Law of the National Public Procurement System. Official Gazette Supplement No. 395. Ecuador. National Assembly of Ecuador. (2010). Organic Law on Higher Education. Official Gazette Supplement No. 298. https://www.ces.gob.ec/ documentos/Normativa/LOES.pdf. Ecuador. National Assembly of Ecuador. (2014). Comprehensive Organic Criminal Code. Official Gazette No. 180. Ecuador. National Assembly of Ecuador. (2015). General Organic Code of Processes. Official Gazette Supplement 506. Ecuador. National Assembly of Ecuador. (2015). Organic Law on Telecommunications. Official Gazette No.",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 439,
+      "title": "Ecuador. National Assembly of Ecuador. (2016). Organic Law of Culture. Official Gazette Supplement No.",
+      "text": "Ecuador. National Assembly of Ecuador. (2016). Organic Law of Culture. Official Gazette Supplement No.",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 913,
+      "title": "Ecuador. National Assembly of Ecuador. (2022). Organic Law Reforming the Organic Law on Communication. Official Gazette Supplement No.",
+      "text": "Ecuador. National Assembly of Ecuador. (2022). Organic Law Reforming the Organic Law on Communication. Official Gazette Supplement No.",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 188,
+      "title": "Ecuador. National Assembly of Ecuador. (2021). Organic Law on the Protection of Personal Data. Official Gazette No. 70. Ecuador. National Assembly of...",
+      "text": "Ecuador. National Assembly of Ecuador. (2021). Organic Law on the Protection of Personal Data. Official Gazette No. 70. Ecuador. National Assembly of Ecuador. (2023). Organic Law on Transparency and Access to Public Information. Official Gazette No. 245. Ecuador. National Assembly of Ecuador. (2023). Organic Law for Digital and Audiovisual Transformation. Official Gazette Third Supplement No. 245.pdf. Ecuador. National Congress of Ecuador. (1976). Statistics Law. Supreme Decree No. 323. Official Gazette No.",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Ecuador. ODC. (2024). Government adopters IODC. https:// opendatacharter.org/government- adopters/ OECD. AI Policy Observatory. (2024). Live data...",
+      "text": "Ecuador. ODC. (2024). Government adopters IODC. https:// opendatacharter.org/government- adopters/ OECD. AI Policy Observatory. (2024). Live data from OECD. AI. Live Data from OECD. AI. https:// oecd.ai/en/data Ombudsman's Office. (2024). Memorandum No. DPE-DPE-2024-0186-M. Ecuador. Ombudsman's Office. (2024). The first study of public algorithms and algorithmic transparency Ecuador: Artificial Intelligence Readiness Assessment Report 100 is presented in Ecuador. https:// www.dpe.gob. ec/el-primer- study-of-public-algorithms-and- algorithmic-transparency-is-presented-in-the- ecuador/. Ecuador. Open Data. (2024). Open Data Catalogue. https:// www.datosabiertos.gob.ec/normativa/ Open Data Watch. (2023). Open Data Inventory. https://odin.opendatawatch.com Open Government Ecuador. (2020). First Open Government Action Plan Ecuador 2019-2022. Open Government Ecuador. (2023). Second Open Government Action Plan Ecuador 2022-",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 2024,
+      "title": "Open Government Partnership.",
+      "text": "Open Government Partnership. (2024). Ecuador. https://www.opengovpartnership.org/members/ ecuador/ PARLATINO. (2017). Model Law on Artificial Intelligence for Latin America and the Caribbean. Panamá. Pillalaza, C. (2023). Preliminary analysis of the 2022 CENSUS with a Peoples and Nationalities Approach. INEC. https://www. secretariapueblosynacionalidades.gob.ec/wp- content/uploads/2023/12/Presentacion-CENSO- 2022-Pueblos-y-Nacionalidades.pdf Presidency of the Republic of Ecuador. (2009). General Regulations to the Organic Law of the National Public Procurement System. Official Gazette Supplement No. 588. Ecuador. Presidency of the Republic of Ecuador. (2020). Regulations for the Acquisition of Software by Public Sector Contracting Entities. Decree No.",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 1073,
+      "title": "Official Gazette No. 7. Ecuador. Presidency of the Republic of Ecuador. (2022). General Regulations to the Organic Law of the National Public...",
+      "text": "Official Gazette No. 7. Ecuador. Presidency of the Republic of Ecuador. (2022). General Regulations to the Organic Law of the National Public Procurement System. Official Gazette Second Supplement No. 87. Ecuador. Presidency of the Republic of Ecuador. (2023). Regulations of the Organic Law on Digital Transformation. Official Gazette Second Supplement No. 350. Ecuador. Presidency of the Republic of Ecuador. (2023). Regulations of the Organic Law on the Protection of Personal Data. Official Gazette No. 16. Ecuador. RICYT. (2023). Indicators. Ecuador 2013-",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    },
+    {
+      "number": 2022,
+      "title": "https://app.ricyt.org/ui/v3/bycountry. html?country=EC&subfamily=ESUP_EST&star t_year=2013&end_year=2022 SENADI. (2024). Official Letter No. SENADI-...",
+      "text": "https://app.ricyt.org/ui/v3/bycountry. html?country=EC&subfamily=ESUP_EST&star t_year=2013&end_year=2022 SENADI. (2024). Official Letter No. SENADI- DG-MA- 2024-0114-OF. National Service of Intellectual Rights. Ecuador. SENADI. (2025). Resolution No. SENADI- 101 Bibliography DNDAYDC-2025-0002-NT. National Service of Intellectual Rights. Ecuador. SENESCYT. (2020). Annual Bulletin. Higher Education, Science, Technology and Innovation. https://www.educacionsuperior.gob.ec/wp- content/uploads/2020/09/Boletin_Anual_ Educacion_Superior_Ciencia_Tecnologia_I nnovacion_Agosto2020.pdf. Ecuador. SENESCYT. (2024a). President Noboa announces Teacher Training Plan to strengthen Higher Technical Education. https://www. educacionsuperior.gob.ec/el- president-noboa- announces-teacher-training-planto-strengthen- higher-technical-education/. Ecuador. SENESCYT. (2024). Official Letter No. SENESCYT-SGCT-SIITT-2024-0534-CO. Ecuador. SENESCYT. (2024b). Scholarship Program in Information and Communication Technologies for the Reduction of the Digital Divide. https://siau.senescyt.gob.ec/wp-content/ uploads/2024/09/20240909_bn-mintel2024- bases.pdf. Ecuador. SENESCYT. (2024c). With the Atenea Program, SENESCYT strengthens actions that break gender gaps in Higher Education, Science, Technology and Innovation. https://www.educacionsuperior. gob.ec/con-el-programa-atenea-senescyt- strengthen-actions-that-break-the-gender-gaps- in-higher-education- science-technology-e- innovation/. Ecuador. SERCOP. (2023a). Methodology for the Declaration and Verification of Ecuadorian Value in Software. Ecuador. SERCOP. (2023b). Resolution No. R.E- SERCOP-2023-0134. Ecuador. SNP. (2021). Open Data Indicators Datasheets. SPDP. (2024). Official Letter No. SPDP-SPDP- 052-2024-OF. SPDP. (2025). Resolution No. SPDP-SPD-2025-0002-R. Ecuador. SPDP. (2024). Official Letter No. SPDP-SPDP- 052-2024-OF. Ecuador SPDP. (2025). Resolution No. SPDPSPD-2025- 0002-R. Ecuador SPEEDTEST. (2025). Speedtest Global Index. https://",
+      "dimension": "Develop strategic measures to align with international AI \nstandards",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 39,
+  "page_count": 104,
+  "rankings_indices": [
+    {
+      "context": "According to the 2021 Global Cybersecurity Index published by the International Telecommunication Union (ITU), Ecuador ranks 10th, where rank 1 represents the least cybersecure country, and rank 75 the most cybersecure.",
+      "index_name": "Global Cybersecurity Index",
+      "rank": 10,
+      "year": 2021
+    },
+    {
+      "context": "When it comes to Open Data, Ecua- dor achieves a score of 35 in the 2022 Global Data Barometer, compared to the global average score of 34 points.",
+      "index_name": "Global Data Barometer",
+      "score": 35.0,
+      "year": 2022
+    },
+    {
+      "context": "In addition, it is ranked 44th out of 195 countries in the Open Data Watch Open Data Inventory (ODIN) (2023).",
+      "index_name": "Open Data Inventory",
+      "rank": 44,
+      "total_countries": 195,
+      "year": 2023
+    },
+    {
+      "context": "035-2020, 2020 Ecuador achieves a score of 35 in the 2022 Global Data Barometer, compared to the global average score of 34 points.",
+      "index_name": "Global Data Barometer",
+      "score": 35.0,
+      "year": 2020
+    },
+    {
+      "context": "Participation and public trust Ecuador has a score of 0.88 in the Online Services Index and ranks third among countries in the Americas, be- hind only the United States and Brazil (United Nations, 2024).",
+      "index_name": "Online Services Index",
+      "score": 0.88,
+      "year": 2024
+    }
+  ]
+}

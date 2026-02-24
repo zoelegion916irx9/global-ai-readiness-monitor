@@ -1,0 +1,632 @@
+{
+  "country_code": "AG",
+  "country_name": "ANTIGUA \nAND BARBUDA",
+  "language": "en",
+  "metadata": {
+    "page_count": 49,
+    "creation_date": "D:20250507154922-04'00'",
+    "modification_date": "D:20250515135622+02'00'",
+    "country_name": "ANTIGUA \nAND BARBUDA",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Legal/ Regulatory 3 Develop AI-specific regulation building emphasizing Impact Assessments for high-risk AI applications to evaluate their societal, economic, and legal implications.",
+        "Medium 2026 - Ministry of Legal Affairs, Public Safety, Immigration and Labour - Ministry of Foreign Affairs 4 Amend existing laws such as the Data Protection Act (2013) and the Electronic Crimes Act (2013), to address AI-specific issues like data minimization requirements, algorithmic transparency,",
+        "High 2025 5 Create a Multi-stakeholder AI governance committee/ task force to propel and define AI regulation High 2025 - Appointed AI focal Point.",
+        "- Ministry of ICTs, Utilities & Energy - Cabinet 6 Collaborate regionally and internationally to align AI governance with best practices (e.g., UNESCO, OECD).",
+        "Medium 2025-2026 - Ministry of Foreign Affairs 7 Align AI regulation with broader digital transformation frameworks.",
+        "Medium 2025-2026 - Ministry of ICTs Utilities & Energy Capacity Building 8 Develop training material and specialised certification programmes, workshops for policymakers and AI regulators on AI governance and data privacy.",
+        "Medium 2025 - Ministry of Education, Sports & Creative Industries - Ministry of ICTs Utilities & Energy 9 Develop curricula to attract and retain underrepresented groups with gender-sensitive AI programmes and mentorship opportunities.",
+        "Medium 2027 - Ministry of Education, Sports & Creative Industries 10 Establish AI research units, foster international collaborations, and offer research grants."
+      ],
+      "strengths": [
+        "Low 2028 - Ministry of ICTs Utilities & Energy - Ministry of Finance - Private Sector Institutional Framework 14 Build centralised data infrastructure with robust privacy/security policies and data-sharing frameworks.",
+        "Snapshot: 2024 update of Internet download speeds across the Caribbean | ICT Pulse – The leading technology blog in the Caribbean."
+      ],
+      "gaps": [],
+      "key_stats": [],
+      "regulations": [
+        {
+          "name": "Data Protection Act",
+          "year": "2013",
+          "status": "enacted"
+        },
+        {
+          "name": "Electronic Crimes Act",
+          "year": "2013",
+          "status": "enacted"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "SOCIAL AND CULTURAL DIMENSION UNESCO, in 2019 reported that AI systems may reinforce harmful gender norms and stereotypes, such as endorsing the subjugation of women in positions of servitude.",
+        "The social and cultural dimension focus on factors ensuring inclusiveness and social and cultural diversity, public awareness and values related to the scaling up of ethical AI solutions.",
+        "Ensuring that AI systems do not contribute to the amplification of structural bias.",
+        "DIVERSITY, INCLUSION AND EQUALITY According to recent data from the International Telecommunication Union (ITU), in regions with higher internet usage, such as the Americas, gender parity in internet access has been achieved or is near achievement.",
+        "Female students in STEM disciplines reported feeling isolated in Computing, Engineering, and Data Science classes, which are often male-dominated, both in terms of students and instructors.",
+        "In terms of trust in AI, many participants of the multistakeholder consultations expressed scepticism about AI, particularly among older audiences who remain cautious about fully relying on AI systems.",
+        "In contrast, younger individuals – who also engaged in a dedicated youth-focused consultation - are more enthusiastic about AI but raised concerns about over-reliance.",
+        "Public trust in both government websites and AI can be built through transparency, regular updates, and clear communication."
+      ],
+      "strengths": [
+        "Implementing robust cybersecurity measures to protect government systems and citizen data.",
+        "Strengthening public-private partnerships by collaborating with the private sectors and academic institutions to develop innovative e-government solutions.",
+        "Health and well-being are fundamental values of responsible AI, which should be advanced by ensuring that the quality of life for both individuals and communities is protected and enhanced throughout all stages of the AI life cycle.",
+        "The Ministry of Health is leading efforts to implement electronic health records, allowing for improved patient care and more efficient data handling.",
+        "Additionally, telemedicine initiatives have been launched, particularly to support residents in remote areas, enhancing healthcare accessibility and responsiveness."
+      ],
+      "gaps": [
+        "This section therefore focuses on issues of gender inequality and the bias that may arise from a lack of representativity in datasets and embedded biases in algorithmic systems, due to a lack of diversity and gender equality in the teams designing and producing AI systems.",
+        "However, it is essential to note that while Antigua and Barbuda and many Caribbean nations show progress, disparities still exist in terms of meaningful internet access, including affordability, digital literacy, and the ability to leverage online resources effectively, which can also contribute to ",
+        "In some countries, such as Trinidad and Tobago and Barbados, women make up only a minority of STEM graduates, despite women being the majority in overall tertiary education enrolment.",
+        "Despite strong academic performance in science and mathematics, many girls do not envision a future in STEM careers, often due to societal expectations and gender stereotypes.",
+        "Participants highlighted cultural factors as a root cause, with certain subjects being perceived as «male-oriented» from an early stage of education, while others are labelled as «feminine,» further widening the gap in STEM preparedness among college-bound students.",
+        "Although it doesn’t directly mention AI, it could potentially guide the creation and implementation of AI solutions in fields such as environmental surveillance, resource administration, and pollution mitigation.",
+        "However, the sustainability of AI itself, particularly its carbon footprint and energy use, also needs attention.",
+        "Currently, there is no digital health policy, however, Antigua and Barbuda is actively pursuing digital transformation across its health sector, aiming to enhance access to healthcare and streamline data management through technology.",
+        "CULTURE There is lack of specific policies in Antigua and Barbuda regarding AI for cultural heritage preservation.",
+        "The discussion highlighted the importance of community participation as the foundation of digital development, emphasizing the need for greater citizen engagement through technology-driven initiatives."
+      ],
+      "key_stats": [
+        {
+          "stat": "70% men vs",
+          "context": "ncome or less developed regions. While global averages show men using the internet more than women (70% men vs. 65% women), small island nations have a parity score close to 0.97, and in some cases, w",
+          "value": 70.0,
+          "unit": "%"
+        },
+        {
+          "stat": "65% women",
+          "context": "s developed regions. While global averages show men using the internet more than women (70% men vs. 65% women), small island nations have a parity score close to 0.97, and in some cases, women even ou",
+          "value": 65.0,
+          "unit": "%"
+        },
+        {
+          "stat": "35% of STEM graduates are women",
+          "context": "nology, Engineering, and Mathematics) fields at the tertiary education level. Globally, only about 35% of STEM graduates are women, with this figure remaining stagnant over the past decade. The situat",
+          "value": 35.0,
+          "unit": "%"
+        },
+        {
+          "stat": "22% of top",
+          "context": "tion enrolment. The OECD’s Programme for International Student Assessment (PISA) 2018 revealed that 22% of top-performing boys in science and mathematics expected to work in STEM-related professions b",
+          "value": 22.0,
+          "unit": "%"
+        },
+        {
+          "stat": "12% of top",
+          "context": "n science and mathematics expected to work in STEM-related professions by age 30, compared to only 12% of top-performing girls. This trend extends to the Caribbean, where countries like Jamaica, the B",
+          "value": 12.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "The scientific and educational aspect of the RAM evaluates the nation’s current capacity in AI research alongside the state of AI-related education.",
+        "Among countries with reported data, Trinidad and Tobago had the GERD of 0.06 in 2019, while Cuba recorded the highest at 0.52 in 2020 (Trading Economics, n.d.).",
+        "Antigua and Barbuda does not have a well-established or any reported data on the GERD.",
+        "Like many data-scarce regions, this data is available but not readily harvested.",
+        "Summary of GERD as a Percentage of GDP for Caribbean SIDS COUNTRY 2016 2017 2018 2019 2020 2021 Antigua and Barbuda - - - - - - Cuba 0.34 0.43 0.54 0.55 0.52 0.32 Trinidad and Tobago 0.09 0.09 0.08 0.06 0.06 0.05 LATAM 0.65 0.58 0.59 0.6 0.59 0.55 SIDS 1 0.96 0.95 0.98 1.09 0.72 24 RESEARCH OUTPUT T",
+        "There is no data on AI research output, nor are there publications at the Association for Computing Machinery (ACM) Conference on Fairness, Accountability, and Transparency (FAccT).",
+        "In terms of AI research output, OECD data is visualised in the graph in Figure 3.",
+        "The solid blue line represents the number of AI research publications from Antigua and Barbuda."
+      ],
+      "strengths": [
+        "While the zero-budget allocation is alarming, it highlights the opportunity to better align developmental agendas with robust and rigorous scientific research.",
+        "Larger Caribbean countries such as Trinidad and Tobago, Jamaica, and the Dominican Republic have significantly higher publication numbers, suggesting a more established AI research ecosystem.",
+        "EDUCATION INFRASTRUCTURE According to a report by the International Telecommunication Union (ITU), internet connectivity in educational institutions has reached impressive levels in the country.",
+        "The ITU revealed that 90% of primary schools now have access to the internet, showcasing significant progress in bridging the digital divide for younger learners.",
+        "Additionally, the report highlighted that at least 95% of lower secondary schools are also connected to the internet, indicating a strong commitment to ensuring that older students can leverage online resources for their education.",
+        "These are commendable progress in connectivity, it was noted that Antigua and Barbuda has the ambition of providing every student with a personal laptop.",
+        "In addition to this minor, the campus has launched a programme in Generative Pharmacy, which is deeply rooted in AI principles.",
+        "While collecting such data could be relatively straightforward, there are currently no established mechanisms to track and systematically gather this type of information.",
+        "Institutions like the newly established University of the West Indies (UWI) Five Islands Campus have data on their cohorts, with a total of ten graduates since 2023.",
+        "Similarly, the number of advanced degrees holders such as Ph.D."
+      ],
+      "gaps": [
+        "Antigua and Barbuda lacks documented or readily shared data on GERD in natural sciences and engineering as a share of GDP.",
+        "According to data from Trading Economics website, Trinidad and Tobago does not specify gross expenditure on research and development on natural sciences and engineering as a share of gross domestic product, but the GERD was reported to be 0.05382% of the GDP in 2021; 13.19 USD million.",
+        "According to the 2024 Budget statement, Antigua and Barbuda does not have any publicly released data on Government Budget Allocations for Research and Development (GBARD).",
+        "Despite the current trends, Antigua and Barbuda has the potential to increase its AI research output by: • Collaborating with other Caribbean nations with stronger AI research programmes and facilitating knowledge sharing and joint research projects.",
+        "AI research in the region is generally limited, with ethical AI research being a relatively new area of focus.",
+        "This underscores the need to enhance capacity in this domain.",
+        "Overall, limited data on AI talent and innovation in the Caribbean makes it challenging to assess the region’s capabilities accurately.",
+        "Antigua and Barbuda does not have any laws or policies on how educators/professors should be trained to teach about AI/technology.",
+        "The government supports capacity building of its workers and teachers by offering scholarships and study leave; however, the field of study depends on the recipient.",
+        "The government system currently lacks mechanisms for defining AI in education or training AI educators."
+      ],
+      "key_stats": [
+        {
+          "stat": "1% of the GDP to Gross Expenditure o",
+          "context": "velopment Goals (SDGs), countries such as those in the Caribbean have pledged to dedicate at least 1% of the GDP to Gross Expenditure on Research and Development (GERD) to support research and innovat",
+          "value": 1.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.05382% \nof the GDP in",
+          "context": "ural sciences and engineering as a share of gross domestic product, but the GERD was reported to be 0.05382% of the GDP in 2021; 13.19 USD million. There are no resident units performing research and ",
+          "value": 0.05382,
+          "unit": "%"
+        },
+        {
+          "stat": "90% of primary schools now have acces",
+          "context": "ty in educational institutions has reached impressive levels in the country. The ITU revealed that 90% of primary schools now have access to the internet, showcasing significant progress in bridging t",
+          "value": 90.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of lower \nsecondary schools are a",
+          "context": "ridging the digital divide for younger learners. Additionally, the report highlighted that at least 95% of lower secondary schools are also connected to the internet, indicating a strong commitment to",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0% of Antigua and Barbuda",
+          "context": "According to the World Bank’s development indicators (2023), high-technology exports accounted for 0% of Antigua and Barbuda’s manufactured exports. While the gaming sector might contribute to high-te",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "$4.790 million",
+          "context": "CONSUMPTION In 2023, Antigua and Barbuda’s credit data for computer and information services was US$4.790 million, which is an increase from 2022’s US$4.604 million (IMF, 2023). Details on historical ",
+          "value": 4790000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$4.604 million",
+          "context": "ata for computer and information services was US$4.790 million, which is an increase from 2022’s US$4.604 million (IMF, 2023). Details on historical share of the Balance of Payment for Telecommunicati",
+          "value": 4604000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "Stakeholder consultations also explored opportunities for leveraging AI for social good.",
+        "Key thematic areas were identified based on discussions about addressing critical national challenges through AI.",
+        "Government efficiency and economic diversification Stakeholders identified these as key areas where AI could be prioritised at the national level, ensuring a focused AI agenda that aligns with local interests and supports Antigua and Barbuda’s national development goals.",
+        "While the nation benefits from a strong human rights record and a legal system that upholds the rule of law, gaps in AI governance remain evident.",
+        "Existing legislation, such as the Data Protection Act (2013), Electronic Crimes Act of 2013, and Freedom of Information Act, 2004, offers a foundational basis for addressing emerging technological challenges.",
+        "The RAM highlighted critical gaps in access to high-quality training for the general public, policymakers, and AI regulators.",
+        "For the social and cultural aspect, AI systems risk reinforcing gender stereotypes, necessitating efforts to ensure inclusiveness in the AI ecosystem.",
+        "Consequently, investments are necessary to promote inclusivity in STEM and AI education while addressing societal barriers that perpetuate these disparities."
+      ],
+      "strengths": [
+        "The institutional framework is not robust, and professional communities remain underdeveloped.",
+        "Furthermore, Antigua and Barbuda is among the 11 countries leading the Commonwealth Artificial Intelligence Consortium, an initiative under the Commonwealth Secretariat’s Strategic Plan 2021-2025, to harness AI for sustainable development.",
+        "Available at https://www.unesco.org/en/artificial-intelligence/recommendation-ethics Given AI’s potential to amplify societal biases and cause harm on a larger scale, it is essential to establish robust mechanisms to govern its lifecycle.",
+        "Antigua and Barbuda’s Data Protection Act, enacted in 2013, provides a framework for data protection and grants individuals control over their personal data.",
+        "There are no established standards or certification processes for AI vendors to ensure their compliance with ethical guidelines or technical requirements.",
+        "FREEDOM OF INFORMATION ACTS/ ACCESS TO KNOWLEDGE ACTS Antigua and Barbuda holds an impressive 20th place out of 140 countries in the Global Right to Information (RTI) ranking.",
+        "Available at: https://ctu.int/ctu- partners-to-connect-for-ict-enabled-development-in-the-caribbean/ According to the World Bank’s GovTech Maturity Index 2022 report, Globally, “One hundred and five economies (53 percent) declared having a coordinating body such as a steering committee or a council "
+      ],
+      "gaps": [
+        "However, the government has indicated its potential approach to AI policy and regulation by appointing an official as the AI policy focal point and expressing plans to review the European Union (EU) AI regulatory framework.",
+        "However, these regulations require amendment to remain effective in the evolving AI landscape.",
+        "Additionally, Antigua and Barbuda recognises AI’s potential in preserving culture and traditions and enhancing citizen engagement, but policy updates are needed to address intellectual property and ethical concerns.",
+        "Antigua and Barbuda faces challenges in research funding and limited AI research output.",
+        "Despite efforts like hosting AI conferences and offering Data Science curricula at the University of the West Indies, there is a significant gap in AI-related curriculum at primary and secondary school.",
+        "There is a need to foster research collaboration, enhancing STEM and AI education and strengthening data collection on educational outcomes.",
+        "For the economic aspects, Antigua and Barbuda lacks a national strategy to address AI’s impact on the labour market.",
+        "Data capacity and government technological services remain limited, but recent digital development initiatives aimed at a 2030 target present an opportunity to align with AI adoption.",
+        "However, affordability remains a challenge that must be addressed to ensure equitable access to AI-driven technologies.",
+        "Political or societal resistance may arise due to potential job losses in industries reliant on routine tasks, highlighting the need for retraining and upskilling programmes."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranking 142nd out of",
+          "context": "nd last among the assessed countries in the Americas. This marks a decline from its 2021 standing, ranking 142nd out of 182 countries and 23rd among 35 countries in the Americas. 15 The report highlig"
+        },
+        {
+          "stat": "ranked 173rd globally",
+          "context": "istical data and its alignment with international openness standards. In 2022, Antigua and Barbuda ranked 173rd globally, with an overall score of 30 out of 100. Within the Caribbean region, the count"
+        },
+        {
+          "stat": "ranked 153rd globally",
+          "context": "ean region, the country placed 7th out of 12 countries. This reflects a decline from 2020, when it ranked 153rd globally. The RAM stakeholder consultations further revealed that Antigua and Barbuda la"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Key ICT and Infrastructure Statistics for Antigua and Barbuda INDICATOR REPORTED DATA (% OF POPULATION) SOURCE Mobile telephone subscription 201% ITU Fixed Broadband subscription 29.4% ITU Active mobile broadband subscription 51.7% ITU Access to electricity 100% World Bank 33 In Antigua and Barbuda,",
+        "Lucia, and Barbados, have begun developing AI-driven enterprises.",
+        "STATISTICAL PERFORMANCE The Statistical Performance Indicators (SPI) for Antigua and Barbuda can be evaluated through an assessment of data products, data sources, and data infrastructure (Dang et al, 2023).",
+        "These indicators demonstrate the country’s ability to collect trustworthy data in varying kinds of categories, including health, the environment, and socioeconomic conditions (Jarvis et al., 2023).",
+        "In 2022, a score of 60.12 on a scale of 0 - 100, was recorded for Antigua and Barbuda’s pillar data products.",
+        "The score on data products in Antigua and Barbuda reflects the availability and quality of statistical outputs that influence policy and decision-making.",
+        "The data infrastructure score, depicted in pink on the graph, reflects the adequacy and efficiency of the systems and processes used to collect, store, and manage statistical data.",
+        "Antigua and Barbuda Score on Data Source The National Bureau of Statistics Act was recently amended and includes provisions on data management and publication for the National Statistics Office (NSO)."
+      ],
+      "strengths": [
+        "Throughout the region, Antigua and Barbuda scores closely to several Caribbean countries and is moderate when compared to better established data analysis systems in places like Jamaica or Barbados.",
+        "The high performance of data products suggests that Antigua and Barbuda has a well-established system for producing and distributing statistical results such as censuses, surveys, and important economic indicators through Statistics Division, Ministry of Finance and Corporate Governance of Antigua a",
+        "This suggests that investments in data infrastructure have yielded positive results, leading to enhanced data collection and management capabilities.",
+        "There are no laws or policies in place that offer a comprehensive framework for consistent data management and publication.",
+        "To ensure a successful AI strategy, Antigua and Barbuda should encourage cooperation between ministries to establish a comprehensive AI framework, promoting a unified and cohesive approach to responsible AI development.",
+        "AI can also support data-driven policymaking, leading to better decision-making and efficiency in key sectors.",
+        "Institutions Responsible • Ministry of ICTs, Utilities, and Energy • Ministry of Legal Affairs, Public Safety, Immigration and Labour • Ministry of Finance Timeframe • Target completion: December 2025 39 AI REGULATION PILLAR Robust regulation is essential to govern AI development and mitigate risks ",
+        "Institutions Responsible • Ministry of ICTs, Utilities, and Energy • Ministry of Legal Affairs, Public Safety, Immigration and Labour • Ministry of Foreign Affairs Timeframe • Target completion: September 2026 This approach ensures a comprehensive and context-sensitive pathway to responsible AI gove"
+      ],
+      "gaps": [
+        "However, this membership does not permit ABBS to actively contribute to ISO’s work, sell ISO standards, or formally adopt them at the national level.6 COMPUTING CAPABILITIES Antigua and Barbuda has one data centre operated by Antigua Computer Technology (ACT) (ACT, 2023), but there is no known polic",
+        "The current absence of policy, combined with the country’s absence from global and regional AI talent rankings, highlights a significant opportunity to develop structured initiatives to foster AI growth and innovation.",
+        "The country has made many strides in health data collection; however, issues still exist in ensuring that data products are continually updated and available.",
+        "However, a significant improvement was observed in 2021, with the score rising to 40.",
+        "The Act does not provide a framework covering all entities in the national statistical system.",
+        "Additionally, stakeholders have highlighted the need for capacity-building initiatives to equip the workforce with AI-related skills, ensuring sustainable and inclusive adoption of AI technologies.",
+        "The potential of AI has not yet been fully realised in tangible terms.",
+        "Priority areas need to be identified and acted upon to capitalise on AI’s potential.",
+        "The private sector is at risk of facing losses due to a lack of widespread acceptance of AI strategies.",
+        "The significant gender gap in technology-related fields is influenced by cultural norms that categorise certain subjects as more suitable for men or women."
+      ],
+      "key_stats": [
+        {
+          "stat": "201% of the population",
+          "context": "l Connectivity The ITU reports that Antigua and Barbuda has a mobile telephone subscription rate of 201% of the population. Fixed broadband subscriptions stand at 2.9.4%, and 51.7% of the population h",
+          "value": 201.0,
+          "unit": "%"
+        },
+        {
+          "stat": "51.7% of the population has an active m",
+          "context": "ne subscription rate of 201% of the population. Fixed broadband subscriptions stand at 2.9.4%, and 51.7% of the population has an active mobile broadband subscription. According to the World Bank, ele",
+          "value": 51.7,
+          "unit": "%"
+        },
+        {
+          "stat": "201%\nITU\nFixed Broadband subscripti",
+          "context": "Antigua and Barbuda INDICATOR REPORTED DATA (% OF POPULATION) SOURCE Mobile telephone subscription 201% ITU Fixed Broadband subscription 29.4% ITU Active mobile broadband subscription 51.7% ITU Access",
+          "value": 201.0,
+          "unit": "%"
+        },
+        {
+          "stat": "29.4%\nITU\nActive mobile broadband su",
+          "context": "D DATA (% OF POPULATION) SOURCE Mobile telephone subscription 201% ITU Fixed Broadband subscription 29.4% ITU Active mobile broadband subscription 51.7% ITU Access to electricity 100% World Bank 33 In",
+          "value": 29.4,
+          "unit": "%"
+        },
+        {
+          "stat": "51.7%\nITU\nAccess to electricity",
+          "context": "e subscription 201% ITU Fixed Broadband subscription 29.4% ITU Active mobile broadband subscription 51.7% ITU Access to electricity 100% World Bank 33 In Antigua and Barbuda, the average local bandwid",
+          "value": 51.7,
+          "unit": "%"
+        },
+        {
+          "stat": "100%\nWorld Bank",
+          "context": "oadband subscription 29.4% ITU Active mobile broadband subscription 51.7% ITU Access to electricity 100% World Bank 33 In Antigua and Barbuda, the average local bandwidth is 33.3 Mbps. (Kemp, 2024) Th",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "26%\nAcademia",
+          "context": "onal AI landscape. Government Private Sector Private Sector Other Other Civil Society Academia 5% 26% Academia 29% Government 30% Civil Society 10% 36 KEY OBSERVATIONS The RAM stakeholder consultation",
+          "value": 26.0,
+          "unit": "%"
+        },
+        {
+          "stat": "29%\nGovernment",
+          "context": "scape. Government Private Sector Private Sector Other Other Civil Society Academia 5% 26% Academia 29% Government 30% Civil Society 10% 36 KEY OBSERVATIONS The RAM stakeholder consultations, along wit",
+          "value": 29.0,
+          "unit": "%"
+        },
+        {
+          "stat": "30%\nCivil Society",
+          "context": "ent Private Sector Private Sector Other Other Civil Society Academia 5% 26% Academia 29% Government 30% Civil Society 10% 36 KEY OBSERVATIONS The RAM stakeholder consultations, along with quantitative",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "ranks 113th out of",
+          "context": "f doing business rankings. According to the latest World Bank annual report, the country currently ranks 113th out of 190 economies. With a score of 60.3 out of 100, it also holds the 14th position am"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "In 2024, the government of Antigua and Barbuda, with support from the UNESCO Office for the Caribbean, implemented the RAM through a comprehensive questionnaire involving stakeholders from the public and private sectors, civil society, and academia.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This commitment has been recognised by the United Nations Human Rights Index, which praised Antigua and Barbuda’s advancements during its 2016 and 2021 periodic reviews, despite resource constraints.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Antigua and Barbuda has implemented online services in areas such as insurance/pensions and customs through a single-window platform, allowing for greater efficiency and convenience for citizens.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Public trust in both government websites and AI can be built through transparency, regular updates, and clear communication.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Nevertheless, there is recognition that any investment, including in AI, must consider ecological and environmental impacts.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "In addition to this minor, the campus has launched a programme in Generative Pharmacy, which is deeply rooted in AI principles.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The role of climate attribution science was also emphasised, with AI being recognised as a tool that can support a multi-faceted approach to climate reparative justice.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The timeline defined is an extensive 4-year plan to be implemented between 2025 and 2028.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [],
+  "rankings_indices": [
+    {
+      "context": "Antigua and Barbuda’s EGDI score of 0.6113 in 2022 indicates a moderate level of e-government development.",
+      "index_name": "EGDI",
+      "score": 0.6113,
+      "year": 2022
+    },
+    {
+      "context": "However, according to Paylab, the position of a data scientist in the labour market for information and technology, is ranked 76th based on salary .",
+      "index_name": "osi",
+      "rank": 76
+    },
+    {
+      "context": "With a score of 60.3 out of 100, it also holds the 14th position among 32 countries in the Latin America and Caribbean region.",
+      "index_name": "osi",
+      "score": 60.3,
+      "total_countries": 32
+    }
+  ],
+  "executive_summary": "3\nTable of Contents\nAcknowledgements\t\n2\nAcronyms And Abbreviations\t\n6\nForeword\t\n8\nExecutive Summary\t\n10\nDiagnosis Of The National AI Landscape\t\n13\nLegal Dimension\t\n14\nAI Policy and Regulation\t\n14\nData Protection and Privacy Laws\t\n14\nData sharing and accessibility\t\n16\nProcurement Laws and Policies \t\n16\nFreedom of Information Acts and Access to Knowledge Acts\t\n16\nDue Process and Accountability\t\n17\nOnline Safety and Integrity of Speech\t\n17\nPublic Sector Capacity \t\n18\nRecommendations –Legal Dimension \t\n18\nSocial And Cultural Dimension\t\n19\nDiversity, Inclusion and Equality\t\n19\nPublic Engagement and Trust\t\n20\nEnvironmental and Sustainability Policies \t\n21\n\n4\nHealth and Social Wellbeing\t\n22\nCulture\t\n22\nRecommendations –Social and Cultural Dimension\t\n22\nScientific And Educational Dimension\t\n23\nResearch and Innovation \t\n23\nResearch Output \t\n24\nEthical AI research \t\n25\nAI talent and innovation output \t\n26\nEducation Strategy \t\n26\nEducation Infrastructure\t\n26\nCurriculum Content\t\n26\nEducational Attainment\t\n26\nPublic Access to AI Education\t\n28\nRecommendations –Scientific and Education Dimension\t\n28\nEconomic Dimension \t\n29\nLabour Markets\t\n29\nIntermediate Consumption \t\n30\nInvestments and Output \t\n30\nRecommendations –Economic Dimension\t\n31\nTechnical And Infrastructural Dimension\t\n32\nInfrastructure and Connectivity\t\n32\nApplied Standards\t\n33\nComputing Capabilities \t\n33\n\n5\nStatistical Performance\t\n33\nRecommendations –Technical and Infrastructure Dimension\t\n34\nResults of Antigua And Barbuda National Stakeholder Consultations \nPolicy Roadmap\t\n35\nKey Observations\t\n36\nChallenges\t\n37\nTowards Antigua And Barbuda National AI Strategy\t\n38\nAI Strategy Pillar\t\n38\nAI Regulation Pillar\t\n39\nCapacity Building Pillar\t\n39\nInstitutional Development Pillar\t\n40\nReferences\t\n44\nLaws\t\n46\n\n6\nAcronyms and Abbreviations\nAI\t\nArtificial Intelligence.\nACT\t\nAntigua Computer Technology.\nCAIC\t\nCommonwealth Artificial Intelligence Consortium.\nCARICOM\t\nCaribbean Community and Common Market.\nCTU\t\nCaribbean Telecommunication Union.\nECCB\t\nEastern Caribbean Central Bank.\nECCU\t\nEastern Caribbean Currency Union.\nEGDI\t\nE-Government Development Index.\nEU\t\nEuropean Union.\nGBARD\t\nGovernment Budget Allocations for Research and Development.\nGDP\t\nGross Domestic Product.\nGERD\t\nGross Expenditure on Research & Development.\nGTMI\t\nGovTech Maturity Index.\nICTs\t\nInformation Communication Technologies.\nITU\t\nInternational Telecommunication Union.\nNSO\t\nNational Statistics Office.\nODIN\t\nOpen Data Inventory.\nOECD\t\nOrganization for Economic Co-operation and Development.\nOECS\t\nOrganization of Eastern Caribbean States.\nRAM\t\nReadiness Assessment Methodology.\nR&D\t\nResearch and Development.\nRTI\t\nRight to Information.\nSDG\t\nSustainable Development Goal.\nSIDS\t\nSmall Islands Developing States.\nSPI\t\nStatistical Performance Indicators.\nSTEM\t\nScience, Technology, Engineering and Mathematics.\nUIS\t\nUNESCO Institute of Statistics.\n\n7\nUN\t\nUnited Nations.\nUNDP\t\nUnited Nations Development Programme.\nUNESCO\t\nUnited Nations Educational, Scientific and Cultural Organization.\nUWI\t\nThe University of the West Indies.\n\n8\nForeword\nWe have officially entered the Age of Artificial Intelligence. The world is now set to change at a pace not seen in decades, even centuries. \nAI-based tools and applications make our lives easier, smoother, and richer. They help us move efficiently, get informed, get credit, \nget a job, and get our taxes done.\nBut in its current form, AI reproduces and amplifies many of the social challenges we face. It is not acceptable that around a third of \nthe world’s population still lacks adequate internet access. Upstream, the AI industry is highly concentrated, with just two countries \n– the United States and China – and a dozen companies accounting for a major share of the sector. This can lead only to greater \ninequality of outcomes – including gender disparities – downstream. Non-diverse AI teams, unrepresentative datasets, and opaque \nand biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children \nand young people, women, or entire democracies.\nThat is why UNESCO drafted the Recommendation on the Ethics of Artificial Intelligence, which was adopted in 2021 by 193 \ncountries to make sure AI delivers fair, sustainable, and inclusive outcomes. The Recommendation is based on the protection and \npromotion of human rights, human dignity, and environmental sustainability, and these values are then translated into principles \nsuch as accountability, transparency, and privacy. The Recommendation also sets out concrete policy actions that governments can \ndraw on to steer technological developments in a responsible direction, premised on the belief that light-touch regulation, which \nhas until now remained the norm, is insufficient. We need capable governments that are well equipped, in terms of competencies, \ninstitutions and laws, to frame responsible AI development and protect the rule of law online, and public and private deve",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Develop an AI-specific regulatory framework that prioritises Impact Assessments for high-risk AI applications, evaluating their societal, economic, and legal implications.",
+      "text": "Develop an AI-specific regulatory framework that prioritises Impact Assessments for high-risk AI applications, evaluating their societal, economic, and legal implications. Develop soft-laws governing the procurement of AI systems.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "High-level decision-makers require training in AI ethics and regulation to ensure that the benefits and risks of AI are thoroughly and thoughtfully evaluated at the highest levels of government and ci",
+      "text": "High-level decision-makers require training in AI ethics and regulation to ensure that the benefits and risks of AI are thoroughly and thoughtfully evaluated at the highest levels of government and civil society.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Public awareness about AI and fostering an AI ecosystem is essential for sustainable development.",
+      "text": "Public awareness about AI and fostering an AI ecosystem is essential for sustainable development.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "AI regulations should be designed to align with the ongoing digital transformation agenda to ensure coherence between AI policies and efforts to digitise government services.",
+      "text": "AI regulations should be designed to align with the ongoing digital transformation agenda to ensure coherence between AI policies and efforts to digitise government services.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "A collaborative effort to a legal framework with regional bodies like CARICOM and OECS is recommended.",
+      "text": "A collaborative effort to a legal framework with regional bodies like CARICOM and OECS is recommended.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Incentivise ethical AI development in Antigua and Barbuda especially since currently, the government, private sector, civil society, and citizens primarily consume AI, rather than produce it.",
+      "text": "Incentivise ethical AI development in Antigua and Barbuda especially since currently, the government, private sector, civil society, and citizens primarily consume AI, rather than produce it.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Formulation of a government unit to guide AI policy development, AI regulation, support AI development and provide institutional oversight over the ethical and responsible AI use, development and depl",
+      "text": "Formulation of a government unit to guide AI policy development, AI regulation, support AI development and provide institutional oversight over the ethical and responsible AI use, development and deployment in the country. 19 SOCIAL AND CULTURAL DIMENSION UNESCO, in 2019 reported that AI systems may reinforce harmful gender norms and stereotypes, such as endorsing the subjugation of women in positions of servitude. The social and cultural dimension focus on factors ensuring inclusiveness and social and cultural diversity, public awareness and values related to the scaling up of ethical AI solutions. Ensuring that AI systems do not contribute to the amplification of structural bias. This section therefore focuses on issues of gender inequality and the bias that may arise from a lack of representativity in datasets and embedded biases in algorithmic systems, due to a lack of diversity and gender equality in the teams designing and producing AI systems. DIVERSITY, INCLUSION AND EQUALITY According to recent data from the International Telecommunication Union (ITU), in regions with higher internet usage, such as the Americas, gender parity in internet access has been achieved or is near achievement. This is evident in many Caribbean nations, including Antigua and Barbuda, where the overall internet usage rate is relatively high, and the gender parity score is close to 1.0, signalling near equality in access between men and women (ITU, 2023). SIDS, including Antigua and Barbuda, are unique in that they tend to have a higher gender parity score compared to other low- income or less developed regions. While global averages show men using the internet more than women (70% men vs. 65% women), small island nations have a parity score close to 0.97, and in some cases, women even outnumber men in internet usage (ITU, 2023). However, it is essential to note that while Antigua and Barbuda and many Caribbean nations show progress, disparities still exist in terms of meaningful inte",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "21 Moreover, the E-Participation Index measures the extent to which citizens are able to participate in government decision-making through online channels.",
+      "text": "21 Moreover, the E-Participation Index measures the extent to which citizens are able to participate in government decision-making through online channels. Antigua and Barbuda’s score of 0.3425 is below the global average and the regional average. This suggests that Antigua and Barbuda has room for improvement in terms of providing online channels for citizen participation. It is important to note that the E-Participation Index is just one measure of e-government development. Other factors, such as the availability of online services and the quality of government websites, are also important. The E-Government Development Index (EGDI) is a composite index that measures a country’s level of e-government development. It assesses three key dimensions:",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Online Services Index: This measures the extent to which public services are available online.",
+      "text": "Online Services Index: This measures the extent to which public services are available online.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Telecommunication Infrastructure Index: This measures the availability and quality of information and communication technologies (ICTs).",
+      "text": "Telecommunication Infrastructure Index: This measures the availability and quality of information and communication technologies (ICTs).",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Human Capital Index: This measures the skills and knowledge of the population, particularly in relation to ICTs.",
+      "text": "Human Capital Index: This measures the skills and knowledge of the population, particularly in relation to ICTs. Antigua and Barbuda’s EGDI score of 0.6113 in 2022 indicates a moderate level of e-government development. While it has made progress in recent years, there is still room for improvement, particularly in terms of expanding online services and enhancing digital literacy. To further improve its e-government ranking, Antigua and Barbuda may consider the following strategies:",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Expanding online services through offering a wider range of public services online, such as tax filing, passport services, and business registration, which are slated to be included in its efforts for",
+      "text": "Expanding online services through offering a wider range of public services online, such as tax filing, passport services, and business registration, which are slated to be included in its efforts for a One-Stop-Shop e-service approach.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Investing in educational and training programmes to equip citizens with the necessary skills to use online services.",
+      "text": "Investing in educational and training programmes to equip citizens with the necessary skills to use online services.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Implementing robust cybersecurity measures to protect government systems and citizen data.",
+      "text": "Implementing robust cybersecurity measures to protect government systems and citizen data.",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Strengthening public-private partnerships by collaborating with the private sectors and academic institutions to develop innovative e-government solutions.",
+      "text": "Strengthening public-private partnerships by collaborating with the private sectors and academic institutions to develop innovative e-government solutions. By implementing these strategies, Antigua and Barbuda can further improve its e-government development and enhance the delivery of public services to its citizens. When participants in the RAM consultations were asked about their trust in Government websites, one participant noted “I don’t think it’s a general trust. It’s just the data. How accurate and up to date is it?” This suggests that once information is current and truthful, it will be considered reliable and worthwhile for use. In terms of trust in AI, many participants of the multistakeholder consultations expressed scepticism about AI, particularly among older audiences who remain cautious about fully relying on AI systems. In contrast, younger individuals – who also engaged in a dedicated youth-focused consultation - are more enthusiastic about AI but raised concerns about over-reliance. This concern may also indicate the right mindset that is necessary for responsible use. Public trust in both government websites and AI can be built through transparency, regular updates, and clear communication. ENVIRONMENTAL AND SUSTAINABILITY POLICIES The Environmental Protection & Management Act of 2019 sets the groundwork for environmental protection in Antigua and Barbuda. Although it doesn’t directly mention AI, it could potentially guide the creation and implementation of AI solutions in fields such as environmental surveillance, resource administration, and pollution mitigation. Other laws such as the Fisheries Act of 2006, could be extended to include AI. Antigua and Barbuda recognises that AI for sustainability is a priority and can support environmental goals, such as climate resilience and early warning systems. However, the sustainability of AI itself, particularly its carbon footprint and energy use, also needs attention. Currently, there is no policy to",
+      "dimension": "Legal",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Tailor educational programmes and curricula around AI to align with subjects that attract and retain female students, while ensuring that training programmes also support career opportunities.",
+      "text": "Tailor educational programmes and curricula around AI to align with subjects that attract and retain female students, while ensuring that training programmes also support career opportunities.",
+      "dimension": "Social & Cultural",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Allocate resources to utilise AI for the preservation and promotion of cultural heritage, languages, and traditions.",
+      "text": "Allocate resources to utilise AI for the preservation and promotion of cultural heritage, languages, and traditions.",
+      "dimension": "Social & Cultural",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Encourage a more inclusive approach to AI consultations by involving a diverse range of stakeholders from various sectors, not just technical personnel.",
+      "text": "Encourage a more inclusive approach to AI consultations by involving a diverse range of stakeholders from various sectors, not just technical personnel.",
+      "dimension": "Social & Cultural",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "Develop policies and incentive mechanisms to promote the use of AI for sustainable development while ensuring the responsible and sustainable growth of AI within the country.",
+      "text": "Develop policies and incentive mechanisms to promote the use of AI for sustainable development while ensuring the responsible and sustainable growth of AI within the country.",
+      "dimension": "Social & Cultural",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "Digitalization efforts should prioritise creating public-facing portals to enhance access to e-government services.",
+      "text": "Digitalization efforts should prioritise creating public-facing portals to enhance access to e-government services. 23 SCIENTIFIC AND EDUCATIONAL DIMENSION The rigor of science and the strength of the education system are crucial for delivering high-quality solutions and ensuring productivity across various sectors. The scientific and educational aspect of the RAM evaluates the nation’s current capacity in AI research alongside the state of AI-related education. RESEARCH AND INNOVATION Globally, as part of Sustainable Development Goals (SDGs), countries such as those in the Caribbean have pledged to dedicate at least 1% of the GDP to Gross Expenditure on Research and Development (GERD) to support research and innovation. According to the UNESCO Institute for Statistics (UIS), the GERD in 2020 for Latin America and the Caribbean is at 0.63 to 1.05 for SIDS, while the world average is 1.93. Looking at individual countries, there were no statistics for most of the Caribbean countries. Among countries with reported data, Trinidad and Tobago had the GERD of 0.06 in 2019, while Cuba recorded the highest at 0.52 in 2020 (Trading Economics, n.d.). Further details on the GERD can be seen in Table 1 below. Antigua and Barbuda does not have a well-established or any reported data on the GERD. Like many data-scarce regions, this data is available but not readily harvested. While the zero-budget allocation is alarming, it highlights the opportunity to better align developmental agendas with robust and rigorous scientific research. Antigua and Barbuda lacks documented or readily shared data on GERD in natural sciences and engineering as a share of GDP. According to data from Trading Economics website, Trinidad and Tobago does not specify gross expenditure on research and development on natural sciences and engineering as a share of gross domestic product, but the GERD was reported to be 0.05382% of the GDP in 2021; 13.19 USD million. There are no resident units performing researc",
+      "dimension": "Social & Cultural",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "Prioritise the development of a robust research culture by encouraging collaboration across academic institutions, private, and public sectors.",
+      "text": "Prioritise the development of a robust research culture by encouraging collaboration across academic institutions, private, and public sectors.",
+      "dimension": "Scientific & Education",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "Increase enrolment in STEM (Science, Technology, Engineering, and Mathematics) and AI-related educational programmes creating a critical mass of AI specialists.",
+      "text": "Increase enrolment in STEM (Science, Technology, Engineering, and Mathematics) and AI-related educational programmes creating a critical mass of AI specialists. This involves creating pathways that make these disciplines accessible to underrepresented groups, offering scholarships, mentorships, and tailored support to bridge gaps in participation.",
+      "dimension": "Scientific & Education",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "Launch comprehensive awareness campaigns to demystify AI and engage the public in meaningful discussions about its benefits and implications.",
+      "text": "Launch comprehensive awareness campaigns to demystify AI and engage the public in meaningful discussions about its benefits and implications.",
+      "dimension": "Scientific & Education",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "Cultivate a community of AI experts and professionals encouraging life-long learning and advocacy through professional communities like Silicon Dadli.",
+      "text": "Cultivate a community of AI experts and professionals encouraging life-long learning and advocacy through professional communities like Silicon Dadli. 29 Economic Dimension 4 https://aijobs.net/jobs-in-trinidad-and-tobago/ 5 Salary Data Entry per Country. Available at: https://www.paylab.com/ag/salaryinfo/information-technology/data-scientist?lang=en The economic dimension focuses on the supply side of AI ecosystem. It covers aspects such as the labour market, intermediate consumptions etc. These are crucial aspects for evaluating the performance and readiness of the any country’s AI ecosystem. LABOUR MARKETS There is no figure that accurately reflects the share of job vacancies requiring AI skills (online) in Antigua and Barbuda. In places like Trinidad and Tobago there are over 9,000 remote job vacancies in AI-related skills.4 Similarly to most of the other Caribbean islands there is no publicly confirmed figure about the share of current employees working as data scientists in Antigua and Barbuda. However, according to Paylab, the position of a data scientist in the labour market for information and technology, is ranked 76th based on salary . 5This implies that there, is for sure, a job market for data scientists in Antigua and Barbuda, though there may not be a high demand for them. There is not enough statistical data within the Caribbean region to rank the countries regarding the relative AI skill penetration. According to OECD live data, most studies are focused on the larger Latin American and Caribbean countries like Dominican Republic, which is making a lot of efforts into developing their AI industry. Antigua and Barbuda does not appear in any global or regional rankings for AI talent concentration. The sector remains underdeveloped, resulting in limited data and statistics. However, according to the Economic Commission for Latin America and the Caribbean (ECLAC, 2024), a few AI companies have emerged in the Caribbean, particularly in St. Kitts and Nevis",
+      "dimension": "Scientific & Education",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "Support of local AI development through government incentives or grants could stimulate innovation.",
+      "text": "Support of local AI development through government incentives or grants could stimulate innovation.",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "Resolve statistical capability limitations through the enhancement of the data collection capability and quality control processes for government consistent across sectors.",
+      "text": "Resolve statistical capability limitations through the enhancement of the data collection capability and quality control processes for government consistent across sectors.",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "Strengthen analysis on how external shocks and emerging technologies like AI influence labour market trends.",
+      "text": "Strengthen analysis on how external shocks and emerging technologies like AI influence labour market trends.",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "Measure the contribution of AI to the economy or track the adoption of AI technologies across sectors.",
+      "text": "Measure the contribution of AI to the economy or track the adoption of AI technologies across sectors.",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 29,
+      "title": "Systematically record AI-related exports and investments",
+      "text": "Systematically record AI-related exports and investments",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 30,
+      "title": "Promote capacity development in AI-related skills and data science to strengthen workforce readiness.",
+      "text": "Promote capacity development in AI-related skills and data science to strengthen workforce readiness.",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 31,
+      "title": "Implement social safety nets to support workers displaced due to automation (IMF, 2024).",
+      "text": "Implement social safety nets to support workers displaced due to automation (IMF, 2024). 32 Technical and Infrastructural Dimension INFRASTRUCTURE & CONNECTIVITY ITU maintains a dashboard for Universal and Meaningful Connectivity (UMC), tracking country progress towards a set of aspirational connectivity targets for 2030. Figure 6 is Antigua and Barbuda’s current progress on Universal Meaningful Connectivity. Figure 6. Antigua and Barbuda’s current progress on Universal Meaningful Connectivity The ITU reports that Antigua and Barbuda has a mobile telephone subscription rate of 201% of the population. Fixed broadband subscriptions stand at 2.9.4%, and 51.7% of the population has an active mobile broadband subscription. According to the World Bank, electricity access is universal at 100% (see Table 3). Antigua and Barbuda is not included in the Economist Inclusive Internet Index – Only Jamaica, Dominica republic, Cuba, Trinidad and Tobago are represented. Table 3. Key ICT and Infrastructure Statistics for Antigua and Barbuda INDICATOR REPORTED DATA (% OF POPULATION) SOURCE Mobile telephone subscription 201% ITU Fixed Broadband subscription 29.4% ITU Active mobile broadband subscription 51.7% ITU Access to electricity 100% World Bank 33 In Antigua and Barbuda, the average local bandwidth is 33.3 Mbps. (Kemp, 2024) The regional average bandwidth is 54.94 Mbps ranging from 4.49 Mbps in Cuba to 118.83 Mbps Cayman Islands (Marius & Marius, 2024b). Globally, the total international internet bandwidth is 1217 Tbps (Marius & Marius, 2024). The Average mobile internet speed is 50 Mbps and the average mobile upload speed is 11.3 Mbps. (Statista, 2024) The average fixed broadband speed is 90-110 Mbps. Some countries such as the UAE and Singapore are at the top of the charts with broadband usage at 297 Mbps and Latin America and Caribbean countries like Barbados and Costa Rica are amongst the bottom ranked (Statista, 2024b). 6 https://abbs.gov.ag/about-us/membership-affiliations/",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 32,
+      "title": "No AI policy, regulation or an implementation plan.",
+      "text": "No AI policy, regulation or an implementation plan. Implementing an AI policy requires collaboration across multiple sectors. To ensure a successful AI strategy, Antigua and Barbuda should encourage cooperation between ministries to establish a comprehensive AI framework, promoting a unified and cohesive approach to responsible AI development.",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 33,
+      "title": "The potential of AI has not yet been fully realised in tangible terms.",
+      "text": "The potential of AI has not yet been fully realised in tangible terms. Priority areas need to be identified and acted upon to capitalise on AI’s potential.",
+      "dimension": "Economic",
+      "start_page": 0
+    },
+    {
+      "number": 34,
+      "title": "The private sector is at risk of facing losses due to a lack of widespread acceptance of AI strategies.",
+      "text": "The private sector is at risk of facing losses due to a lack of widespread acceptance of AI strategies. Companies may end up spending more on AI solutions or relying on outdated technologies if AI adoption is not accelerated.",
+      "dimension": "Economic",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 34,
+  "page_count": 49
+}

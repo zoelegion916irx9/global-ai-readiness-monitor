@@ -1,0 +1,834 @@
+{
+  "country_code": "EG",
+  "country_name": "EGYPT",
+  "language": "en",
+  "metadata": {
+    "page_count": 92,
+    "creation_date": "D:20250922135814+03'00'",
+    "modification_date": "D:20250923142007+02'00'",
+    "country_name": "EGYPT",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "II\nTable of Contents\nAcronyms and Abbreviations\t\n1\nForeword\n2\nExecutive Summary\t\n6\nMethodology\n8\nDiagnosis of the National AI Landscape\t\n9\nLegal and Regulatory Dimension\t\n11\n     Background\t\n11\n     AI policy and regulation\t\n12\n     Data protection and privacy laws\t\n16\n     Data sharing and accessibility\t\n18\n     Procurement laws and policies\t\n20\n     Freedom of information acts / access to knowledge acts\t\n21\n     Due process and accountability\t\n21\n     Online safety and integrity of speech\t\n22\n     Public sector capacity\t\n23\nSocial/Cultural Dimension\t\n25\n     Background\t\n25\n     Diversity, inclusion and equality\t\n25\n     Public engagement and trust\t\n30\n     Environmental and sustainability policies\t\n31\n     Health and social wellbeing\t\n33\n     Culture\t\n33\nScientific/Educational Dimension\t\n36\n     Background\t\n36\n     Research and innovation\t\n36\n     AI Research Centers\t\n47\n     Ethical AI research\t\n48\n     Education\t\n49\n\nI\nEconomic Dimension\t\n56\n     Background \n56\n     Labor Market\t\n57\n     Intermediate Consumption\t\n64\n     Investments and Output\t\n65\nTechnical and Infrastructural Dimension\t\n68\n     Background\t\n68\n     Infrastructure and Connectivity\t\n68\n     Applied Standards\t\n69\n     Computing Capabilities\t\n71\n     Statistical performance\t\n71\nDeveloping a National Multistakeholder Roadmap\t\n73\n     Overview\t\n73\nMain Policy Recommendations\t\n79\nGovernment Response\n82\nReferences\n84\nTable of Contents\nII",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Issue Access to Information Law Establish a legal framework that guarantees public access to government-held data and information.",
+      "text": "Issue Access to Information Law Establish a legal framework that guarantees public access to government-held data and information.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Issue the Executive Regulation of the Personal Data Protection Law No.",
+      "text": "Issue the Executive Regulation of the Personal Data Protection Law No. 151 of 2020 Enable the full implementation of the law by clarifying procedures and enforcement mechanisms.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Issue a Data Sharing Law Facilitate secure, ethical, and interoperable data exchange between stakeholders.",
+      "text": "Issue a Data Sharing Law Facilitate secure, ethical, and interoperable data exchange between stakeholders.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Issue a Data Classification Law Define and categorize data types clearly to promote trust, enable cloud infrastructure, and attract international investment.",
+      "text": "Issue a Data Classification Law Define and categorize data types clearly to promote trust, enable cloud infrastructure, and attract international investment.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Adopt a Legislative Roadmap Develop a clear timeline and process for the issuance and amendment of necessary laws before enacting a comprehensive AI law.",
+      "text": "Adopt a Legislative Roadmap Develop a clear timeline and process for the issuance and amendment of necessary laws before enacting a comprehensive AI law.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Amend Law No. 182 of 2018 Introduce specific provisions for the procurement of AI systems by public entities to ensure transparency, accountability, and ethical use.",
+      "text": "Amend Law No. 182 of 2018 Introduce specific provisions for the procurement of AI systems by public entities to ensure transparency, accountability, and ethical use.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Adopt a Balanced AI Law Enact legislation that mitigates the risks associated with AI while simultaneously encouraging innovation and investment.",
+      "text": "Adopt a Balanced AI Law Enact legislation that mitigates the risks associated with AI while simultaneously encouraging innovation and investment.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 80,
+      "title": "Egypt has already taken significant steps toward developing its institutional framework for AI.",
+      "text": "Egypt has already taken significant steps toward developing its institutional framework for AI. However, there are still opportunities to enhance and expand this framework. Establishing a more comprehensive and coordinated institutional structure will further strengthen Egypt’s overall readiness for AI.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Localize data to attract hyperscalers and create new job opportunities within the digital economy.",
+      "text": "Localize data to attract hyperscalers and create new job opportunities within the digital economy.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Accelerate the establishment of both the Personal Data Protection Center and the Center for Responsible AI to ensure regulatory and ethical oversight.",
+      "text": "Accelerate the establishment of both the Personal Data Protection Center and the Center for Responsible AI to ensure regulatory and ethical oversight.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Develop a comprehensive digital health policy that integrates AI and mobile health technologies to improve healthcare access and quality, particularly in underserved rural areas.",
+      "text": "Develop a comprehensive digital health policy that integrates AI and mobile health technologies to improve healthcare access and quality, particularly in underserved rural areas.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Create environmental policies to evaluate and mitigate the ecological impact of AI technologies.",
+      "text": "Create environmental policies to evaluate and mitigate the ecological impact of AI technologies. Promote AI-driven sustainable practices, including resource optimization in agriculture and effective electronic waste management.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Develop culturally aware AI applications for automated translation and voice assistants.",
+      "text": "Develop culturally aware AI applications for automated translation and voice assistants. Establish a clear policy on using AI for the preservation of cultural heritage.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Foster cross-sector collaboration among government, the private sector, and academic institutions.",
+      "text": "Foster cross-sector collaboration among government, the private sector, and academic institutions. Establish frameworks for joint AI projects targeting national development goals in sectors like healthcare, agriculture, and environmental sustainability.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Provide incentives for the private sector to adopt ethical AI.",
+      "text": "Provide incentives for the private sector to adopt ethical AI. Develop a robust framework to monitor and ensure compliance with ethical standards in AI adoption.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Develop sector-specific AI deployment policies under the supervision of the National Council for Artificial Intelligence (NCAI), tailored to each government sector (e.",
+      "text": "Develop sector-specific AI deployment policies under the supervision of the National Council for Artificial Intelligence (NCAI), tailored to each government sector (e.g., Education, Healthcare, Judiciary).",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Increase investment in infrastructure, particularly in data centers and cloud computing.",
+      "text": "Increase investment in infrastructure, particularly in data centers and cloud computing. At the same time, develop a regulatory framework to mitigate algorithmic bias and ensure fair AI deployment.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 81,
+      "title": "* The recommendations mentioned in this section are not exhaustive but are considered a high priority.",
+      "text": "* The recommendations mentioned in this section are not exhaustive but are considered a high priority. While AI has made significant progress across various sectors in Egypt, a comprehensive and inclusive capacity-building strategy should be adopted to ensure the involvement of all stakeholders using AI applications in these sectors.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Foster innovation and research by increasing investment in AI-related R&D and promoting stronger collaboration between academia and industry.",
+      "text": "Foster innovation and research by increasing investment in AI-related R&D and promoting stronger collaboration between academia and industry.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Enhance and expand digital literacy programs, especially targeting women and rural populations.",
+      "text": "Enhance and expand digital literacy programs, especially targeting women and rural populations. This can include partnerships with technology companies to deliver training and certification in digital skills. Encourage more women to participate in STEM through scholarships, mentorship programs, and awareness campaigns highlighting the value of gender diversity in technology and innovation.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Invest in cutting-edge laboratories and research facilities to support innovative projects, attract top talent, and ensure accessibility and availability of relevant data.",
+      "text": "Invest in cutting-edge laboratories and research facilities to support innovative projects, attract top talent, and ensure accessibility and availability of relevant data.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Develop human capital by integrating AI education into curricula at all levels and promoting career pathways in AI to attract and retain talent.",
+      "text": "Develop human capital by integrating AI education into curricula at all levels and promoting career pathways in AI to attract and retain talent.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Embed foundational AI skills in national educational systems to ensure that learners at all stages gain basic AI competencies.",
+      "text": "Embed foundational AI skills in national educational systems to ensure that learners at all stages gain basic AI competencies.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Attract international companies to invest in and collaborate on AI projects in Egypt by creating a conducive innovation and investment environment.",
+      "text": "Attract international companies to invest in and collaborate on AI projects in Egypt by creating a conducive innovation and investment environment.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Support startups by expanding access to global investment opportunities.",
+      "text": "Support startups by expanding access to global investment opportunities. Enhancing global market entry and customer access will accelerate AI adoption among local startups.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Promote dynamic skill development and lifelong learning by investing in skill sets rather than specific roles, which may become obsolete due to technological advancements.",
+      "text": "Promote dynamic skill development and lifelong learning by investing in skill sets rather than specific roles, which may become obsolete due to technological advancements.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Increase capacity-building efforts in rural areas to reduce the digital divide and invest in human capital to amplify workers’ capabilities in the AI era.",
+      "text": "Increase capacity-building efforts in rural areas to reduce the digital divide and invest in human capital to amplify workers’ capabilities in the AI era. 10. Address the challenges surrounding cloud computing adoption, particularly those related to security and cost. As the expense of storing and processing large volumes of data rises, cloud infrastructure becomes essential. In this context, there is an urgent need to accelerate the passage of a data classification law to unlock the full potential of cloud-based AI technologies.",
+      "dimension": "Institutional Framework",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 27,
+  "page_count": 92,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "More broadly, it reflects the country’s ability to respond to the societal transformations brought about by the increasing adoption of AI across all sectors of the economy.",
+        "The dimension addresses both institutional capacity and human capital, focusing on Egypt’s ability to design, enforce, and evaluate legal mechanisms that ensure the ethical development and deployment of AI.",
+        "It includes provisions for protection, enforcement, redress, and monitoring of potential harms associated with AI systems.",
+        "To address this, the Egyptian government introduced the Egypt National AI Regulatory System in the 2nd edition of the NAIS.",
+        "This initiative aims to ensure the ethical and responsible use of AI through legal, regulatory and institutional mechanisms.",
+        "According to the 2nd edition of the NAIS, the AI Regulatory System will be based on three components: 1.",
+        "Background ### Page 17 12 The 2nd edition of the NAIS affirms that: «To maintain the safe and responsible growth of AI, it is it imperative to establish a thorough regulatory structure, construct a thorough ethical framework, and create a distinct regulatory body.",
+        "AI policy and regulation In November 2019, the Egyptian Cabinet approved the establishment of the National Council for Artificial Intelligence (NCAI)."
+      ],
+      "strengths": [
+        "Specifically, this assessment examines whether Egypt has established adequate regulatory frameworks that uphold ethical standards in AI use, and whether there are effective monitoring and evaluation mechanisms in place to support their implementation and enforcement.",
+        "The establishment of the Responsible AI Center (RAIC) The Egypt National AI Regulatory System is “envisioned as a comprehensive approach that directs the strategic growth of Egypt’s AI capabilities and ensures that this growth is managed responsibly, transparently, and in alignment with best global ",
+        "In January 2025, Egypt’s President Abdel Fattah El Sisi launched the 2nd edition of the NAIS, 2025-2030’.",
+        "1 “Ensure ethical and responsible AI use by establishing a comprehensive AI regulatory system, activate the ethical framework, and put a nucleus for a clear regulatory body, actively contributing to global efforts and playing an active role in AI different international fora.” .",
+        "4 “Build a robust scalable AI infrastructure and cloud services, innovate business models, and create a good digital foundation for the development of the AI industry with the support of infrastructure development.” .",
+        "In 2018 and 2020, Egypt adopted new laws in cybersecurity and personal data protection, respectively — both of which could theoretically be applied to the regulation of AI.",
+        "Furthermore, in 2023, the NCAI adopted the Egyptian Charter for Responsible AI.",
+        "“It is essential to establish a comprehensive regulatory framework, as AI, like any other technology field, requires adequate legislation and regulatory structures in order to prevent abuse and wrongdoing.",
+        "For example, the AI law has established clear legal limitations for the usage and development of AI, guaranteeing that technological advancements do not threaten public interest.",
+        "As such, it is both timely and necessary to assess the effectiveness of existing laws and to continue developing dedicated AI law to ensure comprehensive and future-ready regulation."
+      ],
+      "gaps": [
+        "21 ### Page 20 15 This RAM report further clarifies the existing legal gaps, highlighting the extent to which the current legal framework is insufficient to address the challenges and risks posed by AI.",
+        "The regulatory structure must include not only technological requirements and data protection but also oversight of AI decision-making processes to minimize algorithmic prejudice and bias.19” “Egypt’s government has started drafting Egyptian AI law, but it is still in the develop-mental stage.21” It",
+        "The goal of the strategy should be to identify which laws need to be issued or amended, and to determine the timing of their issuance23”.",
+        "In conclusion, while Egypt’s current legislative framework provides a foundation for regulating certain aspects of AI such as data protection, cybersecurity, and intellectual property—it does not yet fully address the unique ethical, legal, and societal challenges posed by AI technologies.",
+        "Suzanne El-Kbaoui, Advisor to the ICT Minister on Data Governance: She also stated: However, as of the time of writing, both the executive regulations and the formal launch of the Center remain pending, limiting the full implementation of the PDPL.",
+        "While Egypt’s PDPL aligns with international best practices and reflects a strong legislative commitment to data protection, its effectiveness is constrained by the lack of executive regulations and an operational regulatory authority.",
+        "25.Opening data charter-ODC https://opendatacharter.net/adopt-the-charter/ ### Page 24 One big setback at this current moment is the absence of a unified legal framework to regulate data processing, safeguard rights and responsibilities, and sustain data sharing across sectors.",
+        "The issuance of this law is one of the highly recommended actions needed for the development of AI systems in Egypt.",
+        "This ranking highlights the need for improvements in both the availability and openness of national data27.",
+        "However, the initiative’s designated website has not been updated for a considerable period, raising concerns about its credibility and relevance."
+      ],
+      "key_stats": [
+        {
+          "stat": "49.5% were \nfemale and",
+          "context": "Gap in Internet Usage As of April 2025, Egypt’s population was estimated at 118,023,91240. Of this, 49.5% were female and 50.5% male41. In January 2025, Egypt had 96.3 million internet users, resultin",
+          "value": 49.5,
+          "unit": "%"
+        },
+        {
+          "stat": "50.5% male",
+          "context": "s of April 2025, Egypt’s population was estimated at 118,023,91240. Of this, 49.5% were female and 50.5% male41. In January 2025, Egypt had 96.3 million internet users, resulting in an internet penetr",
+          "value": 50.5,
+          "unit": "%"
+        },
+        {
+          "stat": "79.3% of men use the internet",
+          "context": "sers increased by 12 million (+14.6%)43. However, a significant digital gender gap persists. While 79.3% of men use the internet, only 65.2% of women44 do. This disparity was reflected in Egypt’s Gend",
+          "value": 79.3,
+          "unit": "%"
+        },
+        {
+          "stat": "65.2% of women",
+          "context": "43. However, a significant digital gender gap persists. While 79.3% of men use the internet, only 65.2% of women44 do. This disparity was reflected in Egypt’s Gender Parity Score of 0.960 as of August",
+          "value": 65.2,
+          "unit": "%"
+        },
+        {
+          "stat": "41.5% of users were women compared to",
+          "context": "parity was reflected in Egypt’s Gender Parity Score of 0.960 as of August 202345. On social media, 41.5% of users were women compared to 58.5% who were men. Rural/ Urban Gap in Internet Usage: In 2024",
+          "value": 41.5,
+          "unit": "%"
+        },
+        {
+          "stat": "58.5% who \nwere men",
+          "context": "Parity Score of 0.960 as of August 202345. On social media, 41.5% of users were women compared to 58.5% who were men. Rural/ Urban Gap in Internet Usage: In 2024, 41% of Egypt’s population lived in ur",
+          "value": 58.5,
+          "unit": "%"
+        },
+        {
+          "stat": "41% of Egypt",
+          "context": "% of users were women compared to 58.5% who were men. Rural/ Urban Gap in Internet Usage: In 2024, 41% of Egypt’s population lived in urban areas, while 59% resided in rural areas46 . Internet access ",
+          "value": 41.0,
+          "unit": "%"
+        },
+        {
+          "stat": "59% resided in rural areas",
+          "context": "Rural/ Urban Gap in Internet Usage: In 2024, 41% of Egypt’s population lived in urban areas, while 59% resided in rural areas46 . Internet access remains uneven: SOCIAL/CULTURAL DIMENSION 40Worldomete",
+          "value": 59.0,
+          "unit": "%"
+        },
+        {
+          "stat": "12.9% gap in internet access between",
+          "context": "uarterly bulletin labor force survey, fourth quarter, 2022 (No 67-12211-2023 P 46). This reveals a 12.9% gap in internet access between urban and rural populations, in favor of urban areas. Gender Gap",
+          "value": 12.9,
+          "unit": "%"
+        },
+        {
+          "stat": "7.73% of all female students are \nenrol",
+          "context": "ender Gap in STEM and Science Professions There is also a gender disparity in STEM education. Only 7.73% of all female students are enrolled in STEM programs, compared to 15.3% of all male students, r",
+          "value": 7.73,
+          "unit": "%"
+        },
+        {
+          "stat": "15.3% of all male students",
+          "context": "y in STEM education. Only 7.73% of all female students are enrolled in STEM programs, compared to 15.3% of all male students, resulting in a gender gap of 7.57% percentage points47. In terms of employ",
+          "value": 15.3,
+          "unit": "%"
+        },
+        {
+          "stat": "7.57% percentage points",
+          "context": "e enrolled in STEM programs, compared to 15.3% of all male students, resulting in a gender gap of 7.57% percentage points47. In terms of employment, women aged 15 years and above working in scientific",
+          "value": 7.57,
+          "unit": "%"
+        },
+        {
+          "stat": "38% of the workforce",
+          "context": "7. In terms of employment, women aged 15 years and above working in scientific professions make up 38% of the workforce, while men constitute 62%48, reflecting a gender gap of 24%, according to the Ce",
+          "value": 38.0,
+          "unit": "%"
+        },
+        {
+          "stat": "2%\nWomen",
+          "context": "in STEM education FIG 2 INTERNET USAGE URBAN / RURAL DIGITAL GAP STEM REPRESENTATION Men 79,3% 65,2% Women 81% 68,1% Urban Rural 15,3% 7,73% Men Women 12,9% URBAN - RURAL DIGITAL GAP ### Page 32 . 1 C",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1%\nUrban\nRural",
+          "context": "on FIG 2 INTERNET USAGE URBAN / RURAL DIGITAL GAP STEM REPRESENTATION Men 79,3% 65,2% Women 81% 68,1% Urban Rural 15,3% 7,73% Men Women 12,9% URBAN - RURAL DIGITAL GAP ### Page 32 . 1 Chefaa: is a pat",
+          "value": 1.0,
+          "unit": "%"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "Egyptian Charter",
+          "year": "2023",
+          "status": "enacted"
+        },
+        {
+          "name": "Personal Data Protection Law",
+          "year": "2020",
+          "status": "enacted"
+        },
+        {
+          "name": "Law No. 82 \nof 2002",
+          "year": "2002",
+          "status": "enacted"
+        },
+        {
+          "name": "Law No. 151 of 2020",
+          "year": "2020",
+          "status": "enacted"
+        },
+        {
+          "name": "Law No.175 of 2018",
+          "year": "2018",
+          "status": "enacted"
+        },
+        {
+          "name": "Law No.180 of 2018",
+          "year": "2018",
+          "status": "enacted"
+        },
+        {
+          "name": "Law No.182 of 2018",
+          "year": "2018",
+          "status": "enacted"
+        },
+        {
+          "name": "Law No. 180 of 2018",
+          "year": "2018",
+          "status": "enacted"
+        },
+        {
+          "name": "Law No. 175 of 2018",
+          "year": "2018",
+          "status": "enacted"
+        },
+        {
+          "name": "drafted law",
+          "year": "",
+          "status": "draft"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "The consultation brought together 145 participants from various sectors, structured into four thematic working groups aligned with these dimensions: • Legal dimension discussions explored whether Egypt needs a dedicated AI law or can rely on existing frameworks.",
+        "Experts examined challenges related to data governance, redress mechanisms, and the suitability of current laws.",
+        "• Social and cultural dimension participants focused on reducing bias in AI systems, promoting cultural diversity through local-language AI tools, and integrating AI in healthcare and agriculture.",
+        "• Education and infrastructure dimension discussions assessed national policies for integrating AI into the education system, educator training, digital literacy, and improving technical infrastructure for responsible AI.",
+        "• AI and Social Inclusion: The consultation highlighted how AI must be developed with intentional fairness to avoid replicating or worsening existing social inequalities.",
+        "b) The second consultation, held in April 2025 and attended by around 70 participants, focused on three interrelated areas: AI for cultural preservation, social inclusion, and environmental sustainability.",
+        "The consultation aimed to assess Egypt’s preparedness for AI governance and generate actionable, locally tailored insights to maximize AI’s contributions to equity, innovation, and national development.",
+        "Dina Sallam, Head of Data, AI & CVM Analytics, Orange Egypt • Ms."
+      ],
+      "strengths": [
+        "Key themes included:  Ensuring that AI tools are designed for gender equity and accessibility,  Expanding digital literacy and ethics training across vulnerable and underrepresented groups,  Building robust public-private partnerships to democratize access to AI technologies and reduce regional d",
+        "These interviews featured leading figures such as: 2."
+      ],
+      "gaps": [
+        "The discussions emphasized the need to balance innovation with authenticity, calling for long-term investments in training, inter-agency cooperation, and youth-led projects that make Egypt’s cultural history more accessible and inclusive through AI.",
+        "Challenges such as fragmented datasets, limited institutional capacity, and the absence of long-term environmental records were flagged.",
+        "However, the consultations also identified key challanges and areas of enhancement that must be addressed in order to build on this momentum."
+      ],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Direct link to data visualization: OECD.AI AI Publications Time Series Research Output A key measure of progress in AI R&D is the volume of AI publications produced by different countries.",
+        "Over the past decade, Egypt has experienced a steady increase in AI publications, reflecting a significant improvement in its research output.",
+        "The following visualizations in Fig.6 based on data on AI publications from Open Alex and Scopus68, provide detailed insights into the research activities occurring in Egypt.",
+        "AI publications with Egypt’s research output Resource: OECD.AI (2025), data from OpenAlex, last updated 31-03-2025 Egypt has increased its research output in AI, due to the growth of global AI research and its potential to address many of humanity’s pressing challenges.",
+        "Several factors have contributed to the country’s rising research, such as: FIG 6 ### Page 46 69 OECD.AI (2025), data from OpenAlex, last updated 2025-03-31, accessed on 2025-04-19.",
+        "Available at: https://oecd.ai According to a 2023 report by MCIT, Egypt leads the Arab region in AI and AI-related research publications per capita, with 0.28 publications per 1,000 people.",
+        "Additionally, Egypt also ranks first in the region for AI and AI-related publications per capita, with 0.45 citations per 1,000 people, demonstrating the influence and quality of its research output.",
+        "AI publications from Egypt contribute significantly to the academic fields of mathematics, engineering, and medicine."
+      ],
+      "strengths": [
+        "Additionally, ASRT is the main point of contact for bilateral research collaborations with advanced countries, managing several memoranda of understanding (MOUs) and matching funds agreements, including the Newton-Musharafa Fund.",
+        "Notable grants include reintegration grants for Egyptian diaspora scientists returning home and centers of excellence grants for establishing advanced research labs.",
+        "Launched in 2023, the project uses AI trained on anonymized data from 7,000 mammograms to help radiologists detect early-stage tumors, aiming to boost recovery rates to 98%.",
+        "o In 2014, a leading Egyptian private bank became an early AI adopter amid national challenges, positioning itself as a digital financial platform.",
+        "The bank introduced roles like data engineers and governance officers, collaborated with global academic institutions, and adopted a data-driven business model.",
+        "o In March 2025, The Egyptian Ministry of Education, in partnership with Microsoft Egypt, launched a joint initiative to enhance community capabilities in artificial intelligence through an “Innovation Hub.” This initiative aims to prepare students for the future by integrating AI into curricula, im",
+        "Egypt is well-positioned to play a leading role in the global discussion on AI ethics and in the development of ethical AI systems.",
+        "As part of the broader Egypt Vision 2030, the country has developed a comprehensive education sector plan that outlines a five-year roadmap for systemic reform.",
+        "It has contributed to drafting ethics guidelines for AI within various international bodies, including the OECD, UNESCO, and the G20, and is leading efforts within the African Union and Arab League to unify regional ethical recommendations.",
+        "Egypt has launched a comprehensive suite of national initiatives to harness the potential of AI in the education sector: Curriculum Content: ### Page 58 53 ."
+      ],
+      "gaps": [
+        "While Egypt does not yet have many research initiatives that are directly dedicated to AI, there are many that are linked and would influence the field.",
+        "Therefore, Egypt should further increase its investment in R&D to close the gap, strengthen its technological leadership and improve economic competitiveness.",
+        "It identifies limited awareness, high costs, lack of strategic planning, and regulatory hurdles as major barriers.",
+        "The Applied Innovation Center (AIC) Focuses on bridging the gap between research and practical application.",
+        "Although Education & Training stands as its own pillar, it is implicated in other strategic pillars, especially in the target areas of economic development and social justice.",
+        "This program aims to integrate AI into the school curriculum and to provide students with the skills and knowledge they need to succeed in the AI-driven economy.",
+        "Despite these improvements, there are still some challenges that need to be addressed.",
+        "However, the Egyptian government is committed to improving educational infrastructure and to ensuring that all students have access to a quality education.",
+        "However, as these recommendations are largely non-binding and generic, countries must localize them into actionable policies for government, academia, industry, and civil society.",
+        "The initiative provides practical training for future employment, freelancing, and entrepreneurship, bridging the gap between education and real-world digital opportunities."
+      ],
+      "key_stats": [
+        {
+          "stat": "7.7% to Egypt",
+          "context": "Expenditure on Research and Development (GERD). By 2030, the ICT sector is expected to contribute 7.7% to Egypt’s GDP. This initiative is part of a larger strategy to boost innovation, stimulate econo",
+          "value": 7.7,
+          "unit": "%"
+        },
+        {
+          "stat": "20% of its sustainable funds to suppo",
+          "context": "ge tumors, aiming to boost recovery rates to 98%. Funded mainly through donations, Bahya allocates 20% of its sustainable funds to support low- income patients.70 o As part of the growing body of rese",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "50% of students are in primary educat",
+          "context": "cation system in the Middle East and North Africa region, with over 25 million students. More than 50% of students are in primary education, with another 23% in preparatory education, reflecting a nea",
+          "value": 50.0,
+          "unit": "%"
+        },
+        {
+          "stat": "23% in preparatory education",
+          "context": "n, with over 25 million students. More than 50% of students are in primary education, with another 23% in preparatory education, reflecting a nearly universal net enrollment rate. The Egyptian governm",
+          "value": 23.0,
+          "unit": "%"
+        },
+        {
+          "stat": "4% of the GDP on pre",
+          "context": "nstitutional right, by ensuring that compulsory basic education is free, and spending no less than 4% of the GDP on pre- university education. As part of the broader Egypt Vision 2030, the country has",
+          "value": 4.0,
+          "unit": "%"
+        },
+        {
+          "stat": "7.7% of the country",
+          "context": "lopment. Under the 2nd edition of its National AI Strategy (NAIS), Egypt aims for AI to contribute 7.7% of the country’s GDP by 2030, a strong indicator of its intended economic impact. With over 11 s",
+          "value": 7.7,
+          "unit": "%"
+        },
+        {
+          "stat": "1.5 billion USD",
+          "context": "to the World Bank, Government Budget Allocations for R&D (GBARD) in USD in Egypt for 2022 totaled 1.5 billion USD. While this marks a step forward, it remains relatively low compared to other countrie",
+          "value": 1500000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "ranks 86th globally",
+          "context": "ress in scientific output, although commercialization through patents remains limited. The country ranks 86th globally in the Global Innovation Index (2024(85 and hosts more than 480 AI-specialized co"
+        },
+        {
+          "stat": "1,000 people",
+          "context": "the Arab region in AI and AI-related research publications per capita, with 0.28 publications per 1,000 people. This is a significant achievement, given that Egypt’s population exceeds 105 million peo"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "National Artificial Intelligence Strategy 2025–2028 (2nd Edition).",
+        "https://www.worldbank.org/en/topic/governance/brief/govtech 88 As of May 2025, the most recent available data on Egypt’s performance in the GovTech Maturity Index (GTMI) is from the 2022 update.",
+        "This index measures countries’ capacity to adopt cutting-edge technologies like AI, robotics, and biotechnology.",
+        "Gen-AI: Artificial intelligence and the future of work.",
+        "These high-level, demand-driven digital skills are essential for increasing productivity and expanding job opportunities, especially in data-centric and innovation-intensive industries.",
+        "However, despite the growing importance of STEM education to build a future-ready workforce, Egypt faces persistent challenges: low student enrollment and completion rates in tertiary education90 continue to hinder the development of advanced digital skills.",
+        "Labor Market Digital competencies are typically divided into four categories based on proficiency levels: • Basic • Intermediate • Advanced • Highly specialized ### Page 63 58 These levels reflect the cognitive challenge, task complexity, and independence needed to perform various digital tasks91 No",
+        "The demand for digital skills in Egypt is growing rapidly due to the accelerating integration of AI and digital technologies across multiple sectors."
+      ],
+      "strengths": [
+        "The Egyptian labor market in the Age of AI is primarily shaped by the supply and demand of advanced and highly specialized digital skill sets.",
+        "Digital skills broadly encompass both foundational and advanced competencies required to operate effectively in a digital society.",
+        "Egypt’s global competitiveness increasingly depends on its services sector’s ability to apply intermediate and advanced digital skills, such as software operation, data handling, and AI deployment.",
+        "According to the Global Innovation Index 2024, Egypt has established 11 science and technology (S&T) clusters, the highest number in Africa.",
+        "To address these gaps, the government of Egypt has launched several strategic initiatives under the 2nd edition of NAIS.",
+        "It functions as a collaborative platform that connects researchers, developers, and startups with access to advanced resources such as datasets, hardware, and funding.",
+        "It has developed a robust data infrastructure, reversed brain drains by hiring Egyptian experts and introduced roles like data engineers and AI officers.",
+        "One company launched Egypt’s first local public cloud service, enabling startups and Small and Medium-sized Enterprises (SMEs) to access AI services affordably in local currency.",
+        "Moreover, 23 Digital Egypt Innovation Hubs have been launched nationwide to foster innovation and entrepreneurship112 113.",
+        "Two success stories of local startups working with AI who have broken out into the global market are: These developments reflect Egypt’s strong commitment to building a robust AI and technology ecosystem."
+      ],
+      "gaps": [
+        "However, these clusters are stronger in scientific output than in international patenting, indicating room for commercialization improvements.",
+        "Yet, Egyptian graduates often lack the skills to meet these new demands due to persistent weaknesses in technical and higher education systems, as well as declining scientific research standards.",
+        "While initiatives such as the Egypt University of Informatics, specialized degree programs, and lifelong learning opportunities exist, more progress is needed to raise Egypt’s digital skill levels to international standards.",
+        "However, Egypt faces challenges in Skills Fit and Economic Transformation, indicating a need for better alignment between educational outcomes and labor market demands, as well as enhanced support for innovation and entrepreneurship.99 The Coursera Global Skills Report 2024 highlights Egypt’s commit",
+        "These initiatives aim to bridge the digital skills gap and prepare the workforce for the evolving demands of the global job market.100 These developments indicate Egypt’s strong intent to align its labor market and economy with global AI trends, supported by local capacity-building programs and inte",
+        "However, it still performs poorly in the “Enable” and “Global Knowledge Skills” pillars.",
+        "For example, despite the Central Bank of Egypt (CBE) investing 4–5$ million in training cybersecurity engineers annually, many of them leave for higher-paying jobs abroad.",
+        "However, according to a World Bank Report, the extent of staff training in Egypt is rated at 3.9 out of 7, with a score of 48 out of 100, placing it at 75 out of 141 countries worldwide.",
+        "The founders of these digital enterprises often lack the necessary digital and technical skills to transform their concepts into practical products.",
+        "The challenge of finding and keeping programming talent presents a substantial operational risk for startups."
+      ],
+      "key_stats": [
+        {
+          "stat": "11% by",
+          "context": "nd technology adoption. Specific ICT targets include: • Increasing fixed broadband penetration to 11% by 2025 and 14% by 2030 • Increasing mobile broadband penetration to 65% by 2025 and 79% by 2030 F",
+          "value": 11.0,
+          "unit": "%"
+        },
+        {
+          "stat": "14% by",
+          "context": "doption. Specific ICT targets include: • Increasing fixed broadband penetration to 11% by 2025 and 14% by 2030 • Increasing mobile broadband penetration to 65% by 2025 and 79% by 2030 FIG 9 95. Ibid.,",
+          "value": 14.0,
+          "unit": "%"
+        },
+        {
+          "stat": "65% by",
+          "context": "broadband penetration to 11% by 2025 and 14% by 2030 • Increasing mobile broadband penetration to 65% by 2025 and 79% by 2030 FIG 9 95. Ibid., 96. Statista https://www.statista.com/outlook/tmo/artific",
+          "value": 65.0,
+          "unit": "%"
+        },
+        {
+          "stat": "79% by",
+          "context": "ration to 11% by 2025 and 14% by 2030 • Increasing mobile broadband penetration to 65% by 2025 and 79% by 2030 FIG 9 95. Ibid., 96. Statista https://www.statista.com/outlook/tmo/artificial-intelligenc",
+          "value": 79.0,
+          "unit": "%"
+        },
+        {
+          "stat": "7.7% of GDP through AI by",
+          "context": "egypt The 2nd Edition of NAIS (2025–2028(97 outlines macro and micro goals such as: • Contributing 7.7% of GDP through AI by 2030 • Increasing AI access for 36% of the population • Doubling AI profess",
+          "value": 7.7,
+          "unit": "%"
+        },
+        {
+          "stat": "36% of the population",
+          "context": "and micro goals such as: • Contributing 7.7% of GDP through AI by 2030 • Increasing AI access for 36% of the population • Doubling AI professionals to 30,000 • Supporting +250 AI companies • Reaching ",
+          "value": 36.0,
+          "unit": "%"
+        },
+        {
+          "stat": "7.9% of private",
+          "context": "cybersecurity engineers annually, many of them leave for higher-paying jobs abroad. In 2022, only 7.9% of private-sector firms offered formal training. Approximately 29% of youth aged 15–24 were not i",
+          "value": 7.9,
+          "unit": "%"
+        },
+        {
+          "stat": "29% of \nyouth aged",
+          "context": "ying jobs abroad. In 2022, only 7.9% of private-sector firms offered formal training. Approximately 29% of youth aged 15–24 were not in education, employment, or training (NEET). Technicians and assoc",
+          "value": 29.0,
+          "unit": "%"
+        },
+        {
+          "stat": "7% of the workforce",
+          "context": "in education, employment, or training (NEET). Technicians and associate professionals made up just 7% of the workforce. Egypt ranks 89th out of 134 countries for skill mismatch and 117th out of 119 in",
+          "value": 7.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1.9% of full",
+          "context": "s productivity and the adoption of digital tools.104. Furthermore, digital talent constitutes only 1.9% of full-time employees, and women are underrepresented. In Egypt, men are more prone to particip",
+          "value": 1.9,
+          "unit": "%"
+        },
+        {
+          "stat": "12.3% for men versus",
+          "context": ". In Egypt, men are more prone to participate in entrepreneurship compared to women, with rates of 12.3% for men versus 9.2% for women105. Of 21 AI startups in 2021, only two were female-founded. The ",
+          "value": 12.3,
+          "unit": "%"
+        },
+        {
+          "stat": "9.2% for women",
+          "context": "ore prone to participate in entrepreneurship compared to women, with rates of 12.3% for men versus 9.2% for women105. Of 21 AI startups in 2021, only two were female-founded. The Global Entrepreneursh",
+          "value": 9.2,
+          "unit": "%"
+        },
+        {
+          "stat": "67.7% of early",
+          "context": "in 2021, only two were female-founded. The Global Entrepreneurship Monitor 2021/2022 report found 67.7% of early-stage Egyptian entrepreneurs use digital tools, but many still face challenges attracti",
+          "value": 67.7,
+          "unit": "%"
+        },
+        {
+          "stat": "56% women",
+          "context": "via 300 partners The Digital Egypt Builders Initiative also graduated 624 master’s-level students (56% women), while the Digital Egypt Pioneers trained 90,000 graduates. The Qodwa-Tech program support",
+          "value": 56.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of female \nparticipants reported",
+          "context": "The Qodwa-Tech program supported women in using AI for product development and marketing. Notably, 95% of female participants reported using AI in design, and 85% reported improved living conditions. ",
+          "value": 95.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "AI-based tools and applications make our lives easier, smoother, and richer.",
+        "But in its current form, AI reproduces and amplifies many of the social challenges we face.",
+        "The AI industry is highly concentrated between just two countries – the United States and China with only a dozen companies accounting for a major share of the sector.",
+        "Non-diverse AI teams, unrepresentative datasets, and opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether companies or individuals, children and young people, women, or entire democracies.",
+        "We need capable governments that are well equipped, in terms of competencies, institutions and laws, to frame responsible AI development and protect the rule of law online, and to hold accountable public and private developers, making sure that they put human rights and fundamental freedoms first, r",
+        "The Readiness Assessment Methodology (RAM) is a diagnostic tool intended to assist Member States in upholding their commitment to the Recommendation by helping them understand how prepared they are to implement AI ethically and responsibly for all their citizens.",
+        "By highlighting any institutional, regulatory or data gaps and obstacles, it enables UNESCO to tailor support for governments to fill those gaps to ensure an ethical AI ecosystem aligned with the Recommendation.",
+        "Finally, the third section presents a roadmap with recommendations for building capacities across national institutions, laws and policies, and human capital, to achieve a responsible AI ecosystem aligned with the UNESCO Recommendation."
+      ],
+      "strengths": [
+        "To combat this, UNESCO drafted the ‘Recommendation on the Ethics of Artificial Intelligence’, which was adopted in 2021 by 193 countries to make sure AI delivers fair, sustainable, and inclusive outcomes.",
+        "Egypt has made notable progress in its AI journey, particularly in legislation, institutional development, and digital infrastructure.",
+        "While Egypt has made commendable progress in developing its AI ecosystem, the RAM identifies valuable opportunities to further accelerate this momentum.",
+        "While Egypt already hosts a variety of ambitious programs, the focus is now on implementing a coordinated and inclusive capacity-building strategy that unifies fragmented training programs and extends opportunities to underrepresented groups, developing high-end domestic talent, retaining skilled pr",
+        "This priority is reflected in the Government of Egypt’s national AI strategy, which includes a pillar focusing on developing a comprehensive educational approach and has led to initiatives such as a recent presidential decree mandating the integration of AI education at the primary school level, sig",
+        "To achieve these goals, the report recommends that Egypt prioritize the creation of a national legislative roadmap for AI, outlining clear timelines for enacting and updating key laws ahead of a comprehensive AI framework.",
+        "We established national governance frameworks, introduced AI ethics guidelines aligned with international standards, launched impactful AI use cases in sectors such as healthcare and agriculture, and upskilled hundreds of thousands of Egyptians in digital and AI-related skills.",
+        "Talaat Minister of Communications & Information Technology, Egypt ### Page 11 6 In November 193 ,2021 Member States of UNESCO adopted the Recommendation on the Ethics of Artificial Intelligence, the first global normative instrument in its domain.",
+        "The Recommendation provides a comprehensive and actionable framework for the ethical development and use of AI, encompassing the full spectrum of human rights.",
+        "In response to rapid developments in AI technology, including the emergence of generative AI, the second edition of the NAIS was adopted by the Egyptian government in January 2025."
+      ],
+      "gaps": [
+        "It is unacceptable that around half of the world’s population still lacks adequate internet access.",
+        "The Recommendation also sets out concrete policy actions that governments can draw on to steer technological development in a responsible direction, premised on the belief that light-touch regulation, which has until now remained the norm, is insufficient.",
+        "Infrastructure advancements such as the construction of over 6,000 km of fiber optic network and the connection of 1,458 villages have significantly improved broadband access and contributed to narrowing Egypt’s rural connectivity gap currently estimated at 13%.",
+        "Nevertheless, this report does not aim to rank Egypt based on its AI usage."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranks 1st in Africa",
+          "context": "rently estimated at 13%. According to the Oxford Insights Government AI Readiness Index, Egypt now ranks 1st in Africa, among the top 10 in the MENA region, and 62nd globally, signaling its growing re"
+        },
+        {
+          "stat": "ranked 65th out of",
+          "context": "improving from 58th in 2019. In 2024 Government AI Readiness Index issued by Oxford Insights, Egypt ranked 65th out of 188 countries, compared to 111th in 2019. The same report positioned Egypt as 1st"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "We established national governance frameworks, introduced AI ethics guidelines aligned with international standards, launched impactful AI use cases in sectors such as healthcare and agriculture, and upskilled hundreds of thousands of Egyptians in digital and AI-related skills.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Due to several achievements in the field, Egypt was ranked first in Africa, among the top ten countries in the MENA region, and 65th globally out of 188 countries.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Practical plans to effectively address those needs are found in the 2nd edition of the NAIS, and these should be implemented as a priority.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The report provides practical, actionable recommendations that can be implemented over a five-year horizon—laying the groundwork for Egypt to solidify its role as a regional leader in AI innovation and governance.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The same report positioned Egypt as 1st in Africa, and 7th in the MENA region3.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "In 2019, the Egyptian government established the National Council for Artificial Intelligence (NCAI).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "2 Intella: is an AI startup specializing in Arabic speech recognition and voice technology.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "Of 21 AI startups in 2021, only two were female-founded: Since 2017, the National Strategy for the Empowerment of Egyptian Women 2030 has emphasized the importance of digitization, technology, innovation, and financial inclusion as key enablers of women›s economic empowerment51.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "Although Egyptian society is largely linguistically and culturally homogenous, there are recognized minorities and indigenous languages, including the Nubian, Bedouin Arabic dialects, Siwi (Berber), and Coptic.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Additionally, Egypt also ranks first in the region for AI and AI-related publications per capita, with 0.45 citations per 1,000 people, demonstrating the influence and quality of its research output.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "o In March 2025, The Egyptian Ministry of Education, in partnership with Microsoft Egypt, launched a joint initiative to enhance community capabilities in artificial intelligence through an “Innovation Hub.” This initiative aims to prepare students for the future by integrating AI into curricula, improving teaching quality, and empowering teachers through digital training.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The study focuses on developing a model for classifying Arabic documents by combining NLP techniques with machine learning algorithms such as Naïve Bayes and Support Vector Machines.79 • Computer Vision: Innovating image recognition and analysis applications across various industries.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• The Egyptian Institute of Informatics and Systems Engineering (EINSI) has developed a number of AI ethics textbooks and other resources for educators.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• The Ministry of Higher Education and Scientific Research has also developed a number of resources for educators on how to teach AI ethics.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "3 Arab Academy for Science, Technology and Maritime Transport Regional The College of Artificial Intelligence, founded in September 2019, provides programs in intelligent systems, data science and robotics.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "As part of the broader Egypt Vision 2030, the country has developed a comprehensive education sector plan that outlines a five-year roadmap for systemic reform.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The government has built new schools, renovated existing schools, and provided schools with new equipment and resources.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "1 The ‘AI for Education’ program, which is being implemented by the Egyptian Ministry of Education and Technical Education.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "2 Digital Egypt Builders Initiative (DEBI) aims to grant outstanding graduates a professional master’s degree from top global universities in various fields, including artificial intelligence Here are some of the specific initiatives that the Egyptian government has taken to improve educational infrastructure: • The government has built 10,000 new schools since 2011.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Egypt’s commitment has garnered global recognition, making it the first Arab and African nation to adopt the OECD Principles on Responsible AI, and it is an early adopter of UNESCO’s AI ethics standards.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Of 21 AI startups in 2021, only two were female-founded.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "It has developed a robust data infrastructure, reversed brain drains by hiring Egyptian experts and introduced roles like data engineers and AI officers.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "Initiatives include the establishment of 19 technical ICT schools and the Egypt University of Informatics, founded in 2021 with partners like Purdue, Minnesota, and Ottawa.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Egypt ranks first in Africa for internet speed and is among the top three MENA startup ecosystems.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "One multinational MNO built an in-house AI team and integrated AI tools across departments, investing 2.5$ million over 18 months.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 81.9,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "AI Companies",
+      "value": 21,
+      "unit": "count",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 28,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "According to the Oxford Insights Government AI Readiness Index, Egypt now ranks 1st in Africa, among the top 10 in the MENA region, and 62nd globally, signaling its growing readiness to harness AI in public service and governance.",
+      "index_name": "Oxford Insights",
+      "rank": 1
+    },
+    {
+      "context": "In 2024 Government AI Readiness Index issued by Oxford Insights, Egypt ranked 65th out of 188 countries, compared to 111th in 2019.",
+      "index_name": "Government AI Readiness Index",
+      "rank": 65,
+      "total_countries": 188,
+      "year": 2024
+    },
+    {
+      "context": "In ODIN 2022, Egypt ranked 130 out of 195 countries, with an overall score of 41.",
+      "index_name": "ODIN",
+      "rank": 130,
+      "score": 41.0,
+      "total_countries": 195,
+      "year": 2022
+    },
+    {
+      "context": "Egypt’s E-Participation Index, which measures the extent of citizen engagement in digital policymaking, is slightly lower at 0.5890, ranking 74th out of 19360 .",
+      "index_name": "E-Participation Index",
+      "rank": 74
+    },
+    {
+      "context": "The country ranks 86th globally in the Global Innovation Index (2024(85 and hosts more than 480 AI-specialized companies.",
+      "index_name": "Global Innovation Index",
+      "rank": 86,
+      "year": 2024
+    },
+    {
+      "context": "According to the Oxford Insights Government AI Readiness Index (2023), the country now ranks 1st in Africa, is among the top ten countries in the MENA region, and 62nd globally in AI preparedness.",
+      "index_name": "Oxford Insights",
+      "rank": 1,
+      "year": 2023
+    }
+  ]
+}

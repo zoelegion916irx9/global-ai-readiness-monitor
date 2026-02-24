@@ -1,0 +1,823 @@
+{
+  "country_code": "LA",
+  "country_name": "SOCIAL AND CULTURAL",
+  "language": "en",
+  "metadata": {
+    "page_count": 75,
+    "creation_date": "D:20260121135923+07'00'",
+    "modification_date": "D:20260121103309+01'00'",
+    "country_name": "SOCIAL AND CULTURAL",
+    "language": "en"
+  },
+  "chapters": [
+    {
+      "chapter": 2,
+      "title": "on stakeholders) indicates",
+      "start_page": 32
+    }
+  ],
+  "dimensions": {
+    "Legal and Regulatory": {
+      "chapter": 2,
+      "title": "on stakeholders) indicates",
+      "start_page": 32
+    }
+  },
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "LEGAL AND REGULATORY 3 20-Year National Digital Economy Development Vision (2021-2040) 4 Link to Lao Official Gazette - Draft Decree 5 News publication of revised national constitution, 2025 This section will discuss the legal and regulatory aspects of AI adoption in Laos.",
+        "The regulatory framework around the general information technology sector in which AI is/will be deployed is crucial to ensuring the ethical deployment of AI systems.",
+        "The legal and regulatory framework should include effective mechanisms for safeguarding and upholding citizens’ rights, as well as monitoring, mitigating, and compensating for any unforeseen adverse outcomes resulting from the deployment of AI systems.",
+        "Examples of the legal framework include regulations concerning AI, data protection and privacy, data sharing and accessibility, and freedom of information, among others.",
+        "NATIONAL AI STRATEGY As of August 2025, the Government of Lao PDR is in the process of drafting its national AI strategy, which aims to incorporate key recommendations from this report to strengthen and complement the final framework.",
+        "This national AI strategy is expected to be finalized and ratified in the beginning of Q4 2025.",
+        "The draft strategy is structured around seven core pillars: (1) legislation and governance; (2) human resource development; (3) digital and information infrastructure; (4) AI research and development; (5) support for AI entrepreneurship; (6) broader adoption of AI across sectors; and (7) internation",
+        "Aside from the mentioned National Strategy on AI, it appears briefly in the 2025 Draft Decree on Digital Transformation, specifically in Articles 17, 18, and 21, which position AI primarily as a tool to boost the digital economy4."
+      ],
+      "strengths": [
+        "AI-SPECIFIC REGULATION The country has made significant progress in charting its digital transformation journey, guided by the three foundational pillars of digital governance, digital economy, and digital society, backed with a suite of national strategies, including the 20-Year National Digital Ec",
+        "These strategies demonstrate a strong commitment to advancing digital infrastructure, innovation, and service delivery.",
+        "ONLINE SAFETY AND INTEGRITY OF SPEECH The Law on Prevention and Combating Cyber Crime, enacted on July 15, 2015, provides a legal framework for preventing, investigating, and penalizing cyber-related offenses19.",
+        "Lao PDR’s Digital Maturity Assessment Overall DMA score 1.7/5 Provinces (1.3) Lao PDR (1.7) Ministries (1.8) 1 Nascent 2 Emerging 3 Integrated 4 Transformed 5 Innovative Source: UNDP To address these gaps, the Lao government has actively partnered with international organizations."
+      ],
+      "gaps": [
+        "While budgetary estimates for proposed activities are included, specific funding commitments have yet to be finalized.",
+        "Despite the progress in digital transformation, AI has only very recently begun to emerge in formal policy discourse.",
+        "However, the law does not include requirements for data minimization, nor does it specify cases where a data protection or privacy impact assessment is required.",
+        "Classified as Tier 4: Evolving, Lao PDR has a solid foundation in legal and collaborative frameworks but requires targeted investment to close the gap, particularly in capacity building and institutional strengthening.",
+        "Users are permitted to access, use, copy, share, and modify open data, provided it does not violate the law or involve commercial trading of state data.",
+        "However, ministries, agencies, and local authority are not liable for any damages resulting from the use of open government data.",
+        "Despite these efforts, challenges remain in improving data availability.",
+        "According to the Open Data Inventory (ODIN), Laos scored 46 overall, with 39 in coverage and 52 in openness, indicating limited accessibility, particularly in social statistics11.",
+        "However, it does not contain specific provisions related to computing technologies or the procurement of AI systems.",
+        "Although these laws are not AI-specific, they provide a regulatory entry point for the government to oversee and hold accountable businesses that develop or deploy AI technologies."
+      ],
+      "key_stats": [
+        {
+          "stat": "ranks 9th in the",
+          "context": "52 in openness, indicating limited accessibility, particularly in social statistics11. The country ranks 9th in the region, ahead of only Cambodia and Timor- Leste, highlighting significant room for i"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "The Consumer Protection Law",
+          "year": "2010",
+          "status": "enacted"
+        },
+        {
+          "name": "Consumer Protection Law",
+          "year": "2010",
+          "status": "enacted"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "These dimensions are vital in addressing potential biases throughout the AI lifecycle and in building a fair, inclusive AI ecosystem.",
+        "In the Lao context, this includes promoting greater participation of women in science, technology, engineering, and mathematics (STEM) fields, including AI-related sectors, and ensuring that AI development reflects the country’s rich ethnic and cultural diversity.",
+        "It also involves understanding public attitudes and the general level of acceptance of AI technologies among different communities across the country, which is essential for responsible and equitable implementation.",
+        "The Lao People’s Democratic Republic has implemented a multi-faceted policy framework to address this digital divide between urban and rural areas as part of its broader inclusive development agenda.",
+        "The National Green Growth Strategy of the Lao PDR (2018) serves as a cornerstone policy that promotes inclusive and sustainable development with explicit aims to reduce disparities between urban and rural communities, across ethnic groups, and between genders30.",
+        "Lao PDR’s Kick-off on Nationally Determined Contributions (NDC 3.0) Source: UNDP 29 As AI emerges as a resource-heavy technology: demanding both substantial energy and reliable cooling, Laos sees an opportunity to align its hydropower surplus advantage with digital growth.",
+        "This initiative is seen to kick start the positioning of the country as a hub for sustainable AI infrastructure, advancing both its economic ambitions and its climate commitments.",
+        "Additionally, no provisions explicitly address the unique impacts of digital health technologies or AI on children’s health or healthcare needs."
+      ],
+      "strengths": [
+        "The country has devised a National Plan for Gender Equality, which provides a comprehensive framework for promoting gender equality across all sectors, including technology and digital access27.",
+        "Complementing this approach, Laos has established comprehensive development plans spanning 5, 10, and 20-year horizons that progressively integrate digital technologies into the national socio-economic framework.",
+        "The strategy adopts a holistic approach to healthcare improvement, with implicit rather than explicit focus on comprehensive physical and mental health outcomes, primarily emphasizing system-level efficiency improvements designed to enhance overall service delivery.",
+        "Notably, UNICEF, in partnership with the Ministry of Technology and Communications (MTC), launched a project in late 2024 to train machine learning models in both Lao and English."
+      ],
+      "gaps": [
+        "SOCIAL AND CULTURAL 24 Digital Gender Gaps 25 WEF: Global Gender Gap Report 2021 26 OECD: PISA 2018 Report 27 Lao PDR Gender Equality Strategy 2021-2025 28 UNDP Strategy on Gender Equality 29 Publication on DigitALL This section explores the social and cultural dimensions relevant to the ethical dep",
+        "GENDER GAP One critical metric in measuring whether there’s a disparity along gender lines in technology inclusion is the gender gap in internet use.",
+        "Laos has a score of 0.972 in the Digital Gender Gap Index24, which indicates relatively high digital access and inclusion compared to regional neighbors and peers (0.7 - 0.94).",
+        "However, disparities in STEM education and career aspirations remain substantial.",
+        "Based on the World Economic Forum’s Global Gender Gap Report, 12.79% of female students attained STEM education compared to 32.47% of male students25.",
+        "This imbalance underscores the need for targeted interventions to promote gender inclusivity in STEM fields from an early stage.",
+        "Although specific policies targeting the digital gender gap remain limited, the law establishes a foundation for broader initiatives to enhance women’s participation in the digital economy.",
+        "Such efforts are crucial in bridging the gender gap in AI and IT sectors, where women remain underrepresented in leadership roles, research, and development.",
+        "ENVIRONMENTAL AND SUSTAINABILITY POLICIES Laos, whose biggest export is electricity, is often dubbed the “Battery of Southeast Asia.” This power is primarily generated from its vast hydropower resources, although coal remains a backup during periods of drought that strain generation capacity31.",
+        "Although no explicit government regulation on strategy has been set up, in June 2025, the government signed an MoU to explore the development of green, hydropower- driven data centers, including an AI Innovation Centre and a 150-hectare AI Special Economic Zone in Vientiane33."
+      ],
+      "key_stats": [
+        {
+          "stat": "12.79% of female students attained STEM",
+          "context": "considerably lower than that of men. Based on the World Economic Forum’s Global Gender Gap Report, 12.79% of female students attained STEM education compared to 32.47% of male students25. This imbalan",
+          "value": 12.79,
+          "unit": "%"
+        },
+        {
+          "stat": "32.47% of male students",
+          "context": "ic Forum’s Global Gender Gap Report, 12.79% of female students attained STEM education compared to 32.47% of male students25. This imbalance underscores the need for targeted interventions to promote ",
+          "value": 32.47,
+          "unit": "%"
+        },
+        {
+          "stat": "81% \ncoverage in internet users com",
+          "context": "omic and administrative hub of Laos, consistently leads in digital adoption - the district reported 81% coverage in internet users compared to the total population based on the survey done by the Mini",
+          "value": 81.0,
+          "unit": "%"
+        },
+        {
+          "stat": "50% coverage",
+          "context": "ther more rural, agriculturally heavy regions like Savannakhet and Khammouane still have less than 50% coverage. The Lao People’s Democratic Republic has implemented a multi-faceted policy framework t",
+          "value": 50.0,
+          "unit": "%"
+        },
+        {
+          "stat": "60% by",
+          "context": "pacity31. Against this backdrop, the country has set ambitious climate goals: cutting emissions by 60% by 2030 and achieving net-zero by 2050 under its NDC 2.0 commitments (figure 4)32. Figure 4. Lao ",
+          "value": 60.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of respondents having a high degr",
+          "context": "(detailed in chapter 2 on stakeholders) indicates that public trust in AI in general is high, with 95% of respondents having a high degree of trust in AI implementation. 39 Lao Data Center 40 Publicat",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "30\nCenter",
+          "context": "Management Information System (e-LMIS) enhances education access and monitoring. The National Data 30 Center (LaoDC) centralizes government data for better service delivery and security39. The Lao Gov"
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "SCIENTIFIC AND EDUCATIONAL 46 UNESCO: Bulk Data Download Service 47 Lao Gazette - Law on Science and Technology In this section, the scientific and educational dimensions supporting AI adoption in Laos will be discussed.",
+        "As scientific and educational foundations play a crucial role in advancing AI capabilities, evaluating these dimensions is essential for understanding the country’s readiness for AI development.",
+        "The scientific dimension is assessed through Lao’s performance in research and innovation (R&I), including factors such as research and development (R&D) spending, volume and quality of research output, ethical considerations in AI research, and innovation in AI-related talent.",
+        "Meanwhile, the educational dimension is evaluated by examining the country’s progress in areas such as national education strategies, educational infrastructure, curriculum development, learning outcomes, and public accessibility to AI education and training.",
+        "The most recent available figure dates back to 2002, when R&D investment was recorded at 0.04% of GDP, according to data from the UNESCO Institute for Statistics46.",
+        "This commitment has been codified in the 2025 constitutional amendment, which explicitly mandates the promotion of intelligence and creativity through the advancement of scientific research, analysis, and the application of science, technology, innovation, and AI.",
+        "Based on OECD data on AI research publication, Laos is lagging in terms of publication in comparison with closest-in-performance regional neighbors Myanmar and Cambodia, producing less than 10 publications per year in the last several years, less than half of those produced by regional neighbouring ",
+        "While the government offers competitive research grants, these are generally aimed at broad science and technology fields and do not specifically prioritize AI."
+      ],
+      "strengths": [
+        "NUOL’s computer science department has only four PhD faculty members, indicating a shortage of senior researchers capable of leading and sustaining high-impact AI initiatives.",
+        "The Khang Panya learning platform, developed in partnership with UNICEF, the EU, and the Global Partnership for Education, has been established to prevent learning loss during COVID, and has provided digital learning resources for students and teachers52."
+      ],
+      "gaps": [
+        "R&D EXPENDITURES Reliable and up-to-date data on research and development (R&D) expenditure in the Lao People’s Democratic Republic remains limited.",
+        "In recent years, however, the Government of Laos has demonstrated renewed commitment to strengthening the science and technology sector.",
+        "RESEARCH OUTPUTS AND ETHICAL AI RESEARCH Researchers from Laos have yet to publish in top AI conferences and publications like CVPR, NeuRIPS and NAACL, and there are currently no publications by Laotians or featuring Laos as a subject in research venues on AI ethics such as ACM’s FAccT.",
+        "AI papers output in Myanmar vs Cambodia vs Laos Myanmar Cambodia Laos 100 75 50 25 0 2000 2005 2010 2015 2020 2025 Source: OECD AI Research Data48 Scientific publications in Laos are predominantly in the form of local-language textbooks and limited-circulation local journals, which restricts their v",
+        "This limited publication output in the computing domain contributes to the scarcity of reputable computing/ICT conferences in the country, particularly those focused on AI or AI ethics.",
+        "AI research in Laos faces significant constraints due to limited funding opportunities.",
+        "Consequently, most AI-related projects stall at the model development stage, lacking a structured pipeline for scaling and operational deployment.",
+        "Discussions with researchers and university professors reveal that this funding gap fosters a donor- dependent research culture, where academics are less motivated to pursue independent research agendas and instead align their work primarily with donor priorities.",
+        "There are no dedicated AI research laboratories, and research efforts are largely limited to thesis projects, with no large-scale AI initiatives or applied research programs in place.",
+        "Despite AI being embedded in other departments, interdisciplinary collaboration within the university remains limited due to logistical and geographic constraints between faculties."
+      ],
+      "key_stats": [
+        {
+          "stat": "0.04% of GDP",
+          "context": "s limited. The most recent available figure dates back to 2002, when R&D investment was recorded at 0.04% of GDP, according to data from the UNESCO Institute for Statistics46. This figure falls signif",
+          "value": 0.04,
+          "unit": "%"
+        },
+        {
+          "stat": "5.36% primary schools have access to",
+          "context": "AI-driven education solutions inaccessible in certain regions. Based on UNESCO data in 2024, only 5.36% primary schools have access to the internet for pedagogical purposes55. While some initiatives s",
+          "value": 5.36,
+          "unit": "%"
+        },
+        {
+          "stat": "11.13% of \nprimary schools have access to",
+          "context": "ablets, and digital learning devices remains insufficient, particularly outside urban centers. Only 11.13% of primary schools have access to computers for pedagogical purposes56. 55 UIS SDG - Primary ",
+          "value": 11.13,
+          "unit": "%"
+        },
+        {
+          "stat": "0.5% of the population held a doctoral",
+          "context": "ady workforce due to persistently low levels of doctoral education. According to UNESCO data, only 0.5% of the population held a doctoral degree in 2010, and declined further to 0.04% by 201557 (see f",
+          "value": 0.5,
+          "unit": "%"
+        },
+        {
+          "stat": "0.04% \nby",
+          "context": "to UNESCO data, only 0.5% of the population held a doctoral degree in 2010, and declined further to 0.04% by 201557 (see figure 8). This is reflected in the country’s limited academic capacity, taking",
+          "value": 0.04,
+          "unit": "%"
+        },
+        {
+          "stat": "23.1% of tertiary graduates",
+          "context": "008 2012 2016 2020 2024 Source: UIS Data Browser; https://databrowser.uis.unesco.org/, UNESCO While 23.1% of tertiary graduates (Laos has a 9.6% tertiary education attainment rate) come from STEM fiel",
+          "value": 23.1,
+          "unit": "%"
+        },
+        {
+          "stat": "9.6% tertiary education attainment",
+          "context": "Browser; https://databrowser.uis.unesco.org/, UNESCO While 23.1% of tertiary graduates (Laos has a 9.6% tertiary education attainment rate) come from STEM fields, 12% of that share is concentrated in ",
+          "value": 9.6,
+          "unit": "%"
+        },
+        {
+          "stat": "12% of that share \nis concentrated in",
+          "context": "% of tertiary graduates (Laos has a 9.6% tertiary education attainment rate) come from STEM fields, 12% of that share is concentrated in engineering and construction58, areas that might not be related",
+          "value": 12.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "ECONOMIC 61 UNCTAD: Vulnerability Profile Lao PDR 62 World Bank - Digital Future Laos 63 Empowerher Laos: AI Innovation in Laos This section discusses the economic dimension in the context of Laos.",
+        "It focuses on key aspects of the national ecosystem where AI systems are developed and implemented, particularly those related to the labor market, spending on intermediate goods and services, and investment in AI-related production.",
+        "In Laos, the dynamism and skill level of the workforce, together with the country’s capacity to invest in and support AI development through intermediate consumption and production, are critical indicators for assessing how ready and capable the ecosystem is to adopt and benefit from AI technologies",
+        "This situation led to a smaller digital economy of 3%, per World Bank’s data - lagging behind regional neighbors in South East Asia like Singapore (17.3%) and Indonesia (6%)62.",
+        "Star Telecom also uses AI to personalize mobile plans and analyze customer data.",
+        "• Banking and Finance: Banks such as Banque pour le Commerce Exterieur Lao Public (BCEL), Phongsavanh Bank (PSVB), and Lao-Viet Bank (LVB) utilize AI for fraud detection, automated loan processing, customer support chatbots, and personalized financial services.",
+        "39 • E-commerce and Retail: Platforms like Passa Lao and Vientiane Center Lao use AI to analyze consumer behavior, provide personalized recommendations, optimize product placement, and tailor promotions for better customer engagement.",
+        "• Logistics and Transportation: Lao Post and Loca integrate AI for route planning, logistics optimization, real-time ride matching, and predictive analytics, significantly improving delivery and mobility services."
+      ],
+      "strengths": [
+        "Scaling AI adoption typically requires significant resources and support from larger industry players and established companies exploring bigger use cases.",
+        "The survey indicates that among the respondents, 90.2% of organizations with digital transformation initiatives plan to hire employees with AI or advanced IT skills, with ‘software engineer’ (19%) and ‘cybersecurity analyst’ (16.5%) being the most in-demand job title.",
+        "Knowledge-intensive industries, including software development and IT services, constitute only a minor share of foreign direct investment (FDI), limiting the country’s ability to develop a robust digital economy."
+      ],
+      "gaps": [
+        "The limited digital economy will significantly hamper AI adoption as use cases will remain limited.",
+        "While AI use cases like the above have emerged in Laos, data on their economic impact remains limited.",
+        "For context, approximately 40 percent of jobs in Singapore are considered highly complementary to AI, compared to just 3 percent in Laos, showing limited exposure and growth opportunities in productivity65.",
+        "Investment in startups is also limited in Laos, mainly taking the form of grants rather than traditional venture capital commonly seen in other Southeast Asian countries67.",
+        "The innovation ecosystem in Laos is still in its very nascent stages, with limited capital and scarce R&D funding posing significant barriers to growing sustainable AI business models.",
+        "This challenge was also acknowledged by the Minister of Technology and Communications.",
+        "As highlighted by the Minister, local AI startups face structural barriers including limited domestic demand, scarce early-stage funding, and talent shortages.",
+        "There is an urgent call to create AI innovation centers, reduce reliance on foreign platforms, and embed Lao-developed solutions in public procurement to give local entrepreneurs a fair competitive edge.",
+        "However, there is no official data on the number of Laotians currently employed in specialized ICT roles such as Data Scientist or AI Engineer.",
+        "While the Ministry currently lacks dedicated initiatives to promote AI upskilling, it acknowledges AI as a critical future competency."
+      ],
+      "key_stats": [
+        {
+          "stat": "5% of all job listings each month",
+          "context": "jacent roles such as Data Analyst, Product Manager, and Solution Officer account for an average of 5% of all job listings each month. However, there is no official data on the number of Laotians curre",
+          "value": 5.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1% of the national workforce",
+          "context": "ngineer. A statement by the Minister of Technology and Communications estimates that approximately 1% of the national workforce69, or around 35,000 people, are employed in the ICT sector. In follow-up",
+          "value": 1.0,
+          "unit": "%"
+        },
+        {
+          "stat": "90.2% of organizations with digital tra",
+          "context": "will be explained further in the second chapter). The survey indicates that among the respondents, 90.2% of organizations with digital transformation initiatives plan to hire employees with AI or adva",
+          "value": 90.2,
+          "unit": "%"
+        },
+        {
+          "stat": "5.4% decline \nfrom the previous yea",
+          "context": "h-tech exports have fluctuated, with exports totaling approximately $223 million in 2021, marking a 5.4% decline from the previous year. Estimates on high-tech exports vary, with one source stating th",
+          "value": 5.4,
+          "unit": "%"
+        },
+        {
+          "stat": "2.98% of total exports",
+          "context": "the previous year. Estimates on high-tech exports vary, with one source stating they accounted for 2.98% of total exports, while another reported $109.84 million in exports. These figures highlight th",
+          "value": 2.98,
+          "unit": "%"
+        },
+        {
+          "stat": "$1 trillion",
+          "context": "merged in Laos, data on their economic impact remains limited. Across Southeast Asia, AI could add $1 trillion to the region’s GDP by 2030, representing an 18 percent increase64. Indonesia, the larges",
+          "value": 1.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$223 million",
+          "context": "th 120th Source: WIPO Laos’ high-tech exports have fluctuated, with exports totaling approximately $223 million in 2021, marking a 5.4% decline from the previous year. Estimates on high-tech exports v",
+          "value": 223000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "$109.84 million",
+          "context": "ts vary, with one source stating they accounted for 2.98% of total exports, while another reported $109.84 million in exports. These figures highlight the country’s ongoing challenges in scaling its h",
+          "value": 109840000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "ranking 112th out of",
+          "context": "ICAL EXPORTS AND INNOVATION Laos has shown slight improvement in the Global Innovation Index (GII), ranking 112th out of 132 economies in 2022 and 110th in 2023, with an innovation index score of 17.8"
+        },
+        {
+          "stat": "ranking 98th in inputs",
+          "context": ".80 points in 2024 (see figure 10). The country performs better in innovation inputs than outputs, ranking 98th in inputs and 122nd in outputs in 2022, and 100th in inputs and 120th in outputs in 2023"
+        },
+        {
+          "stat": "35,000 people",
+          "context": "chnology and Communications estimates that approximately 1% of the national workforce69, or around 35,000 people, are employed in the ICT sector. In follow-up consultations, the Ministry of Labor emph"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "TECHNICAL AND INFRASTRUCTURAL 74 DataHub data on Lao PDR 75 DataHub: Population coverage, by mobile network technology - Lao PDR 76 Vientiane Times: Lao Telecom launches 5G service to lead Laos into a perfect digital lifestyle 77 ISO: Department of Standard and Methodology In this section, infrastru",
+        "The technical and infrastructure dimensions refer to the installed capacity within countries for the development and deployment of AI solutions, whether through their computing power, the availability of data centers, connectivity, and internet access, among others.",
+        "These elements are relevant enablers for the development of AI systems within a country, as they determine development capabilities based on the infrastructure available and necessary to support processed information.",
+        "APPLIED STANDARDS Laos’ involvement in international AI and digital technology standardization processes, such as ISO/IEC and IEEE 7000, remains unclear.",
+        "The law primarily focuses on the development of information systems, with no explicit regulatory framework for AI-based cloud computing.",
+        "STATISTICAL PERFORMANCE AND DATA MANAGEMENT FRAMEWORKS The statistical performance of the country, as measured by the Statistical Performance Indicators (SPI), stands at 60.9, placing the country in the second quintile among global rankings (see figure 11).",
+        "In terms of data products, Laos scores 63 overall, with specific sub-scores of 18 in social statistics, 20 in economic statistics, 9 in environmental statistics, and 16 in institutional statistics.",
+        "The country’s data sources score stands at 44, with censuses contributing 25 points, surveys 10 points, and geospatial data 9 points."
+      ],
+      "strengths": [
+        "While the country has established policies governing cloud computing under its Telecommunications Law, these policies do not specifically address AI-driven cloud services.",
+        "Lao PDR’s Statistical Performance Index Lao PDR SPI Overall 60.9 Score SPI Quintile 2nd Quintile Top Quintile 4th Quintile 3rd Quintile 2nd Quintile Bottom 20% Source: World Bank While Laos has enacted a Law on Data Protection and a Law on Electronic Transactions80 that define data levels and proces",
+        "To facilitate the entire RAM process, including workshops, surveys, and data collection across multiple agencies, the government established a coordination mechanism designed to ensure effective collaboration and broad representation of stakeholders from diverse backgrounds.",
+        "As mentioned previously, through the Applied Research Institute of Smart Technology (ARIST), MTC has been leading the drafting of the National AI Strategy 2025–2035 and facilitating early capacity-building and training programs, such as AI certification schemes supported by multi-national companies ",
+        "This reflects anxieties not only about job displacement, but also about the fading of human judgment and critical thinking, particularly if AI tools are adopted without adequate training and safeguards.",
+        "These are summarized into several themes: • Clear policy and legal frameworks: Stakeholders want comprehensive AI regulations, including rules on data use, ethical AI standards, and legal liability for misuse."
+      ],
+      "gaps": [
+        "Mobile broadband access remains limited, with only 56.43% of the population actively subscribing, positioning Laos just above Timor-Leste in the SEA region74.",
+        "This limited internet infrastructure poses a serious constraint on the adoption of internet-based AI services.",
+        "Lower-generation networks lack the bandwidth and speed necessary to support more demanding applications, such as real-time multimodal AI interactions, which require fast and stable connections to function effectively.",
+        "Despite these limitations, 66.2% of the Lao population use the internet, ranking above Cambodia (56.7%) and Timor-Leste (40.8%).",
+        "Although colocation data center statistics per million population are unavailable, the presence of at least two data centers offers a foundation for future expansion in cloud computing and digital services.",
+        "The survey, which gathered 44 complete responses, was designed to gauge: • Existing IT and AI infrastructure in institutions • Frequency and effectiveness of AI use • Awareness of and trust in AI systems • Presence (or absence) of institutional AI/IT policies • Perceptions of AI literacy and trainin",
+        "• 27.3% of institutions still lack any formal IT or AI policy, and most existing policies focus on general IT governance rather than AI-specific concerns.",
+        "limited organizational readiness underscores one of the most important findings of the assessment: AI use is present, but often shallow and unstructured, indicating both promise and urgency for formal strategic development.",
+        "Public Engagement: Stakeholders stressed the need to treat these as distinct domains in AI literacy efforts, with public engagement strategies tailored to Laos’ socio-economic realities, including retention and agency challenges.",
+        "48 • Private Sector Awareness of Incentives: While examples of infrastructure development and R&D incentives were shared, they were unfamiliar to most industry players, indicating the need for initial awareness-building and active communications from the government towards potential incentive mechan"
+      ],
+      "key_stats": [
+        {
+          "stat": "0.06% of the population subscribes to b",
+          "context": "hone subscription is minimal, at just 2%, while fixed telephone subscriptions stand at 17%. A mere 0.06% of the population subscribes to bundled broadband and telephone services, further highlighting ",
+          "value": 0.06,
+          "unit": "%"
+        },
+        {
+          "stat": "56.43% of the \npopulation actively subsc",
+          "context": "rther highlighting the country’s digital divide. Mobile broadband access remains limited, with only 56.43% of the population actively subscribing, positioning Laos just above Timor-Leste in the SEA re",
+          "value": 56.43,
+          "unit": "%"
+        },
+        {
+          "stat": "85% of the population",
+          "context": "t barrier: Laos has the lowest minimum 3G mobile network coverage in Southeast Asia, reaching only 85% of the population. 4G coverage is slightly lower at 76%75, while 5G is still in its infancy, avai",
+          "value": 85.0,
+          "unit": "%"
+        },
+        {
+          "stat": "66.2% of the Lao population use the int",
+          "context": "ons, which require fast and stable connections to function effectively. Despite these limitations, 66.2% of the Lao population use the internet, ranking above Cambodia (56.7%) and Timor-Leste (40.8%).",
+          "value": 66.2,
+          "unit": "%"
+        },
+        {
+          "stat": "0.000026% per capita",
+          "context": "ng infrastructure, with only two data centers operating in the country, representing approximately 0.000026% per capita, a relatively low number in the SEA region78. Although colocation data center st",
+          "value": 2.6e-05,
+          "unit": "%"
+        },
+        {
+          "stat": "20%\nSource",
+          "context": "uintile Top Quintile 4th Quintile 3rd Quintile 2nd Quintile Bottom 20% Source: World Bank While Laos has enacted a Law on Data Protection and a Law on Electronic Transactions80",
+          "value": 20.0,
+          "unit": "%"
+        },
+        {
+          "stat": "86.4% of respondents reported having de",
+          "context": "al AI/IT policies • Perceptions of AI literacy and training needs Key survey insights included: • 86.4% of respondents reported having dedicated IT/IS units in their institutions. • 84.1% used AI tool",
+          "value": 86.4,
+          "unit": "%"
+        },
+        {
+          "stat": "84.1% used AI tools personally",
+          "context": "s included: • 86.4% of respondents reported having dedicated IT/IS units in their institutions. • 84.1% used AI tools personally (e.g., ChatGPT, OCR) on a daily or weekly basis, outpacing institutiona",
+          "value": 84.1,
+          "unit": "%"
+        },
+        {
+          "stat": "95.5% expressed trust or high confid",
+          "context": "ls personally (e.g., ChatGPT, OCR) on a daily or weekly basis, outpacing institutional adoption. • 95.5% expressed trust or high confidence in AI systems used in professional contexts. • 27.3% of inst",
+          "value": 95.5,
+          "unit": "%"
+        },
+        {
+          "stat": "27.3% of institutions still lack any fo",
+          "context": "option. • 95.5% expressed trust or high confidence in AI systems used in professional contexts. • 27.3% of institutions still lack any formal IT or AI policy, and most existing policies focus on gener",
+          "value": 27.3,
+          "unit": "%"
+        },
+        {
+          "stat": "2.8%\nLack of transparency and accou",
+          "context": "ain Concerns on AI Use (General Distribution) Respondents concern on AI use Environmental problems: 2.8% Lack of transparency and accountability: 8.3% Copyright infringement and plagiarism: 15.9% Data",
+          "value": 2.8,
+          "unit": "%"
+        },
+        {
+          "stat": "8.3%\nCopyright infringement and pla",
+          "context": "espondents concern on AI use Environmental problems: 2.8% Lack of transparency and accountability: 8.3% Copyright infringement and plagiarism: 15.9% Data breach and privacy violation: 10.3% Deteriorat",
+          "value": 8.3,
+          "unit": "%"
+        },
+        {
+          "stat": "15.9%\nData breach and privacy violat",
+          "context": "roblems: 2.8% Lack of transparency and accountability: 8.3% Copyright infringement and plagiarism: 15.9% Data breach and privacy violation: 10.3% Deterioration of human skills/Dependence to AI: 11.7% ",
+          "value": 15.9,
+          "unit": "%"
+        },
+        {
+          "stat": "10.3%\nDeterioration of human skills",
+          "context": "countability: 8.3% Copyright infringement and plagiarism: 15.9% Data breach and privacy violation: 10.3% Deterioration of human skills/Dependence to AI: 11.7% Cultural dilution: 13.8% Increasing inequ",
+          "value": 10.3,
+          "unit": "%"
+        },
+        {
+          "stat": "11.7%\nCultural dilution",
+          "context": "ism: 15.9% Data breach and privacy violation: 10.3% Deterioration of human skills/Dependence to AI: 11.7% Cultural dilution: 13.8% Increasing inequality: 4.8% Bias and Discrimination: 9.0% Changing no",
+          "value": 11.7,
+          "unit": "%"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "The recognition of AI in legislation, along with existing laws on data protection, cybercrime, and IT enterprises, demonstrates an awareness of both the opportunities and the responsibilities that come with emerging technologies.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "International organizations are widely recognized as critical partners for capacity-building, technical assistance, and long-term sustainability, particularly in helping to contextualize global best practices to local needs and avoid overreliance on external technologies.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Strategic Direction of Digital Transformation and AI Development Along with international organizations, The Lao Government is currently in the process of advancing digital transformation through the creation of a strategic framework built upon three interconnected pillars: Digital Government, Digital Economy, and Digital Society.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The regulatory framework around the general information technology sector in which AI is/will be deployed is crucial to ensuring the ethical deployment of AI systems.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The strategy is designed to be implemented over a five-year period and recommends the establishment of a national coordination mechanism to monitor the progress.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Another recognition of AI’s significance is found in the revised national constitution5, where Article 24 now explicitly calls for the promotion of intelligence 23 and creativity in the research, analysis, and application of science, technology, innovation, and AI.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The Lao People’s Democratic Republic has implemented a multi-faceted policy framework to address this digital divide between urban and rural areas as part of its broader inclusive development agenda.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "33 News publication regarding exploration of green energy AI-powered infrastructure, 2025 34 Lao Digital Health Strategy 35 UNICEF EIR Consultancy 36 UNICEF Village Health Volunteers 37 DHIS2 Climate App 38 World Bank e-CRVS HEALTH AND SOCIAL WELL-BEING The country has established a comprehensive Digital Health Strategy for 2023-2027, designed to create a sustainable digital health ecosystem that enhances healthcare delivery and outcomes throughout the country34.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "39 Lao Data Center 40 Publications Regarding Lao Digital Week 2025 41 UN E-Government Knowledgebase CONTENT, CULTURAL PRESERVATION AND HERITAGE Laos boasts a rich cultural heritage recognized by UNESCO, encompassing both historical landmarks and vibrant traditional practices.",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "achievement": "Aside from the Lao-to-English open-source dataset provided by the former Ministry of Post and Telecommunications (now the Ministry of Technology and Communications) for Google45, the majority of language tools are built outside of Laos.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Notably, UNICEF, in partnership with the Ministry of Technology and Communications (MTC), launched a project in late 2024 to train machine learning models in both Lao and English.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This ecosystem produced some notable student projects, such as AI models for air quality prediction (PM 2.5), license plate recognition, and facial recognition, but these projects remain at the conceptual level due to budget constraints and a lack of resources for further development or commercialization.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "However, consistent with trends observed in natural language technology tools and datasets discussed earlier, several AI applications designed for Lao use, such as license plate recognition49, OCR50, and text classification51, have been patented by foreign researchers, without collaboration with or acknowledgment of Lao researchers and innovators.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "65 IMF Blog: How AI will affect Asia’s Economies 66 LALigence 67 Tech Collective Asia 40 LABOR MARKET 68 108.jobs 69 Publication on China-funded ICT Institute’s training facility inaugurated 70 UN DESA E-Government survey report, 2024 Based on data pulled and analyzed from 108jobs68, a local job portal, ICT and ICT-adjacent roles such as Data Analyst, Product Manager, and Solution Officer account for an average of 5% of all job listings each month.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "To facilitate the entire RAM process, including workshops, surveys, and data collection across multiple agencies, the government established a coordination mechanism designed to ensure effective collaboration and broad representation of stakeholders from diverse backgrounds.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This would allow AI governance to be embedded into an established national coordination mechanism, avoiding duplication and ensuring alignment with broader digital transformation priorities.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "To address this, the government should invest in crowdsourced initiatives and academic research focused on expanding Lao-language corpora, online media content, speech recognition models, and other locally relevant datasets.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "China-funded ICT Institute’s training facility inaugurated.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "CN109993162 - Lao language printed text optical character recognition method based on convolutional neural network.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "CN116597437 - End-to-end Laos license plate recognition method and device fused with double-layer attention network.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "Internet Penetration",
+      "value": 56.43,
+      "unit": "%",
+      "dimension": "technological_infrastructural"
+    },
+    {
+      "label": "R&D Spending (% GDP)",
+      "value": 0.04,
+      "unit": "% GDP",
+      "dimension": "economic"
+    },
+    {
+      "label": "AI Publications",
+      "value": 29,
+      "unit": "count",
+      "dimension": "scientific_educational"
+    }
+  ],
+  "rankings_indices": [
+    {
+      "context": "According to the Open Data Inventory (ODIN), Laos scored 46 overall, with 39 in coverage and 52 in openness, indicating limited accessibility, particularly in social statistics11.",
+      "index_name": "Open Data Inventory",
+      "score": 46.0
+    },
+    {
+      "context": "Despite these efforts, Laos is still in the early stages of digital public service development amongst Southeast Asia for online government services and public participation in digital governance, with an Online Services Index (OSI) score of 0.3265 and an E-Participation Index (EPI) score of 0.2877 (United Nations, 2024), only slightly ahead of Myanmar41 (figure 5).",
+      "index_name": "Online Services Index",
+      "score": 0.3265,
+      "year": 2024
+    },
+    {
+      "context": "OUTPUTS - TECHNOLOGICAL EXPORTS AND INNOVATION Laos has shown slight improvement in the Global Innovation Index (GII), ranking 112th out of 132 economies in 2022 and 110th in 2023, with an innovation index score of 17.80 points in 2024 (see figure 10).",
+      "index_name": "Global Innovation Index",
+      "rank": 112,
+      "score": 17.8,
+      "year": 2022
+    },
+    {
+      "context": "Lao PDR GII ranking 41 11.",
+      "index_name": "GII",
+      "rank": 41
+    }
+  ],
+  "executive_summary": "3\nTable of Contents\nPage\nACKNOWLEDGEMENTS\t\n2\nACRONYMS AND ABBREVIATIONS\t\n6\nFOREWORD BY UNESCO\t\n10\nFOREWORD BY MINISTRY OF TECHNOLOGY AND COMMUNICATIONS\t\n12\nEXECUTIVE SUMMARY\t\n14\nDIAGNOSIS OF KEY ASPECTS\t\n14\nMAPPING THE AI ECOSYSTEM\t\n15\nRECOMMENDATIONS\t\n15\nDIAGNOSIS OF THE NATIONAL AI LANDSCAPE\t\n18\nOVERVIEW\t\n18\nSTRUCTURAL CHALLENGES TO AI INTEGRATION IN LAOS\t\n20\nSTRATEGIC CONSIDERATIONS FOR AI ADOPTION\t\n21\nLEGAL AND REGULATORY\t\n22\nNATIONAL AI STRATEGY\t\n22\nAI-SPECIFIC REGULATION\t\n22\nDATA PROTECTION AND PRIVACY LAW\t\n23\nPROCUREMENT LAWS AND POLICIES\t\n24\nFREEDOM OF INFORMATION AND ACCESS TO KNOWLEDGE\t\n24\nDUE PROCESS AND ACCOUNTABILITY\t\n25\nONLINE SAFETY AND INTEGRITY OF SPEECH\t\n25\n\n4\nSOCIAL AND CULTURAL \t\n27\nGENDER GAP\t\n27\nURBAN/RURAL GAP\t\n28\nENVIRONMENTAL AND SUSTAINABILITY POLICIES\t\n28\nHEALTH AND SOCIAL WELL-BEING\t\n29\nPUBLIC TRUST AND E-GOVERNMENT SYSTEMS\t\n29\nCONTENT, CULTURAL PRESERVATION AND HERITAGE\t\n30\nSCIENTIFIC AND EDUCATIONAL\t\n32\nR&D EXPENDITURES\t\n32\nRESEARCH OUTPUTS AND ETHICAL AI RESEARCH\t\n32\nAI TALENT\t\n33\nINNOVATION OUTPUTS\t\n34\nEDUCATION STRATEGY\t\n35\nEDUCATION INFRASTRUCTURE\t\n35\nEDUCATION ATTAINMENT\t\n36\nECONOMIC\t\n38\nGENERAL OVERVIEW OF THE ECONOMY\t\n38\nLABOR MARKET\t\n40\nINVESTMENTS \t\n40\nSTARTUPS AND PLATFORM ECONOMY\t\n41\nOUTPUTS - TECHNOLOGICAL EXPORTS AND INNOVATION\t\n41\nTECHNICAL AND INFRASTRUCTURAL\t\n42\nINFRASTRUCTURE AND CONNECTIVITY\t\n42\nAPPLIED STANDARDS\t\n42\nCOMPUTING CAPABILITIES\t\n43\nSTATISTICAL PERFORMANCE AND DATA MANAGEMENT FRAMEWORKS\t\n43\n\n5\nNATIONAL MULTI-STAKEHOLDER MAPPING: LAOS’ NASCENT  \nECOSYSTEM IN MOTION\t\n45\nENGAGEMENT AND DATA COLLECTION PROCESS\t\n45\nSTAKEHOLDER ROLES AND LANDSCAPE\t\n48\nINSIGHT FROM STAKEHOLDERS\t\n50\nRECOMMENDATIONS\t\n57\nREGULATIONS\t\n57\nINSTITUTIONAL FRAMEWORK\t\n58\nCAPACITY BUILDING\t\n59\nCLARIFICATION OF ROLES FOR SUBNATIONAL AUTHORITIES\t\n60\nPHASING OF RECOMMENDATIONS\t\n64\nANNEX : LIST OF TABLES AND FIGURES\t\n72\n\n6\nACRONYMS AND ABBREVIATIONS\nACM \nAssociation for Computing Machinery\nA leading international scientific and educational organization advancing computing as a science \nand profession\nAI \n Artificial Intelligence\nA branch of computer science dealing with the simulation of intelligent behavior in computers\nARIST \nApplied Research Institute of Smart Technology\nA Lao-based research institution focusing on practical applications of emerging technologies, including \nAI, to support innovation and development\nASEAN \nAssociation of Southeast Asian Nations\nA regional intergovernmental organization comprising ten Southeast Asian countries to promote \ncooperation and integration\nBCEL \nBanque pour le Commerce Extérieur Lao Public\nAlso known as the Bank for Foreign Trade of Laos, one of the country’s largest commercial banks\nCovid-19 \nCoronavirus Disease 2019\nAn infectious disease caused by the SARS-CoV-2 virus, declared a pandemic by WHO in 2020\nCSOs \nCivil Society Organizations\nNon-governmental organizations, advocacy groups, and community-based entities\nCVPR \nConference on Computer Vision and Pattern Recognition\nA leading annual academic conference in computer vision, organized by IEEE\nDOSM \nDepartment of Standardization and Metrology \nThe Lao government body responsible for setting and enforcing standards and measurement systems\nEPI \nE-Participation Index\nA United Nations measure of citizens’ use of e-government services and participation in decision-making\nEU \nEuropean Union\nA political and economic union of European countries\nFAccT \nFairness, Accountability, and Transparency\nAn ACM conference on ethics, fairness, accountability, and transparency in socio-technical systems\nFDI \nForeign Development Investment\nInvestment from a company or individual in one country into business interests located in \nanother country\nGDP\nGross Domestic Product \nThe total monetary value of all goods and services produced within a country during a specific period\nGII \nGlobal Innovation Index\nAn annual ranking of countries based on their capacity for and success in innovation\nGPU \nGraphics Processing Unit\nA specialized electronic circuit for rapid image rendering and parallel processing, widely used in \nAI computing\nICT \nInformation and Communication Technology\nAn umbrella term for technologies that provide access to information through telecommunications.\nIEEE \nInstitute of Electrical and Electronics Engineers\nThe world’s largest technical professional organization dedicated to advancing technology.\n\n7\nIoT \nInternet of Things\nA network of interconnected devices that collect and exchange data through the internet.\nISO/IEC \nInternational Organization for Standardization / International Electrotechnical Commission\nnternational standard-setting bodies for technology, safety, and interoperability.\nJICA \nJapan International Cooperation Agency\nA Japanese governmental agency providing development assistance, including ICT infrastructure and \nhuman resource development support in Laos\nK-12 \nKindergarten to 12th Grade\nRefers to the primary and secondary education system\nLaotel\nLao Telecommunications Company Limi",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Democratic Republic (Lao PDR) and its partners can take to ensure that AI is developed and used in ways that are responsible",
+      "text": "Democratic Republic (Lao PDR) and its partners can take to ensure that AI is developed and used in ways that are responsible and ethical, based on our findings through the RAM indicators and our engagements with stakeholders",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Introduce an AI Regulation that Covers Gaps and signifies both Global Consensus and Local Values",
+      "text": "Introduce an AI Regulation that Covers Gaps and signifies both Global Consensus and Local Values The government should complement existing laws with dedicated AI regulation that addresses current legal gaps while reflecting both global best practices and national values. Key areas to be covered include: 1. Clear redress mechanisms for harms caused by AI technologies and clear assignment of accountability; 2. Public inquiry processes for the deployment of mass-market and public-facing AI systems; 3. Certification standards and procurement procedures for AI vendors, particularly for public-sector use; 4. Audit access provisions to allow oversight authorities to review AI systems. In parallel, the government should clearly articulate the ethical values expected in AI development and deployment. A practical approach is to integrate the principles of the 2021 UNESCO Recommendation on the Ethics of Artificial",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Intelligence: proportionality and do no harm; safety and security; right to privacy and data protection; multistakeholder",
+      "text": "Intelligence: proportionality and do no harm; safety and security; right to privacy and data protection; multistakeholder and adaptive governance and collaboration; responsibility and accountability; transparency and explainability; human oversight and determination sustainability; awareness and literacy; fairness and non-discrimination, into the legislative framework. These values need not be binding and could take the form of national guidance or relevant sectoral frameworks. This would encourage stakeholders to internalize the principles and promote responsible innovation, even without legally binding legislation.",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Recommended actors: Ministry of Technology and Communication, the Cabinet Office",
+      "text": "Recommended actors: Ministry of Technology and Communication, the Cabinet Office Embed Universal Service, Digital Infrastructure Building and Connectivity Obligations into Big Projects and Investments",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Laos faces a significant rural-urban divide in digital infrastructure, which threatens to exclude large parts of the population",
+      "text": "Laos faces a significant rural-urban divide in digital infrastructure, which threatens to exclude large parts of the population from AI-driven benefits. Moreover, given Laos currently has only two operational data centers, co-locating new ones along energy corridors presents a cost-effective opportunity. To address this, the government can embed universal service and broadband connectivity obligations into major infrastructure projects, particularly in sectors like energy, telecommunications, and mining. These obligations should be supported by regulatory and financial incentives to make rural expansion viable for private investors. It is important to note that many industry representatives were unfamiliar with government-led infrastructure and R&D incentive mechanisms. Consequently, it is identified that an initial awareness-building phase to expose companies to available schemes, coupled with targeted incentives, such as tax breaks, matching grants, and regulatory advantages, are needed to stimulate AI adoption and private-sector R&D.",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Offer corporate tax holidays or accelerated depreciation for rural broadband deployment.",
+      "text": "Offer corporate tax holidays or accelerated depreciation for rural broadband deployment. •",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Grant exclusive rights or extended licenses to companies that meet rural coverage targets.",
+      "text": "Grant exclusive rights or extended licenses to companies that meet rural coverage targets. •",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Provide priority access to public land or utility corridors to reduce deployment costs.",
+      "text": "Provide priority access to public land or utility corridors to reduce deployment costs. •",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Introduce co-funding or risk-sharing schemes to lower investment risk in underserved areas.",
+      "text": "Introduce co-funding or risk-sharing schemes to lower investment risk in underserved areas. •",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Bundle broadband rollout with hydropower or grid expansion projects, e.g. laying fiber along transmission lines or",
+      "text": "Bundle broadband rollout with hydropower or grid expansion projects, e.g. laying fiber along transmission lines or co-locating rural data centers. •",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Collaborate with the Ministry of Energy and Mines to embed broadband rollout requirements in new hydropower and",
+      "text": "Collaborate with the Ministry of Energy and Mines to embed broadband rollout requirements in new hydropower and mining concessions, offering regulatory incentives such as extended operational licenses or concession terms in return",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Embedding these mechanisms into regulation will ensure that infrastructure development is not only efficient, but also",
+      "text": "Embedding these mechanisms into regulation will ensure that infrastructure development is not only efficient, but also inclusive; enabling a more equitable digital transformation that reaches all communities, not just urban centers. All of which should be preceded by a proper introduction of mechanisms by the government.",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Recommended actors: Telco companies, Electricité du Laos (EDL), Ministry of Technology and Communications, Ministry of",
+      "text": "Recommended actors: Telco companies, Electricité du Laos (EDL), Ministry of Technology and Communications, Ministry of Finance, Ministry of Planning and Investments, Ministry of Energy and Mines",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Incentivize Companies Developing AI Capabilities and Talents",
+      "text": "Incentivize Companies Developing AI Capabilities and Talents Support companies that are integrating AI into their operations and investing in employee upskilling by offering targeted incentives such as tax breaks or grants. Encourage collaboration between industry and academia through matching funds for joint initiatives, fostering the growth of AI capabilities across both sectors. This approach will help build a robust AI talent pipeline while accelerating the adoption of AI technologies in the economy.",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Recommended actors: Ministry of Labor, Ministry of Technology and Communications, Ministry of Education and Sports",
+      "text": "Recommended actors: Ministry of Labor, Ministry of Technology and Communications, Ministry of Education and Sports Facilitate Public–private Innovation Programmes and Pilot Sandboxes in Key Industries",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Support collaborative innovation by launching public-private programs and pilot sandboxes focused on high-impact sectors.",
+      "text": "Support collaborative innovation by launching public-private programs and pilot sandboxes focused on high-impact sectors. Provide tax incentives, matching grants, and challenge funds to encourage the development of AI-driven solutions in areas such as public service delivery, smart agriculture (a critical sector employing much of Laos’s workforce), smart tourism, and other key industries essential to the national economy. These pilot sandboxes should serve both as testing grounds for innovation and as platforms to raise public awareness and attract further investment.",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Recommended actors: Ministry of Investment and Planning, Ministry of Industry and Commerce, Ministry of Technology",
+      "text": "Recommended actors: Ministry of Investment and Planning, Ministry of Industry and Commerce, Ministry of Technology and Communications",
+      "dimension": "REGULATIONS",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Establish a Coordinating Mechanism for the Stakeholders of AI",
+      "text": "Establish a Coordinating Mechanism for the Stakeholders of AI To reduce siloed efforts and enhance coordination in AI initiatives, many of which require cross-sectoral collaboration, a dedicated coordinating mechanism should be established to engage the diverse stakeholders of AI. This mechanism should include representatives from government ministries, academia, the private sector, and all parties concerned to collectively shape the future of AI in Laos. Its core responsibilities would include overseeing the implementation of the national AI strategy, harmonizing AI-related regulations, fostering multi-sector collaboration, and ensuring compliance with ethical standards. The government can build on the existing National Committee for Digital Transformation, which already brings 59 together ministries and agencies with structural representation on digital and computing matters, by extending its mandate to coordinate AI-related affairs. This would allow AI governance to be embedded into an established national coordination mechanism, avoiding duplication and ensuring alignment with broader digital transformation priorities.",
+      "dimension": "INSTITUTIONAL FRAMEWORK",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "Recommended actor: National Committee for Digital Transformation",
+      "text": "Recommended actor: National Committee for Digital Transformation Setup Cross-disciplinary AI Research Centers in Universities",
+      "dimension": "INSTITUTIONAL FRAMEWORK",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "Launch cross-disciplinary research centers within universities to foster collaboration and intellectual exchange between",
+      "text": "Launch cross-disciplinary research centers within universities to foster collaboration and intellectual exchange between traditionally siloed departments, such as joint AI ethics centers bridging philosophy and computer science faculties. These centers can serve as a foundation for developing multidisciplinary academic programs and co-taught courses. Beyond strengthening academic collaboration, they can play a central role in advancing the national AI strategy by driving research output and contributing to key publishing targets. To ensure these centers thrive within the existing top-down, grant driven nature research culture where researchers typically seek funding before developing research topics, it is crucial to actively engage donors and align their funding priorities with the goal of fostering collaboration, like pushing them to start cross- disciplinary AI research centers within universities. Encouraging donors to support cross-disciplinary initiatives can help shift incentives away from fragmented agendas toward more integrated and strategic research efforts. Recommended actors: Public Universities in Laos, Ministry of Technology and Communications, International Organizations, and possible partnerships with foreign universities",
+      "dimension": "INSTITUTIONAL FRAMEWORK",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "Scale AI Literacy and Ethics Education",
+      "text": "Scale AI Literacy and Ethics Education Actively engage media organizations, artists, and the broader education ecosystem to cultivate an AI-literate society. In order to do this, our discussions with stakeholders suggest splitting AI foundational and public literacy of AI activities into separate focus areas. This means continuing current efforts to integrate foundational knowledge of AI, including ethical decision- making, into national school curricula, civil service training programs, and journalism education. At the same time, to ensure inclusivity and broad public understanding, other stakeholders outside the school ecosystem should develop and widely disseminate a Lao-language AI primer tailored for the general public, minding socio-economic realities and using culturally relevant narratives and accessible formats - this can be done by government institutions, businesses, media networks and/ or civil society organization in context to their industry and vertical. This multi-sectoral approach will build critical awareness, empower informed participation, and promote responsible AI use across all levels of society.",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "Recommended actors: Ministry of Education and Sports, Schools, Universities, Media organizations, Journalist Unions, Ministry",
+      "text": "Recommended actors: Ministry of Education and Sports, Schools, Universities, Media organizations, Journalist Unions, Ministry of Information, Culture and Tourism, Ministry of Technology and Communications",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "Launch a Context-aware AI Talent Inclusion Scholarship",
+      "text": "Launch a Context-aware AI Talent Inclusion Scholarship Design and implement targeted financial aid programs, scholarships, and structured mentorship pathways to support students from rural areas and underrepresented communities in accessing education in AI and data science. To address persistent retention challenges such as the need to relocate to urban centers and the pressure to prioritize immediate employment, these initiatives should incorporate living stipends, flexible learning formats, and motivational incentives tied to program completion. A model inspired by Indonesia’s Kartu Prakerja could be adopted, offering financial handouts or digital credit upon successful completion of training phases. In parallel, bonding schemes can provide both financial security and a sense of purpose, encouraging participants to focus on completing the program and commit to applying their skills in public service for a defined period, particularly in critical sectors such as education, healthcare, and digital governance. This integrated approach advances equity in access to emerging technologies while building long-term national capacity through the meaningful inclusion of diverse talent. 60",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "Recommended actors: Ministry of Education and Sports, Ministry of Technology and Communications, local and",
+      "text": "Recommended actors: Ministry of Education and Sports, Ministry of Technology and Communications, local and foreign universities",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "Strengthening Lao Language Digital Assets and Learning Resources",
+      "text": "Strengthening Lao Language Digital Assets and Learning Resources Limited content in the Lao language remains a major barrier to both AI dataset development and the effective learning of digital skills. To address this, the government should invest in crowdsourced initiatives and academic research focused on expanding Lao-language corpora, online media content, speech recognition models, and other locally relevant datasets. In parallel, it also is critical to develop Lao-language learning resources for digital skills, such as foundational IT, data literacy, and AI awareness, so that rural and non-English-speaking populations are not left behind in the digital transition.",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "Outputs from these efforts should feed into a national Data Commons and be made available under open licenses to",
+      "text": "Outputs from these efforts should feed into a national Data Commons and be made available under open licenses to encourage reuse, transparency, and innovation. Universities can play a key role by aligning student thesis work with these national digital asset-building priorities, offering a low-risk, high-impact channel for local capacity development. Laos can also leverage its cultural and linguistic proximity to countries like Thailand by forming partnerships with regional institutions that have made progress in this area. These collaborations can help accelerate progress through shared resources, proven models, and contextual alignment in Southeast Asian language technologies. Recommended actors: Public Universities in Laos, media organizations, regional AI research agencies, Ministry of Information,",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "Culture and Tourism, Ministry of Technology and Communications",
+      "text": "Culture and Tourism, Ministry of Technology and Communications CLARIFICATION OF ROLES FOR SUBNATIONAL AUTHORITIES",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "Local authority, particularly provincial and municipal authorities play a vital role in bringing AI innovation closer to citizens.",
+      "text": "Local authority, particularly provincial and municipal authorities play a vital role in bringing AI innovation closer to citizens. As the frontline of service delivery and public engagement, they are essential actors in scaling AI solutions that are contextually grounded, inclusive, and responsive to local needs. Strategic Engagement Areas: •",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 29,
+      "title": "Digital Capacity Building for Provincial Authorities",
+      "text": "Digital Capacity Building for Provincial Authorities National ministries should invest in systematic upskilling for provincial departments, moving beyond ad-hoc workshops toward institutionalized training. While national ministries average a digital maturity score of 1.8/5, provinces lag behind at 1.3/5, indicating a capacity gap between central and provincial government •",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 30,
+      "title": "Localized Awareness and Dissemination",
+      "text": "Localized Awareness and Dissemination Subnational governments are best placed to lead public engagement and AI literacy campaigns at the community level. Given the rural digital literacy gap, tailored programs in provinces can close awareness divides and build trust.",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 31,
+      "title": "Localizing AI strategies also allows governments to address context-specific opportunities and risks more effectively",
+      "text": "Localizing AI strategies also allows governments to address context-specific opportunities and risks more effectively •",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 32,
+      "title": "AI Use in Local Service Delivery",
+      "text": "AI Use in Local Service Delivery Many leading examples of AI governance globally come from the city level. Successful early examples highlight the potential for localized AI deployment. These use cases can be piloted in agriculture, smart cities and tourism, waste management, and e-government services •",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 33,
+      "title": "Data Management and Governance at Subnational Levels",
+      "text": "Data Management and Governance at Subnational Levels Strengthening data generation and stewardship at the local level is vital. Local authority are key contributors to open data ecosystems and must be empowered with tools and standards for structured, secure, and usable data collection. This also supports AI use cases grounded in local socio-cultural and economic contexts. 61",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 34,
+      "title": "Therefore, establishing a formal mechanism within the National AI Council to engage subnational governments through",
+      "text": "Therefore, establishing a formal mechanism within the National AI Council to engage subnational governments through co-design workshops, pilot programs, and localized funding schemes. This ensures that the AI transformation is not only nationally directed but also locally empowered and equitably distributed.",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    },
+    {
+      "number": 35,
+      "title": "Recommended actors: Provincial governments, Municipalities, National AI Council, Media, all parties concerned.",
+      "text": "Recommended actors: Provincial governments, Municipalities, National AI Council, Media, all parties concerned. Table 3. Summary of Recommendations with Identified Key Actors CATEGORY RECOMMENDATIONS PHASE KEY ACTIONS RECOMMENDED ACTORS",
+      "dimension": "CAPACITY BUILDING",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 35,
+  "page_count": 75
+}

@@ -1,0 +1,571 @@
+{
+  "country_code": "KE",
+  "country_name": "SHS",
+  "language": "en",
+  "metadata": {
+    "page_count": 57,
+    "creation_date": "D:20250210144246+01'00'",
+    "modification_date": "D:20250501031422+02'00'",
+    "country_name": "SHS",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "TABLE OF CONTENTS \nACKNOWLEDGMENTS \nACRONYMS AND ABBREVIATIONS \nFOREWORD \nEXECUTIVE SUMMARY \nDIAGNOSIS OF NATIONAL Al LANDSCAPE \nLEGAL AND REGULATORY \nAl Policy and Regulation \nData Protection and Privacy Laws \nData Sharing and Accessibility \nProcurement Laws and Policies \nFreedom of Information Acts/ Access to Knowledge Acts \nOnline Safety and Integrity of Speech \nPublic Sector Capacity \nSOCIAL CULTURAL DIMENSION \nDiversity, Inclusion, and Equality \nPublic Engagement and Trust \nEnvironmental and Sustainability Practices \nHealth and Social Well-Being \nCulture \nSCIENTIFIC/ EDUCATIONAL DIMENSION \nResearch and Innovation \nEducation \nECONOMIC DIMENSION \nInvestments and Outputs, Intermediate Consumption \nLabour Markets \nTECHNICAL/ INFRASTRUCTURAL DIMENSION \nInfrastructure and Connectivity \nApplied Standards \nComputing Capabilities \nStatistical Performance \nNATIONAL CONSULTATIONS \nPOLICY RECOMMENDATIONS \nAl Governance \nCapacity-Building and Awareness-Raising \nSocio-Cultural Impact \nInvestment, Research and Innovation \nREFERENCES \n2 \n7 \n8 \n10 \n11 \n13 \n13 \n16 \n16 \n17 \n17 \n18 \n20 \n22 \n22 \n26 \n28 \n28 \n30 \n33 \n33 \n34 \n39 \n39 \n40 \n43 \n43 \n44 \n44 \n44 \n46 \n47 \n47 \n47 \n48 \n48 \n49\n\n■ \nACRONYMS AND ABBREVIATIONS \nFECoMo \nAl \nACEPIS \nCHW \nDESAP \nDLP \nEGDI \nGIZ t \nG2C \nICT \nICTA \nIFMIS \nJKUAT \nKALRO \nKICD \nKICTANet \nKoTDA \nMCK \nNCIC \nNESSP \nNOFBI \nODPC \nODPP \nOSI \nPPDA \nPWD \nRAM \nSTI \nTVET \nUNESCO \nUSIU \nFreedom of Expression and Content Moderation \nArtificial Intelligence \nAfrica Centre for People Institutions and Society \nCommunity Health Workers \nDigital Skills and Employment Advancement Program \nDigital Literacy Programme \nE-Government Development Index \nDeutsche Gesellschaft fur Internationale Zusammenarbei \nGovernment to Customer \nInformation and Communication Technology \nInformation and Communication Technology Authority \nIntegrated Financial Management Information System \nJomo Kenyatta University of Agriculture and Technology \nKenya Agricultural and Livestock Research Organization \nKenya Institute of Curriculum Development \nKenya ICT Action Network \nKonza Technopolis Development Authority \nMedia Council of Kenya \nNational Cohesion and Integration Commission \nNational Education Sector Strategic Plan \nNational Optic Fibre Backbone Infrastructure \nOffice of the Data Protection Commissioner \nOffice of Director of Public Prosecutions \nOnline Service Index \nPublic Procurement and Asset Disposal Act \nPersons With Disabilities \nReadiness Assessment Methodology \nScience, Technology and Innovation \nThe Technical Vocational Education and Training \nUnited Nations Educational, Scientific and Cultural Organization \nUnited States International University-Africa\n\nLIST OF FIGURES \nFigure 1 Amount of content restricted by Meta in Kenya between 2019 and 2022 based on local law \nFigure 2 Country's gender parity scorecard on economic opportunities and education attainment, WEF Global Gender Gap Index, \n2021 \nFigure 3 Mobile Internet User Journey in Kenya \nFigure 4 Change in mobile internet use in Kenya, GSMA - The Mobile Gender Gap Report 2023 \nFigure 5 Share of internet usage, tablet/computer use and schools with DLP (%) in some Kenyan counties \nFigure 6 E-Participation Index, Kenya \nFigure 7 Coping with New Technological Trends in Kenyan Counties. \nFigure 8 3D model of the Great Mosque \nFigure 9 3D model of the Palace of Gedi \nFigure 10 Al research by institution, Kenya \nFigure 11 Reasons for Using Generative Al for University Students in Kenya \nFigure 12 Education Attainment in Kenya \nFigure 13 Gender Gap Indicators, Kenya \nFigure 14 Summary of IT Industry Expenditure 2019-2025 \nFigure 15 Venture capital investments in Al in USD, Kenya \nFigure 16 Top 20 skills during 2015-2019. Values are the group's shares(%) of yearly demand in general. (1 % is 215 jobs in 2019, \n230 jobs in 2018, 110 jobs in 2017) \nFigure 17 Al Professionals in Kenya \nFigure 18 Penetration of mobile and fixed subscriptions in Kenya. \nFigure 19 Statistical performance indicators (SPI): Overall score (scale 0-100) - Kenya \n■\n\n■ \nFOREWORD \nWe have officially entered the Age of Artificial Intelligence. The world is now set to change at a pace not seen in decades, even \ncenturies. Al-based tools and applications make our lives easier, smoother, and richer. They help us move efficiently, get informed, \nget credit, get a job, and get our taxes done. \nBut in its current form, Al reproduces and amplifies many of the social challenges we face. It is not acceptable that around a third \nof the world's population still lacks adequate internet access. Upstream, the Al industry is highly concentrated, with just two \ncountries - the United States and China - and a dozen companies accounting for a major share of the sector. This can lead only \nto greater inequality of outcomes - including gender disparities - downstream. Non-diverse Al teams, unrepresentative datasets, \nand opaque and biased algorithms can cause harm, particularly to those who are already vulnerable, whether compani",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Develop a comprehensive national Al strategy that not only takes into account the contrasting contexts within the country, including variations in...",
+      "text": "Develop a comprehensive national Al strategy that not only takes into account the contrasting contexts within the country, including variations in rural versus urban development and gender disparities, but also emphasises on distinctive contributions to the Al ecosystem and delineates the country's innovative approach in the implementation process, with a whole of government and stakeholders approach.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Prioritize on a review of existing legal and policy frameworks such as the Data Protection Act, 2019 and existing frame- works in sectors most likely...",
+      "text": "Prioritize on a review of existing legal and policy frameworks such as the Data Protection Act, 2019 and existing frame- works in sectors most likely to be impacted by Al such as education, health, culture, to ensure their readiness to cope with both the opportunities and risks brought about by Al and other emerging technologies.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Ensure that the formulation of the national Al strategy is grounded in empirical evidence of ongoing Al initiatives, a com- prehensive understanding...",
+      "text": "Ensure that the formulation of the national Al strategy is grounded in empirical evidence of ongoing Al initiatives, a com- prehensive understanding of the multifaceted challenges faced in their development, and an evaluation of Al's impact on society and the economy. These efforts will aid in shaping the country's strategic direction.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Prioritise Al governance frameworks that uphold human rights and core values, with an emphasis on marginalised popula- tions such as women, youth and...",
+      "text": "Prioritise Al governance frameworks that uphold human rights and core values, with an emphasis on marginalised popula- tions such as women, youth and children, and vulnerable groups as persons with disabilities and minority groups as well as rural communities. Implement policies that would ensure their inclusion and participation in the Al ecosystem.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Leverage the advancements made in ICT as a solid foundation for the seamless integration and adoption of Al technol- ogies, and equip and empower...",
+      "text": "Leverage the advancements made in ICT as a solid foundation for the seamless integration and adoption of Al technol- ogies, and equip and empower institutions that have effectively integrated ICT into their respective sectors to serve as pioneers in embracing Al.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Integrate ethical principles as recommended by UNESCO, such as proportionality and do no harm, transparency and ex- plainability, responsibility and...",
+      "text": "Integrate ethical principles as recommended by UNESCO, such as proportionality and do no harm, transparency and ex- plainability, responsibility and accountability, fairness and non discrimination, safety and security, right to privacy and data protection, among others, into Al governance frameworks and develop quantifiable indicators to gauge the attainment of these ethical standards.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Setting up agile bodies for safeguarding and effective monitoring and implementation of mechanisms for redress in instances of non-adherence will be...",
+      "text": "Setting up agile bodies for safeguarding and effective monitoring and implementation of mechanisms for redress in instances of non-adherence will be essential to ensure the translation of ethical values and principles into actionable practices, notably through ethical impact assessment of specific aspects of development, procurement, deployment and use of Al technologies. liti 24i i P =\\•j '' I] j{l){j •ii'@;j i {j ft j;flj fi j{@",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Launch programmes to promote public awareness and literacy to respond to national realities related to the responsible and ethical development,...",
+      "text": "Launch programmes to promote public awareness and literacy to respond to national realities related to the responsible and ethical development, adoption, deployment and use of Al, including for youth, women, and vulnerable and marginal- ised groups;",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Strengthen the capacities of governments, civil society, and the private sector to understand and make sense of Al tech- nologies and applications; ■...",
+      "text": "Strengthen the capacities of governments, civil society, and the private sector to understand and make sense of Al tech- nologies and applications; ■ ■",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Strengthen the capacities of governments, civil society and the private sector to develop, adopt, deploy, use and monitor Al ethically for the...",
+      "text": "Strengthen the capacities of governments, civil society and the private sector to develop, adopt, deploy, use and monitor Al ethically for the benefit of societies and people;",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Establish and enhance the capacity of policy, regulatory and enforcement institutions, also through targeted skills development and support for Al...",
+      "text": "Establish and enhance the capacity of policy, regulatory and enforcement institutions, also through targeted skills development and support for Al governance; and through leveraging on and including local, regional and international network of experts;",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Proactively engage in the mapping of jobs across board that would likely be affected or impacted by Al and emerging technology development and...",
+      "text": "Proactively engage in the mapping of jobs across board that would likely be affected or impacted by Al and emerging technology development and uptake, and deploy relevant capacity building and training programmes for skilling, reskill- ing and upskilling.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Create a comprehensive evaluation methodology to identify the unique skill sets necessary across diverse industries, al- lowing for informed...",
+      "text": "Create a comprehensive evaluation methodology to identify the unique skill sets necessary across diverse industries, al- lowing for informed adaptation of school curricula and the establishment of personalised training programmes. Concur- rently, establish a national repository of skills data to systematically track existing gaps and evolving requirements.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Ensure skilling and reskilling projects include a comprehensive knowledge of Al's societal ramifications, not just technical competencies.",
+      "text": "Ensure skilling and reskilling projects include a comprehensive knowledge of Al's societal ramifications, not just technical competencies. This involves empowering judicial officers to identify and deliver remedies for Al-related harms, cultivating an Al ethical culture through professional ethics bodies, and improving Al-driven disinformation detection capabilities.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Take a diversified approach to bridge the digital divide to avoid increasing current disparities caused by Al adoption.",
+      "text": "Take a diversified approach to bridge the digital divide to avoid increasing current disparities caused by Al adoption. Beyond improving digital infrastructure and expanding training and skilling programmes, prioritise identifying and addressing underlying factors that contribute to this disparity, such as digital device accessibility and affordability, raising awareness about Al technologies, and fostering citizen trust in Al adoption.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 1,
+      "title": "Prioritise increasing investment in the development of human resources specialised in Al innovation and establish a robust framework to facilitate...",
+      "text": "Prioritise increasing investment in the development of human resources specialised in Al innovation and establish a robust framework to facilitate coordination and collaboration among various governmental and non-governmental agencies tasked with spearheading Al innovation efforts.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Establish research and innovation hubs in universities, research institutions, but also within government-led research institutions as well as in the...",
+      "text": "Establish research and innovation hubs in universities, research institutions, but also within government-led research institutions as well as in the private sector, with deliberate efforts to identify, nurture and retain Al talents, including through financial incentives and support to develop relevant Al solutions, and by by democratising initiatives as hack- athons and innovation challenges.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Facilitate public-private sector collaboration to devise innovative financing models tailored to the unique needs of Al and emerging tech startups at different stages of development.",
+      "text": "Facilitate public-private sector collaboration to devise innovative financing models tailored to the unique needs of Al and emerging tech startups at different stages of development. These collaborative efforts should prioritise accessibili- ty, transparency, and inclusivity, ensuring that startups from diverse backgrounds and sectors have equitable access to financial resources and opportunities for scaling up their operations.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Implement an approach to conduct regular impact studies aimed at evaluating the tangible outcomes and societal implications of investments in Al research and development (R&D).",
+      "text": "Implement an approach to conduct regular impact studies aimed at evaluating the tangible outcomes and societal implications of investments in Al research and development (R&D). These studies should encompass a comprehensive analysis of how Al investments contribute to knowledge production, innovation culture, technological advancements, economic growth,job creation, and societal well-being.",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Create and implement a comprehensive resource mobilisation strategy to diversify funding sources for Al initiatives.",
+      "text": "Create and implement a comprehensive resource mobilisation strategy to diversify funding sources for Al initiatives. In addition to government funding, this strategy should harness investment from the private sector, non-governmental organisations (NGOs), and foreign development partners in combining resources and expertise to advance Al innovation. ■ 75, 'Kenya - Information, Communications and Technology (ICT)' (19 August 2022) <https://www.trade.gov/country-commer- cial-guides/kenya-information-communications-and-technology-ict> accessed 24 April 2024 '2016-2030 Kenya National E-Health Policy.Pdf' <https://repository.kippra.or.ke/bitstream/han- dle/123456789/1786/2016-2030%20Kenya%20National%20E-Health%20policy.pdf?sequence=l &isAllowed=y> accessed 15 April 2024 '2018 Kajiado CountyCulture and Heritage Policy.Pdf' <https://repository.kippra.or.ke/bitstream/han- dle/123456789/1010/2018%20Kajiado%20Cou ntyCulture%20and%20Heritage%20Policy.pdf?sequence= 1 &isAI lowed=y> accessed 11 April 2024 'A Chief Kariuki Tweet Saved a Family in Nakuru' (Citizen Digital, 10 January 2018) <https://www.citizen.digital/news/a-chief-kari- uki-tweet-saved-a-family-in-nakuru-187676> accessed 23 April 2024 'About Smart Academy- Digital Skills' <https://www.smartacademy.go.ke/about-smart-academy/> accessed 23 April 2024 'AccesstolnformationActNo31 of2016.Pdf' <https://kenyalaw.org/kl/fileadm in/pdfdownloads/ Acts/ Accesstol nformationAct- No31 of2016.pdf> accessed 29 April 2024 Africa C for, 'Unmasking Hate Speech in Kenyan Elections with Al and Collaboration' (Code For Africa, 12 June 2023) <https:// med i u m.com/code-for-africa/u n ma ski ng-hate-speech-i n-kenya n-elections-with-a i-a nd-col la boration-5 7 6e3 7 d4ccb5 > ac - cessed 24 April 2024 Africa SR and S, 'How Al Is Affecting the Kenyan Workplace' (Summit Recruitment & Search, 4 September 2023) <https://www. summitrecruitment-search.com/how-ai-is-affecting-the-kenyan-workplace/> accessed 26 April 2024 'Al Career Essentials ",
+      "dimension": "",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 20,
+  "page_count": 57,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "The report, the first document in the country that is specifically dedicated to Al and other emerging 'Kenya Law: The Constitution of Kenya' <https//www.kenyalaw.org/kl/index.php7id~398> accessed 27 April 2024.",
+        "On the legal and regulatory dimension, the presence of a Data Protection Act (2019) and evidence of its effectiveness lay a solid foundation for the ethical usage of personal data, an essential condition for the development of a human centred Al.",
+        "It outlines some of the key issues to be addressed by the Al masterplan as; the ethical, legal, and societal implications of Al, creation of shared public datasets and environments for Al training and testing and ensuring the safety and security of Al systems.6 The National ICT Policy 2019 and the K",
+        "on \"Technology Trends\" outlines 'Deep Learning; under which Al is considered as a subset of Machine learning, and its potential recognized merely from the perspective of data classification, trend identification and predictive analytics.",
+        "The draft of the first edition of the Information Technology-Artificial Intelligence Code of Practice for Al Applications was released in April 2024, for public review, by the Kenya Bureau of Standards (KEBS) .",
+        "• ·hi ti ij 4·); D; [I] }ti} j ,j ij ;)@,iii ti'til The Data Protection Act 2019 is the country's prevailing legislative framework that protects individuals' data and enforces responsible data processing practices as overseen by the Office of the Data Protection Commissioner (ODPC).",
+        "Since its enactment, the ODPC has received over 1600 registration applications from entities processing data.",
+        "Its mandate extends to protecting individuals' privacy, instituting legal and institutional mechanisms for data protection, and granting data subjects rights and remedies against unauthorized data processing."
+      ],
+      "strengths": [
+        "The Distributed Ledger and Artificial Intelligence Taskforce established under Kenya Gazette Notice Number 2095 of 2018 to develop a roadmap for emerging technologies in the country, developed the Distributed Ledgers Technology and Artificial In- telligence Taskforce Report.",
+        "On April 8, 2024, the Kenyan government, through the MICDE, in partnership with the Deutsche Gesellschaft fUr Internationale Zusammenarbeit (GIZ), launched the national Al strategy development process, with a series of stakeholders consultations workshops.",
+        "Following this, Makueni2° and Elgeyo Marakwet21 Counties established a contracting platform that employs open data to achieve transparency in the procurement process, signifying progressive steps towards the promotion of transparency and accountability in the procurement processes at a county level.",
+        "The National Cohesion and Integration Act 2008 was enacted in response to the hateful contents and deadly violence witnessed during the 2007 national elections.",
+        "Kenya's National Action Plan Against Hate Speech develops a comprehensive and coherent approach towards tackling hate speech in the country.",
+        "20 'Makueni: The Small County Leading Action on Open Procurement in Kenya - Open Contracting Partnership' <https://www.open-contracting.org/2021/01/12/ makueni-the-small-county-leading-action-on-open-procurement-in-kenya/> accessed 23 April 2024.",
+        "21 'Kenya's First County Data Desk Launched - Open lnstitute'(15 October 2019) <httpsJ/openinstitute.africa/2019/10/15/kenyas-first-county-data-desk- launched/> accessed 23 April 2024.",
+        "The aim is to enable the design, procurement, implementation, and management of a robust ICT infrastructure for efficient service delivery.To date, approximately 2,100 specialists (with 400 students trained per year) have undergone training under this programme.36 ICTA's SmartAcademy portal aims to ",
+        "38 'Community of Practice Established to Foster an Inclusive Digital Economy in Kenya' (11 July 2023) <http://www.ilo.org/global/pro- grammes-and-projects/prospects/news/WCMS_887652/lang--en/index.htm> accessed 23 April 2024."
+      ],
+      "gaps": [
+        "Though Kenya lacks any framework governing Al and specifically addressing issues on the ethical implications of A, the harms and risks it poses and provisions of redress mechanisms for such harms, it has several policies and frameworks in place that lay a foundation for Al governance.",
+        "■ ### Page 13 ■ Although Kenya's Al landscape is vibrant and fast developing, it still faces significant gaps.",
+        "However, considerable efforts are underway to develop a national Al strategy for the country.",
+        "In labour markets, the disparity between the demand for ICT skills and the scarcity of individuals possessing these skills high- lights a need to intensify efforts to train, re-skill, and empower youth to capitalise on ICT opportunities and adapt to emerging technologies.",
+        "However, in order to see significant transformation as a result of these technologies, there must be a concerted focus on the specific chal- lenges faced at each stage of the Al lifecycle, design, development, and deployment, from a contextual perspective, as well as a critical examination of the ch",
+        "Despite the patchwork nature of Kenya's legal and regulatory framework, with most of these frameworks lacking specific mention of Al, significant efforts are currently underway to develop the country's National Al Strategy.",
+        "The same Section emphasises the need to integrate data protection considerations from the outset of system design, while Section 36 introduces opt-out options for online profiling and tracking, raising significant implications for businesses relying on such techniques to understand consumer behaviou",
+        "The Data Protection Act 2019 in its current status is however faced with several gaps in line with growing trends induced by Al regarding protection, privacy and integrity of personal data, inviting urgent revision of the Act to cope with ongoing and upcoming technological development.",
+        "i·iiili=t'J;Ji{titi{i·&Bif iii:Jiiiii Kenya is not a signatory to the International Open Data Charter, indicating a gap in commitment to global standards for open data practices.",
+        "Although these advances have been made, Kenya does not have specific laws or regulatory frameworks that govern the publication of open data."
+      ],
+      "key_stats": [
+        {
+          "stat": "1.6 Billion USD",
+          "context": "_of_disinformation_for_hire_in_Kenya_S._hcc.pdf> accessed 24 April 2024. 24 'Kenya: Meta Sued for 1.6 Billion USD for Fueling Ethiopia Ethnic Violence' (Amnesty International, 14 December 2022) <https",
+          "value": 1600000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "300,000 trained",
+          "context": "20 million citizens are trained, 10,000 local high-end ICT professionals are trained by 2030, and 300,000 trained civil servants trained in digital services by 2030, among others, through its Digital "
+        },
+        {
+          "stat": "10,000 people",
+          "context": "d by an on line community of practice, 4,000 participants in digital literacy skills training, and 10,000 people accessing on line information on opportunities for learning and work.40 The ICTA is pre"
+        }
+      ],
+      "regulations": [
+        {
+          "name": "National ICT Policy",
+          "year": "2004",
+          "status": "enacted"
+        },
+        {
+          "name": "Integration Act",
+          "year": "2008",
+          "status": "enacted"
+        },
+        {
+          "name": "The Data Protection Act",
+          "year": "2019",
+          "status": "enacted"
+        },
+        {
+          "name": "Cybercrimes Act",
+          "year": "2018",
+          "status": "enacted"
+        },
+        {
+          "name": "Data Protection Act",
+          "year": "2019",
+          "status": "enacted"
+        }
+      ]
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [
+        "1 18\"'3 (W Erw 11ft ~Oinllairv ~,ctft.., ,~ O.OIIQ •71 \"\"~ ....,., I -ti\"''\"\"\"\"'l'od'\"\"\"\"\"' j~ 0-~~ j) 1 1'.!k~ tU4 • Figure 2: Country's gender parity scorecard on economic opportunities and education attainment, WEF Global Gen- der Gap Index, 2021 42 According to Kenya's Digital Economy, A People'",
+        "The policy on ICT in education and training aims to leverage ICTfor in curriculum delivery and education management, while The Kenya Digital Masterplan 2022-2023, is guided by the principle of equality and non-discrimination in the availability of and access to ICTs hence bridging the digital divide",
+        "These centres provide services such as; computer services, data (Internet and e-mail), ICT training services (e-learning) and typing and printing facilities .The Authority has supported the establishment of four telecentres in Chwele (Bungoma West District), Mutomo (Mutomo District), Eldama Ravine (",
+        "53 'Kenya Passed a Law Mandating All Counties to Develop GIS-Based Database Systems and the Results Are Incredible I Space in Africa' < https:/ /africa news.space/ke nya-passed-a-law-ma ndati n g-a II-cou nties-to-develop-gis-based-data base-systems-and-the-res u Its-are-incredible/> accessed 23 Apr",
+        "54 'Kenya Passed a Law Mandating All Counties to Develop GIS-Based Database Systems and the Results Are Incredible I Space in Africa' < https:/ /africa news.space/ke nya-passed-a-law-ma ndati n g-a II-cou nties-to-develop-g is-based-database-systems-and-the-res u Its-are-incredible/> accessed 23 Apr",
+        "60 'County Business Environment for MSEs - Policy Briefs for 47 Counties 2021-2022 - KIPPRA' <https://kippra.or.ke/county-business-environ- ment-for-mses-policy-briefs-for-47-counties-2021-2022/> accessed 18 April 2024.",
+        "~ 't;:; ~ e <ll {!, ro s i= Though no policies provide for the intersection of the environment and Al, the 2019 National ICT Policy has several measures of how the environment should be protected in the context of the new technologies.",
+        "The policy emphasises the government's effort to control e-waste disposal, promote the use of ICT in part to reduce climate change, and employ technologies at natural disasters and emergency monitoring, prevention, mitigation, and response."
+      ],
+      "strengths": [
+        "Some of these projects include: CommunityTelecenters-These are access points adopted for rural and high-cost areas to reduce the cost of individual own- ership of equipment and services and enhance ICT capacity in rural areas.",
+        "Not only do the surveys review the technical aspects of national websites, but they also cover the overall e-government policies and strategies adopted, with a particular focus on specialised sectors in service provision.",
+        "Ardhi Sasa, the National Land Information Management System (NLIMS), and Digital Case Management System, which was recently launched by the Judiciary as part of its proactive response to the COVID-19 pandemic, Chanjo Kenya, and the COVID-19 vaccination registration and certification system are the o",
+        "57 'Kenya's First County Data Desk Launched - Open Institute' (15 October 2019) <httpsJ/openinstitute.africa/2019/10/15/kenyas-first-county- data-desk-launched/> accessed 23 April 2024."
+      ],
+      "gaps": [
+        "This aspect aims to address the current gap and underrepresentation of women and minorities in the Al field, including lack of female developers, researchers, professors, etc.",
+        "Kenya ranks 95th globally on the World Economic Forum Global Gender Gap Index 2021 with a score of 0.692 and ranks 16th in the Sub- Saharan region.",
+        "44 'The-Mob i I e-Ge nde r-Ga p-Report-2023 .Pdf < https//www.gsma.com/ r /wp-content/u ploads/2023/07 /The-Mobile-Gender-Gap-Re- port -2023.",
+        "'The-Mobile-Gender-Gap-Report-2023.Pdf' (n ~3).",
+        "72 'The Mission for Penda Health Limited' (Penda Health) <httpsJ/www.pendahealth.com/mission> accessed 15 April 2024.",
+        "However, these legal frameworks present a policy gap in Al integration into cultural heritage preservation.",
+        "Despite its imperfections, the platform plays a role in preserving and disseminating cultural knowledge, contributing to a broader understanding and appreciation of Kenya's cultural heritage.",
+        "Despite these efforts, it is crucial to move beyond the complexities of copyrights and intellectual property rights and assess how prepared the country and its cultural and creative sector are to retain ownership of its digitised cultural resources and represen- tations."
+      ],
+      "key_stats": [
+        {
+          "stat": "35% of women utilise advanced digital",
+          "context": "al Gen- der Gap Index, 2021 42 According to Kenya's Digital Economy, A People's Perspective study, 35% of women utilise advanced digital services compared to 54% of men. The figure below shows the mob",
+          "value": 35.0,
+          "unit": "%"
+        },
+        {
+          "stat": "54% of men",
+          "context": "Economy, A People's Perspective study, 35% of women utilise advanced digital services compared to 54% of men. The figure below shows the mobile internet journey between men and women in Kenya.43 42 'W",
+          "value": 54.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0% \nMobile Ownership \nMobile Inter",
+          "context": "age 22 Mobil'e Internet User Journey in Kenya rno% 90% 80% 70% 60% 50% 4:0% 30% 20% 10% 0% Mobile Ownership Mobile Internet .A Vi;' a reness Mobile lntemet Adoptior1 ■ Male ■ Female Figure 3: Mobile I",
+          "value": 0.0,
+          "unit": "%"
+        },
+        {
+          "stat": "44% of the urban population having ac",
+          "context": "Mobile Internet Use The Kenya Economic Update report highlights a significant digital divide, with 44% of the urban population having access to the internet compared to 17% in rural areas.4s In 2023, ",
+          "value": 44.0,
+          "unit": "%"
+        },
+        {
+          "stat": "17% in rural areas",
+          "context": "ificant digital divide, with 44% of the urban population having access to the internet compared to 17% in rural areas.4s In 2023, a survey conducted by GSMA indicated that women respondents were more ",
+          "value": 17.0,
+          "unit": "%"
+        },
+        {
+          "stat": "58% of public institutions utilised",
+          "context": "as social media and emails for citizens to interact with MDAs and County Governments. As at 2016, 58% of public institutions utilised social media, while 57.5 per cent had websites to communicate and ",
+          "value": 58.0,
+          "unit": "%"
+        },
+        {
+          "stat": "52% trusting information received",
+          "context": "Inclusive Internet Index, Kenya ranks 40th globally in trust of government websites and apps, with 52% trusting information received from government websites and apps.59 While there is a lack of avail",
+          "value": 52.0,
+          "unit": "%"
+        },
+        {
+          "stat": "ranks 95th globally",
+          "context": "he environment, including on provisions to address the environmental impacts of Al systems. Kenya ranks 95th globally on the World Economic Forum Global Gender Gap Index 2021 with a score of 0.692 and"
+        },
+        {
+          "stat": "ranks 16th \nin the",
+          "context": "ks 95th globally on the World Economic Forum Global Gender Gap Index 2021 with a score of 0.692 and ranks 16th in the Sub- Saharan region. The figure below shows the country's gender parity scorecard "
+        },
+        {
+          "stat": "ranks 40th globally",
+          "context": "te and interact with citizens.58 According to the Economist Impact Inclusive Internet Index, Kenya ranks 40th globally in trust of government websites and apps, with 52% trusting information received "
+        }
+      ]
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "2018, Mere specifically, ,he Kenya Digital Ma;ierplan 2022<1037 ollllir,es the <ounr,y~AI mas101pl.1n.",
+        "I 02 'National Curriculum Policy: Kenya Institute of Curriculum Development' <https//kicd.ac.ke/curriculum-reform/national-curriculum-policy/> accessed 9 April 2024.",
+        "A survey by Chegg.org, which polled 510 university students in Kenya, found that nearly two thirds, 63%, have used generative Al for their university studies and 78% would like their course curriculum to include training in Al tools relevant to their future career.111 The figure below outlines sever",
+        "110 'Crawford International School Unveils Custom Al Tech Learning Platform'(The Star) <httpsJ/wwwthe-star.co.ke/sasa/technolo- gy/2024-02-06-crawford-international-school-unveils-custom-ai-tech-learning-platform/> accessed 9 April 2024.",
+        "■ ### Page 39 ■ VC lt,,v~nts ti\\ A I by ffii:nt.ry \" figure 15: Venture capital investments in Al in USO, Kenya Source: OEC:O Policy Ot,,,.,rvat01y' WWW ....",
+        ",n btg data analytics, 26.3%, ,n pvbhsl11n9 lntormation on d,g11al pla1form1,.",
+        "and m roboUCI and autom1ia:(1on • On a projec.1 conducted 10 understand skills demand l>ased on Qnlinejob poital data and Kenyan ICT educational offe,Jng basecl on curm:ulum from two ,.miversltie~ the software Industry and !CT skills are a1 the core of the labou, market', dema:nded skills.",
+        "80% of job seekers failed to fill vacancies, primarily due to a lack of technical skills, such as basic and advanced IT skills."
+      ],
+      "strengths": [
+        "The Global Innovation Index 2022 places Kenya as the fourth most innovative country in sub-Saharan Africa94.",
+        "10s Kidd-O Skillkit focuses on training students and developing core skills in the fields of Coding, Electronics, Robotics, and Artificial lntelligence.706 Jenga School offers a course on Advanced Data Science & Al with Python, R, SQL, Predictive and Prescriptive Modelling and Deep Learning as key f"
+      ],
+      "gaps": [
+        "The gap in Kenya with 24,648 R&D personnel that include 33% women among academic staff is significant, where only 36% of academic staff have a PhD qualification.",
+        "Kenya does not meet the legal obligation to allocate 2% of GDP to research and development (R&D) as directed by the STI Act 2013.",
+        "However, despite the Kenyan demographic averages 57.9 scientific publications per million, these publications mostly lie within the health sciences domain and depend on foreign collaboration, accounting for about 82% of the publications between 2011 and 201993.",
+        "- Currently, Ke!Yja lack, a dedicated set of ,egulataom or policies that-are ra,lored fo, integrating Al Into Its educattonal system, Nevertheless, the country h.lsmade ,uides in developing polldes and laws to introduce ICTinto It> education s}\"!em representing firs• steps towa,ds the-,ocorporauon o",
+        "109 110 Although there have been some milestones in updating and integrating Al into the education curriculums, the emphasis is on hard technical skills, leaving a considerable gap in highlighting the ethical tackle of Al development and deployment.",
+        "Technologies Natural Sci., Mathem.ltlcs & StaUstlcs • Social ScJ., Jo rnali sm & Information Vocational training PhD graduat.es Figure 13: Gender Gap Indicators, Kenya.' •----• 30.73 ..",
+        "n.a 'Global Gender Gap Report 2023' (World Economic Forum) <https://www.weforum.org/publications/global-gender-gap-report-2023/econ- omy-profiles-5932ef6d39/> accessed 29 April 2024.",
+        "\" 5ki1Js ,hortage Is a challenge to J()'ll, of •mploye\" in Kenya• Tlw ICT cj~m•nd by emerprlses in <he.",
+        "(1 % is 215 jobs in 2019, 230 jobs in 2018, 110 jobs in 2017) 1 Computing professionals and electronics and telecommunications engineering technicians emerge as the top two most preva- lent roles in the country, despite a 49% difficulty in hiring computing professionals, primarily attributed to a sc"
+      ],
+      "key_stats": [
+        {
+          "stat": "33% women among academic staff is",
+          "context": "ender representation and research funding. The gap in Kenya with 24,648 R&D personnel that include 33% women among academic staff is significant, where only 36% of academic staff have a PhD qualificat",
+          "value": 33.0,
+          "unit": "%"
+        },
+        {
+          "stat": "36% of academic staff have a PhD qual",
+          "context": "a with 24,648 R&D personnel that include 33% women among academic staff is significant, where only 36% of academic staff have a PhD qualification. In 2017, only 8% of the 2,124 registered engineers we",
+          "value": 36.0,
+          "unit": "%"
+        },
+        {
+          "stat": "8% of the",
+          "context": "mic staff is significant, where only 36% of academic staff have a PhD qualification. In 2017, only 8% of the 2,124 registered engineers were women, showing an imbalance in technical spheres. Kenya doe",
+          "value": 8.0,
+          "unit": "%"
+        },
+        {
+          "stat": "2% of GDP to research and developmen",
+          "context": "n, showing an imbalance in technical spheres. Kenya does not meet the legal obligation to allocate 2% of GDP to research and development (R&D) as directed by the STI Act 2013. Nevertheless, women have",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.8% of GDP allotment",
+          "context": "he STI Act 2013. Nevertheless, women have more challenges accessing research funding even with the 0.8% of GDP allotment92. However, despite the Kenyan demographic averages 57.9 scientific publication",
+          "value": 0.8,
+          "unit": "%"
+        },
+        {
+          "stat": "82% of the publications between",
+          "context": "ly lie within the health sciences domain and depend on foreign collaboration, accounting for about 82% of the publications between 2011 and 201993. The Global Innovation Index 2022 places Kenya as the",
+          "value": 82.0,
+          "unit": "%"
+        },
+        {
+          "stat": "52.77% from the previous year",
+          "context": "ve country in sub-Saharan Africa94. Patents by origin were equal to 0.16 thousand in 2021, down by 52.77% from the previous year, while Citable documents had an index value of 334 in 2022, up by 7.74%",
+          "value": 52.77,
+          "unit": "%"
+        },
+        {
+          "stat": "7.74% from the year prior",
+          "context": "by 52.77% from the previous year, while Citable documents had an index value of 334 in 2022, up by 7.74% from the year prior95. 92 'Science-Technology-a nd-I n novati on-Act-N o.-28-of-201 31 .Pdf' <h",
+          "value": 7.74,
+          "unit": "%"
+        },
+        {
+          "stat": "78% would like their course curric",
+          "context": "Kenya, found that nearly two thirds, 63%, have used generative Al for their university studies and 78% would like their course curriculum to include training in Al tools relevant to their future caree",
+          "value": 78.0,
+          "unit": "%"
+        },
+        {
+          "stat": "50% \nercan age \nFigure",
+          "context": "l fa.~li:E-.r !\\Uke'i = ~.t:Ll ~111g 11.101:e 111.te□ccin: 0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% ercan age Figure 11: Reasons for Using Generative Al for University Students in Kenya112 The Kenyan",
+          "value": 50.0,
+          "unit": "%"
+        },
+        {
+          "stat": "7.7% growth",
+          "context": "s been recognised as a key enabler in the country's economic development. The ICT output value saw 7.7% growth, from KSh 564.8 billion in 2021 to KSh 608.1 billion in 2022. Intermediate consumption in",
+          "value": 7.7,
+          "unit": "%"
+        },
+        {
+          "stat": "9.2% from KSh",
+          "context": "ed from KSh 273.4 billion in 2021 to KSh 289.8 billion in 2022, while ICT value added increased by 9.2% from KSh 291.4 billion in 2021 to KSh 318.3 billion in 2022.1 Kenya ranks 24th globally on ICT s",
+          "value": 9.2,
+          "unit": "%"
+        },
+        {
+          "stat": "11.44% from the year prior",
+          "context": "1 Kenya ranks 24th globally on ICT services exports,% total trade of 95,784,408 USD in 2021, up by 11.44% from the year prior, and equivalent to an indicator rank of 85 on the Global Innovation index.",
+          "value": 11.44,
+          "unit": "%"
+        },
+        {
+          "stat": "30% or rhe skills t",
+          "context": "tie~ the software Industry and !CT skills are a1 the core of the labou, market', dema:nded skills. 30% or rhe skills t.iem.,ncled are business and sofuk1Jls. such as expeuence, sef\\>1ce, alld comn>t11",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "1 % is",
+          "context": "gure 16: Top 20 skills during 2015-2019. Values are group's shares(%) of yearly demand in general. (1 % is 215 jobs in 2019, 230 jobs in 2018, 110 jobs in 2017) 1 Computing professionals and electroni",
+          "value": 1.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "pdf> accessed 23 April 2024 'Kenya Fixed and Mobile Subscriptions Data - ITU DataHub' <https://datahub.itu.int/dashboards/?id=2&e=KEN> accessed 18 April 2024 'Kenya Launches National Coalition to Fight Harmful Content on Digital Platforms - FECoMo' (30 March 2023) <https://fecomo.",
+        "Mugambl Lai buta Data Privacy and Gov,ernance Society of Kenya ' Ngandeu Ngatta Hugue UNESCO ' Dr."
+      ],
+      "strengths": [
+        "Create and implement a comprehensive resource mobilisation strategy to diversify funding sources for Al initiatives."
+      ],
+      "gaps": [],
+      "key_stats": [
+        {
+          "stat": "1.6 Billion USD",
+          "context": "Kenya' <https://www.kenyalaw.org/kl/index.php7id=398> accessed 27 April 2024 'Kenya: Meta Sued for 1.6 Billion USD for Fueling Ethiopia Ethnic Violence' (Amnesty International, 14 December 2022) <http",
+          "value": 1600000000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [
+        "Among other things, the dimension will assess internet connectivity and access, availability of data centres, cloud computing capabilities, and supercomputers.",
+        "Given the critical importance of data for Al technologies, another aspect within this dimension relates to the availability of high-quality data and practices for ensuring data is representative.",
+        "Ookla's data ranks Kenya at 167 and shows fixed internet Artl...,l!Wlob,I•• bto1dw!lld wb$ot1r)tl~n• 59 ..",
+        "- - 114 'Kenya Fixed and Mobile Subscriptions Data ITU Data Hub' <https://datahub.itu.int/dashboards/?id=2&e=KEN> accessed 18 April 2024.",
+        "It aims to attract businesses in outsourcing, software development, data centers, disaster recovery, call centers, manufacturing, and light assembly.",
+        "Despite being launched in 2008, significant work began in 2013 and a tour of the site reveals an unfinished eight-storey building in an arid field as the only sign of progress.",
+        "The Government Data Centre (GDC), a project by the ICTA, houses applications that support government services.",
+        "Kenya has no policy that directly speaks to Al driven cloud computing."
+      ],
+      "strengths": [
+        "The flagship project under the country's Vision 2030 economic pillar envisioned a world-class city powered by a thriving ICT sector, robust infrastructure, and investor- friendly policies.",
+        "Dubbed Africa's Silicon Savannah the project was expected to position the country as Africa's leading high-tech hub by expanding Kenya's nascent information technology-enabled services sector.",
+        "Develop a comprehensive national Al strategy that not only takes into account the contrasting contexts within the country, including variations in rural versus urban development and gender disparities, but also emphasises on distinctive contributions to the Al ecosystem and delineates the country's ",
+        "Create a comprehensive evaluation methodology to identify the unique skill sets necessary across diverse industries, al- lowing for informed adaptation of school curricula and the establishment of personalised training programmes.",
+        "Ensure skilling and reskilling projects include a comprehensive knowledge of Al's societal ramifications, not just technical competencies.",
+        "Prioritise increasing investment in the development of human resources specialised in Al innovation and establish a robust framework to facilitate coordination and collaboration among various governmental and non-governmental agencies tasked with spearheading Al innovation efforts.",
+        "Facilitate public-private sector collaboration to devise innovative financing models tailored to the unique needs of Al and emerging tech startups at different stages of development.",
+        "These studies should encompass a comprehensive analysis of how Al investments contribute to knowledge production, innovation culture, technological advancements,"
+      ],
+      "gaps": [
+        "Gender gap in internet use is 0.804% and mobile phone access is 1 %.",
+        "The project aims to develop a top tier digital media hub by establishing both the critical infrastructure and programs needed to unlock the opportunity that the creative sector in a digital economy presents.' 16 The Konza Technopolis project, overseen by the Konza Technopolis Development Authority h",
+        "This stunted growth has been attributed to grandiose plans and a lack of funding.",
+        "However, The ICTA published the Systems and Applications Standard, that applies to the acquisition, supply, development, operation, maintenance, and disposal of software systems, products and services.",
+        "However, the ICTA published the Cloud Computing Standard, which outlines the various considerations for ministries, counties, and agencies in the selection of cloud computing services and models.119 As of 2022, Kenya's score on the Statistical Performance Indicators (SPI), an open-source framework f",
+        "Kenya has no standalone Al strategy, acknowledging however ongoing effort to develop one.",
+        "Kenya has foundational laws (Data Protection Act 2019) and Institutions (Ministry oflCT, ODPC) in place but direct application to Al still poses a challenge as most frameworks speak to ICT.",
+        "Evidence/lack of data/data fragmentation in relation to R&D expenditure, investments, procurement & output on Al in Kenya.",
+        "There is a need to gather empirical data on Al awareness in the country, with particular details of population distribution.",
+        "There is a need to reflect on how policy is made in the country to ensure that efforts on research and development translate to and inform policy formulation."
+      ],
+      "key_stats": [
+        {
+          "stat": "98% of the population covered by at l",
+          "context": "s in Kenya at the start of 2024, with internet penetration standing at 40.8 percent, with at least 98% of the population covered by at least 2G mobile network technology, 98% covered by at least 3G, a",
+          "value": 98.0,
+          "unit": "%"
+        },
+        {
+          "stat": "98% covered by at least",
+          "context": "0.8 percent, with at least 98% of the population covered by at least 2G mobile network technology, 98% covered by at least 3G, at least 97% covered by at least LTE/WiMAX and 0.6% covered by at least S",
+          "value": 98.0,
+          "unit": "%"
+        },
+        {
+          "stat": "97% covered \nby at least LTE",
+          "context": "e population covered by at least 2G mobile network technology, 98% covered by at least 3G, at least 97% covered by at least LTE/WiMAX and 0.6% covered by at least SG network. Gender gap in internet us",
+          "value": 97.0,
+          "unit": "%"
+        },
+        {
+          "stat": "0.6% covered by at least SG network",
+          "context": "ile network technology, 98% covered by at least 3G, at least 97% covered by at least LTE/WiMAX and 0.6% covered by at least SG network. Gender gap in internet use is 0.804% and mobile phone access is ",
+          "value": 0.6,
+          "unit": "%"
+        },
+        {
+          "stat": "0.804% and mobile phone access \nis",
+          "context": "vered by at least LTE/WiMAX and 0.6% covered by at least SG network. Gender gap in internet use is 0.804% and mobile phone access is 1 %. Ookla's data ranks Kenya at 167 and shows fixed internet Artl.",
+          "value": 0.804,
+          "unit": "%"
+        },
+        {
+          "stat": "17,000 jobs",
+          "context": "of the project. It is projected that Phase 1 of Konza Technopolis, upon completion, will generate 17,000 jobs and contribute an additional 2 percent of GDP to the country. The Konza Digital Media City"
+        }
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "on \"Technology Trends\" outlines 'Deep Learning; under which Al is considered as a subset of Machine learning, and its potential recognized merely from the perspective of data classification, trend identification and predictive analytics.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "On April 8, 2024, the Kenyan government, through the MICDE, in partnership with the Deutsche Gesellschaft fUr Internationale Zusammenarbeit (GIZ), launched the national Al strategy development process, with a series of stakeholders consultations workshops.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Further, the risks that are occasioned by the automated processing of personal data are recognized and resolved in the Act through the provision for data protection impact assessments (Section 31 ).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Following this, Makueni2° and Elgeyo Marakwet21 Counties established a contracting platform that employs open data to achieve transparency in the procurement process, signifying progressive steps towards the promotion of transparency and accountability in the procurement processes at a county level.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Various initiatives that use social media for early warning and response have been implemented since the 2007 election.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "i {iii ;lt'ti i ·i@ili•]{f i'1t1ii i [•]{I The digital economy has been recognised as a key enabler in the country's economic development.",
+      "dimension": "economic"
+    }
+  ],
+  "key_numbers": [],
+  "rankings_indices": [
+    {
+      "context": "Kenya ranks 95th globally on the World Economic Forum Global Gender Gap Index 2021 with a score of 0.692 and ranks 16th in the Sub- Saharan region.",
+      "index_name": "Global Gender Gap Index",
+      "rank": 95,
+      "score": 0.692,
+      "year": 2021
+    }
+  ]
+}

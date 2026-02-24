@@ -1,0 +1,668 @@
+{
+  "country_code": "ID",
+  "country_name": "INDONESIA",
+  "language": "en",
+  "metadata": {
+    "page_count": 76,
+    "creation_date": "D:20250203155346+07'00'",
+    "modification_date": "D:20250430131915+02'00'",
+    "country_name": "INDONESIA",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "executive_summary": "iii\nTable of Contents\nAcknowledgements\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nii\nTable of Contents\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\niii\nForeword\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nv\nAbbreviations and Acronyms\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nvii\nExecutive Summary\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n1\nDiagnostic of Key Aspects\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n1\nDeveloping a National Multi-stakeholder Roadmap\t\n\t\n\t\n\t\n\t\n2\nStakeholder Concerns\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n2\nStakeholder Needs and Expectations\t\n\t\n\t\n\t\n\t\n\t\n\t\n2\nKey recommendations for the findings\t\n\t\n\t\n\t\n\t\n\t\n\t\n3\nDiagnosis of the national AI landscape\t\n\t\n\t\n\t\n\t\n\t\n4\nOverview\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n4\nGeneral Questions\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n5\nNational AI Strategy\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n5\nAdoption and AI Practices\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n6\nDigital Transformation Agenda\t\n\t\n\t\n\t\n\t\n\t\n\t\n6\nGovernment Support\t\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n7\nChallenges\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n7\nLegal and Regulatory Aspects\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n8\nAI-Specific Regulations\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n8\nNational Strategy on AI\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n9\nData Protection and Privacy Law\t\n\t\n\t\n\t\n\t\n\t\n\t\n12\nData Sharing and Accessibility\t\n\t\n\t\n\t\n\t\n\t\n\t\n13\nProcurement Laws and Policy\t\t\n\t\n\t\n\t\n\t\n\t\n\t\n14\nFreedom of Information Acts and Access to Knowledge Acts\t \t\n\t\n\t\n14\nDue Process and Accountability\t\n\t\n\t\n\t\n\t\n\t\n\t\n15\nOnline Safety and Integrity of Speech\t\t\n\t\n\t\n\t\n\t\n\t\n16\nPublic Sector Capacity\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n16\nSocio-cultural aspects\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n17\nDiversity, Inclusion and Equality\t\n\t\n\t\n\t\n\t\n\t\n\t\n17\nGender Balance\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n17\nRural/urban gap\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n18\nPublic Engagement and Trust\t\t\n\t\n\t\n\t\n\t\n\t\n\t\n18\nEnvironmental and Sustainability Policies\t\n\t\n\t\n\t\n\t\n\t\n20\nHeath and Social Wellbeing\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n20\nCulture\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n21\nScientific and educational aspects\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n22\nResearch and innovation\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n22\nEducation\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n24\nAI Education Strategy\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n24\nEducation Infrastructure\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n25\nPublic Access to AI education\t\n\t\n\t\n\t\n\t\n\t\n\t\n25\n\niv\nEconomy\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n26\nEconomic Overview and Investments\t\t\n\t\n\t\n\t\n\t\n\t\n26\nLevel of Adoption\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n27\nTalent and Labor Market\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n27\nTechnology and infrastructure\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n28\nInfrastructure & Connectivity\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n28\nComputing Capabilities\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n29\nApplied Standards\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n30\nStatistical Performance\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n30\nOther Technological Concerns\t\n\t\n\t\n\t\n\t\n\t\n\t\n31\nDeveloping a national multi-stakeholder roadmap\t\n\t\n\t\n\t\n\t\n32\nConsultative workshops\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n33\nImmersive Session: Mapping Stakeholder Concerns\t\n\t\n\t\n\t\n\t\n33\nStakeholder Concerns About AI\t\n\t\n\t\n\t\n\t\n\t\n\t\n34\nStakeholder Strategies to Curb their Concerns\t\n\t\n\t\n\t\n\t\n36\nImmersive Session: Mapping Stakeholder Hopes and Expectations\t\n\t\n\t\n37\nAspirations and Expectations for AI\t \t\n\t\n\t\n\t\n\t\n\t\n37\nPolicy Recommendations\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n42\nRegulation\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n42\nUpdating AI Standards and Strategies\t\n\t\n\t\n\t\n\t\n\t\n\t\n42\nInvestment and Incentive Regimes for Implementing Standards \nand Active Preparation of Risks\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n43\nBalanced Approach to Regulation\t\n\t\n\t\n\t\n\t\n\t\n\t\n43\nInstitutional Framework\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n44\nThe creation of a National Agency for Artificial Intelligence\t\n\t\n\t\n\t\n44\nCoordination and Focused Strategy-Building between Research Institutions\t\n\t\n44\nStandardization for AI Adoption Measurement\t\n\t\n\t\n\t\n\t\n\t\n44\nCapacity Building\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n45\nEquitable Access to AI Education, Resources and Infrastructure\t\n\t\n\t\n\t\n45\nBias and Discrimination\t \t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n45\nCultural Representation and Preservation\t\n\t\n\t\n\t\n\t\n\t\n46\nUpskilling to Withstand Labor Disruption\t\t\n\t\n\t\n\t\n\t\n\t\n46\nAppendix\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n47\nAppendix 1. Questionnaire\t\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n47\nReferences\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n52\n\nv\nForeword\nThe Age of Artificial Intelligence is here. The world is now \nchanging at a pace not seen in decades, even centuries. \nAI-based tools and applications make our lives easier, \nsmoother, and richer. They help us move efficiently, get \ninformed, get credit, get a job, and get our taxes done. \nBut in its current form, AI reproduces and amplifies many \nof the social challenges we face. It is not acceptable \nthat around a third of the world’s population still lacks \nadequate internet access. Upstream, the AI industry is \nhighly concentrated, with just two countries – the United \nStates and China – and a dozen companies accounting for \na major share of the sector. This can lead only to greater \ninequality of outcomes – including gender disparities \n– downstream. Non-diverse AI teams, unrepresentative \ndatasets, and opaque and biased algorithms can cause \nharm, particularly to those who are already vulnerable, \nwhether companies or individuals, children and young \npeople, women, or entire democracies.\nThat is why UNESCO developed the Recommendation on the Ethics of Artificial Intelligence, \nto make sure the use of AI is based on the protection and promotion of human rights, \nhuman dignity, and environmental sustainability, and that these values are then translated \ninto principles such as accountability, transparency, and privacy. The Recommendation \nalso sets out concrete policy ac",
+  "recommendations": [
+    {
+      "number": 1,
+      "title": "Domisili Bpk/Ibu/Sdr - Your place of residence",
+      "text": "Domisili Bpk/Ibu/Sdr - Your place of residence",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 2,
+      "title": "Nama Institusi yang Bpk/Ibu/Sdr wakili - Name of the institution you represent",
+      "text": "Nama Institusi yang Bpk/Ibu/Sdr wakili - Name of the institution you represent",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 3,
+      "title": "Profesi atau pekerjaan Bpk/Ibu/Sdr adalah - Your profession or occupation a.",
+      "text": "Profesi atau pekerjaan Bpk/Ibu/Sdr adalah - Your profession or occupation a. Pejabat pemerintah - Government official b. Manajer/pimpinan perusahaan swasta - Manager/executive at a private company c. Founder atau karyawan di startup - Founder or employee at a startup d. Peneliti di Lembaga penelitian - Researcher at a research institute e. Dosen di perguruan tinggi - Lecturer at a university f. Data scientist g. Lainnya - Others (to fill in) : ……..",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 4,
+      "title": "Usia Bpk/Ibu/Sdr saat ini - Your current age a.",
+      "text": "Usia Bpk/Ibu/Sdr saat ini - Your current age a. 16-25 b. 26-35 c. 36-45 d. 46-55 e. 56-65 f. > 65",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 5,
+      "title": "Jenis Kelamin Bpk/Ibu/Sdr - Gender a.",
+      "text": "Jenis Kelamin Bpk/Ibu/Sdr - Gender a. Laki-laki - Male b. Perempuan - Female",
+      "dimension": "",
+      "start_page": 0
+    },
+    {
+      "number": 6,
+      "title": "Apakah perusahaan atau institusi dimana Bpk/Ibu/Sdr bekerja ada inisiatif terkait transformasi digi­ tal - Does the company or institution you work for have digital transformation initiatives? a.",
+      "text": "Apakah perusahaan atau institusi dimana Bpk/Ibu/Sdr bekerja ada inisiatif terkait transformasi digi­ tal - Does the company or institution you work for have digital transformation initiatives? a. Ada - Yes b. Tidak ada - No c. Lainnya : ……. Other answer",
+      "dimension": "Perempuan - Female",
+      "start_page": 0
+    },
+    {
+      "number": 7,
+      "title": "Berapa perkiraan belanja teknologi digital (perangkat lunak dan perangkat keras) per-tahun di peru­ sahaan/institusi Bpk/Ibu/Sdr - What is the...",
+      "text": "Berapa perkiraan belanja teknologi digital (perangkat lunak dan perangkat keras) per-tahun di peru­ sahaan/institusi Bpk/Ibu/Sdr - What is the estimated annual expenditure on digital technology (software and hardware) in your company/institution? (1 USD = ~15.000 IDR) a. 100-500 juta - IDR 100-500 million b. 500juta s/d 1 Milyar - IDR 500 million to 1 billion c. 1-10 Milyar - IDR 1-10 billion 48",
+      "dimension": "Perempuan - Female",
+      "start_page": 0
+    },
+    {
+      "number": 8,
+      "title": "Media sosial apa yang sering digunakan di perusahaan/institusi Bpk/Ibu/Sdr - What social media plat­ forms are frequently used in your company/institution? a.",
+      "text": "Media sosial apa yang sering digunakan di perusahaan/institusi Bpk/Ibu/Sdr - What social media plat­ forms are frequently used in your company/institution? a. Whatsapp b. Facebook c. Twitter (X) d. Telegram e. Lainnya …. - Other answer",
+      "dimension": "Perempuan - Female",
+      "start_page": 0
+    },
+    {
+      "number": 9,
+      "title": "Apakah di perusahaan/institusi Bpk/Ibu/Sdr ada bagian/unit yang mengelola sistem/teknologi informasi - Does your company/institution have a...",
+      "text": "Apakah di perusahaan/institusi Bpk/Ibu/Sdr ada bagian/unit yang mengelola sistem/teknologi informasi - Does your company/institution have a department/unit that manages information systems/ technology? a. Ada - Yes b. Tidak ada - No",
+      "dimension": "Perempuan - Female",
+      "start_page": 0
+    },
+    {
+      "number": 10,
+      "title": "Jenis aplikasi atau perangkat lunak yang digunakan di perusahaan/institusi Bpk/Ibu/Sdr (jawaban bisa lebih dari satu) - What types of applications or...",
+      "text": "Jenis aplikasi atau perangkat lunak yang digunakan di perusahaan/institusi Bpk/Ibu/Sdr (jawaban bisa lebih dari satu) - What types of applications or software are used in your company/institution (mul­ tiple answers possible)? a. Sistem informasi kepegawaian - employee management b. Sistem informasi logistik/pengadaan - procurement or logistics c. Sistem informasi keuangan - financial d. Sistem informasi lainnya : ………………………(sebutkan) - other uses",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 11,
+      "title": "Terkait dengan penggunaan sistem informasi (sistem informasi, database, e-mail, media sosial dll) apakah ada kebijakan dari perusahaan/institusi...",
+      "text": "Terkait dengan penggunaan sistem informasi (sistem informasi, database, e-mail, media sosial dll) apakah ada kebijakan dari perusahaan/institusi Bapak/Ibu/Sdr mengenai keamanan data pribadi - Regarding the use of information systems (information systems, databases, e-mail, social media, etc.), does your company/institution have policies regarding personal data security? a. Ada - Yes b. Tidak ada - No",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 12,
+      "title": "Terkait dengan penggunaan sistem informasi (sistem informasi, database, e-mail, media sosial dll) apakah ada kebijakan dari perusahaan/institusi...",
+      "text": "Terkait dengan penggunaan sistem informasi (sistem informasi, database, e-mail, media sosial dll) apakah ada kebijakan dari perusahaan/institusi Bapak/Ibu/Sdr mengenai keamanan data perusa­ haan/institusi - Regarding the use of information systems (information systems, databases, e-mail, social media, etc.), does your company/institution have policies regarding company/institutional data security? a. Ada - Yes b. Tidak ada - No",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 13,
+      "title": "Terkait dengan penggunaan sistem informasi (sistem informasi, database, e-mail, media sosial dll) apakah ada kebijakan dari perusahaan/institusi...",
+      "text": "Terkait dengan penggunaan sistem informasi (sistem informasi, database, e-mail, media sosial dll) apakah ada kebijakan dari perusahaan/institusi Bapak/Ibu/Sdr mengenai privasi data pribadi - Re­ garding the use of information systems (information systems, databases, e-mail, social media, etc.), does your company/institution have policies regarding personal data privacy? a. Ada - Yes b. Tidak ada - No",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 14,
+      "title": "Apakah perusahaan/institusi Bpk/Ibu/Sdr menggunakan atau melanggan aplikasi/perangkat lunak yang menggunakan (berbasis) kecerdasan artifisial...",
+      "text": "Apakah perusahaan/institusi Bpk/Ibu/Sdr menggunakan atau melanggan aplikasi/perangkat lunak yang menggunakan (berbasis) kecerdasan artifisial (AI-Artificial Intelligence), seperti misalnya (bisa salah satu) Microsoft Copilot, ChatGPT, Google Cloud AI Platform, Microsoft Azure Machine Learning Studio, AWS dan lainnya - Does your company/institution use or subscribe to AI-based applications/ software, such as (any of the following) Microsoft Copilot, ChatGPT, Google Cloud AI Platform, Microsoft Azure Machine Learning Studio, AWS, or others? a. Ya - Yes b. Tidak - No",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 15,
+      "title": "Apakah sistem informasi di perusahaan/institusi Bpk/Ibu/Sdr menggunakan kecerdasan artifisial untuk mendukung analisis data (data analytics) - Does...",
+      "text": "Apakah sistem informasi di perusahaan/institusi Bpk/Ibu/Sdr menggunakan kecerdasan artifisial untuk mendukung analisis data (data analytics) - Does the information system in your company/institu­ tion use AI to support data analytics? a. Ya - Yes b. Tidak - No",
+      "dimension": "Tidak - No",
+      "start_page": 0
+    },
+    {
+      "number": 16,
+      "title": "Selain aplikasi sebagaimana disebutkan pada Pertanyaan No.",
+      "text": "Selain aplikasi sebagaimana disebutkan pada Pertanyaan No. 15 dan 16 diatas, apakah perusahaan/ institusi Bapak/bu/Sdr memanfaatkan jenis aplikasi berbasis kecerdasan artifisial lainnya - Apart from the applications mentioned in Questions No. 10 and 11 above, does your company/institution utilize other AI-based applications? a. Ya - Yes b. Tidak - No",
+      "dimension": "Tidak - No",
+      "start_page": 0
+    },
+    {
+      "number": 17,
+      "title": "Bilamana perusahaan/institusi Bpk/Ibu/Sdr menggunakan atau melanggan aplikasi atau perangkat lunak berbasis kecerdasan artifisial, aplikasi atau...",
+      "text": "Bilamana perusahaan/institusi Bpk/Ibu/Sdr menggunakan atau melanggan aplikasi atau perangkat lunak berbasis kecerdasan artifisial, aplikasi atau perangkat lunak ini digunakan untuk (jawaban bisa 49 lebih dari satu) - If your company/institution uses or subscribes to AI-based applications or software, for what purposes are they used (multiple answers possible)? a. Mendukung pemasaran - Marketing Purposes b. Mendukung pembuatan konten untuk promosi perusahaan/institusi dalam bentuk doku­ men, audio, gambar/foto, video - Content creation c. Mendukung inspeksi kualitas produk - Product quality inspection d. Mendukung layanan pelanggan - Customer service e. Memprediksi permintaan produk dan/atau penjualan - Sales / demand prediction f. Mendukung analisis keuangan - Financial analysis g. Presensi kehadiran karyawan/pegawai - Employee management h. Lainnya : ………………………………………………………………………(mohon disebut­ kan)",
+      "dimension": "Tidak - No",
+      "start_page": 0
+    },
+    {
+      "number": 18,
+      "title": "Apakah karyawan/pegawai di perusahaan/institusi Bpk/Ibu/Sdr ada yang memanfaatkan ChatGPT/ Gemini/Copilot/Claude/Grok dan sejenisnya dalam membantu...",
+      "text": "Apakah karyawan/pegawai di perusahaan/institusi Bpk/Ibu/Sdr ada yang memanfaatkan ChatGPT/ Gemini/Copilot/Claude/Grok dan sejenisnya dalam membantu pekerjaan - Do employees in your company/institution use ChatGPT/Gemini/Copilot/Claude/Grok or similar tools to assist in their work? a. Ada - Yes b. Tidak ada - No",
+      "dimension": "Tidak - No",
+      "start_page": 0
+    },
+    {
+      "number": 19,
+      "title": "Apakah ada rencana pengadaan/melanggan perangkat lunak atau aplikasi berbasis kecerdasan artifisial di perusahaan/institusi Bpk/Ibu/Sdr dalam 5 tahun...",
+      "text": "Apakah ada rencana pengadaan/melanggan perangkat lunak atau aplikasi berbasis kecerdasan artifisial di perusahaan/institusi Bpk/Ibu/Sdr dalam 5 tahun kedepan? - Is there a plan to procure or subscribe to AI-based software or applications in your company/institution within the next 5 years? a. Ada - Yes b. Tidak ada - No",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 20,
+      "title": "Bila pada Pertanyaan No.",
+      "text": "Bila pada Pertanyaan No. 15 jawabannya adalah ada rencana pengadaan/melanggan, jenis perang­ kat lunak atau aplikasi yang akan diadakan/dilanggan adalah - If in Question No. 15 the answer is planning to procure/subscribe, what types of software or applications will be procured/subscribed to : a. ChatGPT, GPT-4o dan sejenisnya (and the like) b. Microsoft Copilot c. Perangkat lunak atau aplikasi khusus berbasis kecerdasan artifisial lainnya - other AI tools and software",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 21,
+      "title": "Berapa perkiraan belanja atau melanggan perangkat lunak atau aplikasi berbasis kecerdasan artifi­ sial di perusahaan/institusi per-tahun - What is...",
+      "text": "Berapa perkiraan belanja atau melanggan perangkat lunak atau aplikasi berbasis kecerdasan artifi­ sial di perusahaan/institusi per-tahun - What is the estimated annual expenditure on AI-based software or applications in your company/institution? (1 USD = ~15.000 IDR) a. Lebih kecil dari Rp. 100 juta - smaller than IDR 100 million b. Rp. 100 juta -200 juta - between 100-200 million c. Rp. 200 juta – 500 juta - between 200-500 million d. Lebih dari 500 juta - more than 500 million",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 22,
+      "title": "Berapa perkiraan anggaran yang ingin/sudah dikeluarkan institusi bapak ibu untuk me-riset peng­ gunaan AI untuk institusi ataupun melakukan riset AI...",
+      "text": "Berapa perkiraan anggaran yang ingin/sudah dikeluarkan institusi bapak ibu untuk me-riset peng­ gunaan AI untuk institusi ataupun melakukan riset AI sendiri? - What is the estimated budget that your institution wants/has allocated for AI research or conducting AI research in-house? (1 USD = ~15.000 IDR) a. Tidak ada anggaran khusus - no specific budget b. Lebih kecil dari Rp. 100 juta - smaller than IDR 100 million c. Rp. 100 juta -200 juta - between 100-200 million d. Rp. 200 juta – 500 juta - between 200-500 million e. Lebih dari 500 juta - more than 500 million",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 23,
+      "title": "Apakah pimpinan perusahaan/institusi Bpk/Ibu/Sdr menerapkan kebijakan khusus mengenai pe­ manfaatan perangkat lunak atau aplikasi berbasis kecerdasan...",
+      "text": "Apakah pimpinan perusahaan/institusi Bpk/Ibu/Sdr menerapkan kebijakan khusus mengenai pe­ manfaatan perangkat lunak atau aplikasi berbasis kecerdasan artifisial - Does the leadership of your company/institution have specific policies regarding the use of AI-based software or applications? a. Ada - Yes b. Tidak ada - No",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 24,
+      "title": "Bila pimpinan perusahaan/institusi Bpk/Ibu/Sdr memiliki kebijakan khusus mengenai pemanfaatan perangkat lunak atau aplikasi berbasis kecerdasan...",
+      "text": "Bila pimpinan perusahaan/institusi Bpk/Ibu/Sdr memiliki kebijakan khusus mengenai pemanfaatan perangkat lunak atau aplikasi berbasis kecerdasan artifisial, sejauh mana efektivitas kebijakan terse­ but - If your company’s/institution’s leadership has specific policies regarding the use of AI-based software or applications, how effective are these policies? a. Sangat efektif - very effective b. Cukup efektif - fairly effective c. Tidak efektif - not effective d. Tidak ada kebijakan khusus - no policy",
+      "dimension": "Tidak ada - No",
+      "start_page": 0
+    },
+    {
+      "number": 25,
+      "title": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai pemanfaatan aplikasi atau perangkat lunak berba­ 50 sis kecerdasan artifisial di perusahaan/institusi - What...",
+      "text": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai pemanfaatan aplikasi atau perangkat lunak berba­ 50 sis kecerdasan artifisial di perusahaan/institusi - What is your view on the use of AI-based software or applications in your company/institution? a. Sangat bermanfaat dalam mendukung pekerjaan - highly beneficial b. Cukup bermanfat dalam mendukung pekerjaan - fairly beneficial c. Tidak bermanfaat - not beneficial",
+      "dimension": "Tidak ada kebijakan khusus - no policy",
+      "start_page": 0
+    },
+    {
+      "number": 26,
+      "title": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai pemanfaatan aplikasi atau perangkat lunak berbasis kecerdasan artifisial di perusahaan/institusi dalam...",
+      "text": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai pemanfaatan aplikasi atau perangkat lunak berbasis kecerdasan artifisial di perusahaan/institusi dalam mendukung produktivitas - What is your view on the use of AI-based software or applications in your company/institution in supporting productivity? a. Sangat mendukung produktivitas perusahaan - Highly supportive of company productivity b. Cukup mendukung produktivitas perusahaan - Fairly supportive of company productivity c. Tidak mendukung produktivitas perusahaan - Not supportive of company productivity",
+      "dimension": "Tidak bermanfaat - not beneficial",
+      "start_page": 0
+    },
+    {
+      "number": 27,
+      "title": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai potensi aplikasi/teknologi berbasis kecerdasan artifi­ sial terkait bahaya yang dapat ditimbulkan - What is...",
+      "text": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai potensi aplikasi/teknologi berbasis kecerdasan artifi­ sial terkait bahaya yang dapat ditimbulkan - What is your view on the potential risks posed by AI-based applications/technologies? a. Membahayakan - Dangerous b. Netral (tergantung siapa yang memanfaatkan aplikasi/teknologi kecerdasan artifisial) - Neu­ tral depending who’s using c. Tidak membahayakan - Not harmful",
+      "dimension": "Tidak bermanfaat - not beneficial",
+      "start_page": 0
+    },
+    {
+      "number": 28,
+      "title": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai implikasi penggunaan aplikasi/teknologi berbasis kecerdasan artifisial terkait dengan ketenagakerjaan - What...",
+      "text": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai implikasi penggunaan aplikasi/teknologi berbasis kecerdasan artifisial terkait dengan ketenagakerjaan - What is your view on the implications of using AI-based applications/technologies on employment? a. Menggantikan pekerjaan manusia dengan mesin (AI) - replacing human jobs b. Mengurangi jumlah pekerjaan yang dilakukan secara manual oleh manusia - replacing man­ ual labor and tedious tasks only c. Tidak mengurangi pekerjaan yang dilakukan secara manual oleh manusia - has no impact to jobs",
+      "dimension": "Tidak membahayakan - Not harmful",
+      "start_page": 0
+    },
+    {
+      "number": 29,
+      "title": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai implikasi penggunaan aplikasi/teknologi berbasis ke­ cerdasan artifisial terkait kelompok minoritas - What...",
+      "text": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai implikasi penggunaan aplikasi/teknologi berbasis ke­ cerdasan artifisial terkait kelompok minoritas - What is your view on the implications of using AI-based applications/technologies on minority groups? a. Mendiskriminasi kelompok minoritas - Discriminative b. Bersifat netral (dapat mendiskriminasi kelompok minoritas dapat pula tidak mendiskrimina­ si kelompok minoritas) Neutral, can be both discriminative and not c. Tidak mendiskriminasi kelompok minoritas - Not Discriminative",
+      "dimension": "Tidak membahayakan - Not harmful",
+      "start_page": 0
+    },
+    {
+      "number": 30,
+      "title": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai implikasi penggunaan aplikasi/teknologi berbasis kecerdasan artifisial terhadap keamanan dan privasi data -...",
+      "text": "Bagaimana pandangan Bpk/Ibu/Sdr mengenai implikasi penggunaan aplikasi/teknologi berbasis kecerdasan artifisial terhadap keamanan dan privasi data - What is your view on the implications of using AI-based applications/technologies on data security and privacy? a. Melindungi keamanan dan privasi data - Protecting from risk b. Tidak melindungi keamanan dan privasi data - Not providing protection c. Bersifat netral terhadap keamanan dan privasi data - neutral Pertanyaan esai/isian",
+      "dimension": "Tidak mendiskriminasi kelompok minoritas - Not Discriminative",
+      "start_page": 0
+    },
+    {
+      "number": 31,
+      "title": "Apakah Bpk/Ibu/Sdr berencana melakukan perekrutan karyawan yang mempunyai keahlian terkait AI? (Ya/Tidak) - jika Ya - Does your company/institution...",
+      "text": "Apakah Bpk/Ibu/Sdr berencana melakukan perekrutan karyawan yang mempunyai keahlian terkait AI? (Ya/Tidak) - jika Ya - Does your company/institution plan to recruit employees with AI-related skills? (Yes/No) – if Yes: a. Sebutkan jumlah lowongan yang direncanakan akan dibuka - Specify the number of planned job openings b. Sebutkan nama posisi-posisi yang akan direkrut tersebut - Specify the job titles being recruit­ ed",
+      "dimension": "Tidak mendiskriminasi kelompok minoritas - Not Discriminative",
+      "start_page": 0
+    },
+    {
+      "number": 32,
+      "title": "Berapa (dalam persen) kira-kira karyawan/pegawai/anggota dalam institusi Bpk/Ibu/Sdr saat ini, yang sekiranya mempunyai kemampuan dalam bidang-bidang...",
+      "text": "Berapa (dalam persen) kira-kira karyawan/pegawai/anggota dalam institusi Bpk/Ibu/Sdr saat ini, yang sekiranya mempunyai kemampuan dalam bidang-bidang terkait AI (programming, data sci­ ence, signal processing, etc) - What percentage of employees/staff in your institution currently possess AI-related skills (programming, data science, signal processing, etc.)?",
+      "dimension": "Tidak mendiskriminasi kelompok minoritas - Not Discriminative",
+      "start_page": 0
+    },
+    {
+      "number": 33,
+      "title": "Apakah Bpk/Ibu/Sdr berencana mengadopsi AI dalam proses bisnis/pelayanan yang dilakukan oleh institusi Bpk/Ibu/Sdr? (Ya/Tidak) - jika Ya - Does your...",
+      "text": "Apakah Bpk/Ibu/Sdr berencana mengadopsi AI dalam proses bisnis/pelayanan yang dilakukan oleh institusi Bpk/Ibu/Sdr? (Ya/Tidak) - jika Ya - Does your company/institution plan to adopt AI in its busi­ ness processes/services? (Yes/No) – if Yes: a. Apa langkah yang Bapak/Ibu/Sdr gunakan untuk memitigasi potensi AI melakukan hal-hal yang harmful bagi pengguna/konsumen/bagian masyarakat yang Anda layani - What steps 51 are you taking to mitigate potential harm caused by AI to users/consumers/sections of society you serve? b. Apa langkah yang Bapak/Ibu/Sdr gunakan untuk memitigasi potensi AI mendiskriminasi kelompok-kelompok tertentu dalam penerapannya - What steps are you taking to mitigate potential AI discrimination against certain groups in its application? c. Apa langkah yang Bapak/Ibu/Sdr gunakan untuk memitigasi potensi AI menggantikan lapa­ ngan kerja karena otomasi - What steps are you taking to mitigate potential job replacement due to automation?",
+      "dimension": "Tidak mendiskriminasi kelompok minoritas - Not Discriminative",
+      "start_page": 0
+    },
+    {
+      "number": 34,
+      "title": "Apakah Bpk/Ibu/Sdr atau manajemen terkait sudah/sedang berencana melakukan upskilling bagi karyawan/pegawai/anggota dalam institusi Bpk/Ibu/Sdr saat...",
+      "text": "Apakah Bpk/Ibu/Sdr atau manajemen terkait sudah/sedang berencana melakukan upskilling bagi karyawan/pegawai/anggota dalam institusi Bpk/Ibu/Sdr saat ini keahlian terkait AI? (Ya/Tidak) - Jika Ya - Is your company/institution or management planning to upskill employees/staff in AI-related skills? (Yes/No): a. Sebutkan bentuk-bentuk inisiatif yang dilakukan - state the initiatives",
+      "dimension": "Tidak mendiskriminasi kelompok minoritas - Not Discriminative",
+      "start_page": 0
+    },
+    {
+      "number": 35,
+      "title": "Apakah Bpk/Ibu/Sdr mengetahui upaya-upaya pemerintah terkait adopsi teknologi AI? (Ya/Tidak) - Jika Ya - Are you aware of government efforts regarding AI technology adoption? (Yes/No) – if Yes: a.",
+      "text": "Apakah Bpk/Ibu/Sdr mengetahui upaya-upaya pemerintah terkait adopsi teknologi AI? (Ya/Tidak) - Jika Ya - Are you aware of government efforts regarding AI technology adoption? (Yes/No) – if Yes: a. Sebutkan bentuk upaya-upaya yang Bpk/Ibu/Sdr ketahui - state the initiatives you know b. Sebutkan opini Bpk/Ibu/Sdr terhatap upaya-upaya tersebut - express your opinions about the initiatives c. Menurut Bpk/Ibu/Sdr apa saja langkah-langkah yang perlu dilakukan pemerintah terkait adopsi teknologi AI - what are the steps the government needs to do in terms of AI adoption?",
+      "dimension": "Sebutkan bentuk-bentuk inisiatif yang dilakukan - state the initiatives",
+      "start_page": 0
+    },
+    {
+      "number": 36,
+      "title": "Apakah anda mengetahui tentang inisiatif AI Readiness Assessment Methodology oleh UNESCO? Jelaskan secara singkat pemahaman Anda - Are you aware of...",
+      "text": "Apakah anda mengetahui tentang inisiatif AI Readiness Assessment Methodology oleh UNESCO? Jelaskan secara singkat pemahaman Anda - Are you aware of UNESCO’s AI Readiness Assessment Meth­ odology initiative? Briefly explain your understanding",
+      "dimension": "Sebutkan bentuk-bentuk inisiatif yang dilakukan - state the initiatives",
+      "start_page": 0
+    },
+    {
+      "number": 37,
+      "title": "Secara umum, apa hal-hal yang anda harapkan dari pemerintah dalam meregulasi penggunaan AI di masyarakat - In general, what do you expect from the...",
+      "text": "Secara umum, apa hal-hal yang anda harapkan dari pemerintah dalam meregulasi penggunaan AI di masyarakat - In general, what do you expect from the government in regulating the use of AI in society? 52",
+      "dimension": "Sebutkan bentuk-bentuk inisiatif yang dilakukan - state the initiatives",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 37,
+  "page_count": 76,
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Legal and Regulatory Aspects In this section, the Report discusses the legal and regulatory aspects of AI adoption in Indonesia.",
+        "The regulatory framework around the general information technology sector in which AI is/will be deployed is crucial to ensuring the ethical deployment of AI systems.",
+        "The legal and regulatory framework should include effective mechanisms for safeguarding and upholding citizens’ rights, as well as monitoring, mitigating, and compensating for any unforeseen adverse outcomes resulting from the deployment of AI systems.",
+        "Examples of the legal framework include regulations concerning Artificial Intelligence, data protection and privacy, data sharing and accessibility, and freedom of information, among others.",
+        "AI-Specific Regulations IIn 2020, Indonesia marked a significant milestone by recognizing Artificial Intelligence (AI) as a formal business sector, with the introduction of Regulation KBLI 2020 by the Indonesian Statistics Bureau (BPS) and the enactment of Law No.",
+        "The following year, 2021, saw the establishment of AI stakeholders through the issuance of Ministerial Regulation No.",
+        "3/2021 by the Ministry of Communication and Informatics (Kemenkominfo) (Kementerian Kominfo, 2021), designating it as the governing body for emerging technologies such as AI, Blockchain, and IoT, and the implementation of Government Regulation No.",
+        "5/2021, designating AI risks as a ‘medium to low’ level of risks in the national priority (Pemerintah Indonesia, 2021)."
+      ],
+      "strengths": [
+        "In 2022, the focus shifted to evaluating the risk scale for AI through a comprehensive assessment of norms, standards, procedures and criteria, which were transformed into the issuance of Ministerial Circular Letter No.",
+        "Together, these principles aim to create a comprehensive framework for responsible and ethical AI deployment across Indonesia.",
+        "The current law enacted for the Kemenkominfo also is in the process of developing regulation for electronic system organizers (PSE) in the government/public sphere.",
+        "Additionally, the Minister of Health has established SATUSEHAT as a platform integrating nationwide healthcare data, as outlined in Minister of Health Decree Number HK.01.07/ MENKES/133/2023.",
+        "We found Bali has embraced digital and information technology to capture and preserve its rich cultural heritage in innovative ways."
+      ],
+      "gaps": [
+        "The letter outlines the need for ethical guidelines to ensure that AI development is inclusive, transparent, and respects human rights.",
+        "Additionally, the strategy highlights the need to harmonize regulations and policies across various government bodies.",
+        "With at least 12 ministries and agencies involved in AI development, along with additional ministries overseeing industry-specific sectors, there is a critical need for frequent and intense collaboration to ensure that AI-related regulations and policies are consistently aligned across all governmen",
+        "In alignment with the need for harmonization across government bodies, the national strategy outlines the necessity for at least four types of regulations regarding AI.",
+        "It must be noted, however, that at the time of the national strategy’s formulation in 2020, generative AI technology had not reached the level of development and adoption it has today.",
+        "Although the Personal Data Protection Law (UU PDP) does not explicitly mention the word “privacy” nor specifically regulates privacy and family life in particular, it does provide protections for personal data and safeguards for personal data subjects.",
+        "However, Indonesia has other regulations that address privacy, including: 1.",
+        "We have to remember, however, that the GCI data, taken in 2020, hasn’t taken into account the recent high-profile data leakages from government agencies, including the national data center ransomware incident that paralyzed many public services - that might affect the country’s rating in upcoming as",
+        "And we found that a majority still thinks that AI adoption is neutral in affecting the country’s data privacy and security (50.5%), but a significant portion of respondents (21.7%) noted that AI poses a risk towards data privacy and security, as the adoption in itself does not provide a protective m",
+        "However, AI is already designated as a formal business sector according to KBLI (Klasifikasi Baku Layanan Usaha) in 2020, and is regulated through the country’s regulation for electronic system organizers (PSE) (Kementerian Kominfo, 2020)."
+      ],
+      "key_stats": [
+        {
+          "stat": "27.8%\nProtective of risk\nRisk of Sec",
+          "context": "uation of the law’s effectiveness has not been carried out yet. Opens up risk Neutral 50.5% 21.7% 27.8% Protective of risk Risk of Security and Data Privacy Attitude of stakeholders in assessing AI as",
+          "value": 27.8,
+          "unit": "%"
+        },
+        {
+          "stat": "12.39% of women have graduated from STEM",
+          "context": "ion, particularly in STEM fields, present an opportunity for targeted support. The data shows that 12.39% of women have graduated from STEM programs, in contrast to 26.91% of men. The share of female ",
+          "value": 12.39,
+          "unit": "%"
+        },
+        {
+          "stat": "26.91% of men",
+          "context": "ted support. The data shows that 12.39% of women have graduated from STEM programs, in contrast to 26.91% of men. The share of female STEM graduates, based on ILO’s publication in 2022, is at 38%, but",
+          "value": 26.91,
+          "unit": "%"
+        },
+        {
+          "stat": "80.6% of households in rural areas have",
+          "context": "people using the internet in Indonesia is 66.5%, slightly above ITU’s global percentage of 64.4%. 80.6% of households in rural areas have access to the internet, while 90.9% of households in urban are",
+          "value": 80.6,
+          "unit": "%"
+        },
+        {
+          "stat": "90.9% of households in urban areas have",
+          "context": "global percentage of 64.4%. 80.6% of households in rural areas have access to the internet, while 90.9% of households in urban areas have access to the internet. In terms of percentage of people using",
+          "value": 90.9,
+          "unit": "%"
+        },
+        {
+          "stat": "56% of people use the internet in \nru",
+          "context": "ave access to the internet. In terms of percentage of people using the internet, the gap is wider: 56% of people use the internet in rural areas while 74% of people use the internet in urban areas. In",
+          "value": 56.0,
+          "unit": "%"
+        },
+        {
+          "stat": "74% of people use the internet in urb",
+          "context": "f people using the internet, the gap is wider: 56% of people use the internet in rural areas while 74% of people use the internet in urban areas. Indonesia ranks 46th globally and 11th among the 22 co",
+          "value": 74.0,
+          "unit": "%"
+        },
+        {
+          "stat": "6.18% is above the global percentage",
+          "context": "ility - the percentage of internet-related spending versus the gross national income, Indonesia’s 6.18% is above the global percentage of around 2%. ### Page 36 19 Public Engagement and Trust A nation",
+          "value": 6.18,
+          "unit": "%"
+        },
+        {
+          "stat": "28.8%\nNot beneficial",
+          "context": "ut AI’s full potential. • Only minimal skepticism towards AI’s overall role. Somewhat beneficial 28.8% Not beneficial 1.6% Impact on jobs and the economy Reduces manual labor (positive impact) 79.9% •",
+          "value": 28.8,
+          "unit": "%"
+        },
+        {
+          "stat": "1.6%\nImpact on jobs and \nthe econom",
+          "context": "al. • Only minimal skepticism towards AI’s overall role. Somewhat beneficial 28.8% Not beneficial 1.6% Impact on jobs and the economy Reduces manual labor (positive impact) 79.9% • Generally positive ",
+          "value": 1.6,
+          "unit": "%"
+        },
+        {
+          "stat": "12.0%\nDoes not cause job \nreduction",
+          "context": "es. • A few sees that natural coexistence will happen. Replaces existing jobs (negative impact) 12.0% Does not cause job reduction / neutral impact 8.1% Perceived risk for discrimination Neutral 78.6%",
+          "value": 12.0,
+          "unit": "%"
+        },
+        {
+          "stat": "8.1%\nPerceived risk for \ndiscrimina",
+          "context": "en. Replaces existing jobs (negative impact) 12.0% Does not cause job reduction / neutral impact 8.1% Perceived risk for discrimination Neutral 78.6% In terms of risks like discrimination or harm, a l",
+          "value": 8.1,
+          "unit": "%"
+        },
+        {
+          "stat": "78.6%\nIn terms of risks like \ndiscri",
+          "context": ".0% Does not cause job reduction / neutral impact 8.1% Perceived risk for discrimination Neutral 78.6% In terms of risks like discrimination or harm, a large majority of people still deem AI to be neu",
+          "value": 78.6,
+          "unit": "%"
+        },
+        {
+          "stat": "13.9%\nDoes discriminate",
+          "context": "neutral. Only a few that sees AI that it is a serious risk to be mitigated Does not discriminate 13.9% Does discriminate 7.4% Perceived risk for danger and harm Neutral 89.0% Dangerous 6.1% Does not p",
+          "value": 13.9,
+          "unit": "%"
+        },
+        {
+          "stat": "7.4%\nPerceived risk for \ndanger and",
+          "context": "t sees AI that it is a serious risk to be mitigated Does not discriminate 13.9% Does discriminate 7.4% Perceived risk for danger and harm Neutral 89.0% Dangerous 6.1% Does not pose danger 4.9% The gov",
+          "value": 7.4,
+          "unit": "%"
+        }
+      ],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [
+        "Scientific and Educational Aspects In this section, the scientific and educational dimensions supporting AI adoption in Indonesia will be discussed.",
+        "Given that the scientific and educational components significantly contribute to the advancement of AI, evaluating them becomes a pertinent method to assess a country’s readiness for AI development.",
+        "The scientific aspect is gauged by the country’s performance in research and innovation (R&I), comprising research and development (R&D) expenditure, research output, ethical AI research and AI talent innovation output.",
+        "Conversely, the educational aspect is assessed through the country’s performance in educational aspects such as educational strategy, educational infrastructure, curriculum content, educational attainment and public access to AI education.",
+        "Based on OECD data Indonesian researchers published more than 25 thousand research papers around AI in 2023, and the numbers are steadily increasing since the early 2000s.",
+        "Key universities like Universitas Indonesia, Institut Teknologi Bandung, Institut Pertanian Bogor, Institut Teknologi Sepuluh Nopember, Universitas Gadjah Mada, and research institutions like Badan Riset dan Inovasi Nasional (BRIN), has contributed in research fields such as NLP, speech processing, ",
+        "These AI research topics are then applied in various fields/industries/sectors such as healthcare, transportation, agriculture and livestock, banking, tourism, disaster management, the creative industry, and other public sectors.",
+        "A search into Google Scholar with the term ‘Etika AI’ shows 47,700 articles of research around Ethics and AI in Indonesia, but most of it consists of literature reviews and opinion-based readings of Indonesian AI adoption."
+      ],
+      "strengths": [
+        "The Directorate General of Higher Education has launched a program called Pusat Unggulan Iptek Perguruan Tinggi (PUI-PT), or Center of Excellence for Science and Technology, aimed at fostering research and innovation within selected institutions (Ridwan et al., 2021).",
+        "Several Centers of Excellence, particularly from leading universities such as Institut Teknologi Bandung and Institut Teknologi Sepuluh Nopember, have been at the forefront of advancing research and innovation in the field of AI.",
+        "To further enhance the synergy between universities and industries in driving research and innovation, the Ministry of Education, Culture, Research, and Technology (MoECRT) launched the Kedaireka program, along with its digital platform, which serves as a hub for facilitating collaborative research ",
+        "To keep pace with the rapid advancement of AI, six universities, in collaboration with the Directorate General, have established AI-specific study programs as per 2024: Institut Teknologi Sepuluh Nopember, Universitas Airlangga, Universitas Bina Nusantara, Universitas Syiah Kuala, Universitas Gadjah",
+        "Source: Data from the Directorate General of Higher Education, Research, and Technology In light of advancements in Generative AI, the Directorate General of Higher Education, Research and Technology has launched a guideline for the nationwide use of Generative AI in higher education.",
+        "Indonesia has achieved significant progress in attracting investments to the AI sector.",
+        "In 2018, the Ministry of Communication and Information Technology (Kemenkominfo) launched the Digital Talent Scholarship (Badan Pengembangan SDM Kominfo, n.d.).",
+        "This comprehensive training program equips young Indonesian professionals, the general public, and civil servants in the ICT sector with the necessary skills and expertise, including those related to AI.",
+        "Indonesia also has a robust program to reskill millions of unemployed nationals with digital skills including AI (Purbasari, et al., 2022), and an out-of-campus internship program that has enabled thousands of university students to intern in various AI-related and digital companies (Suparman, 2024)",
+        "Infrastructure & Connectivity Connectivity is key to ensure people have equitable access to advanced technologies."
+      ],
+      "gaps": [
+        "AI research papers published by Indonesian researchers in the last 23 years Despite the low research expenditure, activity in the AI research space is growing.",
+        "However, the majority were affiliated with institutions outside of Indonesia at the time of publication.",
+        "Indonesia also has no known researcher that publishes in top AI ethics publication spaces like FaccT and AIES, some indication that research around the topic needs to be further improved in the future.",
+        "This platform aims to bridge the gap between academic institutions and industry partners by providing a space for knowledge exchange and joint innovation projects.",
+        "The Ministry of Education and Culture and Research and Technology, however, has undergone many steps to catch up on this matter.",
+        "However, a significant portion of those who have not used AI are public or government institutions, signaling potential growth areas.",
+        "Other Technological concerns Cybersecurity is one of the challenges still haunting Indonesia for proper AI adoption: the recent ransomware case in the government-owned national data center (PDN) (Teresia, 2024), taking hostage a significant share of the government’s most critical public service data",
+        "The US’s International Trade Administration has noted that the country’s lack of cybersecurity talents is hampering Indonesia’s digital ambition (International Trade Administration, 2023).",
+        "Democratization and Equity: This cluster emphasizes the need for AI democratization, ensuring that AI benefits are accessible to all, not just a select few."
+      ],
+      "key_stats": [
+        {
+          "stat": "2% and behind regional neighbors",
+          "context": "million dollars yearly from their budget on R&D. This is still under the global average of around 2% and behind regional neighbors Singapore, Malaysia, Thailand and Vietnam. While the number has incre",
+          "value": 2.0,
+          "unit": "%"
+        },
+        {
+          "stat": "80% of research spending",
+          "context": "to the rise in R&D spending in Asia Pacific in the last 4 years. The government contributes up to 80% of research spending, while industry contribution is less than 20% (Humas Sekretariat Kabinet Repu",
+          "value": 80.0,
+          "unit": "%"
+        },
+        {
+          "stat": "84.08% \nand",
+          "context": "primary schools and secondary schools with access to the internet for pedagogical purposes has hit 84.08% and 92.8% respectively, and the proportion of secondary schools with access to computers has r",
+          "value": 84.08,
+          "unit": "%"
+        },
+        {
+          "stat": "92.8% respectively",
+          "context": "ols and secondary schools with access to the internet for pedagogical purposes has hit 84.08% and 92.8% respectively, and the proportion of secondary schools with access to computers has reached 94.6%",
+          "value": 92.8,
+          "unit": "%"
+        },
+        {
+          "stat": "100% proportion on these metrics",
+          "context": "omputers has reached 94.6%. For reference, regional neighbor Singapore, has succeeded in ensuring 100% proportion on these metrics. The Ministry of Education and Culture and Research and Technology, h",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "40% share",
+          "context": "ion - in addition to having the biggest share of the digital economy in the Southeast Asia region (40% share). The aforementioned unicorns employ AI and machine learning to its millions of users in In",
+          "value": 40.0,
+          "unit": "%"
+        },
+        {
+          "stat": "75.6% of institutions reporting active",
+          "context": "elligence (AI) across various institutions shows a positive trend. AI adoption is widespread, with 75.6% of institutions reporting active use of AI technologies. However, a significant portion of thos",
+          "value": 75.6,
+          "unit": "%"
+        },
+        {
+          "stat": "63.4% of respondents report that AI \nsi",
+          "context": "boom, as an entry point into AI adoption. In terms of productivity, the impact is also pronounced. 63.4% of respondents report that AI significantly enhances productivity, with an additional 34.3% not",
+          "value": 63.4,
+          "unit": "%"
+        },
+        {
+          "stat": "34.3% noting a moderate increase",
+          "context": "unced. 63.4% of respondents report that AI significantly enhances productivity, with an additional 34.3% noting a moderate increase. Only 13.7% perceive no productivity gains from AI implementation. O",
+          "value": 34.3,
+          "unit": "%"
+        },
+        {
+          "stat": "13.7% perceive no productivity gains",
+          "context": "AI significantly enhances productivity, with an additional 34.3% noting a moderate increase. Only 13.7% perceive no productivity gains from AI implementation. On future outlooks, institutions are gear",
+          "value": 13.7,
+          "unit": "%"
+        },
+        {
+          "stat": "64.7% planning \nto procure AI techno",
+          "context": "AI implementation. On future outlooks, institutions are gearing up for deeper AI integration, with 64.7% planning to procure AI technologies. This future investment is split equally between domestic a",
+          "value": 64.7,
+          "unit": "%"
+        },
+        {
+          "stat": "30.9% of institutions aiming to hire sp",
+          "context": "mestic solutions emphasizing tailored software. The demand for AI talent is also on the rise, with 30.9% of institutions aiming to hire specialists. Moreover, over half of the respondents (55.9%) plan",
+          "value": 30.9,
+          "unit": "%"
+        },
+        {
+          "stat": "30.9% of respondents in a survey conduc",
+          "context": "ecting a strategic shift toward AI-driven operations. Talent and Labor Market As mentioned before, 30.9% of respondents in a survey conducted for this report indicate a plan to hire employees with AI-",
+          "value": 30.9,
+          "unit": "%"
+        },
+        {
+          "stat": "116% year",
+          "context": "ions and HR are expressed. In terms of talent development, Indonesia has demonstrated a remarkable 116% year-over- year (YoY) increase in Professional Certificate enrollments on Coursera, reflecting a",
+          "value": 116.0,
+          "unit": "%"
+        },
+        {
+          "stat": "40% of technology training \nprograms",
+          "context": "ticularly evident in the growing interest in AI and big data, which are projected to comprise over 40% of technology training programs in Indonesia over the next five years. This trend underscores the",
+          "value": 40.0,
+          "unit": "%"
+        }
+      ]
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "economic disparities that AI might exacerbate and developing policies that limit AI’s negative impacts, such as privacy violations or job displacement.",
+        "Strategies include fostering public understanding of AI’s potential risks and benefits, promoting ethical AI usage practices, and encouraging responsible AI innovation.",
+        "By cultivating a well-informed society, these measures aim to prevent misuse and enhance public trust in AI technologies.",
+        "Envisioning Future Growth Participants will begin by imagining how their businesses or institutions will positively evolve over the next 10 years due to AI adoption.",
+        "This exercise helps identify the specific needs and desires stakeholders have concerning AI and its role in their future success.",
+        "This step is crucial for set­ ting public priorities and understanding what investments are necessary to fulfill the collective needs and desires for AI in Indonesia.",
+        "This exercise helps clarify the priority and urgency of the necessary investments, giving insight into what actions should be taken first to ensure the desired AI-driv­ en outcomes.",
+        "Showcase and Sharing A roundtable discussion will follow, where participants share their ‘AI dream’ and the top five priority actions they identified."
+      ],
+      "strengths": [
+        "Comprehensive risk assessments and contingency planning are crucial to managing AI-related challenges.",
+        " Regulation and Implementation Stakeholders urge the government to create comprehensive AI regulations covering ethical, legal, and operational aspects, backed by strong enforcement and sanctions for compliance.",
+        "Research and Innovation Stakeholders want universities and research institutions to lead in cutting-edge AI research, develop innovative solutions, and publish findings that address societal challenges.",
+        "Additionally, businesses are expected to invest in infrastructure like high-performance computing, secure data storage, and advanced AI tools to ensure seamless AI integration and maintain competitiveness in the global market.",
+        "(ASEAN, 2024; Department for Science, Innovation and Technology & AI Safety Institute, 2024; UN AI Advisory Body, 2023; OECD, 2024) Adherence to global benchmarks and standards would ensure that future regulations in Indonesia that will refer to the circular letter for standards will be comprehensiv",
+        "We established in the previous chapters that Indonesia still has some way to go to close the gaps between gender uses of key technology and variances between urban centers and more outlying regions."
+      ],
+      "gaps": [
+        "Public Awareness and Responsible Usage: Finally, the need for public awareness and responsible AI usage is highlighted.",
+        "This section of the session aims to map out stakeholder’s expectations of other stakeholders and, in turn, create a collective understanding of the roles each stakeholder needs to play for optimum AI adoption.",
+        "They also emphasized the need for targeted support for human capital and SMEs to boost AI adoption across sectors.",
+        "Collaboration and Government Support Collaboration is essential for AI adoption, with academia expected to work with industry, government, and other institutions to highlight AI use cases and bridge the gap between research and practical application.",
+        "If such resources do not already exist, academia is also expected to inform urgency and execute the research needed to develop them.",
+        "This ensures that all stakeholders have the support they need for effective AI adoption.",
+        "However, this should not lead to rushed or overly restrictive legislation that risks hindering innovation or infringing on human rights.The government should adopt a balanced approach such as these steps:  Proportionate Regulation: Tailor rules to the risk level of AI applications: • High-risk AI (",
+        "After addressing the literacy issue, the government, academia, civil society organizations, private sectors, and the media should work hand-in-hand to ensure the bias and discrimination risk does not materialize in the forms of actions such as:  Providing guidelines and norms to ensure inclusive AI"
+      ],
+      "key_stats": [
+        {
+          "stat": "44\nInstitution",
+          "context": "an also minimize the risk of law abuse and misuse as mentioned in the first chapter. ### Page 61 44 Institutional Framework The Creation of a National Agency for Artificial Intelligence To support the"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "CVPR Conference on Computer Vision and Pattern Recognition Konferensi tentang Visi Komputer dan Pengenalan Pola An annual conference on computer vision and pattern recognition, widely considered one of the most important events in its field.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The regulatory framework around the general information technology sector in which AI is/will be deployed is crucial to ensuring the ethical deployment of AI systems.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "National Strategy on AI As mentioned in the previous section, Indonesia has developed a national AI strategy, upon consultation with diverse stakeholders from different backgrounds, that outlines priorities and critical points to follow up for Indonesia’s AI adoption.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Such ‘deepfake’ images and videos are thought to have been deployed in several national elections over recent months to defame political opponents, with potentially significant impact, but there is currently not much scientific evidence about the impact of such campaigns.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Aside from that mention, Indonesia currently has no specific environmental or sustainability regulations regarding AI but plans for developing green data centers are trending in the public and private sector: the government’s own Pusat Data Nasional (PDN - National Data Center) in Cikarang is built to be a green data center, meanwhile industry players have committed to build green data centers of their own.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "The agency’s effort in leveraging AI to identify and monitor the vitality of these Indigenous languages is recognized internationally: Professor Aziz is featured in the recent Time 100 Most Influential People in AI through his efforts (de Guzman, 2024).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Computer technology is also being deployed to preserve other cultural heritages, like the Batik, the Indonesian technique of wax-resist dyeing applied to the whole cloth.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "The Directorate General of Higher Education has launched a program called Pusat Unggulan Iptek Perguruan Tinggi (PUI-PT), or Center of Excellence for Science and Technology, aimed at fostering research and innovation within selected institutions (Ridwan et al., 2021).",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "Source: Data from the Directorate General of Higher Education, Research, and Technology In light of advancements in Generative AI, the Directorate General of Higher Education, Research and Technology has launched a guideline for the nationwide use of Generative AI in higher education.",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "This guideline aims to assist academics across Indonesia in implementing policies that ensure the ethical and responsible use of Generative AI, (Kusumawardani et al., 2024).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The economic dimension considers relevant aspects within the ecosystem in which AI systems are developed and deployed, such as those related to the labor market, intermediate consumption and investment and production for AI.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "The dynamism and qualification level of the labor market, along with the level of spending on intermediate consumption and investment and production, are crucial aspects for evaluating the performance and readiness of the specific ecosystems in which AI is deployed.",
+      "dimension": "economic"
+    },
+    {
+      "achievement": "This reflects a growing recognition of the importance of AI expertise within various organizations.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "This exercise helps clarify the priority and urgency of the necessary investments, giving insight into what actions should be taken first to ensure the desired AI-driv­ en outcomes.",
+      "dimension": "economic"
+    }
+  ],
+  "key_numbers": [],
+  "rankings_indices": [
+    {
+      "context": "Indonesia has a relatively high position in the Open Data Inventory: it ranks 26th worldwide with a 71 overall score (67 for Coverage and 75 for Openness) - only second to Singapore in the Southeast Asia region.",
+      "index_name": "osi",
+      "rank": 26
+    },
+    {
+      "context": "Indonesia ranks 46th globally and 11th among the 22 countries of Asia in the Economist’s Inclusive Internet Index.",
+      "index_name": "Inclusive Internet Index",
+      "rank": 46
+    },
+    {
+      "context": "Based on the UN’s 2024 e-Government Development Index, Indonesia (with a score of 0.7945) was ranked 35th in the world in terms of e-Participation, which describes how the government leverages online platforms to include their citizens in policymaking processes, showing there’s a good deal of effort being thrown in the domain.",
+      "index_name": "e-Government Development Index",
+      "rank": 35,
+      "score": 0.7945,
+      "year": 2024
+    },
+    {
+      "context": "The nation’s Online Services Index (with a score of 0.8031), which measures the quality of delivery of public service through online means, experienced a huge growth over the last 4 years (Indonesia previously scored 0.68 in 2020 and currently scored above world and regional average).",
+      "index_name": "Online Services Index",
+      "score": 0.8031,
+      "year": 2020
+    }
+  ]
+}

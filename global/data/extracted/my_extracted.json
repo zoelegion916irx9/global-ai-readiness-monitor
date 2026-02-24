@@ -1,0 +1,402 @@
+{
+  "country_code": "MY",
+  "country_name": "MALAYSIA",
+  "language": "en",
+  "metadata": {
+    "page_count": 110,
+    "creation_date": "D:20250909134143+07'00'",
+    "modification_date": "D:20250923165358+02'00'",
+    "country_name": "MALAYSIA",
+    "language": "en"
+  },
+  "chapters": [],
+  "dimensions": {},
+  "structured_dimensions": {
+    "legal_regulatory": {
+      "title": "Legal and Regulatory",
+      "findings": [
+        "Legal & Regulatory Malaysia is actively exploring the foundation of its AI legal and regulatory landscape through the development of sector-specific regulations, and mechanisms for AI local content ownership and intellectual property protection.",
+        "At the implementation stage, efforts are underway to introduce sector codes of ethics, conduct AI risk and impact assessments, and enforce sector-specific regulations, particularly around cybersecurity and data protection.",
+        "As Malaysia moves toward enhancement, the focus is on institutionalizing responsible AI through compliance-driven governance, strengthening cross-agency collaboration, and building public trust in AI systems.",
+        "Socio-Cultural In the socio-cultural dimension, Malaysia is currently exploring how to integrate cultural and heritage considerations into AI governance and ethics.",
+        "Implementation efforts are visible through initiatives that focus on AI workforce readiness and skill matching to ensure that AI deployment aligns with societal and workforce needs.",
+        "Moving into the enhancement stage, the development of AI fundamental and applied curricula, along with certified professional training, marks progress toward embedding socio-cultural relevance and ethical awareness into AI education and practice.",
+        "Education & Capacity Building Malaysia’s AI education and capacity building efforts are in the exploratory phase with the identification of AI leaders and champions across sectors and the conceptualization of a systematic support system for talent mobility.",
+        "Implementation has progressed through curriculum review processes, targeted upskilling initiatives based on socio-economic needs, and standardization of TVET (Technical and Vocational Education and Training) frameworks to align with AI competencies."
+      ],
+      "strengths": [
+        "At the enhancement level, Malaysia is investing in the development of advanced, market-driven AI curricula and expanding the pipeline of certified trainers to ensure the workforce is future-ready.",
+        "Technology & Infrastructure While the exploration phase is not explicitly outlined, Malaysia has made notable strides in the implementation of technology and infrastructure initiatives.",
+        "At the enhancement stage, efforts are now directed toward establishing robust data governance frameworks to ensure secure, ethical, and efficient data usage in support of scalable and sustainable AI deployment across sectors."
+      ],
+      "gaps": [
+        "While this remains a nascent area, it reflects awareness of the need to localize AI principles within Malaysia’s diverse society.",
+        "However, there is currently limited progress in implementation and enhancement, indicating a gap in strategic investment mechanisms and ecosystem-wide economic support.",
+        "Bridging this gap will be essential to enable Malaysia’s AI-driven economic transformation and ensure that domestic enterprises can thrive in the global AI landscape."
+      ],
+      "key_stats": [],
+      "regulations": []
+    },
+    "social_cultural": {
+      "title": "Social and Cultural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "scientific_educational": {
+      "title": "Scientific and Educational",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    },
+    "economic": {
+      "title": "Economic",
+      "findings": [
+        "AI integration is expected to benefit all 10 socio-economic sectors.",
+        "Each sector is tasked with developing or adopting AI strategies, guidelines, ethical codes, and regulations.",
+        "Figure 1: Interrelation between Socio-Economic Drivers and Science and Technology Driver (Source: 10-10 MySTIE Framework) ### Page 20 2 Recognizing the impact and benefits of AI on national growth, the government, through the Ministry of Science, Technology, and Innovation (MOSTI), has developed the",
+        "This key strategic document also highlights the potential risks that AI may impose.",
+        "Accordingly, it has integrated the UNESCO Recommendations on the Ethics of AI into the Malaysian National AI Roadmap 2021–2025.",
+        "These guidelines provide a framework to ensure ethical AI practices across all stakeholders.",
+        "The Malaysian government also ensures transparency by informing the public about the use of AI in public services.",
+        "For instance, the Ministry of Communications has actively engaged the media to highlight efforts to adopt AI technologies across ministries and agencies to enhance public services (Astro Awani, 9 July 2024)."
+      ],
+      "strengths": [
+        "Agriculture and Forestry Across these sectors, Malaysia has identified 10 Science and Technology (S&T) Drivers, including Advanced Intelligent Systems, of which Artificial Intelligence (AI) is a core component as explained in Figure 1.",
+        "This roadmap reflects Malaysia’s commitment to responsible AI by adopting seven AI principles, further detailed in the National Guidelines on AI Governance and Ethics (AIGE), launched in 2024.",
+        "To this end, the Secretary-General of MOSTI established an AI Governance Structure, consisting of a Steering Committee, a Technical Committee, and five Working Committees on Governance, Legal and Ethics (Working Group 1), Collaboration, Enabler and Innovation Hub (Working Group 2), Talent Developmen",
+        "Many sectors namely Business and Finance Service, Education, Medical and Healthcare, Smart Technology and systems, Energy, Transportation, Agriculture and the Public Transportation, Agriculture and Public Sector have adopted and operated AI systems in Malaysia.",
+        " Dependency on imported AI solutions, leading to fewer local use cases.",
+        "The Malaysian National AI Office (NAIO), established on 28th August by the government of Malaysia, seeks to accelerate AI adoption, foster innovation, and ensure ethical development of artificial intelligence.",
+        "The government has established the National AI Office (NAIO) under the Ministry of Digital to implement and coordinate all matters related to AI governance and ethics.",
+        "Launched on 12th December 2024, the NAIO prioritized four sectors namely agriculture, medical and healthcare, transportation and education, as well as the public sector.",
+        "2.1 AI Policy and Regulation Malaysia’s comprehensive national AI strategy underscores the role of AI in driving the country’s development, National Artificial Intelligence Roadmap (AI-RMap) 2021– 2025 by the Ministry of Science, Technology, and Innovation (MOSTI), introduced in August 2022.",
+        "Having developed the AI-RMap as the main AI strategy document, MOSTI has adopted the Quadruple Helix model by engaging stakeholders from government, academia, industry, and civil society across various sectors, as well as local and international experts."
+      ],
+      "gaps": [
+        "Key challenges include:  Limited technical expertise and resources.",
+        " The absence of a dedicated regulatory framework.",
+        " The need to harmonize AI governance with existing sectoral laws.",
+        "2.3 Data Sharing and Accessibility Despite not officially signing the international Open Data Charter, Malaysia has made significant strides in embracing open data practices.",
+        "While Malaysia’s frameworks exhibit a strong structure and public good orientation, they lack enforceable legislation, which impacts their consistent application.",
+        "However, challenges remain: datasets are not consistently updated, some are incomplete, and public awareness of their potential uses is limited.",
+        "UNEGDI’s 2024 assessment, for instance, reported a decline in Malaysia’s E-Government Index (from 53rd to 57th) and E-Participation Index (from 47th to 53rd), signalling the need for enhanced governance and engagement strategies.",
+        "However, the frameworks focus primarily on intra-governmental data sharing and localized efforts.",
+        "Cross-border data sharing remains limited due to regulatory differences and data sovereignty concerns.",
+        "2.4 Procurement Laws and Policies Malaysia currently lacks specific laws or policies exclusively governing the procurement of artificial intelligence (AI) systems or products and services that incorporate AI components."
+      ],
+      "key_stats": [
+        {
+          "stat": "78.6% of Malaysia",
+          "context": "ub.  The Johor State Government Johor is emerging as a major AI-powered data centre hub, housing 78.6% of Malaysia’s IT capacity and expected to surpass 1GW in data centre capacity. The state priorit",
+          "value": 78.6,
+          "unit": "%"
+        },
+        {
+          "stat": "72% of Malaysians \nexpress trust in g",
+          "context": "rn. According to the Inclusive Internet Index 2022, Malaysia ranks 1st on Readiness globally, with 72% of Malaysians express trust in government websites and applications. This achievement is the resu",
+          "value": 72.0,
+          "unit": "%"
+        },
+        {
+          "stat": "2.5% GERD per GDP by",
+          "context": "tional Policy on Science, Technology and Innovation (NPSTI) 2021–2030 has set ambitious targets of 2.5% GERD per GDP by 2025 and 3.5% by 2030. Achieving these targets may be challenging due to economi",
+          "value": 2.5,
+          "unit": "%"
+        },
+        {
+          "stat": "3.5% by",
+          "context": "nology and Innovation (NPSTI) 2021–2030 has set ambitious targets of 2.5% GERD per GDP by 2025 and 3.5% by 2030. Achieving these targets may be challenging due to economic disruptions caused by the re",
+          "value": 3.5,
+          "unit": "%"
+        },
+        {
+          "stat": "100% of primary schools in Malaysia \nh",
+          "context": "cess for Primary School, UNESCO In the absence of specific data, alternative estimates suggest that 100% of primary schools in Malaysia have internet access for pedagogical purposes. This estimate is ",
+          "value": 100.0,
+          "unit": "%"
+        },
+        {
+          "stat": "95% of primary school in Malaysia are",
+          "context": "with access to computers for teaching and learning, alternative data estimates that approximately 95% of primary school in Malaysia are equipped with computers as sourced from the Malaysia SDG Index (",
+          "value": 95.0,
+          "unit": "%"
+        },
+        {
+          "stat": "25% of Malaysia",
+          "context": "erative AI could unlock approximately USD 113.4 billion in productive capacity, representing about 25% of Malaysia’s GDP in 2022. AI Technology Companies As of October 2024, Malaysia hosts 284 AI comp",
+          "value": 25.0,
+          "unit": "%"
+        },
+        {
+          "stat": "30% output increase across \nall se",
+          "context": "s, driven by initiatives like the National Industrial Revolution 4.0 (4IR) Policy, which targets a 30% output increase across all sectors by 2030. While specific adoption rates by sector are not readi",
+          "value": 30.0,
+          "unit": "%"
+        },
+        {
+          "stat": "60% of Malaysia",
+          "context": "sectors as describes in Figure 23, which are expected to contribute approximately RM933 billion or 60% of Malaysia’s GDP by 2030. Collectively, these sectors employ around 3.5 million workers, includi",
+          "value": 60.0,
+          "unit": "%"
+        },
+        {
+          "stat": "USD 114 million",
+          "context": "RD) on AI-related funding, according to the Malaysian Ministry of Finance (MoF), the allocation of USD 114 million in 2024 illustrates Malaysia’s commitment to advancing AI in alignment with broader R",
+          "value": 114000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 141 million",
+          "context": "a key player in AI innovation. For example, the government allocated RM600 million (approximately USD 141 million) for education and R&D, which includes AI initiatives. In addition, the government all",
+          "value": 141000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD \n2.35 million",
+          "context": "cation and R&D, which includes AI initiatives. In addition, the government allocated RM10 million (USD 2.35 million) in the 2025 Budget for the establishment of the National AI Office (NAIO), with the",
+          "value": 2350000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 11.75 million",
+          "context": "l of positioning Malaysia as a regional AI leader. Another significant investment of RM50 million (USD 11.75 million) has been designated to expand AI-related education across Malaysia’s research univ",
+          "value": 11750000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 125 million",
+          "context": "g to the Malaysian Ministry of Finance (MoF) in the Malaysia Budget 2025, the government allocated USD 125 million. The amount allocated to MOSTI for AI governance was RM 285 million; and for NAIO und",
+          "value": 125000000.0,
+          "unit": "USD"
+        },
+        {
+          "stat": "USD 14.3 billion",
+          "context": "Ministry of Digital is RM 10 million; for community engagement is RM 5 million and RM64.1 billion (USD 14.3 billion) for education and research initiatives. Research Output As of 2024, there are curre",
+          "value": 14300000000.0,
+          "unit": "USD"
+        }
+      ]
+    },
+    "technological_infrastructural": {
+      "title": "Technological and Infrastructural",
+      "findings": [],
+      "strengths": [],
+      "gaps": [],
+      "key_stats": []
+    }
+  },
+  "achievements": [
+    {
+      "achievement": "With support from Universiti Teknologi Malaysia (UTM), MOSTI developed the National Guidelines on AI Governance and Ethics (AIGE), launched in September 2024.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Continuous performance and ethical evaluations should be implemented through KPIs and other metrics.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Similarly, the Ministry of Human Resources has implemented its use of AI in administrative tasks, such as processing grant approvals for training programs (Sinar Harian, 1 October 2024).",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The government has established the National AI Office (NAIO) under the Ministry of Digital to implement and coordinate all matters related to AI governance and ethics.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "All 22 AI Strategy initiatives have been implemented and monitored by MOSTI to ensure that their objectives are met.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "The Malaysian government has introduced and implemented an e-procurement system, called e-perolehan.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Table 5: AI Development and Adoption AI Development & Adoption Initiatives and Purpose MySejahtera: Public Health Digital Gateway • Deployed during COVID-19 for nationwide pandemic management.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "• Rapid, non-invasive, and deployed during pandemic surges.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "There are few relevant Acts and policies been introduced and implemented to ensure the preservation of cultural heritage in Malaysia, namely The National Heritage act 2005 and The National Landscape Policy.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "In 2019, MOE established a digital learning platform as DELIMa, which was fully operationalized in 2020.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "To ensure educators remain relevant and update with emerging technologies particularly AI, the Ministry of Higher Education (MOHE) has implemented continuous development and a training program for TVET (polytechnic and community college lecturers).",
+      "dimension": "scientific_educational"
+    },
+    {
+      "achievement": "The ministry is cooperating with other relevant ministries and agencies to ensure that the AI Roadmap is implemented effectively as illustrated in Figure 18 below and simultaneously spearheads national efforts on ethical AI adoption aligned with UNESCO AI Ethics Principles.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "These centres are hubs in which advanced AI technologies are developed, tested, and implemented to improve efficiency, sustainability, and competitiveness in their own sectors, for example, Petronas in Energy Sector and YTL Power in Data Centre Sectors.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "WISE AI specializes in facial recognition technology and digital identity verification services.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "From an Islamic perspective, the governance and innovation of AI must prioritize ethics, transparency, and accountability, which align closely with globally recognized Responsible AI principles.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": "Prohibition of Harassment or Intrusion: AI applications like facial recognition or surveillance must not infringe on individuals’ privacy unless explicitly justified under Islamic legal principles.",
+      "dimension": "legal_regulatory"
+    },
+    {
+      "achievement": "Many AI applications are built on global datasets and models that do not reflect Malaysia’s diverse socio-cultural context, resulting in tools that lack relevance, usability, and acceptance, particularly among rural and indigenous communities.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Recognised Ownership and IP Rights for Locally Developed AI Content Ethical alignment remains a key challenge for AI in Malaysia, as international standards often fail to reflect the country’s unique cultural and religious values.",
+      "dimension": "social_cultural"
+    },
+    {
+      "achievement": "Many AI professionals gain recognition globally, but there’s no structured mechanism to retain or reconnect their expertise with Malaysia’s growth, creating a “brain drain” that weakens the country’s competitive edge in AI development.",
+      "dimension": "overall"
+    },
+    {
+      "achievement": " Normalize continuous professional development through accessible micro- credential programs and Industry-recognized certifications, focusing on AI- specific competencies and soft skills such as teamwork and creativity.",
+      "dimension": "overall"
+    }
+  ],
+  "key_numbers": [
+    {
+      "label": "AI Companies",
+      "value": 284,
+      "unit": "count",
+      "dimension": "economic"
+    }
+  ],
+  "executive_summary": "Table of Contents\nForeword  \nAbbreviations and Acronyms\nEXECUTIVE SUMMARY \nArtificial Intelligence (AI) Readiness in Malaysia: A Strategic Path Forward\nDiagnosis of the National AI Landscape\nDeveloping a Multi-Stakeholder Roadmap\nStakeholder Concerns and Expectations\nRecommendations for an AI-Integrated Innovation Ecosystem\ni\niii\nviii \nviii\nix\nx\nx\nxi\nPART 1: DIAGNOSIS OF THE NATIONAL AI LANDSCAPE\n1.\t GENERAL QUESTIONS      \nAI Structure and Challenges \n  \n2.\t LEGAL DIMENSION                          \n       2.1  AI Policy and Regulation\n       2.2  Data Protection and Privacy Laws\n       2.3  Data Sharing and Accessibility\n       2.4  Procurement Laws and Policies\n       2.5  Freedom of Information Acts/Access to Knowledge Acts\n       2.6  Due Process and Accountability\n       2.7  Online Safety and Integrity of Speech\n       2.8  Public Sector Capacity\n3.\t SOCIAL AND CULTURAL DIMENSION                                                                            \n       3.1  Diversity, Inclusion and Equality\n       3.2  Public Engagement and Trust\n       3.3  Environmental and Sustainability Policies\n       3.4  Health and Social Well-Being\n       3.5 Culture\n4.\t SCIENTIFIC AND EDUCATIONAL DIMENSION                              \n      4.1  Research and Innovation  \n      4.2  Education\n5.\t ECONOMIC DIMENSION                                                                                                        \n5.1  Contribution of AI to the Economy\n      5.2  Labour Markets\n      5.3  Intermediate Consumption\n      5.4  Investments and Output\n6.\t TECHNICAL AND INFRASTRUCTURAL DIMENSION                        \n       6.1  Infrastructure and Connectivity\n       6.2  Applied Standards\n       6.3  Computing Capabilities\n       6.4  Statistical Performance\n1\n1\n4\n4\n6\n7\n9\n10\n11\n13\n14\n18\n18\n19\n20\n21\n23\n25\n25\n27\n33\n33\n34\n34\n35\n36\n36\n36\n37\n38\n\nPART 2: DEVELOPING A NATIONAL MULTI-STAKEHOLDER ROADMAP                   \n1.\t STRATEGIC STAKEHOLDERS’ ENGAGEMENT                                 \n Government\n        Industries\n        Academia\n        Society \n2.\t MINISTRY AND AGENCIES ROLES IN SUPPORTING AI GOVERNANCE               \n3.\t MAPPING STAKEHOLDER CONCERNS AND EXPECTATIONS                                       \n       Stakeholder Concerns on AI Development and Adoption\n       Stakeholder Expectations and Aspirations for AI Governance\n4.   PHASES OF AI GOVERNANCE DEVELOPMENT\n       Legal & Regulatory \n       Socio-Cultural\n       Education & Capacity Building\n       Economy\n       Technology & Infrastructure   \nPART 3: POLICY RECOMMENDATIONS\nMAIN POLICY RECOMMENDATION \n                                                                                                                                           \nWAY FORWARD\nACKNOWLEDGEMENT OF PARTICIPATION                                                                                     \n  \nAPPENDIX \n       Appendix 1: Letter of Validation Session                                                                                      \nREFERENCES                                                                                                                                            \n     \n40\n40\n40\n40\n40\n41\n43\n60\n60\n68\n73\n72\n72\n72\n72\n72\n73\n73\n82\n83\n85\n85\n88\n\ni\nForeword\nThe rapid rise of artificial intelligence (AI) holds immense \npromise for advancing societies, yet it also poses profound \nethical and social challenges. Left ungoverned, AI risks \ndeepening inequalities, eroding privacy, and undermining \nthe very rights that define our shared humanity. In this \npivotal moment, UNESCO’s Recommendation on the \nEthics of Artificial Intelligence unanimously adopted \nby all 193 Member States in 2021 stands as a global \ncompass, guiding nations to harness AI’s potential while \nsafeguarding human dignity, equity, and sustainability. \nMalaysia has emerged as a regional leader in answering \nthis call. Through its steadfast commitment to ethical AI governance, the country exemplifies \nhow innovation can coexist with inclusivity. Central to this effort is Malaysia’s proactive \nembrace of UNESCO’s Readiness Assessment Methodology (RAM), a participatory tool that \nempowers nations to diagnose strengths, address gaps, and chart pathways for responsible \nAI. \nRAM goes beyond a prescriptive checklist; it is a country-led consultative process designed \nto identify institutional strengths, regulatory gaps, and policy opportunities. It offers context \nspecific, evidence-based guidance across five key dimensions: legal and policy frameworks; \ndata and digital infrastructure governance; education and research ecosystems; economic \nand labour market capacity; and societal inclusion and awareness. The RAM process \nin Malaysia reflects a pioneering vision. Over 300 stakeholders from 28 government \nministries and agencies, 9 higher education institutions, 9 key industries, and 10 relevant \nassociations participated in vibrant consultations. Government agencies underscored the \nurgency of strengthening ",
+  "recommendations": [
+    {
+      "number": 74,
+      "title": " Establishing a national data-sharing framework is key to ensuring a secure and transparent system for cross-sector data sharing, backed by initiatives aimed at improving data quality, documentation,",
+      "text": " Establishing a national data-sharing framework is key to ensuring a secure and transparent system for cross-sector data sharing, backed by initiatives aimed at improving data quality, documentation, and accessibility.  Building a collaborative data ecosystem requires partnerships among government, academia, and industry to create sector-specific datasets and standards for data usage. Developing AI Policy and Strategy  Existing legislation and policies should be reviewed and updated to incorporate AI-enabled strategies and to ensure active community involvement in the policymaking process. Balancing regulation and innovation is key to fostering a thriving AI ecosystem. Policies should prioritize responsible AI development while establishing safeguards to mitigate potential risks such as bias, misuse, and security breaches.  Due to the rapid pace of AI advancements, AI-related regulations must undergo regular reviews and updates. This dynamic approach will enable Malaysia to adapt to emerging challenges and technological developments, ensuring that the AI governance framework remains relevant and effective.  A Shariah-compliant AI oversight body should be established to manage AI governance from an Islamic perspective. This body will ensure compliance with Shariah principles while promoting innovation within an ethical framework. Inculcating Open Science and Data Sharing within Government and Companies  To inculcate open science and data sharing within government and corporate sectors, a multi-faceted approach is essential to address existing challenges and unlock the full potential of data-driven innovation. Establish standardized protocols and policies for data sharing. Clear guidelines should define data ownership, usage rights, and privacy protection measures to foster trust and reduce uncertainty among stakeholders.  Establishing an adaptive data governance framework is critical, incorporating clear policies on data ownership, intellectual property, and p",
+      "dimension": "Regulation & Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 75,
+      "title": " Fostering a culture that values transparency, ethical data sharing, and public engagement will lay the foundation for a dynamic, data-powered future where collaboration fuels scientific and societal",
+      "text": " Fostering a culture that values transparency, ethical data sharing, and public engagement will lay the foundation for a dynamic, data-powered future where collaboration fuels scientific and societal advancements. Operationalizing Responsible AI for Compliance Purposes  A key recommendation is to develop clear guidelines and standards that outline the ethical use of AI technologies. This ensures that all stakeholders understand their responsibilities in maintaining compliance. It also involves establishing data governance frameworks that prioritize data privacy and security, thereby fostering trust among users and regulators.  Organizations should invest in training and awareness programs for employees to cultivate a culture of responsibility toward AI usage. By equipping staff with knowledge on ethical AI practices and compliance requirements, organizations can better mitigate risks related to bias, discrimination, and misuse of AI systems. Regular audits and assessments should be conducted to evaluate AI system compliance with established guidelines, enabling timely identification and resolution of issues.  An AI assessment team should be established to evaluate AI vulnerabilities in accountability, transparency, algorithmic bias, and privacy. This team may also conduct pre-compliance assessments for AI-related products intended for export.  Collaboration among stakeholders such as regulators, industry leaders, and civil society is essential to building a comprehensive understanding of responsible AI practices. This collaborative approach supports the sharing of best practices, addresses emerging challenges, and ensures that compliance frameworks stay relevant amidst rapid technological advancement. Media Reform to Enhance Public Trust and Well-Being  The relevant ministry should prioritize media reform to support inclusive and responsible AI adoption while enhancing trust, economic resilience, and citizen well-being. Policymakers must ensure public particip",
+      "dimension": "Regulation & Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 76,
+      "title": "Leveraging AI for the Preservation of Cultural Heritage  The development of a national AI strategy for cultural heritage should involve the relevant ministries, including the Ministry of Tourism, Art",
+      "text": "Leveraging AI for the Preservation of Cultural Heritage  The development of a national AI strategy for cultural heritage should involve the relevant ministries, including the Ministry of Tourism, Arts and Culture and MOSTI. These ministries should collaborate with cultural and research institutions to incorporate AI strategies focused on documenting, restoring, and preserving both tangible and intangible cultural heritage.  Ethical guidelines should be established to ensure the respectful, inclusive, and non-exploitative use of AI technologies in preserving diverse cultural traditions and indigenous knowledge. These guidelines must align with national values and global standards.  Stakeholders such as historians, anthropologists, technologists, local communities, and policymakers should work together through collaborative platforms to co-develop AI applications that are culturally sensitive and contextually appropriate.  Dedicated funding should be allocated to universities, research institutions, and innovation hubs to explore AI applications in areas like 3D digitization, language preservation, and historical data analysis. These efforts should also include capacity-building programs to train both cultural workers and technologists.  Partnerships between government, AI startups, and creative industries should be encouraged to develop AI tools for cultural storytelling, museum curation, and the digital archiving of heritage sites.  Support should be given to the collection and annotation of culturally diverse datasets to train AI systems that reflect Malaysia’s multi-ethnic heritage, languages, and traditions accurately. Fostering AI Local Content Ownership (IP)  Guidelines should be developed on intellectual property rights for AI, covering AI- generated works, datasets, and ownership issues such as patents, copyrights, and other forms of IP.  Localized content development and dataset creation should be promoted, especially in Malay language and indigenous",
+      "dimension": "Regulation & Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 77,
+      "title": "CAPABILITY BUILDING & TALENT DEVELOPMENT Increasing Awareness of AI Ethics and Responsible AI  To increase awareness of AI ethics and responsible AI, it is essential to formulate comprehensive ethica",
+      "text": "CAPABILITY BUILDING & TALENT DEVELOPMENT Increasing Awareness of AI Ethics and Responsible AI  To increase awareness of AI ethics and responsible AI, it is essential to formulate comprehensive ethical frameworks for AI development and implementation, incorporating Malaysia’s cultural, linguistic, and Islamic principles to ensure responsible and inclusive AI deployment. Introduce mechanisms for public accountability in AI applications, ensuring that decisions made by AI systems are explainable, fair, and transparent.  It is also important to engage scholars to guide AI system designs that align with ethical and religious standards, ensuring inclusivity in governance frameworks.  Efforts should ensure that AI systems prioritize human well-being, with oversight mechanisms integrated into AI processes.  To educate stakeholders about the applications and benefits of AI, targeted awareness campaigns should be launched, with a particular focus on sectors like culture, heritage, and conservation. Programs should highlight AI’s potential to enhance transparency and reduce corruption, as well as its ethical implications, including Islamic perspectives.  AI ethics should also be embedded into school and university curricula to promote responsible adoption and safe data practices. Teacher training modules should include AI-powered tools and digital literacy to prepare educators for the future of AI-integrated classrooms. Aligning AI Curriculum with Innovation and Market Relevance  Encourage partnerships between academia and industry through collaborative R&D initiatives. These partnerships should be supported by matching funds for joint research, curriculum development, and commercialization efforts.  Establishing a collaborative hub in the form of an AI Centre of Excellence can further drive innovation and strengthen partnerships between academia, industry, and government. This initiative will ensure effective knowledge transfer and better alignment of national prioriti",
+      "dimension": "Regulation & Institutional Framework",
+      "start_page": 0
+    },
+    {
+      "number": 78,
+      "title": " In addressing faculty shortages, qualified AI faculty should be recruited, and professionals from industry should be incentivized to contribute to academic programs.",
+      "text": " In addressing faculty shortages, qualified AI faculty should be recruited, and professionals from industry should be incentivized to contribute to academic programs. This will help balance the student-to-faculty ratio and enhance the quality of education.  Enhancing AI education and training will prepare future professionals to meet upcoming challenges. By embedding ethical and responsible AI practices into curricula, graduates will be better prepared to navigate the complexities of AI technologies. At the same time, they will contribute to sustainable development and global leadership in the field. Through these initiatives, Malaysia’s academic ecosystem is paving the way for the next generation of AI talent, helping to drive the country toward a future of innovation and global AI excellence.  Establishing a Standardised AI Curriculum Framework for All TVET Institutions to Meet Industry Needs and Align with Global Trends  Establish a national AI-TVET curriculum framework across all institutions. This should be achieved through collaboration between the Ministry of Education (MOE), Ministry of Higher Education (MOHE), industry players, and AI experts. The framework must include both foundational theory and applied skills relevant to various sectors.  The AI curriculum should also be aligned with Industry 4.0 requirements and global skill standards to ensure that the content reflects the evolving demands of AI-related occupations. This includes the integration of international best practices.  Co-develop industry-taught AI certification programs with relevant partners, where professionals deliver hands-on training. This approach will help bridge the gap between academic learning and real-world market needs.  To ensure ongoing relevance and impact, graduate outcomes should be continuously monitored and evaluated. This involves tracking the employability and performance of AI-TVET graduates in the job market and using that data to refine the curriculum periodic",
+      "dimension": "Capability Building & Talent Development",
+      "start_page": 0
+    },
+    {
+      "number": 79,
+      "title": "Producing Certified Professional Trainers  Establish a structured framework that emphasizes both theoretical knowledge and practical skills.",
+      "text": "Producing Certified Professional Trainers  Establish a structured framework that emphasizes both theoretical knowledge and practical skills. One key recommendation is to develop a comprehensive certification program that outlines the necessary competencies and skills trainers must possess. This program should incorporate industry standards and best practices, ensuring that trainers are well-equipped to deliver high- quality education and training in AI technologies.  Collaboration with educational institutions, industry experts, and professional organizations is crucial for creating relevant training curricula that reflect current trends and demands in the AI landscape. By engaging a diverse range of stakeholders, the certification process can be enriched with real-world insights and case studies, enhancing the learning experience for both trainers and trainees.  Ongoing professional development opportunities should be made available to certified trainers to ensure they remain updated on the latest advancements in AI. Workshops, seminars, and online courses can provide continuous learning avenues, fostering an environment of lifelong learning and adaptation to new technologies. By implementing these recommendations, organizations can cultivate a network of certified professional trainers who are not only knowledgeable but also capable of effectively educating others in the rapidly evolving field of AI. Introducing AI Systematic Support System for Talent Mobility  Incentivize industry experts to join academia as adjunct faculty or guest lecturers, ensuring curricula remain aligned with evolving industry requirements.  Facilitate partnerships between academic institutions and industry to develop industry-focused training programs. Initiatives like internships, mentorships, and real-world projects can enhance hands-on learning and bridge skill gaps. Creating AI Skill Workforce Readiness and Skill Matching  Align resources across government, academia, industry, an",
+      "dimension": "Capability Building & Talent Development",
+      "start_page": 0
+    },
+    {
+      "number": 80,
+      "title": " Provide teachers with comprehensive training on integrating AI tools into their teaching practices, including modules on digital literacy and AI ethics.",
+      "text": " Provide teachers with comprehensive training on integrating AI tools into their teaching practices, including modules on digital literacy and AI ethics. Aligning AI-TVET with Talent Retention and Competitive Remuneration Policy  Provide financial incentives to companies that hire and retain AI-skilled graduates from accredited TVET institutions with competitive salaries and upskilling plans.  Establish a standardized framework to help employers determine salary bands and career progression paths for AI-related TVET roles based on skills, certification, and performance.  Roll out initiatives for Women to encourage gender equity in AI fields and introduce flexible working arrangements to attract and retain diverse talent. INFRASTRUCTURE AND INNOVATION Enhancing AI Infrastructure to Strengthen Connectivity  Expand connectivity and improve device-to-student ratios in underserved schools to enable meaningful AI education. Rural and special-needs communities should receive targeted support to ensure inclusivity.  Establish a national platform for resource sharing, research coordination, and AI education to facilitate collaboration between academic institutions and industry.  Establish shared AI development infrastructure accessible to research institutions and industry.  Set up an open-source AI community to encourage local content-based research and development. Establishing an Incentive Fund to Accelerate AI Adoption Among SMEs  Introduce an incentive fund specifically designed for these businesses. This fund should provide financial support to SMEs that integrate AI technologies into their operations, helping to offset the costs associated with implementation and training. By reducing the financial burden, the incentive fund can stimulate greater interest in AI adoption, enabling SMEs to enhance their competitiveness and innovation capabilities.  Develop a clear framework outlining eligibility criteria and application processes to ensure transparency and acc",
+      "dimension": "Capability Building & Talent Development",
+      "start_page": 0
+    },
+    {
+      "number": 81,
+      "title": " Regular evaluations of the incentive fund’s effectiveness should be conducted to assess its impact on SME growth and AI integration.",
+      "text": " Regular evaluations of the incentive fund’s effectiveness should be conducted to assess its impact on SME growth and AI integration. This data-driven approach will enable policymakers to refine the fund’s structure and ensure that it meets the evolving needs of SMEs. Advancing Green and Sustainable Infrastructure in Data Centre Development  Invest in high-performance computing facilities, data centres, and connectivity infrastructure while addressing environmental concerns like e-waste management.  Implement responsible energy and resource management strategies to address environmental impacts, such as carbon emissions and energy consumption from AI infrastructure.",
+      "dimension": "Infrastructure And Innovation",
+      "start_page": 0
+    },
+    {
+      "number": 82,
+      "title": "WAY FORWARD Malaysia is strategically advancing its position to harness Artificial Intelligence (AI) as a transformative driver of national development.",
+      "text": "WAY FORWARD Malaysia is strategically advancing its position to harness Artificial Intelligence (AI) as a transformative driver of national development. With a clear vision to evolve into a high- income, innovation-driven digital economy, the government has adopted a comprehensive and ethical approach to AI through the National AI Roadmap (AI-RMap) 2021–2025. Aligned with UNESCO’s Recommendation on the Ethics of AI, the roadmap integrates key national strategies including the Malaysia Digital Economy Blueprint, DSTIN 2021–2030, and the 10- 10 MySTIE Framework. Moving forward, the successful implementation of Malaysia’s AI agenda will hinge on reinforcing the principles of Responsible AI, fairness, safety, privacy, inclusiveness, transparency, accountability, and human-centricity as articulated in the National Guidelines on AI Governance and Ethics (AIGE). These voluntary guidelines should evolve into enforceable standards, ensuring ethical AI adoption across sectors. Institutionally, the establishment of the National AI Office (NAIO) in December 2024 provides the governance structure needed to transition Malaysia from an AI user to a competitive AI innovator. NAIO must strengthen coordination among government, industry, academia, and civil society to scale responsible AI solutions nationwide. To achieve this, Malaysia must focus on five critical areas: 1. Regulatory and Ethical Strengthening: Update existing legislation, develop sector-specific policies, and implement robust compliance mechanisms to ensure AI systems align with national values and international ethical standards. 2. Capability Building & Talent Development: Expand digital and AI literacy across the public sector, establish dedicated AI governance roles, and grow localized datasets that reflect Malaysia’s unique social and cultural contexts. Investments in AI-focused TVET, micro-credentials, and inclusive education must continue to bridge workforce gaps. 3. Infrastructure and Innovation Hubs: Leverag",
+      "dimension": "Infrastructure And Innovation",
+      "start_page": 0
+    },
+    {
+      "number": 83,
+      "title": "In charting the path forward, Malaysia must continue aligning strategic investment with inclusive governance.",
+      "text": "In charting the path forward, Malaysia must continue aligning strategic investment with inclusive governance. The collective expectations of stakeholders enhanced public services, innovation-friendly regulation, research access, and digital inclusion must inform policy directions. With sustained commitment, Malaysia is well-positioned to lead the region in responsible, ethical, and inclusive AI development ensuring that AI serves all Malaysians, equitably and sustainably.",
+      "dimension": "Way Forward",
+      "start_page": 0
+    },
+    {
+      "number": 84,
+      "title": "ACKNOWLEDGEMENT OF PARTICIPATION AI Multi- Stakeholders Engagement Through a Series of Interviews and Roundtables Government Academy of Sciences Malaysia CyberSecurity Malaysia Department of Islamic D",
+      "text": "ACKNOWLEDGEMENT OF PARTICIPATION AI Multi- Stakeholders Engagement Through a Series of Interviews and Roundtables Government Academy of Sciences Malaysia CyberSecurity Malaysia Department of Islamic Development Malaysia Department of Standards Malaysia Department of Statistics Malaysia Human Resources Development Cooperation Institut Kefahaman Islam Malaysia Ministry of Communication Malaysia Productivity Corporation Ministry of Digital Malaysia Digital Economy Corporation MyDigital Corporation Ministry of Education Ministry of Health Ministry of Higher Education Ministry of Human Resources Ministry of Investment, Trade and Industry Ministry of Science, Technology and Innovation MRANTI National AI Office National Digital Department Personal Data Protection Department Talent Corporation Malaysia Berhad The Malaysian National Commission for UNESCO (MNCU) Small and Medium Enterprises Cooperation (SMEs Corp) Smart Selangor Delivery Unit (SSDU) SIRIM Berhad Sarawak Economic Development Corporation (SDEC) Industry Datalytica Sdn Bhd Johor Corporation Bhd Microsoft (Malaysia) Sdn Bhd Pandai Petroliam Nasional Berhad (PETRONAS) Phison TIME.dotCom Berhad WISE AI YTL Corporation Berhad",
+      "dimension": "Way Forward",
+      "start_page": 0
+    },
+    {
+      "number": 85,
+      "title": "High Education & Research Institutions Asia Pacific University (APU) Khazanah Research Institute Perdana University Sunway University Taylor’s University Universiti Kebangsaan Malaysia (UKM) Universit",
+      "text": "High Education & Research Institutions Asia Pacific University (APU) Khazanah Research Institute Perdana University Sunway University Taylor’s University Universiti Kebangsaan Malaysia (UKM) University Malaya (UM) Universiti Teknologi Malaysia (UTM) Universiti Teknologi MARA (UiTM) Association Associated Chinese Chambers of Commerce and Industry of Malaysia (ACCCIM) Center of Independent Journalism Malaysia Federation of Malaysian Consumers Associations (FOMCA) Federation of Malaysian Manufacturers (FMM International Telecommunication Union (ITU) Malaysia Industry Forward Association (MIFA) Malaysia UNCT National Tech Association of Malaysia (PIKOM) Women Entrepreneurship Network Association (WENA) Women in AI Malaysia (WIA) Young Scientist Network-Academy Science Malaysia (YSM-ASM)",
+      "dimension": "Wise Ai",
+      "start_page": 0
+    },
+    {
+      "number": 86,
+      "title": "APPENDIX Appendix 1: Letter of Validation Session",
+      "text": "APPENDIX Appendix 1: Letter of Validation Session",
+      "dimension": "Wise Ai",
+      "start_page": 0
+    },
+    {
+      "number": 87,
+      "title": "88 89",
+      "text": "88 89",
+      "dimension": "Appendix",
+      "start_page": 0
+    }
+  ],
+  "recommendation_count": 14,
+  "page_count": 110,
+  "rankings_indices": [
+    {
+      "context": "3.1 Diversity, Inclusion and Equality Figure 7: Diversity, inclusion and equality ### Page 37 19 3.2 Public engagement and trust Malaysia’s Online Service Index (OSI) score of 0.73, as assessed by the United Nations E-Government Knowledgebase, underlines the country’s steady progress in digitizing public services.",
+      "index_name": "Online Service Index",
+      "score": 0.73
+    },
+    {
+      "context": "The E-Participation Index score of 53 further emphasizes Malaysia’s moderate progress in leveraging digital platforms to facilitate citizen engagement.",
+      "index_name": "E-Participation Index",
+      "score": 53.0
+    },
+    {
+      "context": "According to the Inclusive Internet Index 2022, Malaysia ranks 1st on Readiness globally, with 72% of Malaysians express trust in government websites and applications.",
+      "index_name": "Inclusive Internet Index",
+      "rank": 1,
+      "year": 2022
+    }
+  ]
+}
